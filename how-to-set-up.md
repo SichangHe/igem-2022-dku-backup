@@ -22,10 +22,13 @@
 - mess with other settings as you like :D
 
 ## set up ssh between your computer and GitLab
-- open https://gitlab.oit.duke.edu/-/profile/keys
+- open https://gitlab.oit.duke.edu/-/profile/keys, we will use it later
 - log in with your net id if asked to
+- finish one of the following depending on your situation, and then finish the **… and then** part
+
 ### if you already generated a ssh key
 - just copy that one
+- if you are not sure, generated ssh keys are usually in `.ssh/id_rsa.pub` under your user folder
 - if you have no idea, probably you did not do this
 
 ### macOS
@@ -37,24 +40,7 @@ pbcopy < ~/.ssh/id_rsa.pub
 ### Windows
 - go to https://phoenixnap.com/kb/generate-ssh-key-windows-10
 - follow the guide to finish `Step 1` and `Step 2`
-- if you want to, continue following the guide, or I suggest you follow mine here
-- press the "windows key" and type in `cmd`, choose run as administrator
-- a black command prompt should pop up
-- type in `cd `
-- open file explorer
-- navigate to your `document` folder
-- drag whatever that says `document` to the black command prompt window
-- click the command prompt and press `enter`
-- paste in
-```cmd
-cd ..
-ssh-keygen
-```
-- press a bunch of `enter`s
-- paste in
-```cmd
-clip < .ssh\id_rsa.pub
-```
+- copy the ssh key
 
 ### … and then
 - go back to the browser page and paste it in the biggest box which says `Typically starts with…`
@@ -74,5 +60,5 @@ you need to install `git bash`
 ## what then?
 - you should see a folder named `igem-2022-dku` in vs code. open a new vs code window and open this folder, with this folder you can synchronize files with GitLab
 - remember, everyone has a copy of this repository on their computer, so store large files like videos elsewhere and leave a link to refer to them
-- actually we have another repository https://gitlab.oit.duke.edu/sh623/igem-2022-dku-big-files/-/tree/main/
-and we use it as a drive. just go to the repository and click the "+" to upload files one by one
+- actually we have another repository https://gitlab.oit.duke.edu/sh623/igem-2022-dku-big-files
+and we use it as a Drive to store big files. just go to the repository and click the "+" to upload files one by one, or navigate to the file or folder you want to download and click the "download" icon to download
