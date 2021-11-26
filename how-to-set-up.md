@@ -71,3 +71,8 @@ you need to install `git bash`
 - open a new terminal in vs code (if you don't know how to do it, just google)
 - click the terminal, and right click and paste in `git clone git@gitlab.oit.duke.edu:sh623/igem-2022-dku.git`
 
+## what then?
+- you should see a folder named `igem-2022-dku` in vs code. open a new vs code window and open this folder, with this folder you can synchronize files with GitLab
+- remember, everyone has a copy of this repository on their computer, so store large files like videos elsewhere and leave a link to refer to them
+- actually we have another repository https://gitlab.oit.duke.edu/sh623/igem-2022-dku-big-files/-/tree/main/
+and we use it as a drive. just go to the repository and click the "+" to upload files one by one
