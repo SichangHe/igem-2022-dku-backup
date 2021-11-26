@@ -6,11 +6,11 @@ a program that helps you do version control
 #### version control
 record and see all changes to a project, and its different branches. show the difference between any versions
 #### branches
-different series of versions that can exist at the same time, so the versions of the project is like a tree, starting from the main branch which is called "master"
+different series of versions that can exist at the same time, so the versions of the project is like a tree, starting from the main branch which is called "main"
 #### branching
-making branches, so that the "master branch" does not change when the new branches are changed in case something wrong happens
+making branches, so that the "main branch" does not change when the new branches are changed in case something wrong happens
 #### merge
-take 2 different versions (usually 1 from the master branch and 1 from another branch) and return 1 version of the project
+take 2 different versions (usually 1 from the main branch and 1 from another branch) and return 1 version of the project
 ## action
 #### git clone
 download the git repository
@@ -37,4 +37,7 @@ but also notice that "push" will replace whatever was there in the online git re
 #### git branch
 you can access branching in vs code by clicking the "…"
 ![git branch](getting-started-with-git-picture/branch.png)
-if you are not sure whether your changes will work, please always create a new branch and edit that branch, and push that branch when you finish, and then merge your branch with the master branch if it works
+
+you can also enable the Branches tab and edit the branches there![Branches tab in vs code](getting-started-with-git-picture/enable-branches.png)
+
+if you are not sure whether your changes will work, please always create a new branch and edit that branch, and push that branch when you finish, and then merge your branch with the main branch if it works
