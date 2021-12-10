@@ -1,3 +1,5 @@
+***If you see any terms in this document you do not know, please just search for it first and learn it yourself***
+
 ## install stuff
 - install vs code
 - open it
