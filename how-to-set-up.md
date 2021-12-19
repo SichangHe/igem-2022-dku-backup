@@ -1,4 +1,5 @@
-***If you see any terms in this document you do not know, please just search for it first and learn it yourself***
+***If you see any terms in this document you do not know, please just search for it first and learn it yourself***\
+***If you have problem doing this setup, please first try looking for resources online, or check whether it is mentioned in previous [issues](https://gitlab.oit.duke.edu/sh623/igem-2022-dku/-/issues?scope=all&state=all). If it is a real problem, go and create a new [issue](https://gitlab.oit.duke.edu/sh623/igem-2022-dku/-/issues/new?issue%5Bmilestone_id%5D=) so we can track these problems***
 
 ## install stuff
 - install vs code
@@ -62,5 +63,9 @@ you need to install `git bash`
 ## what then?
 - you should see a folder named `igem-2022-dku` in vs code. open a new vs code window and open this folder, with this folder you can synchronize files with GitLab
 - remember, everyone has a copy of this repository on their computer, so store large files like videos elsewhere and leave a link to refer to them
-- actually we have another repository https://gitlab.oit.duke.edu/sh623/igem-2022-dku-big-files
-and we use it as a Drive to store big files. just go to the repository and click the "+" to upload files one by one, or navigate to the file or folder you want to download and click the "download" icon to download
+- actually we have another repository https://gitlab.oit.duke.edu/sh623/igem-2022-dku-big-files\
+and we use it as a Drive to store big files. just go to the repository and click the "+" to upload files one by one, or navigate to the file or folder you want to download and click the "download" icon to download\
+for really big files such as videos, please store them in Drives or other places other than GitLab
+
+## extra
+check the [issues](https://gitlab.oit.duke.edu/sh623/igem-2022-dku/-/issues?scope=all&state=opened) and see whether you have some tasks to do
