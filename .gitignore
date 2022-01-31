@@ -1,0 +1,6 @@
+*
+!*.md
+!.vscode/
+!.vscode/*
+!*.png
+!.gitignore
