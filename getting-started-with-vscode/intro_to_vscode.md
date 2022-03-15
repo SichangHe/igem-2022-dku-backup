@@ -10,11 +10,12 @@ just a text editor
 see what you wrote before
 
 ## autocompletion
-built-in
+built-in\
 Tabnine
 
 ## recommended settings
 - accept suggestion on enter: off
+- Markdown-preview-enhanced: Break On Single New Line: off
 - add a shortcut for hideSuggest…
 
 ## recommended extensions
