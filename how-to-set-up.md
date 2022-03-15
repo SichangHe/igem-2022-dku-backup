@@ -12,8 +12,6 @@
 - install `Code Spell Checker`
 - go back to the search bar and type `git`
 - install `Git History` and `GitLens`
-- go back to the search bar and type `gitlab`
-- install `GitLab Workflow`
 - go back to the search bar and type `tab`
 - install `Tabnine`
 
