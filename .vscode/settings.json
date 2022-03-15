@@ -12,5 +12,48 @@
         "Szkodny",
         "Taron",
         "Tuckey"
-    ]
+    ],
+    "editor.acceptSuggestionOnEnter": "off",
+    "markdown-preview-enhanced.breakOnSingleNewLine": false,
+    "editor.formatOnSave": true,
+    "markdown.extension.list.indentationSize": "inherit",
+    "markdown.extension.orderedList.autoRenumber": false,
+    "markdown.extension.orderedList.marker": "one",
+    "markdown.extension.toc.downcaseLink": false,
+    "files.autoSave": "onFocusChange",
+    "markdownlint.run": "onSave",
+    "markdownlint.config": {
+        "default": true,
+        "heading-style": {
+            "style": "atx"
+        },
+        "ul-style": {
+            "style": "dash"
+        },
+        "ul-indent": {
+            "indent": 4
+        },
+        "line-length": true,
+        "ol-prefix": {
+            "style": "one"
+        },
+        "no-inline-html": false,
+        "hr-style": {
+            "style": "---"
+        },
+        "fenced-code-language": false,
+        "headings": false,
+        "code-block-style": {
+            "style": "fenced"
+        },
+        "code-fence-style": {
+            "style": "backtick"
+        },
+        "emphasis-style": {
+            "style": "asterisk"
+        },
+        "strong-style": {
+            "style": "asterisk"
+        }
+    }
 }
