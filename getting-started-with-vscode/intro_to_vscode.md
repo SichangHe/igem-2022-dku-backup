@@ -15,3 +15,7 @@ Tabnine
 
 ## recommended settings
 - accept suggestion on enter: off
+
+## recommended extensions
+- cspell
+- git…
