@@ -16,3 +16,7 @@ Tabnine
 ## recommended settings
 - accept suggestion on enter: off
 - add a shortcut for hideSuggest…
+
+## recommended extensions
+- cspell
+- git…
