@@ -39,3 +39,7 @@ You should see the Home page.
 
 If you edit and save any content files in `/src`,
 it would live reload with the newest content.
+
+### video if you have trouble reading
+[Using mdBook: convert Markdown into Book's Style Web pages](https://www.youtube.com/watch?v=BTgmyc9OLI4)
+by *Jerry's Software Channel*
