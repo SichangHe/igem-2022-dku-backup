@@ -1,0 +1,9 @@
+pages:
+    stage: deploy
+    script:
+        - wget https://gitlab.oit.duke.edu/sh623/mdbook-alpine-binary/-/raw/main/mdbook
+        - chmod +x ./mdbook
+        - ./mdbook build
+    artifacts:
+        paths:
+            - public
