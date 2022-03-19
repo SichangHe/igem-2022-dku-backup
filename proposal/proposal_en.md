@@ -1,13 +1,15 @@
 # Anticipated results from early modelings
-Our early modeling result indicated that the project is theoretically feasible. By using the theory of diffusion (Fick’s Diffusion Law) and parameters from literature review, we modeled the distribution of AMP that is directed to the pathogen by antibodies. For rough estimation, we hypothesize the geometry of probiotics can be simplified as tiny spherical particles with radius R (about $1μm$), and the diffusion of AMP in the gastrointestinal tract was modeled as spherically symmetric concentration profiles.
+Our early modeling result indicated that the project is theoretically feasible.
+By using the theory of diffusion (Fick’s Diffusion Law) and parameters from literature review, we modeled the distribution of AMP that is directed to the pathogen by antibodies. For rough estimation, we hypothesize the geometry of probiotics can be simplified as tiny spherical particles with radius R (about $1μm$), and the diffusion of AMP in the gastrointestinal tract was modeled as spherically symmetric concentration profiles.
 
 $$
-\Delta C=\frac{1}{r^2}\partial_r(r^2\partial_rC)\\\\
+\Delta C=\frac{1}{r^2}\partial_r(r^2\partial_rC)
 $$
 ($C$: concentration, $r$: the distance from the center of one probiotic sphere)
 Stationary situation was the focus, that is
 $$
-\Delta C=0\\\frac{1}{r^2}\frac{d}{dr}(r^2\frac{dc}{dr})=0
+\Delta C=0\\\\[8pt]
+\frac{1}{r^2}\frac{d}{dr}(r^2\frac{dc}{dr})=0
 $$
 Under boundary conditions: $c=c_0$ at $r=R$， $c=c_1$ far from the particle, the solution is
 $$
