@@ -43,3 +43,7 @@ it would live reload with the newest content.
 ### video if you have trouble reading
 [Using mdBook: convert Markdown into Book's Style Web pages](https://www.youtube.com/watch?v=BTgmyc9OLI4)
 by *Jerry's Software Channel*
+
+## view wiki preview on GitLab Pages
+
+The wiki can be previewed [here](https://sh623.pages.oit.duke.edu/igem-2022-dku)
