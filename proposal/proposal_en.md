@@ -1,5 +1,5 @@
 # Anticipated results from early modelings
-Our early modeling result indicated that the project is theoretically feasible. By using the theory of diffusion (Fick’s Diffusion Law) and parameters from literature review, we modeled the distribution of AMP that is directed to the pathogen by antibodies. For rough estimation, we hypothesize the geometry of probiotics can be simplified as tiny spherical particles with radius R (about 1μm), and the diffusion of AMP in the gastrointestinal tract was modeled as spherically symmetric concentration profiles.
+Our early modeling result indicated that the project is theoretically feasible. By using the theory of diffusion (Fick’s Diffusion Law) and parameters from literature review, we modeled the distribution of AMP that is directed to the pathogen by antibodies. For rough estimation, we hypothesize the geometry of probiotics can be simplified as tiny spherical particles with radius R (about $1μm$), and the diffusion of AMP in the gastrointestinal tract was modeled as spherically symmetric concentration profiles.
 
 $$
 \Delta C=\frac{1}{r^2}\partial_r(r^2\partial_rC)\\\\
