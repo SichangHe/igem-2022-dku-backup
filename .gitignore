@@ -1,0 +1,15 @@
+*
+!*.md
+!.vscode/
+!.vscode/*
+!*.png
+!.gitignore
+!sources
+!proposal
+!getting-started-with-vscode
+!src
+!.gitlab-ci.yml
+!book.toml
+!theme
+!theme/*
+!theme/*/*
