@@ -7,3 +7,6 @@ title = "DKU iGEM Team Wiki"
 
 [build]
 build-dir = "public"
+
+[output.html.print]
+enable = false
