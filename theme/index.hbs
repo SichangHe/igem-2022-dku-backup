@@ -40,7 +40,8 @@
         <!-- MathJax -->
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
         <script type="text/x-mathjax-config">
-            MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"]]} })
+            MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"]]} });
+            console.log("math config done");
         </script>
     </head>
     <body>
@@ -85,7 +86,9 @@
 
             // don't show body until MathJax finish
             setTimeout(() => {document.body.style.visibility="visible"}, 5000); // show the body anyway after 5 sec
+            console.log("start math render");
             MathJax.Hub.Queue(() => document.body.style.visibility="visible");
+            console.log("math render finished");
         </script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
