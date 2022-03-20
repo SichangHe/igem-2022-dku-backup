@@ -17,7 +17,7 @@ c=(c_0-c_1)\frac{R}{r}+c_1
 $$
 The model was built on the fact that transport phenomena could happen under the condition of stationary concentration. The AMP production rate $N$ is expressed by
 $$
-N=4\pi R^4D(\frac{dc}{dr})_R
+N=4\pi R^4D(\frac{dc}{dr})_{r=R}
 $$
 ($D$:diffusion coefficient)
 
