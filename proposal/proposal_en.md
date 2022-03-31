@@ -13,7 +13,7 @@ Khalilpour, A., M. Kazemzadeh-Narbat, A. Tamayol, R. Oklu, and A. Khademhosseini
 
 Nguyen, P.Q., L.R. Soenksen, N.M. Donghia, N.M. Angenent-Mari, H. de Puig, A. Huang, R. Lee, S. Slomovic, T. Galbersanini, G. Lansberry, H.M. Sallum, E.M. Zhao, J.B. Niemi, and J.J. Collins. 2021. Wearable materials with embedded synthetic biology sensors for biomolecule detection. Nature Biotechnology. 39:1366-1374.
 
-###2. Innovation feature
+###2. Innovative feature
 ####Detection:
 The rapid urease test (RUT) and PCR diagnosis of 16S rRNA gene serve as two popular existing
 methods for the detection of H. pylori.
@@ -70,7 +70,7 @@ Tremblay, J.M., Mukherjee, J., Leysath, C.E., Debatis, M., Ofori, K., Baldwin, K
 
 De Greve H., Virdi V., Bakshi S., & Depicker A. (2019, December 9). Simplified monomeric VHH-FC antibodies provide new opportunities for passive immunization. Current opinion in biotechnology. Retrieved March 28, 2022, from <https://pubmed.ncbi.nlm.nih.gov/31810049/>
 
-###2. Innovation feature
+###2. Innovative feature
 Generally, the innovative idea of our project is to inhibit intestinal bacterial pathogen growth by probiotic-pathogen adhesion. It is achieved by displaying single-domain antibody, or camelid heavy chain-only antibodies (VHH), on the surface of probiotic E. coli Nissle 1917 using bacteria cell surface display system. The E. coli Nissle 1917 has the potential to treat bacteria intestinal infections as a probiotic (1). It can also be used as a vector for transporting drugs into intestines (2). The VHH can be used to inhibit pathogen growth and inhibit intracellular pathogen from invading somatic cells (3). To be specific, IpaD (a protein in bacteria type 3 secrete system (T3SS)) of genus Shigella can trigger the downstream cascade involving IpaB and IpaC to assist the translocon pore formation that initiates the invasion of the host cells(8,9). The important features and roles of IpaD in the cytotoxicity of Shigella indicates that IpaD can be a potential target for bacteria de-toxicity and elimination.
 
 This idea combines the antibacterial properties of probiotic E. coli Nissle 1917, VHH and provides a novel approach for target specific drug delivery in intestines. With these antibacterial properties working together, it may achieve a significant effect on treating bacterial intestinal infections. Also, it provides a potential therapy for antibiotic resistant bacteria intestinal infection with a lower price compared to using extracted monoclonal antibody.
