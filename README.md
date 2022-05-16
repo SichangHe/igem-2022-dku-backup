@@ -4,7 +4,7 @@ This is temporarily where we dump our stuff.\
 This project is for the iGEM 2022 competition as the DKU participants
 
 For non-text files (`.docx` `.pdf` `.pptx` movies etc.),
-please store in [this official OneDrive folder](https://prodduke-my.sharepoint.com/:f:/g/personal/sh623_duke_edu/EgjNqY1GXsZIusRPRf8mfc0BKV2JE-mSrYtPHVxpGQ6BXw?e=TmMyhU)
+please store in [this official OneDrive folder](https://prodduke-my.sharepoint.com/:f:/g/personal/sh623_duke_edu/EgjNqY1GXsZIusRPRf8mfc0BKV2JE-mSrYtPHVxpGQ6BXw?e=8U7ClA)
 
 ## for new members
 
