@@ -32,5 +32,5 @@ the detection is conduct through fluorescence microscopy.
 
 After discussion with our PI, Prof. Linfeng Huang, we decided that we will use the pull down method
 in the detection of binding affinity. We will conduct the experiment by pull down on both sides
-of the nanobody-antigen complex.\
+of the nanobody-antigen complex.
 For false positives, DKU iGEM member Lingrui Lai suggested isotype testing.
