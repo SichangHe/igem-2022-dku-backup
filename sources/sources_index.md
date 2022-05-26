@@ -19,3 +19,9 @@ Saleem, N., & Howden, C. W
 Savoldi, A., Carrara, E., Graham, D. Y., Conti, M., & Tacconelli, E
 # [Helicobacter pylori eradication therapy](https://doi.org/10.2217/fmb.10.25)
 Suzuki, H., Nishizawa, T., & Hibi, T.
+
+# [Serverification of Molecular Modeling Applications: The Rosetta Online Server That Includes Everyone (ROSIE)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0063906)
+Sergey Lyskov , Fang-Chieh Chou , Shane Ó. Conchúir, Bryan S. Der, Kevin Drew, Daisuke Kuroda, Jianqing Xu, Brian D. Weitzner, P. Douglas Renfrew, Parin Sripakdeevong, Benjamin Borgo, James J. Havranek, Brian Kuhlman,  [ ... ], Rhiju Das
+
+# [Efficient flexible backbone protein–protein docking for challenging targets](https://academic.oup.com/bioinformatics/article/34/20/3461/4990491)
+Nicholas A Marze,  Shourya S Roy Burman,  William Sheffler, Jeffrey J Gray
