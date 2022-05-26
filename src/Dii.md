@@ -30,7 +30,6 @@ Dr. Tsigkou asked us about the binding affinity test and false positive.
 This is a question that did not come to us then, so we answered that
 the detection is conduct through fluorescence microscopy.
 
-After discussion with our PI, Prof. Linfeng Huang, we decided that we will use the pull down method
-in the detection of binding affinity. We will conduct the experiment by pull down on both sides
-of the nanobody-antigen complex.
+After discussion with our PI, Prof. Linfeng Huang, we decide that we will use the pull down method
+in the detection of binding affinity. We will conduct the experiment by pulling down on both sides of the nanobody-antigen complex.
 For false positives, DKU iGEM member Lingrui Lai suggested isotype testing.
