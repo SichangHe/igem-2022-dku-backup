@@ -20,4 +20,17 @@ Anastasia Tsigkou (Associate Professor of Biology of DKU),
 Ming-Chun Huang (Associate professor of data and computational science of DKU),
 Liqi Ren (Associate Director for Innovation and Entrepreneurship).
 
-After the presentation, Prof. Lee and Prof Tsigkou
+After the presentation, Prof. Lee and Dr. Tsigkou presented valuable questions and suggestions.
+
+Prof. Lee recognized the difficulty of antibody therapy and
+informed us of the clear restrictions of FDI approval.
+We assured him that our project nanobodies are thoroughly researched,
+and that we will continue to modify the project to enhance biosafety.
+Dr. Tsigkou asked us about the binding affinity test and false positive.
+This is a question that did not come to us then, so we answered that
+the detection is conduct through fluorescence microscopy.
+
+After discussion with our PI, Prof. Linfeng Huang, we decided that we will use the pull down method
+in the detection of binding affinity. We will conduct the experiment by pull down on both sides
+of the nanobody-antigen complex.\
+For false positives, DKU iGEM member Lingrui Lai suggested isotype testing.
