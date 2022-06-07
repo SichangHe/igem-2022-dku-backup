@@ -1,5 +1,7 @@
 # Home
 
+<img alt="logo" src="logo.png" width=50% />
+
 content
 
 math $x^2$
