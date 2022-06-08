@@ -41,7 +41,7 @@ a multi-institutional collaborative research and software development group.
 Robetta's primary service is to predict the 3-dimensional structure of
 a protein given the amino acid sequence.
 
-AlphaFold[^AlphaFoldPaper] is a prediction software that can structure the 3D model of a protein based on its amino acid sequence, using a combination of bioinformatics and physical approaches. We run the models on AlphaFold (Phenix version) [^AlphaFoldPh] Colab notebook and it will automatically give the highest-scoring model.
+AlphaFold[^AlphaFoldPaper] is a prediction software that can structure the 3D model of a protein based on its amino acid sequence, using a combination of bioinformatics and physical approaches. We run models on AlphaFold (Phenix version) [^AlphaFoldPh] Colab notebook and it will automatically give the highest-scoring model.
 This Colab notebook is derived from ColabFold [^ColabFold] and the DeepMind AlphaFold2 Colab[^AlphaFold2Colab]
 
 Robetta[^Robetta] and AlphaFold Colab notebook[^AlphaFoldPh] both accept single-letter code amino acid sequences
