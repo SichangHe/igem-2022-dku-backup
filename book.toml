@@ -8,5 +8,9 @@ title = "DKU iGEM Team Wiki"
 [build]
 build-dir = "public"
 
+[output.html]
+git-repository-url = "https://gitlab.igem.org/2022/dku"
+git-repository-icon = "fa-gitlab"
+
 [output.html.print]
 enable = false
