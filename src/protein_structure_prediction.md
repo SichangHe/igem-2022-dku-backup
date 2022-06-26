@@ -1,9 +1,10 @@
 ## Theoretical estimation of antibody (VHH) effect
 In this section, we want to see whether our fusion protein-antibody complex could theoretically function well. To do this, we decide to compare the structure of antibody in complex with its original structure.
 
-Overall, there are 2 steps:
+Overall, there are 3 steps:
 
 - Protein structure prediction
+- Protein structure evaluation
 - Protein structure alignment
 
 ### Part 1: Protein structure prediction
@@ -50,16 +51,36 @@ which contains information about the protein's structure. Robetta produces 5 mod
 
 We view these pdb files in PyMOL[^PyMOL], a powerful tool for 3D structure visualization.
 
-### Part 2: Protein structure alignment
+### Part 2: Protein structure validation
+Assessment of these resultant structures from Robetta and Alphafold2 is needed for deciding which structure is more credible and can be used in future anlysis. There are several parameters to consider: ramachandran plot, overall G-factors, atomic Z-score RMS, percentage of the amino acids having scored >= 0.2 in the 3D/1D profile, overall quality factor, and Z-score. We use online server SAVES v6.0[^SAVES] and ProSA[^ProSA] for the validation.
 
-Based on the models we got from Robetta[^Robetta] and AlphaFold Colab notebook[^AlphaFoldPh], we can compare the antibody structure in the model with its original structure by using PyMOL[^PyMOL] alignment. If RMSD (root mean square deviation) value is below 2, we regard two structures similar, which means the antibody in our fusion-antibody complex will theoretically function well.
+#### Parameters
+
+1. Ramachandran plot:\
+   Ramachandran plot shows the theoretical conformation of amino acid residues and is mainly used to evaluate the model quality after homologous modeling. It considers whether the conformation of amino acids is reasonable.Based on an analysis of 118 structures of resolution of at least 2.0 Angstroms and R-factor no greater than 20%, a good quality model would be expected to have over 90% in the most favoured regions.[^SAVES]
+2. Overall G-factors: \
+G-factors indicate whether the stereochemical property is plausible or not. A higher G-factor means higher probability.
+3. Atomic Z-score RMS:\
+Z-score root mean square deviation (Z-score RMS) measures the "average magnitude of the volume irregularities in the structure." [^Z-scoreRMS] Z-score RMS for a good model should be around 1.0.
+4. Percentage of the amino acids having scored >= 0.2 in the 3D/1D profile:\
+Indicate whether the atomic model is compatible with its amino acid sequence. It should be higher than 80% for a good model.
+5. Overall quality factor:\
+An overall score for the model provided by SAVES server[^SAVES], ranging from 0 to 100. It should be higher than 80 for a good model.
+6. Z-score:\
+Indicate whether the z-score of the input structure is within the range of scores typically found for native proteins of similar size[^ProSA].
+
+#### Validation result
+<!-- todo: validation table and description for the best models -->
+### Part 3: Protein structure alignment
+
+Based on the evaluation of models we got from Robetta[^Robetta] and AlphaFold Colab notebook[^AlphaFoldPh], we can compare the antibody structure in the model with its original structure by using PyMOL[^PyMOL] alignment. If RMSD (root mean square deviation) value is below 2, we regard two structures similar, which means the antibody in our fusion-antibody complex will theoretically function well.
 
 #### Alignment result
 <!-- todo: 2 tables of RMSD value -->
 - Alphafold models:\
 The pIDDT value shows the model confidence (out of 100) at each position. The higher the better. All pIDDT values are higher than 50. With the exception of group Yeast, the other models scored about 70. RMSD values are all lower than 1, indicating that the structure of the antibody in the complex model was very similar to its original structure.
 - Robetta models:\
-Except for group Yeast, the antibody structures in other complex models are quite different from their original structures. This may be because we did not provide template to Robetta.
+Except for group Yeast, the antibody structures in other complex models are quite different from their original structures（RMSD value all higher than 2）. This may be because we did not provide template to Robetta.
 
 [^Robetta]: Robetta <https://robetta.bakerlab.org>
 
@@ -72,3 +93,9 @@ Except for group Yeast, the antibody structures in other complex models are quit
 [^AlphaFold2Colab]: AlphaFold2 <https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb>
 
 [^PyMOL]: PyMOL <https://pymol.org/2/>
+
+[^SAVES]: SAVES <https://saves.mbi.ucla.edu/>
+
+[^ProSA]: Prosa <https://prosa.services.came.sbg.ac.at/prosa.php>
+
+[^Z-scoreRMS]: Deviations from standard atomic volumes as a quality measure for protein crystal structures <https://pubmed.ncbi.nlm.nih.gov/8950272/#:~:text=Deviations%20of%20the%20atomic%20volumes%20from%20the%20standard,magnitude%20of%20the%20volume%20irregularities%20in%20the%20structure.>
