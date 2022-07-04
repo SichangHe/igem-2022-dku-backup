@@ -4,7 +4,8 @@ pages:
     stage: deploy
     script:
         - git clone https://github.com/SichangHe/mdbook_binaries.git
-        - mdbook_binaries/bin/mdbook build
+        - export PATH=mdbook_binaries/bin:$PATH
+        - mdbook build
         - mv book/html public
     artifacts:
         paths:
