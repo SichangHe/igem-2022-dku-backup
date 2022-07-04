@@ -1,5 +1,5 @@
 default:
-    image: ubuntu
+    image: bitnami/git:latest
 pages:
     stage: deploy
     script:
