@@ -111,7 +111,7 @@ $$
 ($C$: concentration, $r$: the distance from the center of one probiotic sphere)
 Stationary situation was the focus, that is
 $$
-\Delta C=0\\\\[8pt]
+\Delta C=0\\[8pt]
 \frac{1}{r^2}\frac{d}{dr}(r^2\frac{dc}{dr})=0
 $$
 Under boundary conditions: $c=c_0$ at $r=R$， $c=c_1$ far from the particle, the solution is

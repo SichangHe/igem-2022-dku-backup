@@ -72,18 +72,18 @@ Ordinary dollar signs need to be escaped as \$ 200
 Wrap math formulae blocks that span whole lines with `$$…$$`:
 
 $$
-\sum_ix_i\\\\
-\text{or even stuff like "align" in \LaTeX:}\\\\
+\sum_ix_i\\
+\text{or even stuff like "align" in \LaTeX:}\\
 \begin{align}
     f(x)&=\begin{cases}
-        0&x<0\\\\
+        0&x<0\\
         x&x\geq0
-    \end{cases}\\\\[12pt]
+    \end{cases}\\[12pt]
     t&=f(x)
 \end{align}
 $$
 
-Use `\\\\` for new lines inside math blocks.
+Use `\\` for new lines inside math blocks.
 
 this|is
 -|-
