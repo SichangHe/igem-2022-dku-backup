@@ -1,9 +1,10 @@
+default:
+    image: michaelfbryan/mdbook-docker-image
 pages:
     stage: deploy
     script:
-        - wget https://gitlab.oit.duke.edu/sh623/mdbook-alpine-binary/-/raw/main/mdbook
-        - chmod +x ./mdbook
-        - ./mdbook build
+        - mdbook build
+        - mv book/html public
     artifacts:
         paths:
             - public

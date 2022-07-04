@@ -27,6 +27,9 @@ Please read their documentation to learn how to use it.
 
 To view the wiki locally,
 please follow the instructions on their documentation to install mdBook.
+Besides mdBook, you also need to install
+[mdbook-katex](https://github.com/lzanini/mdbook-katex#getting-started)
+for katex compilation.
 After the installation,
 open this repository in VSCode and open a new terminal.
 Paste in:
