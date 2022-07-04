@@ -1,9 +1,10 @@
 default:
-    image: michaelfbryan/mdbook-docker-image
+    image: ubuntu
 pages:
     stage: deploy
     script:
-        - mdbook build
+        - git clone https://github.com/SichangHe/mdbook_binaries.git
+        - mdbook_binaries/bin/mdbook build
         - mv book/html public
     artifacts:
         paths:
