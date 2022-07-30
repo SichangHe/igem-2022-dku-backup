@@ -1,6 +1,6 @@
-# Interview with Dr. Neel Joshi
+## Interview with Dr. Neel Joshi
 
-## Introduction
+### Introduction
 
 Dr. Neel Joshi is an expert in bioengineering
 with tracks in human disease and new therapies.
@@ -13,7 +13,7 @@ we invited Dr. Joshi for an interview.
 
 ![Dr. Joshi interview photo 1](Dr_Joshi_interview1.png)
 
-## Interview Content  
+### Interview Content  
 
 **Q:**
 What stimulated you and your team to develop
@@ -106,7 +106,7 @@ I think E. coli Nissle 1917 is a very safe bacteria,
 it has already been identified as a harmless bacterium,
 so there should be less safety issues of this strain.
 
-## Q&A Section
+### Q&A Section
 
 **Q:**
 Is it possible to apply magnetic triggers to shigella infection
@@ -173,7 +173,7 @@ which provides adequate chance for the binding to occur.
 However,
 the proteases in the GI tract is something to consider.
 
-## Summary and Reflection
+### Summary and Reflection
 
 Dr. Joshi provided lots of perspectives from a brand-new aspect,
 which were extra inspirable for the whole team.
