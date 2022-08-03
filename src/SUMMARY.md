@@ -27,9 +27,13 @@
 - [Part Collection](./part-collection.md)
 - [Improve](./improve.md)
 
-[Safety](./safety.md)
+# Safety
 
-[Human Practices](./human-practices.md)
+- [Safety](./safety.md)
+
+# Human Practices
+
+- [Human Practices](./human-practices.md)
 
 # Awards
 
