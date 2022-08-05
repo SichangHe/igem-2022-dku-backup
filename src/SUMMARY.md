@@ -1,10 +1,9 @@
 # Summary
 
-[Home](./Home.md)
+[Home](./index.md)
 
 # Team
 
-- [Team](./Team.md)
 - [Attributions](./attributions.md)
 - [Collaborations](./collaborations.md)
 
@@ -23,7 +22,6 @@
 
 # Parts
 
-- [Parts](./Parts.md)
 - [Part Collection](./part-collection.md)
 - [Improve](./improve.md)
 
