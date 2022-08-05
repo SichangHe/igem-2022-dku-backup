@@ -4,6 +4,7 @@
 
 # Team
 
+- [Team](./team.md)
 - [Attributions](./attributions.md)
 - [Collaborations](./collaborations.md)
 
