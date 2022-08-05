@@ -45,3 +45,7 @@
 - [Plant](./plant.md)
 - [Software](./software.md)
 - [Sustainable](./sustainable.md)
+
+---
+
+[LICENSE](./LICENSE.md)
