@@ -507,3 +507,8 @@ ul#searchresults span.teaser em {
     border-top-left-radius: inherit;
     border-top-right-radius: inherit;
 }
+
+footer {
+    font-size: small;
+    margin-top: 200px;
+}
