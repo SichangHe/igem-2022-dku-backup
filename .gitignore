@@ -9,7 +9,9 @@
 !**.png
 !**.svg
 !**.jpg
+!**.sh
 !.vscode/settings.json
 book
 **.DS_Store
 **.ini
+!theme/src/**.css
