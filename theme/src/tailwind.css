@@ -8,9 +8,10 @@
 :root {
     /* Browser default font-size is 16px, this way 1 rem = 10px */
     font-size: 62.5%;
+    @apply scroll-smooth;
 }
 
-:not([class]):not(a):not(li):not(div) {
+:not([class]):not(a):not(li):not(div):not(p):not(blockquote):not(mark):not(span):not(strong):not(em) {
     background-color: var(--bg);
 }
 
@@ -675,7 +676,7 @@ ul#searchresults span.teaser em {
 
 .chapter ol {
     width: 100%;
-    @apply overflow-hidden max-h-96 transition-[max-height] duration-1000;
+    @apply overflow-hidden max-h-[72rem] transition-[max-height] duration-1000;
 }
 
 .chapter li {
