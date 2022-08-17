@@ -680,6 +680,7 @@ ul#searchresults span.teaser em {
 
 .chapter li {
     color: var(--sidebar-non-existant);
+    transition: background-color 0.5s;
     @apply flex justify-between p-4 text-3xl rounded-xl;
 }
 .chapter li a {
@@ -698,6 +699,7 @@ ul#searchresults span.teaser em {
 }
 .chapter li.expanded {
     background-color: var(--searchresults-border-color);
+    transition: background-color 0.5s;
 }
 
 .chapter li > a.toggle {
