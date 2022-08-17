@@ -4,13 +4,18 @@ language = "en"
 multilingual = false
 src = "src"
 title = "DKU iGEM Team Wiki"
+curly-quotes = true
 
 [output.html]
+no-section-label = true
 git-repository-url = "https://gitlab.igem.org/2022/dku"
 git-repository-icon = "fa-gitlab"
 
 [output.html.print]
 enable = false
+
+[output.html.fold]
+enable = true
 
 [output.katex]
 
