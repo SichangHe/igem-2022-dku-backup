@@ -43,6 +43,10 @@ footer {
     @apply text-sm pt-60;
 }
 
+hr {
+    border-color: var(--bg);
+}
+
 /* make wide tables scroll if they overflow */
 .table-wrapper {
     overflow-x: auto;

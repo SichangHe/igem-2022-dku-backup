@@ -115,7 +115,7 @@
     --quote-bg: hsl(197, 37%, 96%);
     --quote-border: hsl(197, 37%, 91%);
 
-    --table-border-color: hsl(0, 0%, 95%);
+    --table-border-color: #c9db88;
     --table-header-bg: hsl(0, 0%, 80%);
     --table-alternate-bg: hsl(0, 0%, 97%);
 
