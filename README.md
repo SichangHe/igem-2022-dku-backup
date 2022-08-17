@@ -50,3 +50,29 @@ by *Jerry's Software Channel*
 ## view wiki preview on GitLab Pages
 
 The wiki can be previewed [here](https://sh623.pages.oit.duke.edu/igem-2022-dku)
+
+## developing theme
+
+Modify `theme/index.hbs` for changing the webpage template.
+Modify `theme/src/tailwind.css` and `theme/variable.css` for CSS styling.
+
+Reference [view wiki locally](#view-wiki-locally) for live preview.
+
+### modifying color theme
+
+To modify one of the colors on the page,
+modify the CSS variables in `theme/variable.css`
+under `.light {` above the following `}`.
+
+### developing using tailwind CSS
+
+If you are modifying `theme/src/tailwind.css`,
+you need to have it compiled to have the modifications applied.
+
+```
+cd theme
+./dev.sh
+```
+
+If `npx` prompts you to download `tailwindcss`,
+choose yes.
