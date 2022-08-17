@@ -104,49 +104,19 @@
                         {{{ content }}}
                     </main>
 
-                <footer>
-                    <hr />
-                    <p>© 2022 - Content on this site is licensed under a
-                        <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">
-                            Creative Commons Attribution 4.0 International license
-                        </a>.
-                    </p>
-                    <p>The repository used to create this website is available at
-                        <a href="https://gitlab.igem.org/2022/dku">gitlab.igem.org/2022/dku</a>.
-                    </p>
-                </footer>
-                    <nav class="nav-wrapper" aria-label="Page navigation">
-                        <!-- Mobile navigation buttons -->
-                        {{#previous}}
-                            <a rel="prev" href="{{ path_to_root }}{{link}}" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
-                                <i class="fa fa-angle-left"></i>
-                            </a>
-                        {{/previous}}
-
-                        {{#next}}
-                            <a rel="next" href="{{ path_to_root }}{{link}}" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
-                                <i class="fa fa-angle-right"></i>
-                            </a>
-                        {{/next}}
-
-                        <div style="clear: both"></div>
-                    </nav>
+                    <footer>
+                        <hr />
+                        <p>© 2022 - Content on this site is licensed under a
+                            <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">
+                                Creative Commons Attribution 4.0 International license
+                            </a>.
+                        </p>
+                        <p>The repository used to create this website is available at
+                            <a href="https://gitlab.igem.org/2022/dku">gitlab.igem.org/2022/dku</a>.
+                        </p>
+                    </footer>
                 </div>
             </div>
-
-            <nav class="nav-wide-wrapper" aria-label="Page navigation">
-                {{#previous}}
-                    <a rel="prev" href="{{ path_to_root }}{{link}}" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
-                        <i class="fa fa-angle-left"></i>
-                    </a>
-                {{/previous}}
-
-                {{#next}}
-                    <a rel="next" href="{{ path_to_root }}{{link}}" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
-                        <i class="fa fa-angle-right"></i>
-                    </a>
-                {{/next}}
-            </nav>
         </div>
 
         {{#if live_reload_endpoint}}
