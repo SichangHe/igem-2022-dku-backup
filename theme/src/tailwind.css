@@ -686,7 +686,7 @@ ul#searchresults span.teaser em {
 }
 
 .chapter li.expanded a {
-    color: var(--sidebar-bg);
+    color: var(--sidebar-active);
 }
 .chapter li.expanded {
     background-color: var(--searchresults-border-color);
