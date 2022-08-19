@@ -1,15 +1,14 @@
 """
 Reference: https://pythonnumericalmethods.berkeley.edu/notebooks/chapter22.06-Python-ODE-Solvers.html
 """
+from matplotlib.pyplot import plot, xlabel, ylabel, legend, show
 from numpy import linspace, ndarray
 from scipy.integrate import solve_ivp
-from matplotlib import pyplot
-
 
 P: ndarray
 """Population points"""
 
-K: float = 1000_000
+K: float = 1e6
 """Capacity"""
 
 r: float = 1
@@ -21,20 +20,22 @@ def dPdt(_t: float, P: float):
     return r * P * (1 - P / K)
 
 
-def main(P_0=[100], t=[0, 20]):
+def main(P_0s=[0, 1, 1e3, 1e6], t=[0, 20]):
     """
     Plot logistic growth curve
-    given initial population `P_0`
-    and time points `t`
+    given initial population(s) `P_0s`
+    and time span (`[start_time, end_time]`) `t`
     """
     # Solve initial value problem
-    P = solve_ivp(dPdt, t, P_0, t_eval=linspace(t[0], t[1]))
+    P = solve_ivp(dPdt, t, P_0s, t_eval=linspace(t[0], t[1]))
 
     # Plot results
-    pyplot.plot(P.t, P.y[0])
-    pyplot.xlabel("t")
-    pyplot.ylabel("P(t)")
-    pyplot.show()
+    for y, P_0 in zip(P.y, P_0s):
+        plot(P.t, y, label=f"P_0 = {P_0}")
+    xlabel("t")
+    ylabel("P(t)")
+    legend()
+    show()
 
 
 if __name__ == "__main__":
