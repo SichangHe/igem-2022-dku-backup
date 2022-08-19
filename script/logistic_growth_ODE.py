@@ -1,3 +1,6 @@
+"""
+Reference: https://apmonitor.com/pdc/index.php/Main/SolveDifferentialEquations
+"""
 from numpy import linspace, ndarray
 from scipy.integrate import odeint
 from matplotlib import pyplot
