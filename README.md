@@ -51,6 +51,15 @@ by *Jerry's Software Channel*
 
 The wiki can be previewed [here](https://sh623.pages.oit.duke.edu/igem-2022-dku)
 
+## view the template iGEM provided
+
+The original `dku` repository template provided by iGEM is archived
+[here](https://sh623.pages.oit.duke.edu/dku_template/)
+
+## view the deployed wiki on iGEM
+
+[This](https://2022.igem.wiki/dku/) will be the submitted wiki
+
 ## developing theme
 
 Modify `theme/index.hbs` for changing the webpage template.
