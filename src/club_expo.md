@@ -1,5 +1,7 @@
 # Club Expo
 
+![Club expo figure 1](club_expo1.jpg)
+
 We participated in 2022 online DKU club expo,
 introducing IGEM club to international students.
 Our club is meant to share knowledge and techniques of biosynthesis
@@ -37,3 +39,5 @@ The questions include "how H. pylori were proved to be able to cause ulcers,"
 "pick out the probiotics from several names of microorganisms,"
 "estimate the number of microorganisms in their stomach,"
 and so on.
+
+![Club expo figure 2](club_expo2.jpg)
