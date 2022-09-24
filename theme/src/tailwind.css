@@ -291,9 +291,6 @@ a > .hljs {
     top: 0;
     height: var(--menu-bar-height);
 }
-#menu-bar.bordered {
-    border-bottom-color: var(--table-border-color);
-}
 #menu-bar i,
 #menu-bar .icon-button {
     position: relative;
@@ -683,6 +680,9 @@ ul#searchresults span.teaser em {
     color: var(--sidebar-non-existant);
     transition: background-color 0.5s;
     @apply flex justify-between p-4 text-3xl rounded-xl;
+}
+.chapter li.chapter-item:hover {
+    background-color: var(--searchresults-border-color);
 }
 .chapter li a {
     display: block;

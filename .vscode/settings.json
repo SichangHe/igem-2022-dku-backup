@@ -68,7 +68,7 @@
     "markdown.extension.orderedList.autoRenumber": false,
     "markdown.extension.orderedList.marker": "one",
     "markdown.extension.toc.downcaseLink": false,
-    "files.autoSave": "onFocusChange",
+    "files.autoSave": "afterDelay",
     "markdownlint.run": "onSave",
     "markdownlint.config": {
         "default": true,
@@ -104,5 +104,6 @@
             "style": "asterisk"
         }
     },
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "files.autoSaveDelay": 300
 }
