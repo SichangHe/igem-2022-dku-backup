@@ -1,0 +1,6 @@
+## Project Description
+The Shigella species is listed as one of the eight dangerous drug resistant bacteria[^CDC,2019], with associated mortalities projected to rise to 10 million globally by 2050. The use of conventional antibiotics aggravates the multidrug resistance of most Shigella strains. Besides aiding in the selection of resistant pathogens, antibiotics reduce intestinal species diversity and population, and disrupt the defensive, metabolic, and trophic functions of interdependent microbes [^Francino,2016]. Engineered probiotics with cell surface display systems are promising in tackling this problem due to a weaker selective pressure and specific binding proteins that are less likely to disrupt the host gut microbiome. Through literature review, E.*coli* Nissle 1917, yeast and L.*lactis* are chosen for expression because their probiotic nature present no known harm to the GI tract and the convenience in lab culturing.
+
+[^CDC,2019]: Centers for Disease Control and Prevention. (2019). 2019 AR Threats Report. <https://www.cdc.gov/drugresistance/biggest-threats.html> 
+
+[^Francino,2016]: Francino, M. P. (2016, January 1). Antibiotics and the human gut microbiome: Dysbioses and accumulation of resistances. Frontiers. Retrieved March 28, 2022, from <https://www.frontiersin.org/articles/10.3389/fmicb.2015.01543/full>
