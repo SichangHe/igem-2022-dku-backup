@@ -1,6 +1,6 @@
 # Home
 
-<img alt="logo" src="logo.png" width=50% />
+<img alt="logo" src="logo.png" class="items-center block m-auto max-w-1/2" />
 
 content
 
