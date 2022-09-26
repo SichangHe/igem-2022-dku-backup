@@ -1,6 +1,6 @@
 # Home
 
-<img alt="logo" src="logo.png" class="items-center block m-auto max-w-1/2" />
+<img alt="logo" id="home_logo" src="logo.png" class="items-center block m-auto duration-100 max-w-1/2" />
 
 content
 

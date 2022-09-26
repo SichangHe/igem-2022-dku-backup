@@ -60,6 +60,28 @@ const configure_sidebar = () => {
 
 configure_sidebar();
 
+const rotate_home_logo = () => {
+    const logo = document.getElementById("home_logo");
+    if (logo === null) {
+        return;
+    }
+    let timer = null;
+    let old_offset = window.scrollY;
+    const rotate = (offset) => (logo.style.transform = `rotate(${offset}deg)`);
+    const reset_rotation = () => {
+        rotate(0);
+        old_offset = window.scrollY;
+    };
+    const apply_rotation = () => {
+        if (timer !== null) {
+            clearTimeout(timer);
+        }
+        rotate(window.scrollY - old_offset);
+        timer = setTimeout(reset_rotation, 100);
+    };
+    window.addEventListener("scroll", apply_rotation);
+};
+
 const load = () => {
     sidebar_aria();
     codeSnippets();
@@ -69,6 +91,7 @@ const load = () => {
     clipboard();
     scrollToTop();
     controllMenu();
+    rotate_home_logo();
 };
 
 window.addEventListener("load", load);
