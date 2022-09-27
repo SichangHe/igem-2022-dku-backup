@@ -31,4 +31,7 @@ and lab experiments of the E.coli group.
 Helped conduct human practices and wetlabs.
 
 ### Sihan Wang
-Helped with background research and conduct wetlabs.
+Helped with background research and conduct wetlabs, wiki writing.
+
+### Renwei Gao
+Fund manager of the team, in charge of labware purchasing, helped with human practice.
