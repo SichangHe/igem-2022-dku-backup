@@ -29,3 +29,6 @@ and lab experiments of the E.coli group.
 ### Qizhou Jiang
 
 Helped conduct human practices and wetlabs.
+
+### Sihan Wang
+Helped with background research and conduct wetlabs.
