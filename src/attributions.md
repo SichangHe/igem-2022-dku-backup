@@ -34,4 +34,4 @@ Helped conduct human practices and wetlabs.
 Helped with background research and conduct wetlabs, wiki writing.
 
 ### Renwei Gao
-Fund manager of the team, in charge of labware purchasing, helped with human practice.
+Fund manager of the team, in charge of labware purchasing, helped with background research and human practice.
