@@ -35,3 +35,7 @@ Helped with background research and conduct wetlabs, wiki writing.
 
 ### Renwei Gao
 Fund manager of the team, in charge of labware purchasing, helped with background research and human practice.
+
+### Yunyi Ru
+
+In charge of lab design, wet labs & wiki writing. Hosted journal club and science lecture for the human practice part. 
