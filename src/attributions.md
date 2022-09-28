@@ -32,7 +32,7 @@ Helped conduct human practices and wetlabs for the yeast group.
 Designed the safety and education wiki and organized local high school activities (education).
 
 ### Sihan Wang
-Helped with background research and conduct wetlabs, wiki writing.
+Helped with background research, conduct wetlabs, human practice organization, and wiki writing.
 
 ### Renwei Gao
 Fund manager of the team, in charge of labware purchasing, helped with background research and human practice.
@@ -43,3 +43,6 @@ In charge of lab design, wet labs & wiki writing. Hosted journal club and scienc
 
 ### Yuxin Wang
 Co-establish the project topic. In charge of lab design and wet lab for the yeast group. Also assist in Wiki writing and expert interview.
+
+### Jingyun Jin
+Help conduct human practice and perform wet lab.
