@@ -2,7 +2,7 @@
 
 ## Biology
 
-<div class="grid grid-flow-row grid-cols-2 gap-4 md:grid-cols-5">
+<div class="grid grid-flow-row grid-cols-2 gap-4 text-center md:grid-cols-4">
 <div>
 <img alt="Lisa's Picture" src="lisa_pic.jpg" class="max-w-full" />
 <br />
@@ -51,13 +51,18 @@ Yunyi Ru
 <div>
 <img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
 <br />
+Renwei Gao
+</div>
+<div>
+<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<br />
 Qizhou Jiang
 </div>
 </div>
 
 ## Modeling
 
-<div class="grid grid-flow-row grid-cols-2 gap-4 md:grid-cols-5">
+<div class="grid grid-flow-row grid-cols-2 gap-4 text-center md:grid-cols-4">
 <div>
 <img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
 <br />
@@ -82,7 +87,7 @@ Zhenyu Xu
 
 ## Advisor
 
-<div class="grid grid-flow-row grid-cols-2 gap-4 md:grid-cols-5">
+<div class="grid grid-flow-row grid-cols-2 gap-4 text-center md:grid-cols-4">
 <div>
 <img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
 <br />
@@ -97,7 +102,7 @@ Yang Yu
 
 ## Principal Investigator
 
-<div class="grid grid-flow-row grid-cols-2 gap-4 md:grid-cols-5">
+<div class="grid grid-flow-row grid-cols-2 gap-4 text-center md:grid-cols-4">
 <div>
 <img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
 <br />
