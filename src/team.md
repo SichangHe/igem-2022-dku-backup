@@ -49,7 +49,7 @@ Chang Shen
 Yunyi Ru
 </div>
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Yunyi's Picture" src="yunyi_pic.jpg" class="max-w-full" />
 <br />
 Renwei Gao
 </div>
