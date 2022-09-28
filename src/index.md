@@ -1,6 +1,6 @@
-<img alt="logo" id="home_logo" src="logo_transparent.png" class="items-center block m-auto duration-100 max-w-1/2" />
+<img alt="logo" id="home_logo" src="logo_transparent.png" class="items-center block w-1/3 m-auto duration-100" />
 
-<h1 class="text-6xl text-center">GutGuard</h1>
+<h1 class="text-center">GutGuard</h1>
 
 content
 
