@@ -14,12 +14,12 @@ Yixuan Wu (Lisa)
 Yixuan Liu
 </div>
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Sihan's Picture" src="Sihan_pic.JPG" class="max-w-full" />
 <br />
 Sihan Wang
 </div>
 <div>
-<img alt="Sihan's Picture" src="Sihan_pic.JPG" class="max-w-full" />
+<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
 <br />
 Zhujun Yao
 </div>
@@ -34,12 +34,12 @@ Lingrui Lai
 Yuxin Wang
 </div>
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Irene's Picture" src="Irene_pic.jpg" class="max-w-full" />
 <br />
 Jingyun Jin
 </div>
 <div>
-<img alt="Irene's Picture" src="Irene_pic.jpg" class="max-w-full" />
+<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
 <br />
 Chang Shen
 </div>
