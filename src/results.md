@@ -30,19 +30,25 @@ Using following primers (**Table 1**), the JPS-G3-3xHA and ipaD-3xHA sequences w
 
 ![**Figure 1** | Gel Electrophoresis Result for Target Sequence Amplification](E_LabNote_8.31.1.png)
 
+**Figure 1** | Gel Electrophoresis Result for Target Sequence Amplification
+
 ### Molecular Cloning for Cytoplasmic Protein Expression
 In order to construct the recombinant plasmids pET30a-ipaD-3xHA and pET30a-JPS-G3-3xFLAG, the PCR products obtained from the last step were digested by endonucleases *Bam*HI and *Xho*I to create sticky ends. Meanwhile, the pET30a plasmids were transformed into E.*coli* DH5a competent cells for propagation. After transformation and overnight culture, the extracted plasmids were also digested with endonucleases *Bam*HI and *Xho*I to create sticky ends. Afterwards, the digested plasmids and target sequences were ligated and transformed into E.*coli* DH5a competent cells (**Figure 2**). 
 
 ![**Figure 2** | Plates for pET30a-ipaD-3xHA (i-1 & i-2) and pET30a-JPS-G3-3xFLAG (J-1 & J-2).](E_LabNote_9.13.2.jpg)
 
+**Figure 2** | Plates for pET30a-ipaD-3xHA (i-1 & i-2) and pET30a-JPS-G3-3xFLAG (J-1 & J-2).
+
 Single colonies were picked from the plates and the inserted sequence were verified by colony PCR (**Figure 3**) and Sanger sequencing. 
 
 ![**Figure 3** | Gel Electrophoresis Result for Colony PCR](E_LabNote_9.14.1.png)
 
-### Overlap Extension PCR
-In order to construct the recombinant DNA sequences csgA-JPS-G3-3xFLAG and csgA-ipaD-3xHA, the following overlap extension PCR primers are used.
+**Figure 3** | Gel Electrophoresis Result for Colony PCR
 
-**Table 3** | Overlap Extension PCR Primers
+### Overlap Extension PCR
+In order to construct the recombinant DNA sequences csgA-JPS-G3-3xFLAG and csgA-ipaD-3xHA, the following overlap extension PCR primers are used (**Table 2**).
+
+**Table 2** | Overlap Extension PCR Primers
 |Name|Sequence (5' -> 3')|Endonuclease Site|
 |---|---|---|
 |OvF_csgA-shMT|CCGCGTGGATCCATGAAACTTTTAAAAGTAG|*Bam*HI |
