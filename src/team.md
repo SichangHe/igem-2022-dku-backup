@@ -39,7 +39,7 @@ Yuxin Wang
 Jingyun Jin
 </div>
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Irene's Picture" src="Irene_pic.jpg" class="max-w-full" />
 <br />
 Chang Shen
 </div>
