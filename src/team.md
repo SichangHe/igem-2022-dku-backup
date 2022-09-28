@@ -19,7 +19,7 @@ Yixuan Liu
 Sihan Wang
 </div>
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Sihan's Picture" src="Sihan_pic.jpg" class="max-w-full" />
 <br />
 Zhujun Yao
 </div>
