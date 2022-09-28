@@ -29,27 +29,35 @@ and lab experiments of the E.coli group.
 ### Qizhou Jiang
 
 Helped conduct human practices and wetlabs for the yeast group. 
-Designed the safety and education wiki and organized local high school activities (education).
+Designed the safety and education wiki and organized local high school activities education.
 
 ### Sihan Wang
-Helped with background research, conduct wetlabs, human practice organization, and wiki writing.
+Helped with background research, designed lab detection protocols for the lactococcus group, 
+conducted wetlab experiments, 
+helped with human practice organization including journal club organization and wiki writing.
 
 ### Renwei Gao
-Fund manager of the team, in charge of labware purchasing, helped with background research and human practice.
+Fund manager of the team, in charge of labware purchasing, 
+helped with background research and survey distribution as a part of human practice.
 
 ### Yunyi Ru
-
-In charge of lab design, wet labs & wiki writing. Hosted journal club and science lecture for the human practice part. 
+In charge of E. *coli* lab design, wet labs & wiki writing. 
+Hosted journal club and science lecture for the human practice. 
 
 ### Yuxin Wang
-Co-establish the project topic. In charge of lab design and wet lab for the yeast group. Also assist in Wiki writing and expert interview.
+Co-established the project topic. In charge of lab design and wet lab for the yeast group. 
+Also assisted in Wiki writing and expert interview.
 
 ### Jingyun Jin
-Help conduct human practice and perform wet lab.
+Helped design survey as a part of human practice, helped with E.*coli* wet lab experiments.
 
 ### Yixuan Liu
-Organized and chaired the iGEM2022 Journal Club Seminar ever since 2021. Actively participate in the Human Practise part including designing and popularizing events in local collegiate school. Help conduct wet labs.
+Organized and chaired the iGEM2022 Journal Club Seminar ever since 2021. 
+Actively participate in human practice part including designing and popularizing events in local collegiate school. 
+Help conduct wet labs.
 
 ### Chang Shen
 
-Proposed the project topic, participated in plasmid design and workflow design of E group, helped conduct human practices, wet labs, and background research.
+Proposed the project topic, participated in plasmid design and workflow design of E.coli group, 
+participated in wet labs and background research. 
+Helped conduct collaboration with XJLTU as a part of human practice.
