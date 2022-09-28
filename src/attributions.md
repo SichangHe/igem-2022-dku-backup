@@ -2,6 +2,12 @@
 
 ## Modeling team
 
+### Zhenyu Xu
+
+Organized protein structure and docking modeling. 
+Helped conduct human practice.
+Shot and edited the promotion video. 
+Wiki writing.
 ### Sichang He (Steven)
 
 Main Wiki developer and technical support.
