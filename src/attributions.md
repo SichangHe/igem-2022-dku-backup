@@ -39,3 +39,6 @@ Fund manager of the team, in charge of labware purchasing, helped with backgroun
 ### Yunyi Ru
 
 In charge of lab design, wet labs & wiki writing. Hosted journal club and science lecture for the human practice part. 
+
+### Yuxin Wang
+Co-establish the project topic. In charge of lab design and wet lab for the yeast group. Also assist in Wiki writing and expert interview.
