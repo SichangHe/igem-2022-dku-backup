@@ -6,10 +6,6 @@ This page will give a detailed record about the experiment process, including th
 
 ## Experiment
 
-#### Lab Notes
-
-#### Protocols
-
 ### Yeast
 
 #### Lab Notes
@@ -18,13 +14,19 @@ This page will give a detailed record about the experiment process, including th
 
 ### *Lactococcus lactis*
 
+#### Lab Notes
+
+#### Protocols
+
 ### *Escherichia coli*
 
 #### Lab Notes
 
-Please see attached (file name: iGEM_E_LabNotes).
+Please see attached.
 
-*sorry I don't know how to insert a file. I'll do that once I learnt it*
+![E.*coli* Lab Notes](iGEM_E_LabNotes.pdf)
 
 #### Protocols
-Please see attached (file name: iGEM_E_Protocols).
+Please see attached.
+
+![E.*coli* Protocols](iGEM_E_Protocols.pdf)
