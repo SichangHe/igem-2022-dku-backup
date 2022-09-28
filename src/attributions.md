@@ -49,3 +49,7 @@ Help conduct human practice and perform wet lab.
 
 ### Yixuan Liu
 Organized and chaired the iGEM2022 Journal Club Seminar ever since 2021. Actively participate in the Human Practise part including designing and popularizing events in local collegiate school. Help conduct wet labs.
+
+### Chang Shen
+
+Proposed the project topic, participated in plasmid design and workflow design of E group, helped conduct human practices, wet labs, and background research.
