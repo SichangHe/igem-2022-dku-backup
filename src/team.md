@@ -44,13 +44,13 @@ Jingyun Jin
 Chang Shen
 </div>
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Yunyi's Picture" src="yunyi_pic.png" class="max-w-full" />
 <br />
 Yunyi Ru
 </div>
 <div>
-<img alt="Yunyi's Picture" src="yunyi_pic.png" class="max-w-full" />
 <br />
+<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
 Renwei Gao
 </div>
 <div>
