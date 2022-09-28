@@ -1,9 +1,12 @@
+default:
+    image: bitnami/git:latest
 pages:
     stage: deploy
     script:
-        - wget https://gitlab.oit.duke.edu/sh623/mdbook-alpine-binary/-/raw/main/mdbook
-        - chmod +x ./mdbook
-        - ./mdbook build
+        - git clone https://github.com/SichangHe/mdbook_binaries.git
+        - export PATH="$PWD/mdbook_binaries/bin:$PATH"
+        - mdbook build
+        - mv book/html public
     artifacts:
         paths:
             - public

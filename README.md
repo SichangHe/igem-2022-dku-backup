@@ -27,6 +27,9 @@ Please read their documentation to learn how to use it.
 
 To view the wiki locally,
 please follow the instructions on their documentation to install mdBook.
+Besides mdBook, you also need to install
+[mdbook-katex](https://github.com/lzanini/mdbook-katex#getting-started)
+for katex compilation.
 After the installation,
 open this repository in VSCode and open a new terminal.
 Paste in:
@@ -47,3 +50,38 @@ by *Jerry's Software Channel*
 ## view wiki preview on GitLab Pages
 
 The wiki can be previewed [here](https://sh623.pages.oit.duke.edu/igem-2022-dku)
+
+## view the template iGEM provided
+
+The original `dku` repository template provided by iGEM is archived
+[here](https://sh623.pages.oit.duke.edu/dku_template/)
+
+## view the deployed wiki on iGEM
+
+[This](https://2022.igem.wiki/dku/) will be the submitted wiki
+
+## developing theme
+
+Modify `theme/index.hbs` for changing the webpage template.
+Modify `theme/src/tailwind.css` and `theme/variable.css` for CSS styling.
+
+Reference [view wiki locally](#view-wiki-locally) for live preview.
+
+### modifying color theme
+
+To modify one of the colors on the page,
+modify the CSS variables in `theme/variable.css`
+under `.light {` above the following `}`.
+
+### developing using tailwind CSS
+
+If you are modifying `theme/src/tailwind.css`,
+you need to have it compiled to have the modifications applied.
+
+```
+cd theme
+./dev.sh
+```
+
+If `npx` prompts you to download `tailwindcss`,
+choose yes.
