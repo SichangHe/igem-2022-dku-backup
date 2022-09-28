@@ -28,7 +28,8 @@ and lab experiments of the E.coli group.
 
 ### Qizhou Jiang
 
-Helped conduct human practices and wetlabs.
+Helped conduct human practices and wetlabs for the yeast group. 
+Designed the safety and education wiki and organized local high school activities (education).
 
 ### Sihan Wang
 Helped with background research and conduct wetlabs, wiki writing.
