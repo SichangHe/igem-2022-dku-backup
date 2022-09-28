@@ -88,10 +88,6 @@ We designed the following sequences:
 
 * ipaD-3xHA
 
-*此处应有图，等我做好了以后再编辑上去*
-
-**Figure 1** | Graphical representation of the sequences (1) intimin-20ipaD-3xFLAG; (2) csgB-JMK-H2-3xFLAG; (3) JPS-G3-3xFLAG; (4) ipaD-3xHA.
-
 to make the recombinant protein. However, due to limitations in budget & time, we only have JPS-G3-3xFLAG and ipaD-3xHA (inserted into pUC19 plasmids). By plasmid extraction, double digestion (*Bam*HI & *Xho*I) and PCR, we successfully obtained the sequences and verified the accuracy by Sanger sequencing, but we don't have csgB or intimin for surface display. 
 
 
@@ -108,10 +104,6 @@ We designed the following sequences:
 * csgA-JPS-G3-3xFLAG 
 
 * csgA-ipaD-3xHA (displaying the antigen on the surface of E.*coli* BL21 to mimic *Shigella flexneri*, so that the effectiveness can be evaluated)
-
-*此处应有图，等我做好了以后再编辑上去*
-
-**Figure 2** | Graphical representation of the sequences (1) csgA-JPS-G3-3xFLAG; (2) csgA-ipaD-3xHA; (3) csgA-shMT.
 
 *csg*A gene is obtained from the E.*coli* strains (pGEX-4T-1-csgA-shMT) provided by the XJLTU iGEM team via PCR. To connect different parts, we plan to use overlapping PCR. 
 
