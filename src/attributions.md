@@ -61,3 +61,8 @@ Help conduct wet labs.
 Proposed the project topic, participated in plasmid design and workflow design of E.coli group, 
 participated in wet labs and background research. 
 Helped conduct collaboration with XJLTU as a part of human practice.
+
+### Lingrui Lai
+
+Responsible for wet lab design and experiment for yeast group. 
+Contribute to Human Practice with Conference of China iGEMer Community.
