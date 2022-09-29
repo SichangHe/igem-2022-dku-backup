@@ -1,0 +1,5 @@
+## Contribution
+We designed cell surface display platforms for probiotics including yeast, E.*coli* Nissle 1917, and L.*lactis*. To be specific, the yeast Aga2 surface display platform for nanobodies were developed,  We also designed a novel way to detecte protein surface expression by using flow cytometry. Another contribution is protein modeling protocol. We designed an integrated protocol involving the usage of PyMol, RobeTTA, and Alphafold2. Through literature review, we were able to determine multiple parameters that measure the accuracy of the protein model, and conducted evaluation on our protein design.
+### Cell surface display platforms 
+Cell surface display platforms can be utilized to cater to many protein engineering and therapeutic drug design purposes. In our case, the therapeutic effect and the nanobody localization on the cellular membrane of yeast yields future possibilities for iGEM teams to utilize this surface display platform based on the yeast Aga2 protein, specifically for therapeutic designs, but possible to be utilized to express other proteins as well. 
+### Integrated protein modeling protocol

@@ -1,5 +1,6 @@
 # Attributions
 
+Biology team:  Yixuan Wu organized wet lab and human practice as the biology team leader. Yixuan Wu, Yuxin Wang, and Chang Shen developed the project design. Wet lab experiments are performed by Yixuan Wu, Yunyi Ru, Chang Shen, Jingyun Jin, Yuxin Wang, Lingrui Lai, Qizhou Jiang, Zhujun Yao, Yixuan Liu, Sihan Wang. Dry lab is designed by Zhenyu Xu and Yixuan Wu, performed by Zhenyu Xu, Sichang He, Yuxiang He and Jasmine Santos. Wiki is built by Sichang He, Yuxiang He and Zhenyu Xu. Promotion Video is shot and edited by Zhenyu Xu, narrated by Yixuan Wu. Fund is managed by Renwei Gao. Wet lab expenses and supplies are supported by Duke Kunshan University Dii program and Wang-Cai Biochemistry Lab with the generousity of Dr. Linfeng Huang. The whole team participated in human practices, with the additional support of Dr. Floyd Beckford at Duke Kunshan University and Dr. Neel Joshi from Northwestern University.
 ## Modeling team
 
 ### Zhenyu Xu
