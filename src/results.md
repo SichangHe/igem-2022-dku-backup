@@ -88,7 +88,7 @@ However, due to time limitation, this part has not been successfully implemented
 
 (只是举例，请随意更改)
 
-* Express proteins in well-studies probiotic strains.
+* Express proteins in well-studied probiotic strains.
 
 * Insert nanobody sequences after other promoters that can ensure proper expression *in vivo*.
 
