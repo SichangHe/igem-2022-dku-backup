@@ -1,6 +1,6 @@
 # Club Expo
 
-![Club expo figure 1](club_expo1.jpg)
+![Club expo figure 1](https://static.igem.wiki/teams/4161/wiki/club-expo1.jpg)
 
 We participated in 2022 online DKU club expo,
 introducing IGEM club to international students.
@@ -40,4 +40,4 @@ The questions include "how H. pylori were proved to be able to cause ulcers,"
 "estimate the number of microorganisms in their stomach,"
 and so on.
 
-![Club expo figure 2](club_expo2.jpg)
+![Club expo figure 2](https://static.igem.wiki/teams/4161/wiki/club-expo2.jpg)

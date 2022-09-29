@@ -8,7 +8,7 @@ and large intestine (pH = 7),
 which comprises 200 m^2 of surface area in total (**Figure 1**).
 It is responsible for the digestion of food and absorption of nutrients.
 
-![Figure_1](the_gi_tract.jpg)
+![Figure_1](https://static.igem.wiki/teams/4161/wiki/the-gi-tract.jpg)
 
 **Figure 1** the GI tract.
 
@@ -87,12 +87,12 @@ important metabolic reactions (e.g.,
 lack of vitamin B12 may lead to pernicious anemia
 – the red blood cells cannot function well).
 
-![Figure_2](oversight_microbial_populations.png)
+![Figure_2](https://static.igem.wiki/teams/4161/wiki/oversight-microbial-populations.png)
 
 **Figure 2** Oversight of major microbial populations
 in the body sites sampled by human microbiome projects.
 
-![Figure_3](microenvironments_large_intestine.png)
+![Figure_3](https://static.igem.wiki/teams/4161/wiki/microenvironments-large-intestine.png)
 
 **Figure 3** Different microenvironments in the large intestine.
 

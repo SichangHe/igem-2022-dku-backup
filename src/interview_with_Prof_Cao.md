@@ -23,4 +23,4 @@ and the relationship between human longevity and gut microbiota.
 This interview was both encouraging and informative,
 and contributed greatly to the first stage of human practice.
 
-![photo](prof_cao_interview1.jpg)
+![photo](https://static.igem.wiki/teams/4161/wiki/prof-cao-interview1.jpg)
