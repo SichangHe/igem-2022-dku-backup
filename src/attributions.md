@@ -48,8 +48,8 @@ Fund manager of the team, in charge of labware purchasing,
 helped with background research and survey distribution as a part of human practice.
 
 ### Yunyi Ru
-In charge of E. *coli* lab design, wet labs & wiki writing. 
-Hosted journal club and science lecture for the human practice. 
+In charge of background research, E. *coli* group lab design, wet labs & wiki writing. 
+Hosted journal clubs and science lectures for human practice. 
 
 ### Yuxin Wang
 Co-established the project topic. In charge of lab design and wet lab for the yeast group. 
