@@ -6,9 +6,6 @@
 !theme/**.hbs
 !theme/**.js
 !**.md
-!**.png
-!**.svg
-!**.jpg
 !**.sh
 !.vscode/settings.json
 book
