@@ -73,12 +73,12 @@ According to the newly found protocol, the Lactococcus lactis was firstly suspen
 
 ##### Design
 
-Initially, we planned to try three different nanobodies (20ipaD, JPS-G3, and JMK-H2) agianst the *Shigella* antigen ipaD from a research paper (Barta et. al., 2017). We also wanted to try two different surface display systems, beta domain of the E.*coli* outer membrane protein intimin (Salema et. al., 2013) and the E.*coli* curli fiber protein, *csg*B (Gelfat et. al., 2021). Our target probiotic is E. *coli* Nissle 1917 (Gelfat et. al., 2021). By inserting the target nanobody sequence behind intimin or *csg*B, reconstruct the plasmid pET30a and transformed into E.*coli* Nissle 1917, we expect the protein to be displayed on the surface of E.*coli*, so that it can capture the pathogen via antigen-antibody binding. 
+Initially, we planned to try three different nanobodies (20ipaD, JPS-G3, and JMK-H2) agianst the *Shigella* antigen ipaD from a research paper [^Barta,2017]. We also wanted to try two different surface display systems, beta domain of the E.*coli* outer membrane protein intimin [^Salema,2013] and the E.*coli* curli fiber protein, *csg*B [^Gelfat,2021]. Our target probiotic is E. *coli* Nissle 1917 [^Gelfat,2021]. By inserting the target nanobody sequence behind intimin or *csg*B, reconstructing the plasmid pET30a and transforming the plasmid into E.*coli* Nissle 1917, we expect the protein to be displayed on the surface of E.*coli*, so that it can capture the pathogen via antigen-antibody binding. 
 
 
 ##### Build & Test
 
-We designed the following sequences: 
+We designed the following sequences to make the recombinant protein.
 
 * intimin-20ipaD-3xFLAG
   
@@ -88,14 +88,14 @@ We designed the following sequences:
 
 * ipaD-3xHA
 
-to make the recombinant protein. However, due to limitations in budget & time, we only have JPS-G3-3xFLAG and ipaD-3xHA (inserted into pUC19 plasmids). By plasmid extraction, double digestion (*Bam*HI & *Xho*I) and PCR, we successfully obtained the sequences and verified the accuracy by Sanger sequencing, but we don't have csgB or intimin for surface display. 
+However, due to limitations in budget & time, we only have JPS-G3-3xFLAG and ipaD-3xHA (inserted into pUC19 plasmids). By plasmid extraction, double digestion (*Bam*HI & *Xho*I) and PCR, we successfully obtained the sequences and verified the accuracy by Sanger sequencing, but we don't have csgB or intimin for surface display. 
 
 
 #### Cycle 2
 
 ##### Design
 
-Alternatively, we chose the curli fiber *csg*A (Gelfat et. al., 2021) sequence for surface display. 
+Alternatively, we chose the curli fiber *csg*A [^Gelfat et. al., 2021] sequence for surface display. 
 
 ##### Build & Test
 
@@ -110,9 +110,9 @@ We designed the following sequences:
 
 ## Reference
 
-* Barta, M., Shearer, J., Arizmendi, O., Tremblay, J., Mehzabeen, N., Zheng, Q., . . . Picking, W. (2017). Single-domain antibodies pinpoint potential targets within Shigella invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. Journal of Biological Chemistry, 292, jbc.M117.802231. doi:10.1074/jbc.M117.802231
+[^Barta,2017]: Barta, M., Shearer, J., Arizmendi, O., Tremblay, J., Mehzabeen, N., Zheng, Q., . . . Picking, W. (2017). Single-domain antibodies pinpoint potential targets within Shigella invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. *Journal of Biological Chemistry*, 292, jbc.M117.802231. <doi:10.1074/jbc.M117.802231>
 
-* Salema, V., Marín, E., Martínez-Arteaga, R., Ruano-Gallego, D., Fraile, S., Margolles, Y., Teira, X., Gutierrez, C., Bodelón, G., & Fernández, L. Á. (2013). Selection of Single Domain Antibodies from Immune Libraries Displayed on the Surface of E. coli Cells with Two β-Domains of Opposite Topologies. PLoS ONE, 8(9), e75126. https://doi.org/10.1371/journal.pone.0075126
+[^Salema,2013]: Salema, V., Marín, E., Martínez-Arteaga, R., Ruano-Gallego, D., Fraile, S., Margolles, Y., Teira, X., Gutierrez, C., Bodelón, G., & Fernández, L. Á. (2013). Selection of Single Domain Antibodies from Immune Libraries Displayed on the Surface of E. coli Cells with Two β-Domains of Opposite Topologies. *PLoS ONE*, 8(9), e75126. <https://doi.org/10.1371/journal.pone.0075126>
 
-* Gelfat, I., Aqeel, Y., Tremblay, J. M., Jaskiewicz, J. J., Shrestha, A., Lee, J. N., Hu, S., Qian, X., Magoun, L., Sheoran, A., Bedenice, D., Giem, C., Manjula-Basavanna, A., Osburne, M. S., Tzipori, S., Shoemaker, C. B., Leong, J. M., & Joshi, N. S. (2021). Single domain antibodies against enteric pathogen virulence factors are active as curli fiber fusions on probiotic E. coli Nissle 1917 (p. 2021.06.18.448998). bioRxiv. https://doi.org/10.1101/2021.06.18.448998
+[^Gelfat,2021]: Gelfat, I., Aqeel, Y., Tremblay, J. M., Jaskiewicz, J. J., Shrestha, A., Lee, J. N., Hu, S., Qian, X., Magoun, L., Sheoran, A., Bedenice, D., Giem, C., Manjula-Basavanna, A., Osburne, M. S., Tzipori, S., Shoemaker, C. B., Leong, J. M., & Joshi, N. S. (2021). Single domain antibodies against enteric pathogen virulence factors are active as curli fiber fusions on probiotic E. coli Nissle 1917 (p. 2021.06.18.448998). *bioRxiv*. <https://doi.org/10.1101/2021.06.18.448998>
 

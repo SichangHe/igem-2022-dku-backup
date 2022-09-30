@@ -12,13 +12,13 @@ Due to intracellular pathogen nature of Shigella, the effect of antibodies reduc
 
 Along with the high household transmission rates, Shigella also display high secondary infection rates. Therefore, we suggest families with members developing Shigella to take our pills for a time period to provide continuously protection apart from keep good hygiene conditions. In the meanwhile, patients who have developed Shigella infection before should also take our tablets when facing a second exposure.
 
-# End Users
+## End Users
 
 People who exposed to potential Shigella infection source, especially in a household environment. 
 Children in school with Shigella cases reported.
 People with antibiotic allergy that cannot use clinical antibiotic treatment.
 Government that aims to provide low cost solution for Shigella incidence in low- and middle- income, less developed region.
 
-# Caveats
+## Caveats
 
 Our product contains exogenous antibody proteins. Therefore, allergy test may need to be performed to prevent possible anaphylaxis. Besides, considering the pathogenesis and transmission pathway of Shigella, our products may not be a one-size-fits all solution for all infection stages but focuses more on the prevention of infection.

@@ -4,57 +4,57 @@
 
 <div class="grid items-end grid-flow-row grid-cols-2 gap-4 text-center md:grid-cols-4">
 <div>
-<img alt="Lisa's Picture" src="lisa_pic.jpg" class="max-w-full" />
+<img alt="Lisa's Picture" src="https://static.igem.wiki/teams/4161/wiki/lisa-pic.jpg" class="max-w-full" />
 <br />
 Yixuan Wu (Lisa)
 </div>
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Kathy's Picture" src="https://static.igem.wiki/teams/4161/wiki/kathy.jpeg" class="max-w-full" />
 <br />
 Yixuan Liu
 </div>
 <div>
-<img alt="Sihan's Picture" src="Sihan_pic.JPG" class="max-w-full" />
+<img alt="Sihan's Picture" src="https://static.igem.wiki/teams/4161/wiki/sihan-pic.jpg" class="max-w-full" />
 <br />
 Sihan Wang
 </div>
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Zhujun's Picture" src="https://static.igem.wiki/teams/4161/wiki/zhujun-pic.jpg" class="max-w-full" />
 <br />
 Zhujun Yao
 </div>
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Lingrui's Picture" src="https://static.igem.wiki/teams/4161/wiki/ll-pic.jpg" class="max-w-full" />
 <br />
 Lingrui Lai
 </div>
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
 <br />
 Yuxin Wang
 </div>
 <div>
-<img alt="Irene's Picture" src="Irene_pic.jpg" class="max-w-full" />
+<img alt="Irene's Picture" src="https://static.igem.wiki/teams/4161/wiki/irene-pic.jpg" class="max-w-full" />
 <br />
 Jingyun Jin
 </div>
 <div>
-<img alt="sc's Picture" src="sc_pic.jpg" class="max-w-full" />
+<img alt="sc's Picture" src="https://static.igem.wiki/teams/4161/wiki/sc-pic.jpg" class="max-w-full" />
 <br />
 Chang Shen
 </div>
 <div>
-<img alt="Yunyi's Picture" src="yunyi_pic.png" class="max-w-full" />
+<img alt="Yunyi's Picture" src="https://static.igem.wiki/teams/4161/wiki/yunyi-pic.png" class="max-w-full" />
 <br />
 Yunyi Ru
 </div>
 <div>
 <br />
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
 Renwei Gao
 </div>
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Qizhou's Picture" src="https://static.igem.wiki/teams/4161/wiki/qizhou-jiang-pic.jpg" class="max-w-full" />
 <br />
 Qizhou Jiang
 </div>
@@ -64,22 +64,22 @@ Qizhou Jiang
 
 <div class="grid items-end grid-flow-row grid-cols-2 gap-4 text-center md:grid-cols-4">
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
 <br />
 Sichang He (Steven)
 </div>
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
 <br />
 Jasmine Santos
 </div>
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Yuxiang's Picture" src="https://static.igem.wiki/teams/4161/wiki/img-1134.jpg" class="max-w-full" />
 <br />
 Yuxiang He
 </div>
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
 <br />
 Zhenyu Xu
 </div>
@@ -89,12 +89,12 @@ Zhenyu Xu
 
 <div class="grid items-end grid-flow-row grid-cols-2 gap-4 text-center md:grid-cols-4">
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
 <br />
 Jiani Chen
 </div>
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
 <br />
 Yang Yu
 </div>
@@ -104,7 +104,7 @@ Yang Yu
 
 <div class="grid items-end grid-flow-row grid-cols-2 gap-4 text-center md:grid-cols-4">
 <div>
-<img alt="Steven's Picture" src="steven_pic.jpg" class="max-w-full" />
+<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
 <br />
 Lingfeng Huang
 </div>

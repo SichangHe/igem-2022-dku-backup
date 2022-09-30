@@ -1,4 +1,4 @@
-<img alt="logo" id="home_logo" src="logo_transparent.png" class="items-center block w-1/3 m-auto duration-100" />
+<img alt="logo" id="home_logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="items-center block w-1/3 m-auto duration-100" />
 
 <h1 class="text-center">GutGuard</h1>
 

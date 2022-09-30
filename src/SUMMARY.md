@@ -2,6 +2,7 @@
 
 - [Home](./index.md)
 - [Team](./team.md)
+    - [Team](./team.md)
     - [Attributions](./attributions.md)
     - [Collaborations](./collaborations.md)
 - [Project](./communication.md)

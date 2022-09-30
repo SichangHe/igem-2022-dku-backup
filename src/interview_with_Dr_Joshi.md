@@ -11,7 +11,7 @@ which provide essential references for our project.
 To further understand the logics and advantages of this bioengineered model,
 we invited Dr. Joshi for an interview.
 
-![Dr. Joshi interview photo 1](Dr_Joshi_interview1.png)
+![Dr. Joshi interview photo 1](https://static.igem.wiki/teams/4161/wiki/dr-joshi-interview1.png)
 
 ### Interview Content  
 
