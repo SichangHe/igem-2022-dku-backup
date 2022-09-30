@@ -74,7 +74,7 @@ Sichang He (Steven)
 Jasmine Santos
 </div>
 <div>
-<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
+<img alt="Yuxiang's Picture" src="https://static.igem.wiki/teams/4161/wiki/img-1134.jpg" class="max-w-full" />
 <br />
 Yuxiang He
 </div>
