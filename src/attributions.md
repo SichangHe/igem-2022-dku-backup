@@ -21,10 +21,9 @@ Helped with protein modeling using RoseTTAFold, Robetta, and PyMOL.
 
 ### Jasmine Santos
 
-Conceptualized details of the cell surface display technology project during preliminary brainstorming and provided proof of concept.
-Wrote initial abstract and refined the general methodology framework.
-Built protein models for candidate microbes via Alphafold and Haddock and evaluated fidelity of each model via quantiative metrics. 
-Modelled growth of chosen microbe model computationally. 
+Conceptualized cell surface display technology project during preliminary brainstorming and provided proof of concept through review of related literature.
+Wrote the project abstract and refined general methodology framework. Built protein models for candidate microbes via Alphafold and Haddock and evaluated fidelity of each model via quantiative metrics.
+Modelled growth of chosen microbe model computationally.
 
 ### Yuxiang He
 
