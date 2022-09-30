@@ -50,7 +50,7 @@ Yunyi Ru
 </div>
 <div>
 <br />
-<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
+<img alt="Renwei's Picture" src="https://static.igem.wiki/teams/4161/wiki/renwei-pic.jpg" class="max-w-full" />
 Renwei Gao
 </div>
 <div>
