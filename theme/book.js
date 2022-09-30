@@ -129,9 +129,6 @@ const add_toc = () => {
                 } else {
                     found_current_h2 = true;
                     if (last_passed_h2 !== null) {
-                        console.log(
-                            `Just found current h2, highlighting ${last_passed_h2.textContent} and unhighlighting ${h2.textContent}`
-                        );
                         last_passed_h2.classList.add("expanded");
                         last_passed_h2.scrollIntoViewIfNeeded();
                     }
@@ -151,7 +148,6 @@ const add_toc = () => {
         }
     };
     const schedule_highlight = async () => {
-        console.log("Scheduling highlight.");
         if (highlight_active) {
             highlight_scheduled = true;
         } else {
