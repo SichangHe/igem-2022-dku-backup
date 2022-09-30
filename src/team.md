@@ -51,6 +51,7 @@ Yunyi Ru
 <div>
 <br />
 <img alt="Renwei's Picture" src="https://static.igem.wiki/teams/4161/wiki/renwei-pic.jpg" class="max-w-full" />
+<br />
 Renwei Gao
 </div>
 <div>
