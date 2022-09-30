@@ -70,7 +70,7 @@ Qizhou Jiang
 Sichang He (Steven)
 </div>
 <div>
-<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
+<img alt="Jasmine's Picture" src="https://static.igem.wiki/teams/4161/wiki/jas-pic.jpg" class="max-w-full" />
 <br />
 Jasmine Santos
 </div>
@@ -80,7 +80,7 @@ Jasmine Santos
 Yuxiang He
 </div>
 <div>
-<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
+<img alt="Bella's Picture" src="https://static.igem.wiki/teams/4161/wiki/bella.jpg" class="max-w-full" />
 <br />
 Zhenyu Xu
 </div>
@@ -109,4 +109,11 @@ Yang Yu
 <br />
 Lingfeng Huang
 </div>
+</div>
+
+## The whole team
+
+<div class="grid items-end grid-flow-row grid-cols-1 gap-4 text-center">
+<img alt="Photo of the whole team 1" src="https://static.igem.wiki/teams/4161/wiki/team-photo.jpg" />
+<img alt="Photo of the whole team 2" src="https://static.igem.wiki/teams/4161/wiki/groupphoto2.png" />
 </div>
