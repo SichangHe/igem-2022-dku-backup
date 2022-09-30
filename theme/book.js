@@ -84,12 +84,21 @@ const rotate_home_logo = () => {
 
 const add_toc = () => {
     const h2s = document.querySelectorAll("h2");
-    if (h2s.length === 0) {
+    if (h2s.length < 2) {
         return;
     }
     const current_page = document.querySelector(
         ".chapter li.chapter-item:has(a.active):not(:has(a.toggle))"
     );
+    const arrow_div = document.createElement("div");
+    arrow_div.textContent = "❱";
+    const toggle_anchor = document.createElement("a");
+    toggle_anchor.classList.add("toggle");
+    toggle_anchor.append(arrow_div);
+    toggle_anchor.addEventListener("click", () =>
+        current_page.classList.toggle("expanded")
+    );
+    current_page.append(toggle_anchor);
     const toc_ol = document.createElement("ol");
     toc_ol.classList.add("section");
     const h2_offset_w_toc = [];
@@ -124,10 +133,12 @@ const add_toc = () => {
                             `Just found current h2, highlighting ${last_passed_h2.textContent} and unhighlighting ${h2.textContent}`
                         );
                         last_passed_h2.classList.add("expanded");
+                        last_passed_h2.scrollIntoViewIfNeeded();
                     }
                 }
             }
             h2.classList.remove("expanded");
+            h2.scrollIntoViewIfNeeded();
         }
         if (!found_current_h2 && last_passed_h2 !== null) {
             // The last h2 is the one to highlight
