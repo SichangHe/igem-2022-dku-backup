@@ -19,6 +19,12 @@ Introduced Git and GitLab to the team and
 helped the team adopt to the workflow on GitLab.
 Helped with protein modeling using RoseTTAFold, Robetta, and PyMOL.
 
+### Jasmine Santos
+
+Conceptualized cell surface display technology project during preliminary brainstorming and provided proof of concept through review of related literature.
+Wrote the project abstract and refined general methodology framework. Built protein models for candidate microbes via Alphafold and Haddock and evaluated fidelity of each model via quantiative metrics.
+Modelled growth of chosen microbe model computationally.
+
 ### Yuxiang He
 
 Built a 3D model for the drug delivery system.
