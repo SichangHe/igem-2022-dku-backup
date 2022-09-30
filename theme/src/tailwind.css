@@ -40,6 +40,14 @@ main {
     overflow-wrap: break-word;
 }
 
+main:not(.no-js) {
+    @apply hidden;
+}
+
+.no-js #main-loading {
+    @apply hidden;
+}
+
 footer {
     @apply text-sm pt-60;
 }

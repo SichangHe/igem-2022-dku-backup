@@ -101,7 +101,7 @@ const add_toc = () => {
     current_page.append(toggle_anchor);
     const toc_ol = document.createElement("ol");
     toc_ol.classList.add("section");
-    const h2_offset_w_toc = [];
+    const h2_w_toc = [];
     for (const h2 of h2s) {
         const anchor = document.createElement("a");
         anchor.textContent = h2.textContent;
@@ -110,7 +110,7 @@ const add_toc = () => {
         const header2 = document.createElement("li");
         header2.classList.add("chapter-item");
         header2.append(anchor);
-        h2_offset_w_toc.push([h2.offsetTop, header2]);
+        h2_w_toc.push([h2, header2]);
         toc_ol.append(header2);
     }
     const toc_li = document.createElement("li");
@@ -121,25 +121,25 @@ const add_toc = () => {
     const highlight_current_h2 = () => {
         highlight_scheduled = false;
         let found_current_h2 = false;
-        let last_passed_h2 = null;
-        for (const [offset, h2] of h2_offset_w_toc) {
+        let last_passed_toc = null;
+        for (const [h2, toc] of h2_w_toc) {
             if (!found_current_h2) {
-                if (window.scrollY > offset) {
-                    last_passed_h2 = h2;
+                if (window.scrollY > h2.offsetTop) {
+                    last_passed_toc = toc;
                 } else {
                     found_current_h2 = true;
-                    if (last_passed_h2 !== null) {
-                        last_passed_h2.classList.add("expanded");
-                        last_passed_h2.scrollIntoViewIfNeeded();
+                    if (last_passed_toc !== null) {
+                        last_passed_toc.classList.add("expanded");
+                        last_passed_toc.scrollIntoViewIfNeeded();
                     }
                 }
             }
-            h2.classList.remove("expanded");
-            h2.scrollIntoViewIfNeeded();
+            toc.classList.remove("expanded");
+            toc.scrollIntoViewIfNeeded();
         }
-        if (!found_current_h2 && last_passed_h2 !== null) {
+        if (!found_current_h2 && last_passed_toc !== null) {
             // The last h2 is the one to highlight
-            last_passed_h2.classList.add("expanded");
+            last_passed_toc.classList.add("expanded");
         }
         if (highlight_scheduled) {
             schedule_highlight();
@@ -158,6 +158,13 @@ const add_toc = () => {
     window.addEventListener("scroll", schedule_highlight);
 };
 
+const hide_loading = () => {
+    let main = document.querySelector("main");
+    main.style.display = "block";
+    let main_loading = document.getElementById("main-loading");
+    main_loading.style.display = "none";
+};
+
 const load = () => {
     sidebar_aria();
     codeSnippets();
@@ -169,6 +176,7 @@ const load = () => {
     controllMenu();
     rotate_home_logo();
     add_toc();
+    hide_loading();
 };
 
 window.addEventListener("load", load);
