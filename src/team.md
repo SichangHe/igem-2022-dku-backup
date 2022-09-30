@@ -9,7 +9,7 @@
 Yixuan Wu (Lisa)
 </div>
 <div>
-<img alt="Kathy's Picture" src="https://static.igem.wiki/teams/4161/wiki/kathy.jpeg" class="max-w-full" />
+<img alt="Kathy's Picture" src="https://static.igem.wiki/teams/4161/wiki/yixuanliu-kathy.png" class="max-w-full" />
 <br />
 Yixuan Liu
 </div>
@@ -29,7 +29,7 @@ Zhujun Yao
 Lingrui Lai
 </div>
 <div>
-<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
+<img alt="Yuxin's Picture" src="https://static.igem.wiki/teams/4161/wiki/yuxin-wang-profile-photo.jpg" class="max-w-full" />
 <br />
 Yuxin Wang
 </div>
@@ -50,7 +50,7 @@ Yunyi Ru
 </div>
 <div>
 <br />
-<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
+<img alt="Renwei's Picture" src="https://static.igem.wiki/teams/4161/wiki/renwei-pic.jpg" class="max-w-full" />
 Renwei Gao
 </div>
 <div>
@@ -74,7 +74,7 @@ Sichang He (Steven)
 Jasmine Santos
 </div>
 <div>
-<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
+<img alt="Yuxiang's Picture" src="https://static.igem.wiki/teams/4161/wiki/img-1134.jpg" class="max-w-full" />
 <br />
 Yuxiang He
 </div>
@@ -89,7 +89,7 @@ Zhenyu Xu
 
 <div class="grid items-end grid-flow-row grid-cols-2 gap-4 text-center md:grid-cols-4">
 <div>
-<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
+<img alt="Jiani's Picture" src="https://static.igem.wiki/teams/4161/wiki/jiani-pic.jpg" class="max-w-full" />
 <br />
 Jiani Chen
 </div>
