@@ -1,4 +1,4 @@
-# Club Expo
+## Club Expo
 
 ![Club expo figure 1](https://static.igem.wiki/teams/4161/wiki/club-expo1.jpg)
 

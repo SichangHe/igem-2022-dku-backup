@@ -72,7 +72,7 @@ const rotate_home_logo = () => {
         rotate(0);
         old_offset = window.scrollY;
     };
-    const apply_rotation = () => {
+    const apply_rotation = async () => {
         if (timer !== null) {
             clearTimeout(timer);
         }
@@ -80,6 +80,75 @@ const rotate_home_logo = () => {
         timer = setTimeout(reset_rotation, 100);
     };
     window.addEventListener("scroll", apply_rotation);
+};
+
+const add_toc = () => {
+    const h2s = document.querySelectorAll("h2");
+    if (h2s.length === 0) {
+        return;
+    }
+    const current_page = document.querySelector(
+        ".chapter li.chapter-item:has(a.active):not(:has(a.toggle))"
+    );
+    const toc_ol = document.createElement("ol");
+    toc_ol.classList.add("section");
+    const h2_offset_w_toc = [];
+    for (const h2 of h2s) {
+        const anchor = document.createElement("a");
+        anchor.textContent = h2.textContent;
+        anchor.href = `#${h2.id}`;
+        anchor.classList.add("toc-item");
+        const header2 = document.createElement("li");
+        header2.classList.add("chapter-item");
+        header2.append(anchor);
+        h2_offset_w_toc.push([h2.offsetTop, header2]);
+        toc_ol.append(header2);
+    }
+    const toc_li = document.createElement("li");
+    toc_li.append(toc_ol);
+    current_page.after(toc_li);
+    let highlight_scheduled = false;
+    let highlight_active = false;
+    const highlight_current_h2 = () => {
+        highlight_scheduled = false;
+        let found_current_h2 = false;
+        let last_passed_h2 = null;
+        for (const [offset, h2] of h2_offset_w_toc) {
+            if (!found_current_h2) {
+                if (window.scrollY > offset) {
+                    last_passed_h2 = h2;
+                } else {
+                    found_current_h2 = true;
+                    if (last_passed_h2 !== null) {
+                        console.log(
+                            `Just found current h2, highlighting ${last_passed_h2.textContent} and unhighlighting ${h2.textContent}`
+                        );
+                        last_passed_h2.classList.add("expanded");
+                    }
+                }
+            }
+            h2.classList.remove("expanded");
+        }
+        if (!found_current_h2 && last_passed_h2 !== null) {
+            // The last h2 is the one to highlight
+            last_passed_h2.classList.add("expanded");
+        }
+        if (highlight_scheduled) {
+            schedule_highlight();
+        } else {
+            highlight_active = false;
+        }
+    };
+    const schedule_highlight = async () => {
+        console.log("Scheduling highlight.");
+        if (highlight_active) {
+            highlight_scheduled = true;
+        } else {
+            highlight_active = true;
+            setTimeout(highlight_current_h2, 200);
+        }
+    };
+    window.addEventListener("scroll", schedule_highlight);
 };
 
 const load = () => {
@@ -92,6 +161,7 @@ const load = () => {
     scrollToTop();
     controllMenu();
     rotate_home_logo();
+    add_toc();
 };
 
 window.addEventListener("load", load);
