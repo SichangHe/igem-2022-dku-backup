@@ -105,7 +105,7 @@ Yang Yu
 
 <div class="grid items-end grid-flow-row grid-cols-2 gap-4 text-center md:grid-cols-4">
 <div>
-<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
+<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/linfeng-huang.jpeg" class="max-w-full" />
 <br />
 Lingfeng Huang
 </div>
