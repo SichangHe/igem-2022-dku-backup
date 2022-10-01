@@ -95,7 +95,7 @@ Zhenyu Xu
 Jiani Chen
 </div>
 <div>
-<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/steven-pic.jpg" class="max-w-full" />
+<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/yang-yu.jpeg" class="max-w-full" />
 <br />
 Yang Yu
 </div>
