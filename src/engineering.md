@@ -157,3 +157,7 @@ We designed the following sequences:
 
 [^Gelfat,2021]: Gelfat, I., Aqeel, Y., Tremblay, J. M., Jaskiewicz, J. J., Shrestha, A., Lee, J. N., Hu, S., Qian, X., Magoun, L., Sheoran, A., Bedenice, D., Giem, C., Manjula-Basavanna, A., Osburne, M. S., Tzipori, S., Shoemaker, C. B., Leong, J. M., & Joshi, N. S. (2021). Single domain antibodies against enteric pathogen virulence factors are active as curli fiber fusions on probiotic E. coli Nissle 1917 (p. 2021.06.18.448998). *bioRxiv*. <https://doi.org/10.1101/2021.06.18.448998>
 
+Barta, M. L., Shearer, J. P., Arizmendi, O., Tremblay, J. M., Mehzabeen, N., Zheng, Q., Battaile, K. P., Lovell, S., Tzipori, S., Picking, W. D., Shoemaker, C. B., & Picking, W. L. (2017). Single-domain antibodies pinpoint potential targets within Shigella invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. J Biol Chem, 292(40), 16677-16687. https://doi.org/10.1074/jbc.M117.802231
+
+Sierocki, R., Jneid, B., Orsini Delgado, M. L., Plaisance, M., Maillere, B., Nozach, H., & Simon, S. (2021). An antibody targeting type III secretion system induces broad protection against Salmonella and Shigella infections. PLoS Negl Trop Dis, 15(3), e0009231. https://doi.org/10.1371/journal.pntd.0009231 
+
