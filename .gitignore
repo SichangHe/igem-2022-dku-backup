@@ -1,0 +1,15 @@
+**.*
+!.gitignore
+!.gitlab-ci.yml
+!book.toml
+!theme/**.css
+!theme/**.hbs
+!theme/**.js
+!**.md
+!**.sh
+!.vscode/settings.json
+book
+**.DS_Store
+**.ini
+!theme/src/**.css
+!script/**.py

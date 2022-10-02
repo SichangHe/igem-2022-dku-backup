@@ -1,0 +1,12 @@
+default:
+    image: bitnami/git:latest
+pages:
+    stage: deploy
+    script:
+        - git clone https://github.com/SichangHe/mdbook_binaries.git
+        - export PATH="$PWD/mdbook_binaries/bin:$PATH"
+        - mdbook build
+        - mv book/html public
+    artifacts:
+        paths:
+            - public
