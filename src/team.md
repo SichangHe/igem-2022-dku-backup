@@ -34,7 +34,7 @@ Lingrui Lai
 Yuxin Wang
 </div>
 <div>
-<img alt="Irene's Picture" src="https://static.igem.wiki/teams/4161/wiki/irene-pic.jpg" class="max-w-full" />
+<img alt="Irene's Picture" src="https://static.igem.wiki/teams/4161/wiki/jj-pic.jpg" class="max-w-full" />
 <br />
 Jingyun Jin
 </div>
