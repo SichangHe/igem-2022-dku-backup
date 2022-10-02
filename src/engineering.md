@@ -8,6 +8,46 @@ This page will give a detailed explanation about the engineering cycle. To make 
 
 ### Yeast
 
+#### Cycle 1
+
+##### Design
+
+We located a single-domain antibody (VHH) named 20ipaD from the database, whose binding ability with the needle tip protein ipaD of *Shigella* type III secretion system has be testified (Barta et al., 2017; Sierocki et al., 2021). Peptide sequences of 20ipaD from Barta et al (2017). Codon optimization was performed to get DNA sequences. Two flank sequences containing XhoI and ApaI cutting sites as well as C-terminal Flag-tag were added to the ipaD DNA sequence. 
+
+##### Build
+
+Designed 20ipaD sequences were chemically de novo synthesized and sent in pUC19. XhoI and ApaI double-digestion enabled us to ligate the 20ipaD DNA sequence into pYD1, a plasmid allowing the surface display of the gene it carries in yeast. The ligation of 20ipaD into pYD1 generates a DNA sequencing coding a recombinant protein of 20ipaD and Aga2, a yeast extracellular membrane protein. pYD1 also contained a replication origin recognized by bacteria and an ampicillin resistance gene. After plasmid ligation, recombinant plasmids were transferred into *E. coli* to get a clone via ampicillin selection. Cloned plasmids were then transferred into yeast cells. Yeast cells containing the plasmid were selected by tryptophane-deficient medium. Expression of the recombinant protein was induced by add galactose.
+
+##### Test
+
+After transformation of recombinant plasmid into *E. coli* and single colony collection, we perform enzyme digestion and gel electrophoresis to check if the ligation and transformation is successful. For expression assay, we incubated induced yeast cells with anti-flag-tag primary antibody. After incubating with FITC conjugated secondary antibody, cells were examined under florescence microscopy and flow cytometry.
+
+##### Learn
+
+Recombinant proteins were observed to express on the cell surfaces on a portion of the cell population. We therefore planned to further testify the effectiveness of our recombinant protein. Though previous modeling through Rosetta suggested that the recombinant Aga2 region as well as the linkers sequences do not undermine the correct folding of the VHH part, we still sought for a experimental support as well as a way to quantify the binding affinity. 
+
+#### Cycle 2
+##### Design
+
+In this cycle, we aimed to test binding affinity between the recombinant nanobody and the ipaD epitopes. ipaD were retrieved from NCBI database. Codon optimization was also performed to collect the DNA sequence. Similar to 20ipaD, flank regions were inserted into ipaD except the substitution of Flag-tag to HA-tag.
+
+##### Build
+
+Synthesized ipaD sequences were got from the same company. Using the same method, we expressed.
+##### Test
+
+##### Learn
+
+#### Cycle 3
+##### Design
+
+In this cycle, we aims to improve the expression level of the recombinant protein.
+
+#### Cycle 4
+##### Design
+
+In this cycle, we aims to improve the binding affinity of the recombinant protein with the antigen epitope.
+
 ### *Lactococcus lactis*
 #### Cycle 1
 ##### Design
