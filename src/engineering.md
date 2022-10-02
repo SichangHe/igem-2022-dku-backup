@@ -33,20 +33,21 @@ In this cycle, we aimed to test binding affinity between the recombinant nanobod
 
 ##### Build
 
-Synthesized ipaD sequences were got from the same company. Using the same method, we expressed.
+Synthesized ipaD sequences were got from the same company. Using the same method, we expressed ipaD recombinant protein of the yeast surface.
 ##### Test
+
 
 ##### Learn
 
 #### Cycle 3
 ##### Design
 
-In this cycle, we aims to improve the expression level of the recombinant protein.
+In this cycle, we aims to improve the expression level of the recombinant protein. Energy flows within the yeast cells would be controlled to concentrate more on protein production rather than other metabolic activities. We started by looking for a strong and continuously expressed promoter to drive the expression of 20ipaD recombinant protein. At the same time, we also tried to reduce other cellular activities. 
 
 #### Cycle 4
 ##### Design
 
-In this cycle, we aims to improve the binding affinity of the recombinant protein with the antigen epitope.
+In this cycle, we aims to improve the binding affinity of the recombinant protein with the antigen epitope. We would perform error prone PCRs to introduce mutations into 20ipaD sequences. Concentrations of the nucleotide analogs would be controlled so that only point mutants would be produced. All mutants would be screened to identify binding affinity improvements. To reduce the workload of screening, we would perform a modeling prescreen. In the prescreen, we would predict how single amino acid change influence the binding affinity between 20ipaD and ipaD.
 
 ### *Lactococcus lactis*
 #### Cycle 1
