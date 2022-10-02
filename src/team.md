@@ -19,7 +19,7 @@ Yixuan Liu
 Sihan Wang
 </div>
 <div>
-<img alt="Zhujun's Picture" src="https://static.igem.wiki/teams/4161/wiki/zhujun-pic.jpg" class="max-w-full" />
+<img alt="Zhujun's Picture" src="https://static.igem.wiki/teams/4161/wiki/zhujun-pic.png" class="max-w-full" />
 <br />
 Zhujun Yao
 </div>
