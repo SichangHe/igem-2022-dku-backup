@@ -110,6 +110,8 @@ According to the newly found protocol, the Lactococcus lactis was firstly suspen
 
 ### *Escherichia coli*
 
+![E.*coli* Engineering Cycle](https://static.igem.wiki/teams/4161/wiki/e-eng-cyc.png)
+
 #### Cycle 1
 
 ##### Design
@@ -129,7 +131,11 @@ We designed the following sequences to make the recombinant protein.
 
 * ipaD-3xHA
 
-However, due to limitations in budget & time, we only have JPS-G3-3xFLAG and ipaD-3xHA (inserted into pUC19 plasmids). By plasmid extraction, double digestion (*Bam*HI & *Xho*I) and PCR, we successfully obtained the sequences and verified the accuracy by Sanger sequencing, but we don't have csgB or intimin for surface display. 
+However, due to limitations in budget & time for gene synthesis, we only have JPS-G3-3xFLAG and ipaD-3xHA (inserted into pUC19 plasmids). By plasmid extraction, double digestion (*Bam*HI & *Xho*I) and PCR, we successfully obtained the sequences and verified the accuracy by Sanger sequencing, but we don't have csgB or intimin for surface display. 
+
+##### Learn
+
+Complex sequences including potential harmful genes may impact synthesis efficiency.
 
 
 #### Cycle 2
