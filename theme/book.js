@@ -87,9 +87,11 @@ const add_toc = () => {
     if (h2s.length < 2) {
         return;
     }
-    const current_page = document.querySelector(
-        ".chapter li.chapter-item:has(a.active):not(:has(a.toggle))"
+    const current_page_candidates = document.querySelectorAll(
+        ".chapter li.chapter-item.expanded"
     );
+    const current_page =
+        current_page_candidates[current_page_candidates.length - 1];
     const arrow_div = document.createElement("div");
     arrow_div.textContent = "❱";
     const toggle_anchor = document.createElement("a");
@@ -130,12 +132,12 @@ const add_toc = () => {
                     found_current_h2 = true;
                     if (last_passed_toc !== null) {
                         last_passed_toc.classList.add("expanded");
-                        last_passed_toc.scrollIntoViewIfNeeded();
+                        last_passed_toc.scrollIntoView();
                     }
                 }
             }
             toc.classList.remove("expanded");
-            toc.scrollIntoViewIfNeeded();
+            toc.scrollIntoView();
         }
         if (!found_current_h2 && last_passed_toc !== null) {
             // The last h2 is the one to highlight
