@@ -1,18 +1,39 @@
-<img alt="logo" id="home_logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="items-center block w-1/3 m-auto duration-100" />
+<img alt="logo" id="home_logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="items-center block w-1/3 pt-40 m-auto duration-100" />
 
-<h1 class="text-center">GutGuard</h1>
+<h1 class="pb-40 text-center">GutGuard</h1>
+<article class="grid grid-flow-col grid-cols-2 gap-20 pb-40">
+<div>
 
-content
+## Background
 
-math $x^2$
+Blah.
+</div>
+<img alt="logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="w-full" />
+</article>
+<article class="grid grid-flow-col grid-cols-2 gap-20 pb-40">
+<img alt="logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="w-full" />
+<div>
 
-$$
-\LaTeX\\
-y=\sum_{i=1}^n\int x^2\mathrm dx
-$$
+## Idea
 
-code
+Blah.
+</div>
+</article>
+<article class="grid grid-flow-col grid-cols-2 gap-20 pb-40">
+<div>
 
-```python
-print("something")
-```
+## Problems
+
+Blah.
+</div>
+<img alt="logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="w-full" />
+</article>
+<article class="grid grid-flow-col grid-cols-2 gap-20 pb-40">
+<img alt="logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="w-full" />
+<div>
+
+## Solutions
+
+Blah.
+</div>
+</article>
