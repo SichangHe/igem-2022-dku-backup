@@ -8,9 +8,9 @@ and large intestine (pH = 7),
 which comprises 200 m^2 of surface area in total (**Figure 1**).
 It is responsible for the digestion of food and absorption of nutrients.
 
-![Figure_1](https://static.igem.wiki/teams/4161/wiki/the-gi-tract.jpg)
+![Figure_1](https://static.igem.wiki/teams/4161/wiki/the-gi-tract.jpg) 
 
-**Figure 1** the GI tract.
+**Figure 1** | The GI tract. [^Peate]
 
 ### GI Microbiome
 
@@ -31,6 +31,11 @@ knowing the human microbiome helps with the development of
 biomarkers for predicting predisposition to diseases,
 designing targeted therapies,
 personalized drug therapies and probiotics.
+
+![Figure_2](https://static.igem.wiki/teams/4161/wiki/oversight-microbial-populations.png)
+
+**Figure 2** | Oversight of major microbial populations
+in the body sites sampled by human microbiome projects. [^Brock]
 
 The GI microbiota contains 10^13 to 10^14 microbial cells.
 Microbes in gut affect early development,
@@ -56,6 +61,11 @@ while *Firmicutes* and *Proteobacteria* are common in the mucus layer of the sto
 Some pathogens,
 such as *Helicobacter pylori*,
 are also discovered in the gastric mucosa.
+
+![Figure_3](https://static.igem.wiki/teams/4161/wiki/microenvironments-large-intestine.png)
+
+**Figure 3** | Different microenvironments in the large intestine. [^Brock]
+
 The microbiome in the large intestine generally serves as
 an in vivo fermentation vessel,
 with the microbiota using nutrients derived from the digestion of food
@@ -87,18 +97,7 @@ important metabolic reactions (e.g.,
 lack of vitamin B12 may lead to pernicious anemia
 – the red blood cells cannot function well).
 
-![Figure_2](https://static.igem.wiki/teams/4161/wiki/oversight-microbial-populations.png)
-
-**Figure 2** Oversight of major microbial populations
-in the body sites sampled by human microbiome projects.
-
-![Figure_3](https://static.igem.wiki/teams/4161/wiki/microenvironments-large-intestine.png)
-
-**Figure 3** Different microenvironments in the large intestine.
-
-### GI Microbiome,
-Antibiotics,
-and Probiotics
+### GI Microbiome, Antibiotics, and Probiotics
 
 Currently,
 physicians usually recommend using antibiotics when treating GI tract bacterial infections.
@@ -121,3 +120,10 @@ anti-adherence,
 etc.
 Recently,
 engineered probiotics have also become a hot topic for new drug development.
+
+### Reference
+
+[^Brock]: Brock, T. D., Madigan, M. T., Martinko, J. M., & Parker, J. (2003). Brock biology of microorganisms. Upper Saddle River (NJ): Prentice-Hall, 2003.
+
+[^Peate]: Peate, I. (2018). Anatomy and physiology, 9. The gastrointestinal system. British Journal of Healthcare Assistants, 12(3), 110–114. <https://doi.org/10.12968/bjha.2018.12.3.110>
+
