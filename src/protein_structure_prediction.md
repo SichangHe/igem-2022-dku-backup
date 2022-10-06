@@ -122,18 +122,39 @@ PDB database.
 The calculated average energy over 40 residues is always under 0. Overall, the above structure 
 can be regarded as a good model of Yeast-20ipaD.
 
+
+https://static.igem.wiki/teams/4161/wiki/fig2-alignment.png
+
+**Figure 2** | Alignment of 20ipaD between itself in complex and it's original structure.
+
 The alignment between 20ipaD in the complex
 and 20ipaD's original structure shows that our complex can 
 have good effect theoretically (**Figure 2**). The RMSD value is tested to
 be 0.807, which means the complex have little influence on the 
 structure of 20ipaD.
 
-https://static.igem.wiki/teams/4161/wiki/fig2-alignment.png
-
-**Figure 2** | Alignment of 20ipaD between itself in complex and it's original structure.
-
 ### Part 3: Docking modeling
-We used online server HADDOCK to simulate the docking scenarios. 
+
+Interaction imformation (binding sites) of 20ipaD and ipaD 
+is found in the paper: ***Single-Domain Antibodies Pinpoint Potential Targets within Shigella 
+Invasion Plasmid Antigen D 
+of the Needle Tip Complex for Inhibition of Type III Secretion*** [^Binding]. 
+Since the alignment shows that the 20ipaD 
+in complex is almost the same with it's
+original structure, we can default the binding sites unchanged. Below is the
+binding sites between 20ipaD and ipaD (**Figure 3**).
+
+https://static.igem.wiki/teams/4161/wiki/fig3-binding-positions.png
+**Figure 3** | Binding
+
+We provided the interaction information for online server HADDOCK [^HADDOCK] to 
+simulate the docking between the complex and ipaD. 
+Below is the docking structure
+(**Figure 4**).
+
+
+**Figure 4** | Docking between 20ipaD (in complex) 
+and ipaD
 
 
 
@@ -160,3 +181,10 @@ and future teams.
 [^ProSA]: Prosa <https://prosa.services.came.sbg.ac.at/prosa.php>
 
 [^Z-scoreRMS]: Deviations from standard atomic volumes as a quality measure for protein crystal structures <https://pubmed.ncbi.nlm.nih.gov/8950272/#:~:text=Deviations%20of%20the%20atomic%20volumes%20from%20the%20standard,magnitude%20of%20the%20volume%20irregularities%20in%20the%20structure.>
+
+[^HADDOCK]: HADDOCK online server https://wenmr.science.uu.nl/haddock2.4/
+
+[^Binding]: Single-Domain Antibodies Pinpoint Potential Targets within Shigella Invasion Plasmid Antigen D 
+of the Needle Tip Complex for Inhibition of Type III Secretion. 
+DOI: 10.1074/jbc.M117.802231
+https://pubmed.ncbi.nlm.nih.gov/28842484/
