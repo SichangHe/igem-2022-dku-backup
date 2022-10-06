@@ -1,35 +1,35 @@
-## Theoretical estimation of antibody (VHH) effect
-In this section, we want to see whether our fusion protein-antibody complex could theoretically function well. To do this, we decide to compare the structure of antibody in complex with its original structure.
+# Visualization
 
-Overall, there are 3 steps:
+##Overview:
+We used online softwares to help us visualize the 3D protein structures and modeled 
+their docking 
+scenarios, 
+and then we evaluated their stability by using some common parameters. This section 
+aims to visually display the protein structure synthesized in this project and 
+provide ideas or directions for future experiments or experimental teams
 
-- Protein structure prediction
-- Protein structure evaluation
-- Protein structure alignment
+### Part 1: General pattern
+- Background
 
-### Part 1: Protein structure prediction
-
-Based on the amino acid sequence of the protein,
-various algorithms can predict the protein's 3D structure.
-These algorithms use machine learning to learn from
-databases of known amino acid sequences and structures.
-
-#### Background
-
-Our team designed DNA sequences for four fusion proteins ourselves<!-- todo: from what -->
+Our team designed DNA sequences for fusion protein-nanobody complex ourselves<!-- todo: from what -->
 and these newly designed protein's 3D structures are unknown.
 A protein's 3D structure determines its functionality,
 which,
 in our case,
-would be the antibody's docking on the membrane and its binding to the antigen.
+would be the nanobody's docking on the membrane and its binding to the antigen.
 <!-- todo: review -->
 
-It would intuitively indicate whether the designs are feasible
-by checking their structures.
+####Protein structure prediction
 
-#### Prediction service
+Based on the amino acid sequence of the protein, various algorithms can predict the 
+protein's 3D structure. These algorithms use machine learning to learn from databases 
+of known amino acid sequences and structures. It would intuitively indicate whether 
+the designs are feasible by checking their structures.
 
-We use Robetta and AlphaFold to predict the structure of the four proteins we designed.
+
+- Prediction service
+
+We use Robetta and AlphaFold to predict the structure of the proteins we designed.
 
 Robetta[^Robetta] is an online public service to predict protein structure.
 It is based on the algorithms of Rosetta from the Rosetta Commons.
@@ -42,45 +42,106 @@ a multi-institutional collaborative research and software development group.
 Robetta's primary service is to predict the 3-dimensional structure of
 a protein given the amino acid sequence.
 
-AlphaFold[^AlphaFoldPaper] is a prediction software that can structure the 3D model of a protein based on its amino acid sequence, using a combination of bioinformatics and physical approaches. We run models on AlphaFold (Phenix version) [^AlphaFoldPh] Colab notebook and it will automatically give the highest-scoring model.
-This Colab notebook is derived from ColabFold [^ColabFold] and the DeepMind AlphaFold2 Colab[^AlphaFold2Colab]
+AlphaFold[^AlphaFoldPaper] is a prediction software that can structure the 3D model 
+of a protein based on its amino acid sequence, using a combination of bioinformatics 
+and physical approaches. We run models on AlphaFold (Phenix version) [^AlphaFoldPh] Colab 
+notebook and it will automatically give the highest-scoring model.
+This Colab notebook is derived from ColabFold [^ColabFold] and the DeepMind AlphaFold2
+ Colab[^AlphaFold2Colab]
 
-Robetta[^Robetta] and AlphaFold Colab notebook[^AlphaFoldPh] both accept single-letter code amino acid sequences
+Robetta[^Robetta] and AlphaFold Colab notebook[^AlphaFoldPh] both accept single-letter 
+code 
+amino acid sequences
 and generate Protein Database (PDB) files,
-which contains information about the protein's structure. Robetta produces 5 models of different configuration with same score for each sequence. Alphafold automatically produces the model with highest score.
+which contains information about the protein's structure. Robetta produces 5 models of 
+different configuration with same score for each sequence. Alphafold automatically produces 
+the model with highest score. 
 
 We view these pdb files in PyMOL[^PyMOL], a powerful tool for 3D structure visualization.
 
-### Part 2: Protein structure validation
-Assessment of these resultant structures from Robetta and Alphafold2 is needed for deciding which structure is more credible and can be used in future anlysis. There are several parameters to consider: ramachandran plot, overall G-factors, atomic Z-score RMS, percentage of the amino acids having scored >= 0.2 in the 3D/1D profile, overall quality factor, and Z-score. We use online server SAVES v6.0[^SAVES] and ProSA[^ProSA] for the validation.
+####Protein structure evaluation
 
-#### Parameters
+Assessment of these resultant structures from Robetta and Alphafold2 is needed for 
+deciding which structure is more credible and can be used in future anlysis. There are 
+several parameters to consider: ramachandran plot, overall G-factors, atomic Z-score RMS, 
+percentage of the amino acids having scored >= 0.2 in the 3D/1D profile, overall quality factor, 
+and Z-score. We use online server SAVES v6.0[^SAVES] and ProSA[^ProSA] for the validation.
+
+- Parameters
 
 1. Ramachandran plot:\
-   Ramachandran plot shows the theoretical conformation of amino acid residues and is mainly used to evaluate the model quality after homologous modeling. It considers whether the conformation of amino acids is reasonable.Based on an analysis of 118 structures of resolution of at least 2.0 Angstroms and R-factor no greater than 20%, a good quality model would be expected to have over 90% in the most favoured regions.[^SAVES]
-2. Overall G-factors: \
-G-factors indicate whether the stereochemical property is plausible or not. A higher G-factor means higher probability.
-3. Atomic Z-score RMS:\
-Z-score root mean square deviation (Z-score RMS) measures the "average magnitude of the volume irregularities in the structure." [^Z-scoreRMS] Z-score RMS for a good model should be around 1.0.
-4. Percentage of the amino acids having scored >= 0.2 in the 3D/1D profile:\
-Indicate whether the atomic model is compatible with its amino acid sequence. It should be higher than 80% for a good model.
-5. Overall quality factor:\
-An overall score for the model provided by SAVES server[^SAVES], ranging from 0 to 100. It should be higher than 80 for a good model.
-6. Z-score:\
-Indicate whether the z-score of the input structure is within the range of scores typically found for native proteins of similar size[^ProSA].
+   Ramachandran plot shows the theoretical conformation of amino acid residues and 
+   is mainly used to evaluate the model quality after homologous modeling. It considers 
+   whether the conformation of amino acids is reasonable. Based on an analysis of 
+   118 structures of resolution of at least 2.0 Angstroms and R-factor no greater than 
+   20%, 
+   a good quality model would be expected to have over 90% in the most favoured regions.[^SAVES]
+2. Atomic Z-score RMS:\
+Z-score root mean square deviation (Z-score RMS) measures the "average magnitude of the 
+volume irregularities in the structure." [^Z-scoreRMS] Z-score RMS for a good model should 
+be around 1.0.
+3. Percentage of the amino acids having scored >= 0.2 in the 3D/1D profile:\
+Indicate whether the atomic model is compatible with its amino acid sequence. It should 
+be higher than 80% for a good model.
+4. Overall quality factor:\
+An overall score for the model provided by SAVES server[^SAVES], ranging from 0 to 100. 
+It should be higher than 80 for a good model.
+5. Z-score:\
+Indicate whether the z-score of the input structure is within the range of scores typically 
+found for native proteins of similar size[^ProSA].
 
-#### Validation result
-<!-- todo: validation table and description for the best models -->
-### Part 3: Protein structure alignment
+All the structures shown later are the highest scoring structures.
 
-Based on the evaluation of models we got from Robetta[^Robetta] and AlphaFold Colab notebook[^AlphaFoldPh], we can compare the antibody structure in the model with its original structure by using PyMOL[^PyMOL] alignment. If RMSD (root mean square deviation) value is below 2, we regard two structures similar, which means the antibody in our fusion-antibody complex will theoretically function well.
+####Protein structure alignment
 
-#### Alignment result
-<!-- todo: 2 tables of RMSD value -->
-- Alphafold models:\
-The pIDDT value shows the model confidence (out of 100) at each position. The higher the better. All pIDDT values are higher than 50. With the exception of group Yeast, the other models scored about 70. RMSD values are all lower than 1, indicating that the structure of the antibody in the complex model was very similar to its original structure.
-- Robetta models:\
-Except for group Yeast, the antibody structures in other complex models are quite different from their original structures（RMSD value all higher than 2）. This may be because we did not provide template to Robetta.
+Based on the evaluation of models we got from Robetta[^Robetta] and AlphaFold Colab 
+notebook[^AlphaFoldPh], we can compare the antibody structure in the model with its original 
+structure by using PyMOL[^PyMOL] alignment. If RMSD (root mean square deviation) value 
+is very low, 
+we regard two structures similar, which means the nanobody in our fusion-nanobody complex 
+will theoretically function well.
+
+### Part 2: Yeast-20ipaD visualization
+We have successfully expressed the fusion protein-nanobody complex, which is Yeast-20ipaD. 
+Here is the highest-scoring structure of Yeast-20ipaD (**Figure 1**).
+
+https://static.igem.wiki/teams/4161/wiki/fig1-yeast-20ipad.png
+
+**Figure 1** | 3D structure of Yeast-20ipaD complex
+
+Ramachandran plot of the above structure showed that 
+85.1% of residues are in the most favorite regions, 
+and 11.9% are in the allowed regions; 1.9% of the residues are in the generously allowed regions 
+and 1.1% in the disallowed regions. 
+The Atomic-Z-score RMS is tested to be 1.536, which is a little bit out of range. A very good model 
+would have a value close to 1. The percentage of the amino acids have scored >= 0.2 in the 3D/1D profile is 92.39%. 
+The overall quality factor is 82.89, which is acceptable.
+ProSA calculated Z-score is -8.7, which falls in the range of scores typically found for 
+experimentally determined (X-ray, NMR) structure for native proteins of similar size in 
+PDB database.
+The calculated average energy over 40 residues is always under 0. Overall, the above structure 
+can be regarded as a good model of Yeast-20ipaD.
+
+The alignment between 20ipaD in the complex
+and 20ipaD's original structure shows that our complex can 
+have good effect theoretically (**Figure 2**). The RMSD value is tested to
+be 0.807, which means the complex have little influence on the 
+structure of 20ipaD.
+
+https://static.igem.wiki/teams/4161/wiki/fig2-alignment.png
+
+**Figure 2** | Alignment of 20ipaD between itself in complex and it's original structure.
+
+### Part 3: Docking modeling
+We used online server HADDOCK to simulate the docking scenarios. 
+
+
+
+### Part 4: Other combinations of probiotic-nanobody complex
+In this section, we would like to show other possible combinations of fusion protein-nanobody 
+complex that might theoretically function well. To do this, we modeled their 3D structures 
+and their docking scenarios, and analyzed them. This could be helpful for future experiment 
+and future teams.
 
 [^Robetta]: Robetta <https://robetta.bakerlab.org>
 
