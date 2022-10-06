@@ -105,7 +105,7 @@ will theoretically function well.
 We have successfully expressed the fusion protein-nanobody complex, which is Yeast-20ipaD. 
 Here is the highest-scoring structure of Yeast-20ipaD (**Figure 1**).
 
-https://static.igem.wiki/teams/4161/wiki/fig1-yeast-20ipad.png
+<https://static.igem.wiki/teams/4161/wiki/fig1-yeast-20ipad.png>
 
 **Figure 1** | 3D structure of Yeast-20ipaD complex
 
@@ -123,7 +123,7 @@ The calculated average energy over 40 residues is always under 0. Overall, the a
 can be regarded as a good model of Yeast-20ipaD.
 
 
-https://static.igem.wiki/teams/4161/wiki/fig2-alignment.png
+<https://static.igem.wiki/teams/4161/wiki/fig2-alignment.png>
 
 **Figure 2** | Alignment of 20ipaD between itself in complex and it's original structure.
 
@@ -144,7 +144,7 @@ in complex is almost the same with it's
 original structure, we can default the binding sites unchanged. Below is the
 binding sites between 20ipaD and ipaD (**Figure 3**).
 
-https://static.igem.wiki/teams/4161/wiki/fig3-binding-positions.png
+<https://static.igem.wiki/teams/4161/wiki/fig3-binding-positions.png>
 **Figure 3** | Binding
 
 We provided the interaction information for online server HADDOCK [^HADDOCK] to 
