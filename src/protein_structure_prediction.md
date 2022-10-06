@@ -145,6 +145,8 @@ original structure, we can default the binding sites unchanged. Below is the
 binding sites between 20ipaD and ipaD (**Figure 3**).
 
 <https://static.igem.wiki/teams/4161/wiki/fig3-binding-positions.png>
+
+
 **Figure 3** | Binding
 
 We provided the interaction information for online server HADDOCK [^HADDOCK] to 
