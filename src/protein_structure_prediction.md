@@ -1,6 +1,6 @@
 # Visualization
 
-##Overview:
+## Overview:
 We used online softwares to help us visualize the 3D protein structures and modeled 
 their docking 
 scenarios, 
@@ -9,7 +9,6 @@ aims to visually display the protein structure synthesized in this project and
 provide ideas or directions for future experiments or experimental teams
 
 ### Part 1: General pattern
-- Background
 
 Our team designed DNA sequences for fusion protein-nanobody complex ourselves<!-- todo: from what -->
 and these newly designed protein's 3D structures are unknown.
@@ -19,7 +18,7 @@ in our case,
 would be the nanobody's docking on the membrane and its binding to the antigen.
 <!-- todo: review -->
 
-####Protein structure prediction
+#### Protein structure prediction
 
 Based on the amino acid sequence of the protein, various algorithms can predict the 
 protein's 3D structure. These algorithms use machine learning to learn from databases 
@@ -59,7 +58,7 @@ the model with highest score.
 
 We view these pdb files in PyMOL[^PyMOL], a powerful tool for 3D structure visualization.
 
-####Protein structure evaluation
+#### Protein structure evaluation
 
 Assessment of these resultant structures from Robetta and Alphafold2 is needed for 
 deciding which structure is more credible and can be used in future anlysis. There are 
@@ -82,7 +81,7 @@ volume irregularities in the structure." [^Z-scoreRMS] Z-score RMS for a good mo
 be around 1.0.
 3. Percentage of the amino acids having scored >= 0.2 in the 3D/1D profile:\
 Indicate whether the atomic model is compatible with its amino acid sequence. It should 
-be higher than 80% for a good model.
+be higher than 80% for a good model. [^SAVES]
 4. Overall quality factor:\
 An overall score for the model provided by SAVES server[^SAVES], ranging from 0 to 100. 
 It should be higher than 80 for a good model.
@@ -92,9 +91,9 @@ found for native proteins of similar size[^ProSA].
 
 All the structures shown later are the highest scoring structures.
 
-####Protein structure alignment
+#### Protein structure alignment
 
-Based on the evaluation of models we got from Robetta[^Robetta] and AlphaFold Colab 
+After the evaluation of models we got from Robetta[^Robetta] and AlphaFold Colab 
 notebook[^AlphaFoldPh], we can compare the antibody structure in the model with its original 
 structure by using PyMOL[^PyMOL] alignment. If RMSD (root mean square deviation) value 
 is very low, 
@@ -105,7 +104,7 @@ will theoretically function well.
 We have successfully expressed the fusion protein-nanobody complex, which is Yeast-20ipaD. 
 Here is the highest-scoring structure of Yeast-20ipaD (**Figure 1**).
 
-<https://static.igem.wiki/teams/4161/wiki/fig1-yeast-20ipad.png>
+<img src="https://static.igem.wiki/teams/4161/wiki/fig1-yeast-20ipad.png" width="500"/>
 
 **Figure 1** | 3D structure of Yeast-20ipaD complex
 
@@ -122,8 +121,7 @@ PDB database.
 The calculated average energy over 40 residues is always under 0. Overall, the above structure 
 can be regarded as a good model of Yeast-20ipaD.
 
-
-<https://static.igem.wiki/teams/4161/wiki/fig2-alignment.png>
+<img src="https://static.igem.wiki/teams/4161/wiki/fig2-alignment.png" width="500"/>
 
 **Figure 2** | Alignment of 20ipaD between itself in complex and it's original structure.
 
@@ -144,10 +142,10 @@ in complex is almost the same with it's
 original structure, we can default the binding sites unchanged. Below is the
 binding sites between 20ipaD and ipaD (**Figure 3**).
 
-<https://static.igem.wiki/teams/4161/wiki/fig3-binding-positions.png>
 
+<img src="https://static.igem.wiki/teams/4161/wiki/fig3-binding-positions.png" width="500"/>
 
-**Figure 3** | Binding
+**Figure 3** | Binding sites between 20ipaD and Ipad
 
 We provided the interaction information for online server HADDOCK [^HADDOCK] to 
 simulate the docking between the complex and ipaD. 
@@ -156,8 +154,21 @@ Below is the docking structure
 
 
 **Figure 4** | Docking between 20ipaD (in complex) 
-and ipaD
+and IpaD
 
+Ramachandran plot of the above structure showed that 
+84.0% of residues are in the most favorite regions, 
+and 13.7% are in the allowed regions; 1.2% of the residues are in the generously allowed regions 
+and 1.0% in the disallowed regions. 
+The Atomic-Z-score RMS is tested to be 1.486, which is relatively close to 1. 
+The percentage of the amino acids have scored >= 0.2 in the 3D/1D profile is 89.73%. 
+The overall quality factor is 82.78, which is acceptable.
+ProSA calculated Z-score is **<--what-->**, which falls in the range of scores typically found for 
+experimentally determined (X-ray, NMR) structure for native proteins of similar size in 
+PDB database.
+The calculated average energy over 40 residues is not always under 0, but there are 
+few high-energy parts. 
+Overall, the above structure indicates that 20ipaD can bind with IpaD well theoretically.
 
 
 ### Part 4: Other combinations of probiotic-nanobody complex
