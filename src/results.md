@@ -1,4 +1,4 @@
-# Results 
+# Results
 
 ## Introduction
 
@@ -13,7 +13,7 @@ This page will give a detailed record about the experiment results, future plans
 ### *Escherichia coli*
 
 #### Summary of Experiment Design
-We plan to display the nanobody JPS-G3 agianst the *Shigella* antigen ipaD on the surface of E.*coli* Nissle 1917 via the curli fiber protein *csg*A [^Gelfat,2021]. We expect the engineered E.*coli* Nissle 1917 to be capable of capturing the pathogen *Shigella flexneri* via antigen-antibody specific binding. Please check the detailed experiment design at 'design' part. 
+We plan to display the nanobody JPS-G3 agianst the *Shigella* antigen ipaD on the surface of E.*coli* Nissle 1917 via the curli fiber protein *csg*A [^Gelfat,2021]. We expect the engineered E.*coli* Nissle 1917 to be capable of capturing the pathogen *Shigella flexneri* via antigen-antibody specific binding. Please check the detailed experiment design at 'design' part.
 
 #### Plasmid Extraction
 pUC19-JPS-G3-3xHA and pUC19-ipaD-3xHA were extracted using the TIANGEN plasmid extraction kit.
@@ -35,13 +35,13 @@ Using following primers (**Table 1**), the JPS-G3-3xHA and ipaD-3xHA sequences w
 **Figure 1** | Gel Electrophoresis Result for Target Sequence Amplification
 
 #### Molecular Cloning for Cytoplasmic Protein Expression
-In order to construct the recombinant plasmids pET30a-ipaD-3xHA and pET30a-JPS-G3-3xFLAG, the PCR products obtained from the last step were digested by endonucleases *Bam*HI and *Xho*I to create sticky ends. Meanwhile, the pET30a plasmids were transformed into E.*coli* DH5a competent cells for propagation. After transformation and overnight culture, the extracted plasmids were also digested with endonucleases *Bam*HI and *Xho*I to create sticky ends. Afterwards, the digested plasmids and target sequences were ligated and transformed into E.*coli* DH5a competent cells (**Figure 2**). 
+In order to construct the recombinant plasmids pET30a-ipaD-3xHA and pET30a-JPS-G3-3xFLAG, the PCR products obtained from the last step were digested by endonucleases *Bam*HI and *Xho*I to create sticky ends. Meanwhile, the pET30a plasmids were transformed into E.*coli* DH5a competent cells for propagation. After transformation and overnight culture, the extracted plasmids were also digested with endonucleases *Bam*HI and *Xho*I to create sticky ends. Afterwards, the digested plasmids and target sequences were ligated and transformed into E.*coli* DH5a competent cells (**Figure 2**).
 
 <img src="https://static.igem.wiki/teams/4161/wiki/e-labnote-9-13-2.jpg" width="500"/>
 
 **Figure 2** | Plates for pET30a-ipaD-3xHA (i-1 & i-2) and pET30a-JPS-G3-3xFLAG (J-1 & J-2).
 
-Single colonies were picked from the plates and the inserted sequence were verified by colony PCR (**Figure 3**) and Sanger sequencing. 
+Single colonies were picked from the plates and the inserted sequence were verified by colony PCR (**Figure 3**) and Sanger sequencing.
 
 <img src="https://static.igem.wiki/teams/4161/wiki/e-labnote-9-14-1.png" width="500"/>
 
@@ -62,7 +62,7 @@ In order to construct the recombinant DNA sequences csgA-JPS-G3-3xFLAG and csgA-
 |OvF_ipaD|CATCAGTACGGCGGCAGCGGATGAATATTACAACTCTGACTAAT|/|
 |OvR_ipaD|GGCCTCGAGTCAAGCGTAGTCAGGTAC|*Xho*I|
 
-However, due to time limitation, this part has not been successfully implemented. 
+However, due to time limitation, this part has not been successfully implemented.
 
 ## Project Achievements & Analysis Summary
 
@@ -70,35 +70,32 @@ However, due to time limitation, this part has not been successfully implemented
 
 ### Successes
 
-* Constructed the recombinant xxx plasmid, and transformed it into xxx strain.
+- Constructed the recombinant xxx plasmid, and transformed it into xxx strain.
 
-* Expressed xxx protein.
+- Expressed xxx protein.
 
-* Effectiveness tested by xxx.
+- Effectiveness tested by xxx.
 
 ### Failures
 
-* Failed to construct and transform the recombinant plasmids in E.*coli* and L.*lactis*.
+- Failed to construct and transform the recombinant plasmids in E.*coli* and L.*lactis*.
 
 ### Inspirations
 
-* 
+-
 
 ## Future Plans
 
 (只是举例，请随意更改)
 
-* Express proteins in well-studied probiotic strains.
+- Express proteins in well-studied probiotic strains.
 
-* Insert nanobody sequences after other promoters that can ensure proper expression *in vivo*.
+- Insert nanobody sequences after other promoters that can ensure proper expression *in vivo*.
 
-* Conduct hemolysis experiments to see the effectiveness of killing *Shigella flexneri*. 
+- Conduct hemolysis experiments to see the effectiveness of killing *Shigella flexneri*.
 
-* Conduct *in vivo* experiments to test the therapeutic effects in rodent GI system. 
-
+- Conduct *in vivo* experiments to test the therapeutic effects in rodent GI system.
 
 ## Reference
 
 [^Gelfat,2021]: Gelfat, I., Aqeel, Y., Tremblay, J. M., Jaskiewicz, J. J., Shrestha, A., Lee, J. N., Hu, S., Qian, X., Magoun, L., Sheoran, A., Bedenice, D., Giem, C., Manjula-Basavanna, A., Osburne, M. S., Tzipori, S., Shoemaker, C. B., Leong, J. M., & Joshi, N. S. (2021). Single domain antibodies against enteric pathogen virulence factors are active as curli fiber fusions on probiotic E. coli Nissle 1917 (p. 2021.06.18.448998). *bioRxiv*. <https://doi.org/10.1101/2021.06.18.448998>
-
-

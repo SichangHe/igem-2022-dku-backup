@@ -17,7 +17,10 @@ However, conventional antibodies have a high cost because of the complicated syn
 
 Thus we propose a novel method to display nanobodies on the surface of probiotics. It exploits the natural pathogen inhibition effects of the probiotics. It also explores possibilities of antibody therapy mass production. Click on the left menu to learn more about the details.
 
-[^CDC,2019]: Centers for Disease Control and Prevention. (2019). 2019 AR Threats Report. <https://www.cdc.gov/drugresistance/biggest-threats.html>
+[^CDC,2019]: Centers for Disease Control and Prevention. (2019). 2019 AR
+Threats Report. <https://www.cdc.gov/drugresistance/biggest-threats.html>
 
-[^Francino,2016]: Francino, M. P. (2016, January 1). Antibiotics and the human gut microbiome: Dysbioses and accumulation of resistances. Frontiers. Retrieved March 28, 2022, from <https://www.frontiersin.org/articles/10.3389/fmicb.2015.01543/full>
-
+[^Francino,2016]: Francino, M. P. (2016, January 1). Antibiotics and the human
+gut microbiome: Dysbioses and accumulation of resistances. Frontiers. Retrieved
+March 28, 2022, from
+<https://www.frontiersin.org/articles/10.3389/fmicb.2015.01543/full>
