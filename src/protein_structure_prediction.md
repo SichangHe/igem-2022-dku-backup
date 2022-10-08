@@ -152,23 +152,34 @@ simulate the docking between the complex and ipaD.
 Below is the docking structure
 (**Figure 4**).
 
+<img src="https://static.igem.wiki/teams/4161/wiki/fig-4-docking-result.png" width="500"/>
 
 **Figure 4** | Docking between 20ipaD (in complex) 
 and IpaD
 
 Ramachandran plot of the above structure showed that 
-84.0% of residues are in the most favorite regions, 
-and 13.7% are in the allowed regions; 1.2% of the residues are in the generously allowed regions 
+85.0% of residues are in the most favorite regions, 
+and 12.7% are in the allowed regions; 1.2% of the residues are in the generously allowed regions 
 and 1.0% in the disallowed regions. 
-The Atomic-Z-score RMS is tested to be 1.486, which is relatively close to 1. 
-The percentage of the amino acids have scored >= 0.2 in the 3D/1D profile is 89.73%. 
-The overall quality factor is 82.78, which is acceptable.
-ProSA calculated Z-score is **<--what-->**, which falls in the range of scores typically found for 
+The Atomic-Z-score RMS is tested to be 1.441, which is relatively close to 1. 
+The percentage of the amino acids have scored >= 0.2 in the 3D/1D profile is 87.61%. 
+The overall quality factor is 85.53, which is acceptable.
+ProSA calculated Z-score is -7.16, which falls in the range of scores typically found for 
 experimentally determined (X-ray, NMR) structure for native proteins of similar size in 
 PDB database.
-The calculated average energy over 40 residues is not always under 0, but there are 
-few high-energy parts. 
+The calculated average energy over 40 residues is always under 0.
 Overall, the above structure indicates that 20ipaD can bind with IpaD well theoretically.
+
+Here is the alignment between our docking result and the original strucutre of 
+20ipaD-IpaD complex (**Figure 5**).
+
+<img src="https://static.igem.wiki/teams/4161/wiki/fig-5-alignment-of-docking-and-original.png" width="500"/>
+
+**Figure 5** | Alignment between Yeast-20ipaD-IpaD and 20ipaD-IpaD.
+
+RMSD is 0.36. which is very small and acceptable. This proves that our docking
+result is very similar with the original docking between 20ipaD and IpaD, which
+means our Yeast-20ipaD could theoretically work well.
 
 
 ### Part 4: Other combinations of probiotic-nanobody complex
