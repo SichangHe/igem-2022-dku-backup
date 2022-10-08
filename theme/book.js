@@ -132,12 +132,10 @@ const add_toc = () => {
                     found_current_h2 = true;
                     if (last_passed_toc !== null) {
                         last_passed_toc.classList.add("expanded");
-                        last_passed_toc.scrollIntoView();
                     }
                 }
             }
             toc.classList.remove("expanded");
-            toc.scrollIntoView();
         }
         if (!found_current_h2 && last_passed_toc !== null) {
             // The last h2 is the one to highlight

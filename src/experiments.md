@@ -24,9 +24,9 @@ This page will give a detailed record about the experiment process, including th
 
 Please see attached.
 
-![E.*coli* Lab Notes](https://static.igem.wiki/teams/4161/wiki/igem-e-labnotes.pdf)
+[E.*coli* Lab Notes](https://static.igem.wiki/teams/4161/wiki/igem-e-labnotes.pdf)
 
 #### Protocols
 Please see attached.
 
-![E.*coli* Protocols](https://static.igem.wiki/teams/4161/wiki/igem-e-protocols.pdf)
+[E.*coli* Protocols](https://static.igem.wiki/teams/4161/wiki/igem-e-protocols.pdf)
