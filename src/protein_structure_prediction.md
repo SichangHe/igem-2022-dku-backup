@@ -214,6 +214,18 @@ PDB database.
 The calculated average energy over 40 residues is always under 0.
 Overall, the above structure indicates that 20ipaD can bind with IpaD well theoretically.
 
+Below is the alignment between our docking result and the original docking 
+between 20ipaD and IpaD. 
+RMSD is 0.36, which is very small and acceptable. 
+
+<img src="https://static.igem.wiki/teams/4161/wiki/fig-5-alignment-of-docking-and-original.png"
+width="500"/>
+
+**Figure 5** | Alignment between Yeast-20ipaD-IpaD and 20ipaD-IpaD.
+
+All the above shows that our Yeast-20ipaD complex could theoretically work well 
+when binding with IpaD.
+
 
 ### Part 4: Other combinations of probiotic-nanobody complex
 In this section, we would like to show other possible combinations of fusion
