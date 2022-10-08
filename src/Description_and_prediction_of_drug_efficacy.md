@@ -13,9 +13,7 @@ calculated the efficiency by counting the number of Yeast cells that expressed
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig1-efficiency-expression.png" width="800"/>
 
-**Figure 1** | Fluorescent cells for Yeast cells that obviously expressed 20ipaD. 
+**Figure 1** | Fluorescent cells for Yeast cells that obviously expressed 20ipaD.
 Dark cells for no or very little expression
 
-
 ### Part 2: Prediction of post-medication scenario
-

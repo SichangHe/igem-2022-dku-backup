@@ -1,8 +1,9 @@
-# Experiment 
+# Experiment
 
 ## Introduction
 
-This page will give a detailed record about the experiment process, including the lab notes and protocols.  
+This page will give a detailed record about the experiment process,
+including the lab notes and protocols.  
 
 ## Experiment
 
