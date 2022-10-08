@@ -47,7 +47,7 @@ a multi-institutional collaborative research and software development group.
 Robetta's primary service is to predict the 3-dimensional structure of
 a protein given the amino acid sequence.
 
-AlphaFold[^AlphaFoldPaper] is a prediction software that can structure the 3D
+> AlphaFold[^AlphaFoldPaper] is a prediction software that can structure the 3D
 model
 of a protein based on its amino acid sequence, using a combination of
 bioinformatics
