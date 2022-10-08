@@ -179,7 +179,7 @@ table {
 }
 table td {
     padding: 3px 20px;
-    border: 1px var(--table-border-color) solid;
+    border: 1px var(--table-header-bg) solid;
 }
 table thead {
     background: var(--table-header-bg);

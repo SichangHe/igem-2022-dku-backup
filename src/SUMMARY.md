@@ -13,7 +13,6 @@
     - [Experiments](./experiments.md)
     - [Notebook](./notebook.md)
     - [Implementation](./implementation.md)
-    
     - [Partnership](./partnership.md)
     - [Proof of Concept](./proof-of-concept.md)
     - [Results](./results.md)
