@@ -815,3 +815,7 @@ ul#searchresults span.teaser em {
     @apply fixed w-10 pointer-events-none opacity-20;
     z-index: -1;
 }
+
+main > * {
+    @apply duration-1000;
+}

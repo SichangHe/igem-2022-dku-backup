@@ -213,6 +213,42 @@ const hide_loading = () => {
     main_loading.style.display = "none";
 };
 
+const fade_in = () => {
+    const text_blocks = document.querySelectorAll(
+        "main > h1, main > h2, main > h3, main > h4, main > h5, main > h6, main > article, main > div, main > p"
+    );
+    let opacity_active = false;
+    let opacity_scheduled = false;
+    const set_all_opacity = () => {
+        opacity_scheduled = false;
+        console.log("setting opacity");
+        for (const block of text_blocks) {
+            if (
+                window.scrollY <= block.offsetTop + block.offsetHeight &&
+                window.scrollY + window.innerHeight >= block.offsetTop
+            ) {
+                block.style.opacity = 1;
+            } else {
+                block.style.opacity = 0;
+            }
+        }
+        if (opacity_scheduled) {
+            setTimeout(set_all_opacity, 100);
+        } else {
+            opacity_active = false;
+        }
+    };
+    const schedule_opacity = () => {
+        if (opacity_active) {
+            opacity_scheduled = true;
+        } else {
+            opacity_active = true;
+            setTimeout(set_all_opacity, 100);
+        }
+    };
+    window.addEventListener("scroll", schedule_opacity);
+};
+
 const load = () => {
     sidebar_aria();
     codeSnippets();
@@ -225,6 +261,7 @@ const load = () => {
     rotate_home_logo();
     create_ambient();
     add_toc();
+    fade_in();
     hide_loading();
 };
 

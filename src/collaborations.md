@@ -1,7 +1,9 @@
-# Collaborations
-## Collaboration with LZU-PRO-A
-
-During our collaboration with LZU-PRO-A, we identified the main products in the probiotics market: daily probiotics, feminine probiotics, anti-stress probiotics, enzymes, and hair & nails products. Because of the geographical differences of the two teams, we decided to compare the differences between the Chinese probiotics products and North America probiotics products. To build upon our investigation, we decided to provide an educational brochure for probiotic treatment and conduct educational activities in local high schools.
-Regardless of the time differences across continents, we were able to meet online and discuss the details of our edcuational content. A brochure was designed and distributed during the local school meetup. [You can access the brochure here.](https://static.igem.wiki/teams/4161/wiki/aqua-and-purple-medical-trifold-brochure.pdf) More details see [education](education.md).
 
 
+<div class="flex justify-center items-center">
+    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Collaborations</span></h1>
+    <img src="https://static.igem.wiki/teams/4161/wiki/colla-bg.jpeg" />
+</div>
+
+## LZU,CCiC
+We collaborated with LZU, another iGEM team focusing on probiotics, on education. We found that there are many misleading claims about probiotics and their effects in the market, so we planned to conduct science promotion in local areas to improve people's understanding of probiotics. We chose a local international university to give a lecture on science popularization, and more than 300 middle and high school students and teachers attended.
