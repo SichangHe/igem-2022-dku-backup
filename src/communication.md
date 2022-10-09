@@ -316,21 +316,6 @@ width="500"/>
 **Figure 2** | Poster show, Judging, Journal Club
 
 
-## CCiC: iGEM community in China
-
-In order to carry out science communications on a larger scale, we participated
-the 9th CCiC Conference (Conference of China iGEMer Community), which is a
-national summit independently initiated by Chinese iGEM teams, aiming to
-provide a platform for iGEM teams to share resources and promote mutual
-learning and communication. We made poster and presented at the conference,
-answering questions from the audience and judges. After the conference, we
-collaborated with team LZU on science popularization about probiotics.
-
-
-<img src="https://static.igem.wiki/teams/4161/wiki/ccic-meeting.png"
-width="500"/>
-**Figure 3** | CCiC Conference
-
 
 ## Summary
 
