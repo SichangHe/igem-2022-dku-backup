@@ -37,7 +37,7 @@ composite segments were documented.
 | Part Code    | Part name                                                    |Link                                    |
 |--------------|--------------------------------------------------------------|-----------------------------------------  |
 | BBa_K4161301 | Single Domain Antibody 20ipaD Conjugated Aga2 Express Module | <http://parts.igem.org/Part:BBa_K4161301> |
-| BBa_K4161508 | Composite part                                               | <http://parts.igem.org/Part:BBa_K4161508> |
+| BBa_K4161508 | 488aa recombinant protein, Aga2 + ipaD| <http://parts.igem.org/Part:BBa_K4161508> |
 
 ## Group Y vector
 
