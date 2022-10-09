@@ -29,7 +29,6 @@ means it is necessary for us to focus on antibiotic therapy replacement.
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-wenjuan.png"
 width="500"/>
 
-**Figure 1** | Questionnaire result
 
 ## Interview with Prof. Cao
   
@@ -309,10 +308,7 @@ Innovation and Entrepreneurship Training Program—a national training program
 for college students on innovation and entrepreneurship. In this way, we can
 better promote the topic of synthetic biology to the DKU community and attract
 more fresh blood to participate in innovation. We made posters and participated
-in project exhibitions, and were regularly inspected by the jury on campus. In
-addition, we have established a journal club, where different members of the
-team introduce cutting-edge knowledge about synthetic biology every two weeks,
-and we are happy to see many freshmen participating.
+in project exhibitions, and were regularly inspected by the jury on campus. 
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-on-campus-communication.png"
 width="500"/>
