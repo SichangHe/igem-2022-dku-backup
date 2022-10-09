@@ -1,4 +1,8 @@
-# Team
+<div class="flex justify-center items-center">
+    <h1 class="absolute" style="z-index: 100;">Team</h1>
+    <img src="https://static.igem.wiki/teams/4161/wiki/groupphoto2.png" />
+</div>
+
 
 ## Biology
 
