@@ -1,4 +1,8 @@
-# Communication
+
+<div class="flex justify-center items-center">
+    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Communications</span></h1>
+    <img src="https://static.igem.wiki/teams/4161/wiki/communi-bg.jpg" />
+</div>
 
 ## Overview
 
