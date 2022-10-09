@@ -43,10 +43,11 @@ code {
 main {
     overflow-wrap: break-word;
     background: rgba(0, 0, 0, 0);
+    @apply hidden;
 }
 
-main:not(.no-js) {
-    @apply hidden;
+.no-js main {
+    @apply block !important;
 }
 
 .no-js #main-loading {
@@ -817,5 +818,9 @@ ul#searchresults span.teaser em {
 }
 
 main > * {
-    @apply duration-1000;
+    @apply duration-1000 opacity-0;
+}
+
+.no-js main > * {
+    @apply opacity-100 !important;
 }
