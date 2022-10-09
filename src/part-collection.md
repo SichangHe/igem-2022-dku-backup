@@ -1,9 +1,9 @@
-# Parts
+# Yeast (Group Y) Parts
 
 All genetic parts of group Y can be divided into 3 categories, including single
 element, key composite segment, and vector.
 
-## Single element
+## Group Y single elements
 
 The single elements refer to every functional unit of our key genetic parts,
 like promoter, linker, important polypeptide, etc. A total of seven single
@@ -19,48 +19,35 @@ elements were documented.
 | BBa_K4161506 | ipaD          | <http://parts.igem.org/Part:BBa_K4161506> |
 | BBa_K4161507 | HA            | <http://parts.igem.org/Part:BBa_K4161507> |
 
-## Key composite segment
+## Group Y key composite segments
 
 The key composite segments are clusters of multiple single elements, they make
 up the key expression modules or functional units of the genetic model. Two key
 composite segments were documented.
 
-<<<<<<< HEAD
-| Part Code    | Part name                                                    |
-Website                                 |
-|--------------|--------------------------------------------------------------|-
-----------------------------------------|
-| BBa_K4161301 | Single Domain Antibody 20ipaD Conjugated Aga2 Express Module |
-<http://parts.igem.org/Part:BBa_K4161301> |
-| BBa_K4161508 | Composite part                                               |
-<http://parts.igem.org/Part:BBa_K4161508> |
-=======
 | Part Code    | Part name                                                    |Link                                    |
 |--------------|--------------------------------------------------------------|-----------------------------------------  |
 | BBa_K4161301 | Single Domain Antibody 20ipaD Conjugated Aga2 Express Module | <http://parts.igem.org/Part:BBa_K4161301> |
 | BBa_K4161508 | Composite part                                               | <http://parts.igem.org/Part:BBa_K4161508> |
->>>>>>> db1311227dd0db03d08c1b18b4f1086731612c75
 
-## Vector
+## Group Y vector
 
 Most of our genetic designs were based on the yeast surface display vector
 pYD1, which is also documented.
 
-<<<<<<< HEAD
-| Part Code    | Part name                                                    |
-Website                                 |
-|--------------|--------------------------------------------------------------|-
-----------------------------------------|
-| BBa_K4161302 | pYD1 plasmid                                                 |
-<http://parts.igem.org/Part:BBa_K4161302> |
-=======
 | Part Code    | Part name                                                    |Link                                   |
 |--------------|--------------------------------------------------------------|------------------------------------------|
 | BBa_K4161302 | pYD1 plasmid                                                 | <http://parts.igem.org/Part:BBa_K4161302>|
 
 # E.coli Nissle 1917 (Group E) Parts
 
-## Group E single elements         
+## Group E single elements
+
+Single elements of Group E include nanobodies, 
+curli protein (csg) operon fragments, 
+linkers, tags, signal peptides, 
+promoters and terminators. A total of 15 parts were documented.
+
 | Part code | Part name| Link |
 | ------ | ------ | ------ |
 BBa_K4161001  | 20IpaD | <http://parts.igem.org/Part:BBa_K4161001>
@@ -82,15 +69,18 @@ BBa_K4161022 | thr terminator | <http://parts.igem.org/Part:BBa_K4161022>
 
 ## Group E composite segments
 
+Group E's composite parts are designed to express surface protein-nanobody fusion proteins. A total of 3 composite parts are documented. 
+
 | Part code | Part name| Link |
 | ------ | ------ | ------ |
 BBa_K4161003  | csg-JMK-H2, Csg surface display system on E. coli Nissle 1917 | <http://parts.igem.org/Part:BBa_K4161003>
 BBa_K4161004 | intimin-20IpaD, Nanobody surface display system based on intimin| <http://parts.igem.org/Part:BBa_K4161004>
-BBa_K4161017 | Neae: the intimin fragment for surface display | <http://parts.igem.org/Part:BBa_K4161017>
+BBa_K4161100  | Csg surface display system on E. coli Nissle 1917 |<http://parts.igem.org/Part:BBa_K4161100>
 
 ## Group E vectors
 
+This vector has pUC19 as the backbone and is codon optimized for csg expression in E. *coli*.
+
 | Part code | Part name| Link |
 | ------ | ------ | ------ |
-BBa_K4161100  | Csg surface display system on E. coli Nissle 1917 |<http://parts.igem.org/Part:BBa_K4161100>
->>>>>>> db1311227dd0db03d08c1b18b4f1086731612c75
+
