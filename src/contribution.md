@@ -1,4 +1,9 @@
-## Contribution
+
+<div class="flex justify-center items-center">
+    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Contribution</span></h1>
+    <img src="https://static.igem.wiki/teams/4161/wiki/contri-bg.jpg" />
+</div>
+
 
 We designed cell surface display platforms for probiotics including yeast,
 E.*coli* Nissle 1917, and L.*lactis*. To be specific, the yeast Aga2 surface
