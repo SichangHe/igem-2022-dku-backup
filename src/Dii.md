@@ -37,3 +37,7 @@ in the detection of binding affinity.
 We will conduct the experiment by pulling down on
 both sides of the nanobody-antigen complex.
 For false positives, DKU iGEM member Lingrui Lai suggested isotype testing.
+
+<img src="https://static.igem.wiki/teams/4161/wiki/dii.png"
+width="500"/>
+
