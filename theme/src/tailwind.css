@@ -15,7 +15,7 @@
     background: rgba(0, 0, 0, 0);
 }
 
-:not([class]):not(a):not(li):not(div):not(blockquote):not(mark):not(span):not(strong):not(em):not(main):not(img):not(footer) {
+:not([class], a, li, div, blockquote, mark, span, strong, em, main, img, footer) {
     background-color: var(--bg);
 }
 
@@ -42,12 +42,10 @@ code {
 /* make long words/inline code not x overflow */
 main {
     overflow-wrap: break-word;
-    background: rgba(0, 0, 0, 0);
-    @apply hidden;
 }
 
-.no-js main {
-    @apply block !important;
+html:not(.no-js) main {
+    @apply hidden;
 }
 
 .no-js #main-loading {
@@ -817,10 +815,6 @@ ul#searchresults span.teaser em {
     z-index: -1;
 }
 
-main > * {
+html:not(.no-js) main > * {
     @apply duration-1000 opacity-0;
-}
-
-.no-js main > * {
-    @apply opacity-100 !important;
 }
