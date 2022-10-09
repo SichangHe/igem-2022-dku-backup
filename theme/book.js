@@ -99,8 +99,8 @@ const create_ambient = async () => {
             x[_] += x_speed[_];
             y[_] += y_speed[_];
             r[_] += r_speed[_];
-            image.style.left = (Math.floor(x[_]) % window.innerWidth) + "px";
-            image.style.top = (Math.floor(y[_]) % window.innerHeight) + "px";
+            image.style.left = (x[_] % window.innerWidth) + "px";
+            image.style.top = (y[_] % window.innerHeight) + "px";
             image.style.transform = `rotate(${r[_]}deg)`;
         }
         setTimeout(update_ambient, 30);
