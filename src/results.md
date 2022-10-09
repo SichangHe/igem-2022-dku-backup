@@ -28,19 +28,19 @@ The yeasts that were transformed with pYD1-ipaD, pYD1-20ipaD, and pYD1 were ampl
 The induced cells were harvested and washed with PBS. The yeasts containing pYD1-ipaD were inoculated with rabbit anti-HA tag antibodies, while the yeasts containing pYD1-20ipaD, pYD1, or no plasmids were inoculated with rabbit anti-FLAG tag antibodies and BSA. After washed with PBS, the cells were inoculated with FITC-conjugated goat anti-rabbit immunoglobin antibodies and BSA without light. The cells were washed twice with PBS before imaged under UV-light. As **Fig5** shows, the yeasts containing pYD1-ipaD and pYD1-20ipaD emitted green fluorescence, whereas the yeasts containing empty plasmids, or no plasmids did not. This fluorescence pattern proved the yeasts indeed expressed and displayed the nanobody and the antigen on their surfaces, which announced the success of engineering.
 
 ![y-fig-1](https://static.igem.wiki/teams/4161/wiki/y-fig-1.png)
-**Fig1** | ipaD and 20ipaD DNA sequences were obtained and purified.
+
 
 ![y-fig-2](https://static.igem.wiki/teams/4161/wiki/y-fig-2.png)
-**Fig2** | Selection of colonies that were transformed with recombinant plasmids
+
 
 ![y-fig3](https://static.igem.wiki/teams/4161/wiki/y-fig3.png)
-**Fig3** | Sequencing data further confirmed the construction of recombinant plasmids.
+
 
 ![y-fig4](https://static.igem.wiki/teams/4161/wiki/y-fig4.png)
-**Fig4** | Transformation of recombinant plasmids into yeasts.
+
 
 ![y-fig5](https://static.igem.wiki/teams/4161/wiki/y-fig5.png)
-**Fig5** | Immunofluorescence microscopic imaging of engineered yeasts.
+
 
 ### *Lactococcus lactis*
 
