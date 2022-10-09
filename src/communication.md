@@ -3,10 +3,13 @@
 ## Overview
 
 We had science communications during different stages of our project.
-We designed these communications to have different manner, audience and scope,
-aiming at informing, educating, raising awareness of the topic of
-Gastrointestinal health, and increasing the sense of wonder about fighting
-against antibiotic resistance.
+Firstly, we designed a socially-oriented questionnaire to find out how much the
+ public knows about shigella.
+Then,throughout expert interviews, we managed to gain insights of our project feasibility
+and possible future directions. Finally, 
+we participated in on-campus communication to let more people know about shigella
+and surface display technology.
+
 
 ## Socially-Oriented Questionnaire
 
@@ -85,22 +88,6 @@ if we want to get closer to reality.
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-floyd.jpg"
 width="500"/>
 
-## On-Campus Communication
-
-As an undergraduate team, we participated in the 2022's College Student
-Innovation and Entrepreneurship Training Program—a national training program
-for college students on innovation and entrepreneurship. In this way, we can
-better promote the topic of synthetic biology to the DKU community and attract
-more fresh blood to participate in innovation. We made posters and participated
-in project exhibitions, and were regularly inspected by the jury on campus. In
-addition, we have established a journal club, where different members of the
-team introduce cutting-edge knowledge about synthetic biology every two weeks,
-and we are happy to see many freshmen participating.
-
-<img src="https://static.igem.wiki/teams/4161/wiki/fig-on-campus-communication.png"
-width="500"/>
-
-**Figure 2** | Poster show, Judging, Journal Club
 
 ## Interview with Dr. Neel Joshi
 
@@ -308,6 +295,27 @@ Overall,
 the interview was successful,
 and we were able to arm ourselves with adequate knowledge for the wet lab.
 
+### Interview with SINOVAC
+科兴采访
+
+## On-Campus Communication
+
+As an undergraduate team, we participated in the 2022's College Student
+Innovation and Entrepreneurship Training Program—a national training program
+for college students on innovation and entrepreneurship. In this way, we can
+better promote the topic of synthetic biology to the DKU community and attract
+more fresh blood to participate in innovation. We made posters and participated
+in project exhibitions, and were regularly inspected by the jury on campus. In
+addition, we have established a journal club, where different members of the
+team introduce cutting-edge knowledge about synthetic biology every two weeks,
+and we are happy to see many freshmen participating.
+
+<img src="https://static.igem.wiki/teams/4161/wiki/fig-on-campus-communication.png"
+width="500"/>
+
+**Figure 2** | Poster show, Judging, Journal Club
+
+
 ## CCiC: iGEM community in China
 
 In order to carry out science communications on a larger scale, we participated
@@ -323,21 +331,6 @@ collaborated with team LZU on science popularization about probiotics.
 width="500"/>
 **Figure 3** | CCiC Conference
 
-## Local School Education
-
-In the later stage of the experiment, in order to better promote the knowledge
-of synthetic biology and gastrointestinal health in the local area, we
-contacted a local international high school and successfully delivered popular
-science lectures to more than 330 middle and high school students and
-teachers.We distributed science manuals to everyone in the audience and
-introduced the GI tract, dysentery, probiotic therapy, and antibiotic
-resistance.
-
-<img src="https://static.igem.wiki/teams/4161/wiki/education3.jpg"
-width="500"/>
-
-**Figure 4** | Presentation at local high-school
-
 
 ## Summary
 
@@ -346,9 +339,4 @@ groups. The social questionnaire allowed us to identify the need for the
 program; the school publicity has attracted a batch of fresh blood to join the
 research and innovation of synthetic biology; the expert interviews enabled us to
 reflect on the feasibility and future directions of our lab design;
-the communication and cooperation
-with other Chinese IGEM teams enabled us to learn more knowledge, and also to
-understand the current issues of synthetic biology in China that deserve
-attention. The science popularization and education in local schools also gave
-us the opportunity to communicate with middle and high school students,
-understand their ideas and answer their doubts.
+
