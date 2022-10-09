@@ -1,6 +1,7 @@
-<img alt="logo" id="home_logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="items-center block w-1/3 pt-40 m-auto duration-100" />
-
-<h1 class="pb-40 text-center">GutGuard</h1>
+<p class="py-10"></p>
+<img alt="logo" id="home_logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="items-center block w-1/3 py-10 m-auto duration-100" />
+<h1 class="py-10 text-center">GutGuard</h1>
+<p class="py-10"></p>
 
 <div class="flex justify-center">
 <iframe title="DKU: GutGuard (2022) - Project Promotion [English]" width="560" height="315" src="https://video.igem.org/videos/embed/c28db71c-27b0-4945-863c-3aed20c3bfde" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" class="pb-40"></iframe>

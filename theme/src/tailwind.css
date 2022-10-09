@@ -815,6 +815,6 @@ ul#searchresults span.teaser em {
     z-index: -1;
 }
 
-html:not(.no-js) main > * {
+html:not(.no-js) main > *:not(#home_logo) {
     @apply duration-1000 opacity-0;
 }
