@@ -199,7 +199,7 @@ const hide_loading = () => {
 
 const fade_in = () => {
     const text_blocks = document.querySelectorAll(
-        "main > h1, main > h2, main > h3, main > h4, main > h5, main > h6, main > article, main > div, main > p"
+        "main > h1, main > h2, main > h3, main > h4, main > h5, main > h6, main > article, main > div, main > p, main > img"
     );
     const set_all_opacity = async () => {
         for (const block of text_blocks) {
@@ -222,6 +222,7 @@ const scrolling_effect = () => {
     const rotate_logo = rotate_home_logo();
     const update_toc = add_toc();
     const fade = fade_in();
+    fade();
     const apply = () => {
         scheduled = false;
         update_toc();
@@ -253,9 +254,9 @@ const load = () => {
     clipboard();
     scrollToTop();
     controllMenu();
-    scrolling_effect();
     create_ambient();
     hide_loading();
+    scrolling_effect();
 };
 
 window.addEventListener("load", load);
