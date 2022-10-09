@@ -4,8 +4,6 @@
     <img src="https://static.igem.wiki/teams/4161/wiki/attributions-bg.png" />
 </div>
 
-
-
 ## Biology team
 
 ### Yixuan Wu (Lisa)
