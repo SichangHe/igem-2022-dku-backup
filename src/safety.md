@@ -1,4 +1,9 @@
-# Safety
+
+<div class="flex justify-center items-center">
+    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Safety</span></h1>
+    <img src="https://static.igem.wiki/teams/4161/wiki/wetlab4-for-bg.png" />
+</div>
+
 ## Introduction
 The Duke Kunshan University (DKU) iGEM team sets safety as an integral part of
 science. It includes protection for sensitive groups and the environment. For

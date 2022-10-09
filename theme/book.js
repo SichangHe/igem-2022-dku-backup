@@ -64,26 +64,33 @@ const create_ambient = async () => {
     const html = document.querySelector("html");
     const x = [];
     const y = [];
+    const r = [];
     const x_speed = [];
     const y_speed = [];
-    for (let _ = 0; _ < 50; _++) {
+    const r_speed = [];
+    let src = "https://static.igem.wiki/teams/4161/wiki/ambient1.png";
+    const add_particle = () => {
         x.push(Math.random() * window.innerWidth);
         y.push(Math.random() * window.innerHeight);
+        r.push(Math.random() * 2 - 1);
         x_speed.push(
             (Math.random() * window.innerWidth * 2 - window.innerWidth) / 1000
         );
         y_speed.push(
             (Math.random() * window.innerHeight * 2 - window.innerHeight) / 1000
         );
+        r_speed.push(Math.random() * 2 - 1);
         const particle = document.createElement("img");
         particle.classList.add("particle");
-        particle.src =
-            "https://static.igem.wiki/teams/4161/wiki/logo-transparent.png";
-        particle.style.left =
-            (Math.floor(x[x.length - 1]) % window.innerWidth) + "px";
-        particle.style.top =
-            (Math.floor(y[y.length - 1]) % window.innerHeight) + "px";
+        particle.src = src;
         html.appendChild(particle);
+    };
+    for (let _ = 0; _ < 25; _++) {
+        add_particle();
+    }
+    src = "https://static.igem.wiki/teams/4161/wiki/ambient2.png";
+    for (let _ = 0; _ < 25; _++) {
+        add_particle();
     }
     const update_ambient = () => {
         const images = document.getElementsByClassName("particle");
@@ -91,20 +98,21 @@ const create_ambient = async () => {
             const image = images[_];
             x[_] += x_speed[_];
             y[_] += y_speed[_];
-            image.style.left = (Math.floor(x[_]) % window.innerWidth) + "px";
-            image.style.top = (Math.floor(y[_]) % window.innerHeight) + "px";
+            r[_] += r_speed[_];
+            image.style.left = (x[_] % window.innerWidth) + "px";
+            image.style.top = (y[_] % window.innerHeight) + "px";
+            image.style.transform = `rotate(${r[_]}deg)`;
         }
         setTimeout(update_ambient, 30);
     };
     update_ambient();
 };
 
-const rotate_home_logo = async () => {
+const rotate_home_logo = () => {
     const logo = document.getElementById("home_logo");
     if (logo === null) {
-        return;
+        return () => 0;
     }
-    create_ambient();
     let timer = null;
     let old_offset = window.scrollY;
     const rotate = (offset) => (logo.style.transform = `rotate(${offset}deg)`);
@@ -119,13 +127,13 @@ const rotate_home_logo = async () => {
         rotate(window.scrollY - old_offset);
         timer = setTimeout(reset_rotation, 100);
     };
-    window.addEventListener("scroll", apply_rotation);
+    return apply_rotation;
 };
 
 const add_toc = () => {
     const h2s = document.querySelectorAll("h2");
     if (h2s.length < 2) {
-        return;
+        return () => 0;
     }
     const current_page_candidates = document.querySelectorAll(
         ".chapter li.chapter-item.expanded"
@@ -158,15 +166,12 @@ const add_toc = () => {
     const toc_li = document.createElement("li");
     toc_li.append(toc_ol);
     current_page.after(toc_li);
-    let highlight_scheduled = false;
-    let highlight_active = false;
-    const highlight_current_h2 = () => {
-        highlight_scheduled = false;
+    const highlight_current_h2 = async () => {
         let found_current_h2 = false;
         let last_passed_toc = null;
         for (const [h2, toc] of h2_w_toc) {
             if (!found_current_h2) {
-                if (window.scrollY > h2.offsetTop) {
+                if (window.innerHeight / 3 + window.scrollY > h2.offsetTop) {
                     last_passed_toc = toc;
                 } else {
                     found_current_h2 = true;
@@ -181,21 +186,8 @@ const add_toc = () => {
             // The last h2 is the one to highlight
             last_passed_toc.classList.add("expanded");
         }
-        if (highlight_scheduled) {
-            schedule_highlight();
-        } else {
-            highlight_active = false;
-        }
     };
-    const schedule_highlight = async () => {
-        if (highlight_active) {
-            highlight_scheduled = true;
-        } else {
-            highlight_active = true;
-            setTimeout(highlight_current_h2, 200);
-        }
-    };
-    window.addEventListener("scroll", schedule_highlight);
+    return highlight_current_h2;
 };
 
 const hide_loading = () => {
@@ -203,6 +195,53 @@ const hide_loading = () => {
     main.style.display = "block";
     let main_loading = document.getElementById("main-loading");
     main_loading.style.display = "none";
+};
+
+const fade_in = () => {
+    const text_blocks = document.querySelectorAll(
+        "main > h1, main > h2, main > h3, main > h4, main > h5, main > h6, main > article, main > div, main > p"
+    );
+    const set_all_opacity = async () => {
+        for (const block of text_blocks) {
+            if (
+                window.scrollY <= block.offsetTop + block.offsetHeight &&
+                window.scrollY + window.innerHeight >= block.offsetTop
+            ) {
+                block.style.opacity = 1;
+            } else {
+                block.style.opacity = 0;
+            }
+        }
+    };
+    return set_all_opacity;
+};
+
+const scrolling_effect = () => {
+    let active = false;
+    let scheduled = false;
+    const rotate_logo = rotate_home_logo();
+    const update_toc = add_toc();
+    const fade = fade_in();
+    const apply = () => {
+        scheduled = false;
+        update_toc();
+        rotate_logo();
+        fade();
+        if (scheduled) {
+            setTimeout(apply, 50);
+        } else {
+            active = false;
+        }
+    };
+    const schedule = () => {
+        if (active) {
+            scheduled = true;
+        } else {
+            active = true;
+            setTimeout(apply, 50);
+        }
+    };
+    window.addEventListener("scroll", schedule);
 };
 
 const load = () => {
@@ -214,8 +253,8 @@ const load = () => {
     clipboard();
     scrollToTop();
     controllMenu();
-    rotate_home_logo();
-    add_toc();
+    scrolling_effect();
+    create_ambient();
     hide_loading();
 };
 

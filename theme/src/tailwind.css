@@ -24,6 +24,7 @@ html {
     color: var(--fg);
     text-size-adjust: none;
     -webkit-text-size-adjust: none;
+    @apply overflow-x-hidden;
 }
 
 body {
@@ -813,4 +814,8 @@ ul#searchresults span.teaser em {
 .particle {
     @apply fixed w-10 pointer-events-none opacity-20;
     z-index: -1;
+}
+
+main > * {
+    @apply duration-1000;
 }

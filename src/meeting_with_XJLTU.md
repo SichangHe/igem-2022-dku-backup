@@ -1,4 +1,10 @@
-## Meeting with XJLTU
+
+
+<div class="flex justify-center items-center">
+    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Partnership</span></h1>
+    <img src="https://static.igem.wiki/teams/4161/wiki/fig-collaboration-xjtlu-2.jpg" />
+</div>
+
 
 ### XJLTU's Project
 

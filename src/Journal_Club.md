@@ -11,3 +11,8 @@ SARS-CoV-2 introduced by Kathy, human ACE2 receptor & TM air freshening spray
 presented by Irene, and COVID-19 Vaccines explained by Bruce. Apart from the
 iGEM team, around 10 freshman students with various backgrounds participated in
 the sharing and raised many inspiring questions.
+
+<img src="https://static.igem.wiki/teams/4161/wiki/fig-journal-club-poster.jpg"
+width="500"/>
+<img src="https://static.igem.wiki/teams/4161/wiki/fig-1st-journal-club.jpg"
+width="500"/>

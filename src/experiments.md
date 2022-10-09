@@ -1,4 +1,7 @@
-# Experiment
+<div class="flex justify-center items-center">
+    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Experiments</span></h1>
+    <img src="https://static.igem.wiki/teams/4161/wiki/wetlab5-for-bg.png" />
+</div>
 
 ## Introduction
 

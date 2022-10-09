@@ -1,5 +1,9 @@
-# Education
-![photo](https://static.igem.wiki/teams/4161/wiki/education1.jpg)
+
+<div class="flex justify-center items-center">
+    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Education</span></h1>
+    <img src="https://static.igem.wiki/teams/4161/wiki/education1.jpg" />
+</div>
+
 
 Although iGEM competition has a solid audience base in **universities**,
 students in high schools have little knowledge of iGEM competition or give up
@@ -35,3 +39,33 @@ in participating in iGEM competition consulted with us about the future iGEM
 cooperations.
 
 ![photo](https://static.igem.wiki/teams/4161/wiki/education5.jpg)
+
+
+(以下部分不要删！)
+## Local School Education
+
+In the later stage of the experiment, in order to better promote the knowledge
+of synthetic biology and gastrointestinal health in the local area, we
+contacted a local international high school and successfully delivered popular
+science lectures to more than 330 middle and high school students and
+teachers.We distributed science manuals to everyone in the audience and
+introduced the GI tract, dysentery, probiotic therapy, and antibiotic
+resistance.
+
+<img src="https://static.igem.wiki/teams/4161/wiki/education3.jpg"
+width="500"/>
+
+**Figure 4** | Presentation at local high-school
+
+
+the communication and cooperation
+with other Chinese IGEM teams enabled us to learn more knowledge, and also to
+understand the current issues of synthetic biology in China that deserve
+attention. The science popularization and education in local schools also gave
+us the opportunity to communicate with middle and high school students,
+understand their ideas and answer their doubts.
+
+### Wang-cai speach
+
+### Journal club
+

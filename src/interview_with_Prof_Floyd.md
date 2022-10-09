@@ -28,3 +28,6 @@ these models do not need preprocessing anymore.
 
 For docking, he suggested us try rigid docking first, and then flexible docking
 if we want to get closer to reality.
+
+<img src="https://static.igem.wiki/teams/4161/wiki/fig-floyd.jpg"
+width="500"/>
