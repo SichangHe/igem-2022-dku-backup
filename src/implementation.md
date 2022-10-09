@@ -50,3 +50,7 @@ need to be performed to prevent possible anaphylaxis. Besides, considering the
 pathogenesis and transmission pathway of Shigella, our products may not be a
 one-size-fits all solution for all infection stages but focuses more on the
 prevention of infection.
+
+
+1. Kotloff, K. L., Riddle, M. S., Platts-Mills, J. A., Pavlinac, P., & Zaidi, A. K. M. (2018). Shigellosis. The Lancet, 391(10122), 801-812. https://doi.org/https://doi.org/10.1016/S0140-6736(17)33296-8 
+2. Sansonetti, P. J., Mounier, J., Prévost, M. C., & Mège, R.-M. (1994). Cadherin expression is required for the spread of Shigella flexneri between epithelial cells. Cell, 76(5), 829-839. https://doi.org/https://doi.org/10.1016/0092-8674(94)90358-1 
