@@ -18,7 +18,12 @@ dysentery, do not know how it is transmitted or the bacteria that causes it.
 This makes us realize the importance of science popularization. Meanwhile,
 people have different levels of concern about antibiotic resistance, which
 means it is necessary for us to focus on antibiotic therapy replacement.
-<!-- todo: add pic of questionnaire -->
+
+<img src="https://static.igem.wiki/teams/4161/wiki/fig-wenjuan.png"
+width="500"/>
+
+**Figure 1** | Questionnaire result
+
 
 ## On-Campus Communication
 
@@ -31,7 +36,12 @@ in project exhibitions, and were regularly inspected by the jury on campus. In
 addition, we have established a journal club, where different members of the
 team introduce cutting-edge knowledge about synthetic biology every two weeks,
 and we are happy to see many freshmen participating.
-<!-- todo: add pic of poster, journal club, club expo -->
+
+<img src="https://static.igem.wiki/teams/4161/wiki/fig-on-campus-communication.png"
+width="500"/>
+
+**Figure 2** | Poster show, Judging, Journal Club
+
 
 ## CCiC: iGEM community in China
 
@@ -42,7 +52,11 @@ provide a platform for iGEM teams to share resources and promote mutual
 learning and communication. We made poster and presented at the conference,
 answering questions from the audience and judges. After the conference, we
 collaborated with team LZU on science popularization about probiotics.
-<!-- todo: add pic of meeting and video -->
+
+
+<img src="https://static.igem.wiki/teams/4161/wiki/ccic-meeting.png"
+width="500"/>
+**Figure 3** | CCiC Conference
 
 ## Local School Education
 
@@ -53,7 +67,12 @@ science lectures to more than 330 middle and high school students and
 teachers.We distributed science manuals to everyone in the audience and
 introduced the GI tract, dysentery, probiotic therapy, and antibiotic
 resistance.
-<!-- todo: add pic of manual and meeting -->
+
+<img src="https://static.igem.wiki/teams/4161/wiki/education3.jpg"
+width="500"/>
+
+**Figure 4** | Presentation at local high-school
+
 
 ## Summary
 
