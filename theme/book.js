@@ -60,11 +60,51 @@ const configure_sidebar = () => {
 
 configure_sidebar();
 
-const rotate_home_logo = () => {
+const create_ambient = async () => {
+    const html = document.querySelector("html");
+    const x = [];
+    const y = [];
+    const x_speed = [];
+    const y_speed = [];
+    for (let _ = 0; _ < 50; _++) {
+        x.push(Math.random() * window.innerWidth);
+        y.push(Math.random() * window.innerHeight);
+        x_speed.push(
+            (Math.random() * window.innerWidth * 2 - window.innerWidth) / 1000
+        );
+        y_speed.push(
+            (Math.random() * window.innerHeight * 2 - window.innerHeight) / 1000
+        );
+        const particle = document.createElement("img");
+        particle.classList.add("particle");
+        particle.src =
+            "https://static.igem.wiki/teams/4161/wiki/logo-transparent.png";
+        particle.style.left =
+            (Math.floor(x[x.length - 1]) % window.innerWidth) + "px";
+        particle.style.top =
+            (Math.floor(y[y.length - 1]) % window.innerHeight) + "px";
+        html.appendChild(particle);
+    }
+    const update_ambient = () => {
+        const images = document.getElementsByClassName("particle");
+        for (let _ = 0; _ < x.length && _ < images.length; _++) {
+            const image = images[_];
+            x[_] += x_speed[_];
+            y[_] += y_speed[_];
+            image.style.left = (Math.floor(x[_]) % window.innerWidth) + "px";
+            image.style.top = (Math.floor(y[_]) % window.innerHeight) + "px";
+        }
+        setTimeout(update_ambient, 30);
+    };
+    update_ambient();
+};
+
+const rotate_home_logo = async () => {
     const logo = document.getElementById("home_logo");
     if (logo === null) {
         return;
     }
+    create_ambient();
     let timer = null;
     let old_offset = window.scrollY;
     const rotate = (offset) => (logo.style.transform = `rotate(${offset}deg)`);
