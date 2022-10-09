@@ -113,7 +113,6 @@ const rotate_home_logo = async () => {
     if (logo === null) {
         return;
     }
-    create_ambient();
     let timer = null;
     let old_offset = window.scrollY;
     const rotate = (offset) => (logo.style.transform = `rotate(${offset}deg)`);
@@ -224,6 +223,7 @@ const load = () => {
     scrollToTop();
     controllMenu();
     rotate_home_logo();
+    create_ambient();
     add_toc();
     hide_loading();
 };
