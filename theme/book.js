@@ -198,9 +198,12 @@ const hide_loading = () => {
 };
 
 const fade_in = () => {
-    const text_blocks = document.querySelectorAll(
-        "main > h1, main > h2, main > h3, main > h4, main > h5, main > h6, main > article, main > div, main > p, main > img"
-    );
+    let text_blocks = [];
+    for (const block of document.querySelectorAll("main > *")) {
+        if (block.style?.opacity !== undefined) {
+            text_blocks.push(block);
+        }
+    }
     const set_all_opacity = async () => {
         for (const block of text_blocks) {
             if (
