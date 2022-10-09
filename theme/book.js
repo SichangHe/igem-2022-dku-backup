@@ -64,26 +64,33 @@ const create_ambient = async () => {
     const html = document.querySelector("html");
     const x = [];
     const y = [];
+    const r = [];
     const x_speed = [];
     const y_speed = [];
-    for (let _ = 0; _ < 50; _++) {
+    const r_speed = [];
+    let src = "https://static.igem.wiki/teams/4161/wiki/ambient1.png";
+    const add_particle = () => {
         x.push(Math.random() * window.innerWidth);
         y.push(Math.random() * window.innerHeight);
+        r.push(Math.random() * 2 - 1);
         x_speed.push(
             (Math.random() * window.innerWidth * 2 - window.innerWidth) / 1000
         );
         y_speed.push(
             (Math.random() * window.innerHeight * 2 - window.innerHeight) / 1000
         );
+        r_speed.push(Math.random() * 2 - 1);
         const particle = document.createElement("img");
         particle.classList.add("particle");
-        particle.src =
-            "https://static.igem.wiki/teams/4161/wiki/logo-transparent.png";
-        particle.style.left =
-            (Math.floor(x[x.length - 1]) % window.innerWidth) + "px";
-        particle.style.top =
-            (Math.floor(y[y.length - 1]) % window.innerHeight) + "px";
+        particle.src = src;
         html.appendChild(particle);
+    };
+    for (let _ = 0; _ < 25; _++) {
+        add_particle();
+    }
+    src = "https://static.igem.wiki/teams/4161/wiki/ambient2.png";
+    for (let _ = 0; _ < 25; _++) {
+        add_particle();
     }
     const update_ambient = () => {
         const images = document.getElementsByClassName("particle");
@@ -91,8 +98,10 @@ const create_ambient = async () => {
             const image = images[_];
             x[_] += x_speed[_];
             y[_] += y_speed[_];
+            r[_] += r_speed[_];
             image.style.left = (Math.floor(x[_]) % window.innerWidth) + "px";
             image.style.top = (Math.floor(y[_]) % window.innerHeight) + "px";
+            image.style.transform = `rotate(${r[_]}deg)`;
         }
         setTimeout(update_ambient, 30);
     };
