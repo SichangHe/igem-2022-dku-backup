@@ -174,7 +174,7 @@ const add_toc = () => {
         let last_passed_toc = null;
         for (const [h2, toc] of h2_w_toc) {
             if (!found_current_h2) {
-                if (window.scrollY > h2.offsetTop) {
+                if (window.innerHeight / 3 + window.scrollY > h2.offsetTop) {
                     last_passed_toc = toc;
                 } else {
                     found_current_h2 = true;
