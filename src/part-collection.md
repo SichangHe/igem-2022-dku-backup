@@ -1,4 +1,9 @@
-# Parts
+
+<div class="flex justify-center items-center">
+    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Parts</span></h1>
+    <img src="https://static.igem.wiki/teams/4161/wiki/wetlab6-for-bg.png" />
+</div>
+
 
 All genetic parts of group Y can be divided into 3 categories, including single
 element, key composite segment, and vector.

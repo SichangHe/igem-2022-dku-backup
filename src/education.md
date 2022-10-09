@@ -1,5 +1,9 @@
-# Education
-![photo](https://static.igem.wiki/teams/4161/wiki/education1.jpg)
+
+<div class="flex justify-center items-center">
+    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Education</span></h1>
+    <img src="https://static.igem.wiki/teams/4161/wiki/education1.jpg" />
+</div>
+
 
 Although iGEM competition has a solid audience base in **universities**,
 students in high schools have little knowledge of iGEM competition or give up
