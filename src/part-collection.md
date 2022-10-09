@@ -41,7 +41,13 @@ pYD1, which is also documented.
 
 # E.coli Nissle 1917 (Group E) Parts
 
-## Group E single elements         
+## Group E single elements
+
+Single elements of Group E include nanobodies, 
+curli protein (csg) operon fragments, 
+linkers, tags, signal peptides, 
+promoters and terminators. A total of 15 parts were documented.
+
 | Part code | Part name| Link |
 | ------ | ------ | ------ |
 BBa_K4161001  | 20IpaD | <http://parts.igem.org/Part:BBa_K4161001>
@@ -63,14 +69,18 @@ BBa_K4161022 | thr terminator | <http://parts.igem.org/Part:BBa_K4161022>
 
 ## Group E composite segments
 
+Group E's composite parts are designed to express surface protein-nanobody fusion proteins. A total of 3 composite parts are documented. 
+
 | Part code | Part name| Link |
 | ------ | ------ | ------ |
 BBa_K4161003  | csg-JMK-H2, Csg surface display system on E. coli Nissle 1917 | <http://parts.igem.org/Part:BBa_K4161003>
 BBa_K4161004 | intimin-20IpaD, Nanobody surface display system based on intimin| <http://parts.igem.org/Part:BBa_K4161004>
-BBa_K4161017 | Neae: the intimin fragment for surface display | <http://parts.igem.org/Part:BBa_K4161017>
+BBa_K4161100  | Csg surface display system on E. coli Nissle 1917 |<http://parts.igem.org/Part:BBa_K4161100>
 
 ## Group E vectors
 
+This vector has pUC19 as the backbone and is codon optimized for csg expression in E. *coli*.
+
 | Part code | Part name| Link |
 | ------ | ------ | ------ |
-BBa_K4161100  | Csg surface display system on E. coli Nissle 1917 |<http://parts.igem.org/Part:BBa_K4161100>
+
