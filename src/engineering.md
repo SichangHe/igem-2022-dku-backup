@@ -12,7 +12,7 @@ This page will give a detailed explanation about the engineering cycle. To make 
 
 ##### Design
 
-We located a single-domain antibody (VHH) named 20ipaD from the database, whose binding ability with the needle tip protein ipaD of *Shigella* type III secretion system has be testified (Barta et al., 2017; Sierocki et al., 2021). Peptide sequences of 20ipaD from Barta et al (2017). Codon optimization was performed to get DNA sequences. Two flank sequences containing XhoI and ApaI cutting sites as well as C-terminal Flag-tag were added to the ipaD DNA sequence. 
+We located a single-domain antibody (VHH) named 20ipaD from the database, whose binding ability with the needle tip protein ipaD of *Shigella* type III secretion system has be testified ^[Barta,2017]^[Sierocki,2021]. Peptide sequences of 20ipaD from Barta et al (2017). Codon optimization was performed to get DNA sequences. Two flank sequences containing XhoI and ApaI cutting sites as well as C-terminal Flag-tag were added to the ipaD DNA sequence. 
 
 ##### Build
 
@@ -34,10 +34,6 @@ In this cycle, we aimed to test binding affinity between the recombinant nanobod
 ##### Build
 
 Synthesized ipaD sequences were got from the same company. Using the same method, we expressed ipaD recombinant protein of the yeast surface.
-##### Test
-
-
-##### Learn
 
 #### Cycle 3
 ##### Design
@@ -163,7 +159,7 @@ We designed the following sequences:
 
 [^Gelfat,2021]: Gelfat, I., Aqeel, Y., Tremblay, J. M., Jaskiewicz, J. J., Shrestha, A., Lee, J. N., Hu, S., Qian, X., Magoun, L., Sheoran, A., Bedenice, D., Giem, C., Manjula-Basavanna, A., Osburne, M. S., Tzipori, S., Shoemaker, C. B., Leong, J. M., & Joshi, N. S. (2021). Single domain antibodies against enteric pathogen virulence factors are active as curli fiber fusions on probiotic E. coli Nissle 1917 (p. 2021.06.18.448998). *bioRxiv*. <https://doi.org/10.1101/2021.06.18.448998>
 
-Barta, M. L., Shearer, J. P., Arizmendi, O., Tremblay, J. M., Mehzabeen, N., Zheng, Q., Battaile, K. P., Lovell, S., Tzipori, S., Picking, W. D., Shoemaker, C. B., & Picking, W. L. (2017). Single-domain antibodies pinpoint potential targets within Shigella invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. J Biol Chem, 292(40), 16677-16687. https://doi.org/10.1074/jbc.M117.802231
+^[Barta,2017]:Barta, M. L., Shearer, J. P., Arizmendi, O., Tremblay, J. M., Mehzabeen, N., Zheng, Q., Battaile, K. P., Lovell, S., Tzipori, S., Picking, W. D., Shoemaker, C. B., & Picking, W. L. (2017). Single-domain antibodies pinpoint potential targets within Shigella invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. J Biol Chem, 292(40), 16677-16687. https://doi.org/10.1074/jbc.M117.802231
 
-Sierocki, R., Jneid, B., Orsini Delgado, M. L., Plaisance, M., Maillere, B., Nozach, H., & Simon, S. (2021). An antibody targeting type III secretion system induces broad protection against Salmonella and Shigella infections. PLoS Negl Trop Dis, 15(3), e0009231. https://doi.org/10.1371/journal.pntd.0009231 
+^[Sierocki,2021]Sierocki, R., Jneid, B., Orsini Delgado, M. L., Plaisance, M., Maillere, B., Nozach, H., & Simon, S. (2021). An antibody targeting type III secretion system induces broad protection against Salmonella and Shigella infections. PLoS Negl Trop Dis, 15(3), e0009231. https://doi.org/10.1371/journal.pntd.0009231 
 
