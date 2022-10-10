@@ -1,6 +1,5 @@
-
-<div class="flex justify-center items-center">
-    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Attributions</span></h1>
+<div class="flex items-center justify-center">
+    <h1 class="h1-bg">Attributions</h1>
     <img src="https://static.igem.wiki/teams/4161/wiki/attributions-bg.png" />
 </div>
 
@@ -69,7 +68,6 @@ practice.
 Helped design survey as a part of human practice, helped with E.*coli* wet lab
 experiments.
 
-
 ## Modeling team
 
 ### Zhenyu Xu
@@ -115,14 +113,13 @@ Oversee wet lab experiments and overall project advising.
 
 ### Yang Yu
 
-Oversee wet lab experiments, helped optimize lab protocols and troubleshooting. 
-
+Oversee wet lab experiments, helped optimize lab protocols and troubleshooting.
 
 ## Funding support
 
-Thanks to the generous funding support of 
-Duke Kunshan University Natural Science Divisions, 
-Wang-Cai Biochemistry Lab, 
+Thanks to the generous funding support of
+Duke Kunshan University Natural Science Divisions,
+Wang-Cai Biochemistry Lab,
 Synear Food Molecular Biology Lab,
 DKU Innovation and Entrepreneurship Initiative,
 and Marcia B. France, DKU Dean of Undergraduate Studies.
@@ -132,6 +129,6 @@ Thanks to free licenses provided by SnapGene.
 
 Thanks to Dr. Floyd
 Beckford and Dr. Huansheng Cao at Duke Kunshan University,
-Dr. Neel Joshi from Northwestern University, 
-and Dr. Jisheng Lin at Sinovac Biotech CO.,LTD. for providing effective advice on 
+Dr. Neel Joshi from Northwestern University,
+and Dr. Jisheng Lin at Sinovac Biotech CO.,LTD. for providing effective advice on
 our project design and development.
