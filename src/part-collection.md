@@ -73,13 +73,14 @@ BBa_K4161022 | thr terminator | <http://parts.igem.org/Part:BBa_K4161022>
 
 ### Group E composite segments
 
-Group E's composite parts are designed to express surface protein-nanobody fusion proteins. A total of 3 composite parts are documented.
+Group E's composite parts are designed to express surface protein-nanobody fusion proteins. A total of 4 composite parts are documented.
 
 | Part code | Part name| Link |
 | ------ | ------ | ------ |
-BBa_K4161003  | csg-JMK-H2, Csg surface display system on E. coli Nissle 1917 | <http://parts.igem.org/Part:BBa_K4161003>
+BBa_K4161003 | csg-JMK-H2, Csg surface display system on E. coli Nissle 1917 | <http://parts.igem.org/Part:BBa_K4161003>
 BBa_K4161004 | intimin-20IpaD, Nanobody surface display system based on intimin| <http://parts.igem.org/Part:BBa_K4161004>
-BBa_K4161100  | Csg surface display system on E. coli Nissle 1917 |<http://parts.igem.org/Part:BBa_K4161100>
+BBa_K4161023 | csgA-JPS-G3-3xFLAG, Csg surface display system on E. coli Nissle 1917 | <http://parts.igem.org/Part:BBa_K4161023>
+BBa_K4161100 | Csg surface display system on E. coli Nissle 1917 |<http://parts.igem.org/Part:BBa_K4161100>
 
 ### Group E vectors
 
@@ -87,3 +88,5 @@ This vector has pUC19 as the backbone and is codon optimized for csg expression 
 
 | Part code | Part name| Link |
 | ------ | ------ | ------ |
+BBa_K4161024 | pET30a, empty vector | <http://parts.igem.org/Part:BBa_K4161024>
+BBa_K4161025 | pUC19, empty vector | <http://parts.igem.org/Part:BBa_K4161025>
