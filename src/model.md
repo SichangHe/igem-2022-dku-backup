@@ -1,6 +1,7 @@
 <div class="flex items-center justify-center">
     <h1 class="h1-bg">Model</h1>
-    <img src="https://static.igem.wiki/teams/4161/wiki/model-bg.png" />
+    <img src="https://static.igem.wiki/teams/4161/wiki/model-bg.png
+    "width="700" />
 </div>
 
 Models are powerful tools in terms of imagining reasonable future scenarios. Also,
