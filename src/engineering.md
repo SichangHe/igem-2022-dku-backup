@@ -1,4 +1,10 @@
-# Engineering Cycle
+
+
+<div class="flex items-center justify-center">
+    <h1 class="h1-bg">Engineering Cycle</h1>
+    <img src="https://static.igem.wiki/teams/4161/wiki/wetlab3-for-bg.png
+    "width="700"/>
+</div>
 
 ## Introduction
 

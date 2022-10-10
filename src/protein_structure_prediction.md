@@ -235,6 +235,68 @@ and their docking scenarios, and analyzed them. This could be helpful for
 future experiment
 and future teams.
 
+
+<img src="https://static.igem.wiki/teams/4161/wiki/table-1-for-part-4-of-model.png"
+width="500"/>
+
+**Table 1** | Evaluation of other combinations of probiotic-nanobody complex
+
+The E. coli Intimin protein complex has good results in 4 out of 5 quantitative parameters,
+making it a great model.
+First, its Ramachandran plot reveals a good distribution in favored regions.
+83% of its residues are in the core regions, 14.7% are in the allowed regions, 1.3%
+are
+in the general regions and 0.9% in the disallowed regions.
+Second, the % amino acids having scored 0.2 in 3D/1D profile is 85.91%,
+higher than the standard 80%. Its atomic model is therefore
+fairly compatible with its amino acid sequence. Third, its overall quality factor,
+that accounts for the error value of individual residue, is at 92,
+surpassing the 80 score cut-off.
+Its Z-score is also within the range of scores found for native proteins
+of similar size. The main downside to this model is that Z-score is not around one,showing
+that
+it has greater average magnitude of the volume irregularities in the structure.
+
+
+The E. coli CsgA protein complex is a good model that
+fulfills 4 out of 5 quantitative parameters. Like Intimin, CsgA’s Ramachandran plot
+displays a good distribution in favored regions: 83.5% of
+residues are in the core regions, 12.7% are in the allowed regions, 2.0% are in
+the general regions and 1.8%
+in the disallowed regions. The % amino acids having scored 0.2 in 3D/1D profile
+is 84.27%, higher than the
+standard 80% but not nearly as high as Intimin. Its overall quality factor is
+91,exceeding the 80 score
+cut-off. The Z-score is within the range of scores found for native proteins of
+similar size, and like Intimin,
+the CsgA model’s Z-score is not around one.
+
+
+The Lacto tag 1 protein complex is a good model that fulfills 4 out of 5
+quantitative parameters. CsgA’s
+Ramachandran plot displays a well enough distribution in favored regions: 83.1%
+of residues are in the core regions,
+15.2% are in the allowed regions, 1.5% are in the general regions and 0.2% in
+the disallowed regions.
+The % of amino acids having scored 0.2 in 3D/1D profile is 79.97%, close enough
+to the standard 80% but
+comparatively low against Intimin and CsgA. Its overall quality factor is 92, surpassing
+the 80 score cut-off.
+The Z-score is within the range of scores found for native proteins of similar
+size, and similar to Intimin and CsGA,
+the CsgA model’s Z-score is not around one.
+
+
+Overall, all three protein docking jobs show satisfactory results and
+could be helpful for
+future experiments and future teams. In light of these promising findings,
+we encourage future
+researchers to test these models in the lab, with the E. coli Intimin model
+that performed the
+best among the three.
+
+
+
 [^Robetta]: Robetta <https://robetta.bakerlab.org>
 
 [^AlphaFoldPaper]: AlphaFold
