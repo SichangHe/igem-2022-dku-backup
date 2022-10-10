@@ -15,7 +15,7 @@
     background: rgba(0, 0, 0, 0);
 }
 
-:not([class]):not(a):not(li):not(div):not(blockquote):not(mark):not(span):not(strong):not(em):not(main):not(img):not(footer) {
+:not([class], a, li, div, blockquote, mark, span, strong, em, main, img, footer) {
     background-color: var(--bg);
 }
 
@@ -42,10 +42,9 @@ code {
 /* make long words/inline code not x overflow */
 main {
     overflow-wrap: break-word;
-    background: rgba(0, 0, 0, 0);
 }
 
-main:not(.no-js) {
+html:not(.no-js) main {
     @apply hidden;
 }
 
@@ -816,6 +815,12 @@ ul#searchresults span.teaser em {
     z-index: -1;
 }
 
-main > * {
+html:not(.no-js) main > * {
+    @apply opacity-0;
+}
+html.home:not(.no-js) main > *:not(#home_logo) {
     @apply duration-1000;
+}
+html:not(.no-js, .home) main > * {
+    @apply duration-500;
 }

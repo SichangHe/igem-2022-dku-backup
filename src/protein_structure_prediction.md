@@ -112,7 +112,7 @@ be higher than 80% for a good model. [^SAVES]
 4. Overall quality factor:\
 An overall score for the model provided by SAVES server[^SAVES], ranging from 0
 to 100.
-It should be higher than 80 for a good model.
+It should be higher than 80 for a good model.[^Standard]
 5. Z-score:\
 Indicate whether the z-score of the input structure is within the range of
 scores typically
@@ -261,9 +261,7 @@ d2.ipynb>
 
 [^Z-scoreRMS]: Deviations from standard atomic volumes as a quality measure for
 protein crystal structures
-<https://pubmed.ncbi.nlm.nih.gov/8950272/#:~:text=Deviations%20of%20the%20atomic
-%20volumes%20from%20the%20standard,magnitude%20of%20the%20volume%20irregularitie
-s%20in%20the%20structure.>
+<https://pubmed.ncbi.nlm.nih.gov/8950272/>
 
 [^HADDOCK]: HADDOCK online server <https://wenmr.science.uu.nl/haddock2.4/>
 
@@ -272,3 +270,8 @@ Invasion Plasmid Antigen D
 of the Needle Tip Complex for Inhibition of Type III Secretion.
 DOI: 10.1074/jbc.M117.802231
 <https://pubmed.ncbi.nlm.nih.gov/28842484/>
+
+[^Standard]:Homology modeling and virtual screening approaches to identify potent inhibitors of VEB-1 β-lactamase.
+DOI: 10.1186/1742-4682-10-22
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668210/>
+
