@@ -25,7 +25,7 @@ We performed yeast transformation using constructed pYD1-ipaD and pYD1-20ipaD pl
 
 The result of the plates was positive (**Fig4**). SDCAA plates, which are the selective plates lack of tryptophan, has demonstrated fewer colony growth compared to YPD plates, indicating successful transformation. Single colonies were taken and incubated at 30°C in SDCAA liquid medium for amplification.
 
-#### Nanobody and pathogen were expressed and displayed on yeast surface
+#### Nanobody and antigen were expressed and displayed on yeast surface
 The yeasts that were transformed with pYD1-ipaD, pYD1-20ipaD, and pYD1 were amplified in SDCAA liquid medium for 36h. The cells were harvested by centrifuge at 5000xg for 5 minutes and diluted in SGCAA liquid containing the induction agent galactose to obtain an OD600=0.5. Four milliliters of each diluted cells were transferred into new culture tubes and induced at 21°C for 24h. An additional prep of EBY100 cells without plasmids were also diluted to OD600=0.5 and induced in SGCAA for 24h.
 
 The induced cells were harvested and washed with PBS. The yeasts containing pYD1-ipaD were inoculated with rabbit anti-HA tag antibodies, while the yeasts containing pYD1-20ipaD, pYD1, or no plasmids were inoculated with rabbit anti-FLAG tag antibodies and BSA. After washed with PBS, the cells were inoculated with FITC-conjugated goat anti-rabbit immunoglobin antibodies and BSA without light. The cells were washed twice with PBS before imaged under UV-light. As **Fig5** shows, the yeasts containing pYD1-ipaD and pYD1-20ipaD emitted green fluorescence, whereas the yeasts containing empty plasmids, or no plasmids did not. This fluorescence pattern proved the yeasts indeed expressed and displayed the nanobody and the antigen on their surfaces, which announced the success of engineering.
@@ -45,7 +45,7 @@ The induced cells were harvested and washed with PBS. The yeasts containing pYD1
 ### *Escherichia coli*
 
 #### Summary of Experiment Design
-We plan to display the nanobody JPS-G3 agianst the *Shigella* antigen ipaD on the surface of E.*coli* Nissle 1917 via the curli fiber protein *csg*A [^Gelfat,2021]. We expect the engineered E.*coli* Nissle 1917 to be capable of capturing the pathogen *Shigella flexneri* via antigen-antibody specific binding. Please check the detailed experiment design at 'design' part.
+We plan to display the nanobody JPS-G3 agianst the *Shigella* antigen ipaD on the surface of E.*coli* Nissle 1917 via the curli fiber protein *csg*A [^Gelfat,2021]. We expect the engineered E.*coli* Nissle 1917 to be capable of capturing the pathogen *Shigella flexneri* via antigen-antibody specific binding.
 
 #### Plasmid Extraction
 pUC19-JPS-G3-3xHA and pUC19-ipaD-3xHA were extracted using the TIANGEN plasmid extraction kit.
