@@ -309,7 +309,6 @@ in project exhibitions, and were regularly inspected by the jury on campus.
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-on-campus-communication.png"
 width="500"/>
 
-**Figure 2** | Poster show, Judging, Journal Club
 
 ## Summary
 
@@ -317,4 +316,6 @@ Throughout the project, we never stopped science communication with different
 groups. The social questionnaire allowed us to identify the need for the
 program; the school publicity has attracted a batch of fresh blood to join the
 research and innovation of synthetic biology; the expert interviews enabled us to
-reflect on the feasibility and future directions of our lab design;
+reflect on the feasibility and future directions of our lab design.
+These science communication helped us be more clear about the direction of the experiment 
+and the significance of this project.

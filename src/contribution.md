@@ -1,6 +1,7 @@
 <div class="flex items-center justify-center">
     <h1 class="h1-bg">Contribution</h1>
-    <img src="https://static.igem.wiki/teams/4161/wiki/contri-bg.jpg" />
+    <img src="https://static.igem.wiki/teams/4161/wiki/contri-bg.jpg"
+    width="500" />
 </div>
 
 We designed cell surface display platforms for probiotics including yeast,

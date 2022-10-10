@@ -28,7 +28,6 @@
 - [Awards](./education.md)
     - [Education](./education.md)
     - [Entrepreneurship](./entrepreneurship.md)
-    - [Hardware](./hardware.md)
     - [Inclusivity](./inclusivity.md)
     - [Measurement](./measurement.md)
     - [Plant](./plant.md)
