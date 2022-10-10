@@ -830,3 +830,6 @@ html.home:not(.no-js) main > *:not(#home_logo) {
 html:not(.no-js, .home) main > * {
     @apply duration-500;
 }
+html.sidebar-visible {
+    @apply overflow-x-hidden sm:overflow-visible;
+}
