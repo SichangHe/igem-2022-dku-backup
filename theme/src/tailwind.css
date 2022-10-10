@@ -15,7 +15,7 @@
     background: rgba(0, 0, 0, 0);
 }
 
-:not([class], a, li, div, blockquote, mark, span, strong, em, main, img, footer) {
+:not([class], a, li, div, blockquote, blockquote > *, mark, span, strong, em, main, img, footer) {
     background-color: var(--bg);
 }
 
@@ -813,6 +813,13 @@ ul#searchresults span.teaser em {
 .particle {
     @apply fixed w-10 pointer-events-none opacity-20;
     z-index: -1;
+}
+
+.h1-bg {
+    @apply absolute text-white text-8xl [text-shadow:_5px_5px_5px_black] [z-index:100];
+}
+.h1-bg-dark {
+    @apply text-black [text-shadow:_5px_5px_5px_white];
 }
 
 html:not(.no-js) main > * {

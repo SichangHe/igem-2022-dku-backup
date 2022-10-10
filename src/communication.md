@@ -1,6 +1,5 @@
-
-<div class="flex justify-center items-center">
-    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Communications</span></h1>
+<div class="flex items-center justify-center">
+    <h1 class="h1-bg h1-bg-dark">Communications</h1>
     <img src="https://static.igem.wiki/teams/4161/wiki/communi-bg.jpg" />
 </div>
 
@@ -10,10 +9,9 @@ We had science communications during different stages of our project.
 Firstly, we designed a socially-oriented questionnaire to find out how much the
  public knows about shigella.
 Then,throughout expert interviews, we managed to gain insights of our project feasibility
-and possible future directions. Finally, 
+and possible future directions. Finally,
 we participated in on-campus communication to let more people know about shigella
 and surface display technology.
-
 
 ## Socially-Oriented Questionnaire
 
@@ -29,11 +27,10 @@ means it is necessary for us to focus on antibiotic therapy replacement.
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-wenjuan.png"
 width="500"/>
 
-
 ## Interview with Prof. Cao
   
   We interviewed Huansheng Cao,
-  Assistant professor of Environmental Science at Duke Kunshan University 
+  Assistant professor of Environmental Science at Duke Kunshan University
   for suggestions on our initial lab plans.
 
   In the interview, team members Yuxin Wang and Chang Shen presented
@@ -47,11 +44,11 @@ width="500"/>
   biologist, he also suggested fitting our design to more than one model
   organisms, which shows integration in our drug design.
 
-  The interview was full of enthusiasm, so we were able to come across many other topics. 
-  We discussed the trends in bioinformatics and biotechnology, including bacteria-based 
+  The interview was full of enthusiasm, so we were able to come across many other topics.
+  We discussed the trends in bioinformatics and biotechnology, including bacteria-based
   bioelectricity, and the relationship between human longevity and gut microbiota.
 
-  This interview was both encouraging and informative, and contributed 
+  This interview was both encouraging and informative, and contributed
   greatly to the first stage of human practice.
 
 <img src="https://static.igem.wiki/teams/4161/wiki/prof-cao-interview1.jpg"
@@ -90,7 +87,6 @@ if we want to get closer to reality.
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-floyd.jpg"
 width="500"/>
-
 
 ## Interview with Dr. Neel Joshi
 
@@ -308,14 +304,12 @@ Innovation and Entrepreneurship Training Program—a national training program
 for college students on innovation and entrepreneurship. In this way, we can
 better promote the topic of synthetic biology to the DKU community and attract
 more fresh blood to participate in innovation. We made posters and participated
-in project exhibitions, and were regularly inspected by the jury on campus. 
+in project exhibitions, and were regularly inspected by the jury on campus.
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-on-campus-communication.png"
 width="500"/>
 
 **Figure 2** | Poster show, Judging, Journal Club
-
-
 
 ## Summary
 
@@ -324,4 +318,3 @@ groups. The social questionnaire allowed us to identify the need for the
 program; the school publicity has attracted a batch of fresh blood to join the
 research and innovation of synthetic biology; the expert interviews enabled us to
 reflect on the feasibility and future directions of our lab design;
-

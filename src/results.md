@@ -1,7 +1,5 @@
-
-
-<div class="flex justify-center items-center">
-    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Results</span></h1>
+<div class="flex items-center justify-center">
+    <h1 class="h1-bg">Results</h1>
     <img src="https://static.igem.wiki/teams/4161/wiki/wetlab8-for-bg.png" />
 </div>
 
@@ -34,18 +32,13 @@ The induced cells were harvested and washed with PBS. The yeasts containing pYD1
 
 ![y-fig-1](https://static.igem.wiki/teams/4161/wiki/y-fig-1.png)
 
-
 ![y-fig-2](https://static.igem.wiki/teams/4161/wiki/y-fig-2.png)
-
 
 ![y-fig3](https://static.igem.wiki/teams/4161/wiki/y-fig3.png)
 
-
 ![y-fig4](https://static.igem.wiki/teams/4161/wiki/y-fig4.png)
 
-
 ![y-fig5](https://static.igem.wiki/teams/4161/wiki/y-fig5.png)
-
 
 ### *Lactococcus lactis*
 

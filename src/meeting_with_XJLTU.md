@@ -1,10 +1,4 @@
-
-
-<div class="flex justify-center items-center">
-    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Partnership</span></h1>
-    <img src="https://static.igem.wiki/teams/4161/wiki/fig-collaboration-xjtlu-2.jpg" />
-</div>
-
+## Meeting with XJLTU
 
 ### XJLTU's Project
 
@@ -15,7 +9,7 @@ and immobilize the bacteria into a filter.
 In that way, the heavy metal ions in the wastewater can be captured by csgA protein
 that is expressed by E. coli located in the filter.
 
-### Questions & Advice From XJLTU:
+### Questions & Advice From XJLTU
 
 1. They would like to know how we will interact with and educate the public.\
     A: We have made questionnaires to evaluate their knowledge related to antibiotics,
@@ -37,7 +31,7 @@ that is expressed by E. coli located in the filter.
     and each nanobody is marked with at least one protein tag for their identification.
     We also provided links to igem parts so they can check it directly.
 
-### Questions & Advice From DKU:
+### Questions & Advice From DKU
 
 1. Will the biofilter be blocked due to E. coli proliferation?\
     A: The microorganisms are immobilized in filters,
@@ -49,7 +43,7 @@ that is expressed by E. coli located in the filter.
     then adjust the pH and check the remaining concentration of metal ions in time,
     so we can acquire a proper pH for the protein to capture heavy metal ions.
 
-### Discussion Topics:
+### Discussion Topics
 
 - Model for bacteria growth\
     The XJLTU team developed a model for predicting bacteria growth,

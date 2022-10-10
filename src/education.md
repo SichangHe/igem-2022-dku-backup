@@ -1,22 +1,21 @@
-
-<div class="flex justify-center items-center">
-    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Education</span></h1>
+<div class="flex items-center justify-center">
+    <h1 class="h1-bg">Education</h1>
     <img src="https://static.igem.wiki/teams/4161/wiki/education1.jpg" />
 </div>
 
 **Overview:**
 
-We conduct popular science education both on and off campus. 
+We conduct popular science education both on and off campus.
+
 - On campus, we have established a journal club, where different members of the
 team introduce cutting-edge knowledge about synthetic biology every two weeks,
 and we are happy to see many freshmen participating. We also cohosted a Biology Seminar Series,
 inviting Prof. Dong Hyun Jo, from Seoul National University College of Medicine
 to give a talk on therapeutic revolution for the DKU community.
 
-- Off campus, we contacted a local international high school and successfully delivered popular science lectures 
-to more than 330 middle and high school students and teachers about our project 
+- Off campus, we contacted a local international high school and successfully delivered popular science lectures
+to more than 330 middle and high school students and teachers about our project
 and synthetic biology.
-
 
 ### Off campus education
 Although iGEM competition has a solid audience base in **universities**,
@@ -53,7 +52,6 @@ in participating in iGEM competition consulted with us about the future iGEM
 cooperations.
 
 ![photo](https://static.igem.wiki/teams/4161/wiki/education5.jpg)
-
 
 ### On campus educaiton
 #### Wang-cai speach
@@ -116,7 +114,7 @@ cooperations.
 
 ### Summary
 
-We have devoted in several education activities. 
+We have devoted in several education activities.
 On-campus education allows us to better transfer knowledge about synthetic
 biology and shigella treatment to our students, as well as gather fresh
 blood for the next year's team.

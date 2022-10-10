@@ -1,10 +1,7 @@
-
-
-<div class="flex justify-center items-center">
-    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Implementation</span></h1>
+<div class="flex items-center justify-center">
+    <h1 class="h1-bg">Implementation</h1>
     <img src="https://static.igem.wiki/teams/4161/wiki/wet-lab-for-bg.png" />
 </div>
-
 
 ## Infection Precaution
 
@@ -59,5 +56,5 @@ prevention of infection.
 
 ## References
 
-^[Kotloff,2018]: Kotloff, K. L., Riddle, M. S., Platts-Mills, J. A., Pavlinac, P., & Zaidi, A. K. M. (2018). Shigellosis. The Lancet, 391(10122), 801-812. https://doi.org/https://doi.org/10.1016/S0140-6736(17)33296-8 
-^[Sansonetti,1994]:Sansonetti, P. J., Mounier, J., Prévost, M. C., & Mège, R.-M. (1994). Cadherin expression is required for the spread of Shigella flexneri between epithelial cells. Cell, 76(5), 829-839. https://doi.org/https://doi.org/10.1016/0092-8674(94)90358-1 
+^[Kotloff,2018]: Kotloff, K. L., Riddle, M. S., Platts-Mills, J. A., Pavlinac, P., & Zaidi, A. K. M. (2018). Shigellosis. The Lancet, 391(10122), 801-812. <https://doi.org/https://doi.org/10.1016/S0140-6736(17)33296-8>
+^[Sansonetti,1994]:Sansonetti, P. J., Mounier, J., Prévost, M. C., & Mège, R.-M. (1994). Cadherin expression is required for the spread of Shigella flexneri between epithelial cells. Cell, 76(5), 829-839. <https://doi.org/https://doi.org/10.1016/0092-8674(94)90358-1>

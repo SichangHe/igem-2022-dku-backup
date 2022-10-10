@@ -1,7 +1,5 @@
-
-
-<div class="flex justify-center items-center">
-    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Collaborations</span></h1>
+<div class="flex items-center justify-center">
+    <h1 class="h1-bg h1-bg-dark">Collaborations</h1>
     <img src="https://static.igem.wiki/teams/4161/wiki/colla-bg.jpeg" />
 </div>
 
@@ -14,7 +12,6 @@ provide a platform for iGEM teams to share resources and promote mutual
 learning and communication. We made poster and presented at the conference,
 answering questions from the audience and judges. After the conference, we
 collaborated with team LZU on science popularization about probiotics.
-
 
 <img src="https://static.igem.wiki/teams/4161/wiki/ccic-meeting.png"
 width="500"/>
@@ -29,9 +26,6 @@ we decided to provide an educational brochure for probiotic treatment and conduc
 educational activities in local high schools.
 Regardless of the time differences across continents, we were able to meet online
 discuss the details of our educational content.
-A brochure was designed and distributed during the local school meetup. 
+A brochure was designed and distributed during the local school meetup.
 You can access the brochure here:
-https://static.igem.wiki/teams/4161/wiki/aqua-and-purple-medical-trifold-brochure.pdf
-
-
-
+<https://static.igem.wiki/teams/4161/wiki/aqua-and-purple-medical-trifold-brochure.pdf>
