@@ -159,7 +159,6 @@ We designed the following sequences:
 
 ## Reference
 
-[^Barta,2017]: Barta, M., Shearer, J., Arizmendi, O., Tremblay, J., Mehzabeen, N., Zheng, Q., . . . Picking, W. (2017). Single-domain antibodies pinpoint potential targets within Shigella invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. *Journal of Biological Chemistry*, 292, jbc.M117.802231. <doi:10.1074/jbc.M117.802231>
 
 [^Salema,2013]: Salema, V., Marín, E., Martínez-Arteaga, R., Ruano-Gallego, D., Fraile, S., Margolles, Y., Teira, X., Gutierrez, C., Bodelón, G., & Fernández, L. Á. (2013). Selection of Single Domain Antibodies from Immune Libraries Displayed on the Surface of E. coli Cells with Two β-Domains of Opposite Topologies. *PLoS ONE*, 8(9), e75126. <https://doi.org/10.1371/journal.pone.0075126>
 
@@ -167,5 +166,5 @@ We designed the following sequences:
 
 [^Barta,2017]:Barta, M. L., Shearer, J. P., Arizmendi, O., Tremblay, J. M., Mehzabeen, N., Zheng, Q., Battaile, K. P., Lovell, S., Tzipori, S., Picking, W. D., Shoemaker, C. B., & Picking, W. L. (2017). Single-domain antibodies pinpoint potential targets within Shigella invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. J Biol Chem, 292(40), 16677-16687. https://doi.org/10.1074/jbc.M117.802231
 
-[^Sierocki,2021]Sierocki, R., Jneid, B., Orsini Delgado, M. L., Plaisance, M., Maillere, B., Nozach, H., & Simon, S. (2021). An antibody targeting type III secretion system induces broad protection against Salmonella and Shigella infections. PLoS Negl Trop Dis, 15(3), e0009231. https://doi.org/10.1371/journal.pntd.0009231 
+[^Sierocki,2021]: Sierocki, R., Jneid, B., Orsini Delgado, M. L., Plaisance, M., Maillere, B., Nozach, H., & Simon, S. (2021). An antibody targeting type III secretion system induces broad protection against Salmonella and Shigella infections. PLoS Negl Trop Dis, 15(3), e0009231. https://doi.org/10.1371/journal.pntd.0009231 
 
