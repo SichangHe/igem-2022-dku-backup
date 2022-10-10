@@ -15,7 +15,7 @@ unsanitary water in high diarrhea incidence areas. In consideration of the
 prevalent transmission pathways of Shigella, we also suggest people whose
 family members have developed Shigella infections and children in school with
 diarrhea cases take our tablets to prevent person-to-person transmission, which
-is the major form of Shigella spreading ^[Kotloff,2018].
+is the major form of Shigella spreading [^Kotloff,2018].
 
 ## Infection Therapy
 
@@ -23,7 +23,7 @@ Due to intracellular pathogen nature of Shigella, the effect of antibodies
 reduces as pathogens evade into the cells. The ability of reprogramming the
 infected cells to form protrusion adjacent cells allows Shigella to spread
 within intestine epithelial cells, reducing the chance of exposing to body
-internal environment ^[Sansonetti,1994]. This special characteristic
+internal environment [^Sansonetti,1994]. This special characteristic
 implies antibody may not be a one-size-fits-all solution for different stages
 of infection. We call for the combination of clinical phases of antibiotics
 treatment with our tablets together.
@@ -56,5 +56,6 @@ prevention of infection.
 
 ## References
 
-^[Kotloff,2018]: Kotloff, K. L., Riddle, M. S., Platts-Mills, J. A., Pavlinac, P., & Zaidi, A. K. M. (2018). Shigellosis. The Lancet, 391(10122), 801-812. <https://doi.org/https://doi.org/10.1016/S0140-6736(17)33296-8>
-^[Sansonetti,1994]:Sansonetti, P. J., Mounier, J., Prévost, M. C., & Mège, R.-M. (1994). Cadherin expression is required for the spread of Shigella flexneri between epithelial cells. Cell, 76(5), 829-839. <https://doi.org/https://doi.org/10.1016/0092-8674(94)90358-1>
+[^Kotloff,2018]: Kotloff, K. L., Riddle, M. S., Platts-Mills, J. A., Pavlinac, P., & Zaidi, A. K. M. (2018). Shigellosis. The Lancet, 391(10122), 801-812. https://doi.org/https://doi.org/10.1016/S0140-6736(17)33296-8 
+
+[^Sansonetti,1994]:Sansonetti, P. J., Mounier, J., Prévost, M. C., & Mège, R.-M. (1994). Cadherin expression is required for the spread of Shigella flexneri between epithelial cells. Cell, 76(5), 829-839. https://doi.org/https://doi.org/10.1016/0092-8674(94)90358-1 
