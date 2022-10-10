@@ -88,13 +88,13 @@ This vector has pUC19 as the backbone and is codon optimized for csg expression 
 | Part code | Part name| Link |
 | ------ | ------ | ------ |
 
-
 ## L.lactis NZ9000 parts
 
 ### Group L single elements
 
 Single parts in Group L includes the following elements:
 Group L parts
+
 | Part code | Part name| Link |
 | ------ | ------ | ------ |
 BBa_K4161600 | Usp45 nisin promoter | <http://parts.igem.org/Part:BBa_K4161600>
@@ -106,6 +106,7 @@ BBa_K4161605 | Flag-tag | <http://parts.igem.org/Part:BBa_K4161605>
 ### Composite elemnent
 
 The composite element of Group L includes Usp45-signaling peptide in L.lactis-Flagtag-20ipaD-AcmA3b.
+
 | Part code | Part name| Link |
 | ------ | ------ | ------ |
 BBa_K4161600 | Usp45-signaling peptide in L.lactis-20ipaD-AcmA3b | <http://parts.igem.org/Part:BBa_K4161997>
@@ -115,6 +116,7 @@ BBa_K4161600 | Usp45-signaling peptide in L.lactis-20ipaD-AcmA3b | <http://parts
 ### Composite elemnent
 
 The plasmid backbone of Group L is pNZ8148, a plasmid suitable for L.lactis.
+
 | Part code | Part name| Link |
 | ------ | ------ | ------ |
 BBa_K4161601 | pNZ8148 | <http://parts.igem.org/Part:BBa_K4161601>
