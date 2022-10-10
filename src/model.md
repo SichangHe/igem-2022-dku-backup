@@ -9,7 +9,7 @@ assumptions and results from the model push us to reflect on the present situati
 and make adjustments to our existing plans and experiments, which might also develop
 our final goal into a more realistic version.
 
-There are 2 modeling sections in our project:
+There are 3 modeling sections in our project:
 
 - **Visualization**\
   This section mainly shows the structure of proteins and their docking results,
@@ -20,6 +20,16 @@ There are 2 modeling sections in our project:
   predict the scenario after a patient
   takes the drug.
 
+- **Hardware**\
+  This section shows the 3D model of the micro-capsule where Yeast cells are sealed in.
+  The micro-capsule is made of shellac, and the pH-dependent solubility that
+  prefers a mild basic environment makes shellac perfect for
+  releasing probiotics in intestines.
+
+
 {{#include protein_structure_prediction.md}}
 
 {{#include Description_and_prediction_of_drug_efficacy.md}}
+
+{{#include hardware.md}}
+
