@@ -1,8 +1,7 @@
-<div class="flex justify-center items-center">
-    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Team</span></h1>
+<div class="flex items-center justify-center">
+    <h1 class="h1-bg">Team</h1>
     <img src="https://static.igem.wiki/teams/4161/wiki/team-bg.png" />
 </div>
-
 
 ## Biology
 

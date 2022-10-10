@@ -1,5 +1,5 @@
-<div class="flex justify-center items-center">
-    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Experiments</span></h1>
+<div class="flex items-center justify-center">
+    <h1 class="h1-bg">Experiments</h1>
     <img src="https://static.igem.wiki/teams/4161/wiki/wetlab5-for-bg.png" />
 </div>
 
@@ -31,6 +31,7 @@ Please see attached.
 [E.*coli* Lab Notes](https://static.igem.wiki/teams/4161/wiki/igem-e-labnotes.pdf)
 
 #### Protocols
+
 Please see attached.
 
 [E.*coli* Protocols](https://static.igem.wiki/teams/4161/wiki/igem-e-protocols.pdf)

@@ -1,11 +1,7 @@
-
-<div class="flex justify-center items-center">
-    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Model</span></h1>
+<div class="flex items-center justify-center">
+    <h1 class="h1-bg">Model</h1>
     <img src="https://static.igem.wiki/teams/4161/wiki/model-bg.png" />
 </div>
-
-
-
 
 Models are powerful tools in terms of imagining reasonable future scenarios. Also,
 assumptions and results from the model push us to reflect on the present situation

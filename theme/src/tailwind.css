@@ -15,7 +15,7 @@
     background: rgba(0, 0, 0, 0);
 }
 
-:not([class], a, li, div, blockquote, mark, span, strong, em, main, img, footer) {
+:not([class], a, li, div, blockquote, blockquote > *, mark, span, strong, em, main, img, footer) {
     background-color: var(--bg);
 }
 
@@ -24,7 +24,6 @@ html {
     color: var(--fg);
     text-size-adjust: none;
     -webkit-text-size-adjust: none;
-    @apply overflow-x-hidden;
 }
 
 body {
@@ -815,6 +814,13 @@ ul#searchresults span.teaser em {
     z-index: -1;
 }
 
+.h1-bg {
+    @apply absolute text-white text-8xl [text-shadow:_5px_5px_5px_black] [z-index:100];
+}
+.h1-bg-dark {
+    @apply text-black [text-shadow:_5px_5px_5px_white];
+}
+
 html:not(.no-js) main > * {
     @apply opacity-0;
 }
@@ -823,4 +829,7 @@ html.home:not(.no-js) main > *:not(#home_logo) {
 }
 html:not(.no-js, .home) main > * {
     @apply duration-500;
+}
+html.sidebar-visible {
+    @apply overflow-x-hidden sm:overflow-visible;
 }
