@@ -84,7 +84,7 @@ BBa_K4161100 | Csg surface display system on E. coli Nissle 1917 |<http://parts.
 
 ### Group E vectors
 
-This vector has pUC19 as the backbone and is codon optimized for csg expression in E. *coli*.
+Vectors pET30a and pUC19 are used for recombinant plasmid construction and protein expression.
 
 | Part code | Part name| Link |
 | ------ | ------ | ------ |
