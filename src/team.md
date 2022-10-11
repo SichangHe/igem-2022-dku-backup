@@ -12,7 +12,8 @@
 
 Yixuan Wu (Lisa)\
 UG Class of 2024\
-Molecular Bioscience, Cell & Molecular Biology
+Biology
+
 
 </div>
 <div>
@@ -21,7 +22,7 @@ Molecular Bioscience, Cell & Molecular Biology
 
 Yixuan Liu\
 UG Class of 2024\
-Molecular Bioscience, Cell & Molecular Biology
+Biology
 
 </div>
 <div>
@@ -30,7 +31,7 @@ Molecular Bioscience, Cell & Molecular Biology
 
 Sihan Wang\
 UG Class of 2023\
-Molecular Bioscience, Cell & Molecular Biology
+Biology
 
 </div>
 <div>
@@ -39,7 +40,7 @@ Molecular Bioscience, Cell & Molecular Biology
 
 Zhujun Yao\
 UG Class of 2024\
-Molecular Bioscience, Cell & Molecular Biology
+Biology
 
 </div>
 <div>
@@ -48,7 +49,7 @@ Molecular Bioscience, Cell & Molecular Biology
 
 Lingrui Lai\
 UG Class of 2023\
-Molecular Bioscience, Cell & Molecular Biology
+Biology
 
 </div>
 <div>
@@ -56,8 +57,7 @@ Molecular Bioscience, Cell & Molecular Biology
 <br />
 
 Yuxin Wang\
-UG Class of 2025\
-Major Undecided
+UG Class of 2025
 
 </div>
 <div>
@@ -66,7 +66,7 @@ Major Undecided
 
 Jingyun Jin\
 UG Class of 2024\
-Molecular Bioscience, Cell & Molecular Biology
+Biology
 
 </div>
 <div>
@@ -74,8 +74,7 @@ Molecular Bioscience, Cell & Molecular Biology
 <br />
 
 Chang Shen\
-UG Class of 2025\
-Major Undecided
+UG Class of 2025
 
 </div>
 <div>
@@ -84,7 +83,7 @@ Major Undecided
 
 Yunyi Ru\
 UG Class of 2023\
-Molecular Bioscience, Cell & Molecular Biology
+Biology
 
 </div>
 <div>
@@ -93,7 +92,7 @@ Molecular Bioscience, Cell & Molecular Biology
 
 Renwei Gao\
 UG Class of 2023\
-Molecular Bioscience, Genetics & Genomics
+Biology
 
 </div>
 <div>
@@ -101,8 +100,7 @@ Molecular Bioscience, Genetics & Genomics
 <br />
 
 Qizhou Jiang\
-UG Class of 2025\
-Major Undecided
+UG Class of 2025
 
 </div>
 </div>
@@ -125,7 +123,7 @@ Data Science
 
 Jasmine Santos\
 UG Class of 2024\
-Molecular Bioscience, Cell & Molecular Biology
+Biology
 
 </div>
 <div>
@@ -133,8 +131,7 @@ Molecular Bioscience, Cell & Molecular Biology
 <br />
 
 Yuxiang He\
-UG Class of 2025\
-Major Undecided
+UG Class of 2025
 
 </div>
 <div>
@@ -143,7 +140,7 @@ Major Undecided
 
 Zhenyu Xu\
 UG Class of 2024\
-Material Science, Physics
+Physics
 
 </div>
 </div>
@@ -157,16 +154,16 @@ Material Science, Physics
 
 Jiani Chen\
 UG Class of 2023\
-Molecular Bioscience, Cell & Molecular Biology
+Biology
 
 </div>
 <div>
-<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/yang-yu.jpeg" class="max-w-full" />
+<img alt="Yang's Picture" src="https://static.igem.wiki/teams/4161/wiki/yang-yu.jpeg" class="max-w-full" />
 <br />
 
 Yang Yu\
 UG Class of 2023\
-Molecular Bioscience, Cell & Molecular Biology
+Biology
 
 </div>
 </div>
@@ -175,11 +172,13 @@ Molecular Bioscience, Cell & Molecular Biology
 
 <div class="grid grid-flow-row grid-cols-2 gap-4 text-center md:grid-cols-4">
 <div>
-<img alt="Steven's Picture" src="https://static.igem.wiki/teams/4161/wiki/linfeng-huang.jpeg" class="max-w-full" />
+<img alt="Lingfeng's Picture" src="https://static.igem.wiki/teams/4161/wiki/linfeng-huang.jpeg" class="max-w-full" />
 <br />
 
-Lingfeng Huang\
-Associate Professor of Biology, Duke Kunshan University
+Lingfeng Huang, Ph.D.\
+Associate Professor\
+of Biology,\
+Duke Kunshan University
 
 </div>
 </div>
