@@ -16,6 +16,8 @@ Since DKU iGEM only started in 2021, we continued to look to Duke iGEM for suppo
 
 ## CCiC Meetup
 
+![CCiC certificate](https://static.igem.wiki/teams/4161/wiki/dkucciccertificate.jpg)
+
 In order to carry out science communications on a larger scale, we participated
 the 9th CCiC Conference (Conference of China iGEMer Community), which is a
 national summit independently initiated by Chinese iGEM teams, aiming to
@@ -26,5 +28,7 @@ collaborated with team LZU on science popularization about probiotics.
 
 <img src="https://static.igem.wiki/teams/4161/wiki/ccic-meeting.png"
 width="500"/>
+
+
 
 
