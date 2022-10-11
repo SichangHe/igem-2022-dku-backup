@@ -25,10 +25,10 @@ It is costly and time consuming.
 Side effects include degration of GI tract microbiome,
 and the emergence of more antibiotic resistant strains.
 </div>
-<img alt="logo" src="https://static.igem.wiki/teams/4161/wiki/hmpg1-1.png" class="w-full" />
+<img alt="Figure 1" src="https://static.igem.wiki/teams/4161/wiki/hmpg1-1.png" class="w-full" />
 </article>
 <article class="grid grid-flow-col grid-cols-2 gap-20 py-40">
-<img alt="logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="w-full" />
+<img alt="Figure 2" src="https://static.igem.wiki/teams/4161/wiki/hmpg-2.png" class="w-full" />
 <div>
 
 We are in an endless race against pathogens.
@@ -49,10 +49,10 @@ However, conventional antibodies have a high cost because of the complicated syn
 
 It can also be vulnerable to proteosomes in the GI tract.
 </div>
-<img alt="blank" src="https://static.igem.wiki/teams/4161/wiki/hmpg-3.png" class="w-full" />
+<img alt="Figure 3" src="https://static.igem.wiki/teams/4161/wiki/hmpg-3.png" class="w-full" />
 </article>
 <article class="grid grid-flow-col grid-cols-2 gap-20 py-40">
-<img alt="logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="w-full" />
+<img alt="Figure 4" src="https://static.igem.wiki/teams/4161/wiki/hmpg-4.png" class="w-full" />
 <div>
 
 Thus we propose a novel method to display nanobodies on the surface of probiotics.
