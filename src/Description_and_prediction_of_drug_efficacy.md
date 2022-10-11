@@ -150,7 +150,7 @@ $$
 Density_{max} (log_{10}cfu/ml) = A + C
 $$
 
-<<<<<<< HEAD
+
 So the uppper limit of the max density at $t$=5h will be about 5 billion Shigella, and
 the lower limit will be about 1 billion Shigella.
 
@@ -174,10 +174,6 @@ better understand the change of number of Shigella after medication,
 so that a more precise medication guidance is available.
 
 
-
-
-=======
->>>>>>> ea874dede03ecf4225ba82f4b950c00ba43952c7
 [^Yeast_growth]: Investigation of the Best Saccharomyces cerevisiae Growth Condition. Electron Physician. DOI: 10.19082/3592 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5308499/>
 
 [^Shigella_natural]:Effect of Sodium Chloride, pH and Temperature on Growth of Shigella flexneri. Journal of Food Protection. DOI:10.4315/0362-028x-52.5.356 <https://pubmed.ncbi.nlm.nih.gov/31003269/>
