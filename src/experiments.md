@@ -8,12 +8,11 @@
 This page will give a detailed record about the experiment process,
 including the lab notes and protocols.  
 
-## Experiment
-
 ### Yeast
 
 #### Lab Notes
 
+[Yeast Lab Notes](https://static.igem.wiki/teams/4161/wiki/saccharomyces-cerevisiae-lab-notebook.pdf)
 #### Protocols
 
 
@@ -39,8 +38,8 @@ including the lab notes and protocols.
 ##### Yeast induction for surface display 
 [Yeast_Induction.pdf](https://static.igem.wiki/teams/4161/wiki/yeast-induction.pdf)
 
-##### Floruoscence activated cell sorting 
-[Florescence_Activated_Cell_Sorting.pdf](https://static.igem.wiki/teams/4161/wiki/florescence-activated-cell-sorting.pdf)
+##### Fluorescence activated cell sorting 
+[Fluorescence_Activated_Cell_Sorting.pdf](https://static.igem.wiki/teams/4161/wiki/florescence-activated-cell-sorting.pdf)
 
 ##### Protein purification 
 "FLAG Tag Immuno-precipitation Kit (Immunomagnetic Beads Method)" from Beyotime was used for this experiment. The protocol follows the manual of the product[^4].
@@ -53,24 +52,21 @@ including the lab notes and protocols.
 [Plasmid_Extraction.pdf](https://static.igem.wiki/teams/4161/wiki/plasmid-extraction.pdf)
 
 
-### *Lactococcus lactis*
-
-#### Protocols
-
 ### *Escherichia coli*
 
 #### Lab Notes
 
-Please see attached.
 
 [E.*coli* Lab Notes](https://static.igem.wiki/teams/4161/wiki/igem-e-labnotes.pdf)
 
 #### Protocols
 
-Please see attached.
 
 [E.*coli* Protocols](https://static.igem.wiki/teams/4161/wiki/igem-e-protocols.pdf)
 
+### *Lactococcus lactis*
+
+#### Protocols
 
 
 [^1]: Beyotime One-step Method Competent Cell Preparation Kit. <https://www.beyotime.com/product/D0301.htm>
