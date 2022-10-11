@@ -10,7 +10,8 @@ to detect protein surface expression by using flow cytometry. Another
 contribution is protein modeling protocol. We designed an integrated protocol
 involving the usage of PyMol, RobeTTA, and Alphafold2. Through literature
 review, we were able to determine multiple parameters that measure the accuracy
-of the protein model, and conducted evaluation on our protein design.
+of the protein model, and conducted evaluation on our protein design. We also contributed 
+to previous parts by designing our parts with imporvement based on past iGEM teams.
 
 ### Cell surface display platforms
 
@@ -29,4 +30,8 @@ to model the structures of our protein, and used HADDOCK to visualize the
 docking structure. Evaluation focuses on different parameters: Ramachandran
 plot, Overall G-factors, Atomic Z-score RMS, Percentage of the amino acids
 having scored >= 0.2 in the 3D/1D profile, Overall quality factor, and Z-score.
-These parameters determine whether a certain structure is stable.
+These parameters determine whether a certain structure is stable. More details please see our [Modeling Page](model.md)
+
+### Improvement of parts
+
+[See Improvement](improve.md)
