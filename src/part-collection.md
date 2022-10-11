@@ -1,5 +1,5 @@
-<div class="flex items-center justify-center">
-    <h1 class="h1-bg">Parts</h1>
+<div class="h1-bg">
+    <h1 class>Parts</h1>
     <img src="https://static.igem.wiki/teams/4161/wiki/wetlab6-for-bg.png" />
 </div>
 

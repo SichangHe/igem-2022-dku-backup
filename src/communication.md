@@ -1,5 +1,5 @@
-<div class="flex items-center justify-center">
-    <h1 class="h1-bg h1-bg-dark">Communications</h1>
+<div class="h1-bg">
+    <h1 class>Communications</h1>
     <img src="https://static.igem.wiki/teams/4161/wiki/communi-bg.jpg" />
 </div>
 
@@ -309,7 +309,6 @@ in project exhibitions, and were regularly inspected by the jury on campus.
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-on-campus-communication.png"
 width="500"/>
 
-
 ## Summary
 
 Throughout the project, we never stopped science communication with different
@@ -317,5 +316,5 @@ groups. The social questionnaire allowed us to identify the need for the
 program; the school publicity has attracted a batch of fresh blood to join the
 research and innovation of synthetic biology; the expert interviews enabled us to
 reflect on the feasibility and future directions of our lab design.
-These science communication helped us be more clear about the direction of the experiment 
+These science communication helped us be more clear about the direction of the experiment
 and the significance of this project.
