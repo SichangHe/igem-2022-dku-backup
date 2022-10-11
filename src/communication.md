@@ -295,7 +295,8 @@ the interview was successful,
 and we were able to arm ourselves with adequate knowledge for the wet lab.
 
 ### Interview with SINOVAC
-科兴采访
+
+[See Entrepreneurship.](entrepreneurship.md)
 
 ## On-Campus Communication
 
