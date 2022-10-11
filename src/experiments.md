@@ -132,13 +132,17 @@ CsgA, or major curlin subunit, is a component of biofilm. The design was a modif
 
 
 
-### *Lactococcus lactis*
+## *Lactococcus lactis*
 
-#### Experiment Overview
+### Experiment Overview
 
 ![L_Workflow](https://static.igem.wiki/teams/4161/wiki/workflow-of-l-lactis-team.png)
 
-#### Protocols
+### Lab Notes
+
+Because of financial and logistical reasons, wet lab experiments of group L were halted. We therefore can only present the experimental procedures and protocols designed by our members.
+
+### Protocols
 
    
 Group L intends to display 20ipaD, a nanobody against Shigella, onto L.lactis. The plasmid construction is performed in E._coli_ and then transformed into L.lactis.    
@@ -162,6 +166,7 @@ Group L intends to display 20ipaD, a nanobody against Shigella, onto L.lactis. T
 plasmid extraction and gel purification are the same as Group Y.    
 
 [Solarbio_protocol_of_DNA_extraction.pdf](https://static.igem.wiki/teams/4161/wiki/solarbio-protocol-of-dna-extraction.pdf)
+
 
 
 [^1]: Beyotime One-step Method Competent Cell Preparation Kit. <https://www.beyotime.com/product/D0301.htm>
