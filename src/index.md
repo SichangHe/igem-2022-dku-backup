@@ -3,7 +3,8 @@
 </script>
 <p class="py-10"></p>
 <img alt="logo" id="home_logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="items-center block w-1/3 py-10 m-auto duration-100" />
-<h1 class="text-center">GutGuard</h1>
+<h1 class="text-6xl text-center animate-bounce">
+<img alt="G"" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="w-16" />ut<img alt="G"" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="w-16" />uard</h1>
 
 <div id="promotion_video" class="flex justify-center">
 <iframe title="DKU: GutGuard (2022) - Project Promotion [English]" width="560" height="315" src="https://video.igem.org/videos/embed/c28db71c-27b0-4945-863c-3aed20c3bfde" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" class="py-40"></iframe>
