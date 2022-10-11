@@ -1,5 +1,5 @@
-<div class="flex items-center justify-center">
-    <h1 class="h1-bg h1-bg-dark">Collaborations</h1>
+<div class="h1-bg">
+    <h1 class>Collaborations</h1>
     <img src="https://static.igem.wiki/teams/4161/wiki/colla-bg.jpeg" />
 </div>
 

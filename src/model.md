@@ -1,7 +1,6 @@
-<div class="flex items-center justify-center">
-    <h1 class="h1-bg">Model</h1>
-    <img src="https://static.igem.wiki/teams/4161/wiki/model-bg.png
-    "width="700" />
+<div class="h1-bg">
+    <h1 class>Model</h1>
+    <img src="https://static.igem.wiki/teams/4161/wiki/model-bg.png" />
 </div>
 
 Models are powerful tools in terms of imagining reasonable future scenarios. Also,
@@ -26,10 +25,8 @@ There are 3 modeling sections in our project:
   prefers a mild basic environment makes shellac perfect for
   releasing probiotics in intestines.
 
-
 {{#include protein_structure_prediction.md}}
 
 {{#include Description_and_prediction_of_drug_efficacy.md}}
 
 {{#include hardware.md}}
-
