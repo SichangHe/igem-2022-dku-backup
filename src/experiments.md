@@ -3,16 +3,12 @@
     <img src="https://static.igem.wiki/teams/4161/wiki/wetlab5-for-bg.png" />
 </div>
 
-## Introduction
 
-This page will give a detailed record about the experiment process,
-including the lab notes and protocols.  
 
-### Yeast
+## Yeast
 
-#### Experiment Overview
+### Experiment Overview
 
-**Y**
 
 **Phases**: 1. Stock vectors preparation and vectors storage; 2. Stock gene preparation and amplification; 3. Gene cloning, plasmid construction, storage, and verification; 4. Yeast transformation, protein display, and detection
 
@@ -31,67 +27,66 @@ By the end of this phase, we would get:
 Glycerol stock of yeast that were transformed with recombinant plasmids
 Induced yeasts (display the nanobody on the surface)
 
-#### Lab Notes
+### Lab Notes
 
 [Yeast Lab Notes](https://static.igem.wiki/teams/4161/wiki/saccharomyces-cerevisiae-lab-notebook.pdf)
-#### Protocols
+### Protocols
 
 
-##### E. coli competent cell preparation & transformation 
 "One-step Method Competent Cell Preparation Kit" from Beyotime was used for this experiment. The protocol follows the manual of the product[^1].
 
 [E.coli_competent_cell_transformation](https://static.igem.wiki/teams/4161/wiki/e-coli-competent-cell-transformation.pdf)
 
-##### Plasmid Extraction
+
 [Plasmid_Extraction](https://static.igem.wiki/teams/4161/wiki/plasmid-extraction.pdf)
 
-##### Genetic cloning (Enzyme digestion & ligation) 
+
 [Genetic_cloning_Enzyme_digestion_ligation](https://static.igem.wiki/teams/4161/wiki/genetic-cloning-enzyme-digestion-ligation.pdf)
 
-##### Gel purification 
+
 "DNA Agarose Gel Recycle Kit" from Beyotime was used for this experiment. The protocol follows the manual of the product.[^2]
 
 [Gel_Purification.pdf](https://static.igem.wiki/teams/4161/wiki/gel-purification.pdf)
 
-##### Yeast Competent Cell Preparation & Transformation 
+
 "Frozen-EZ Yeast Transformation II Kit" from Zymo was used for this experiment. The protocol follows the manual of the product.[^3]
 
-##### Yeast induction for surface display 
+ 
 [Yeast_Induction.pdf](https://static.igem.wiki/teams/4161/wiki/yeast-induction.pdf)
 
-##### Fluorescence activated cell sorting 
+
 [Fluorescence_Activated_Cell_Sorting.pdf](https://static.igem.wiki/teams/4161/wiki/florescence-activated-cell-sorting.pdf)
 
-##### Protein purification 
+
 "FLAG Tag Immuno-precipitation Kit (Immunomagnetic Beads Method)" from Beyotime was used for this experiment. The protocol follows the manual of the product[^4].
 
 [Protein_Purification.pdf](https://static.igem.wiki/teams/4161/wiki/protein-purification.pdf)
 
-##### Plasmid Extraction 
+
 “TIANprep Mini Plasmid kit” was used for this experiment. The protocol follows the manual of the product [^5].
 
 [Plasmid_Extraction.pdf](https://static.igem.wiki/teams/4161/wiki/plasmid-extraction.pdf)
 
 
-### *Escherichia coli*
+## *Escherichia coli*
 
-#### Experiment Overview
+### Experiment Overview
 
 [Group E Workflow](https://static.igem.wiki/teams/4161/wiki/group-e-workflow.pdf)
 
-# Group E.*coli* Experimental Procedures
+**Group E.*coli* Experimental Procedures**
 
-# 1. Cloning
+**1. Cloning**
 
-# 2. Recombinant Protein Expression
+**2. Recombinant Protein Expression**
 
-## 2.1 Express the Protein in E.*coli* DE3 Cytoplasm
+**2.1 Express the Protein in E.*coli* DE3 Cytoplasm**
 
 3 different VHHs (JPS-G3, JMK-H2, 20ipaD) and 1 antigen (ipaD) are expressed separately in E.*coli* DE3 for protein purification. As is shown in the diagram below (**Figure 1**), the DNA sequences of the proteins are bind to different detection tags (VHHs - FLAG-tag, antigen - HA-tag) and inserted into pET41a plasmids for bacterial transformation and protein purification. The pET41a plasmid contains a T7 promoter and a T7 terminator for high-level protein expression in E. *coli* DE3, and a GST tag with a Tb (thrombin) site for protein purification. After transformation, the exogenous proteins will be expressed by the bacteria. 
 
 **Fig.1 | Schematic Representation of the Protein Expression & Purification Process**
 
-## 2.2 Protein Purification and Affinity Test
+**2.2 Protein Purification and Affinity Test**
 
 Next, we use the GST tag to purify the recombinant protein. The target proteins will be extracted via GSH-GST interaction, and the remaining GST tag will be cut by thrombin. Then, we can get the purified recombinant proteins (target protein + detection tag). 
 
@@ -99,26 +94,26 @@ Lastly, co-IP (immuno-precipitation) followed by Western analysis will be used t
 
 **Fig.2 | Expected Western Blot Results of the co-IP Experiment**
 
-# 3. Surface Display
+**3. Surface Display**
 
-## 3.1 Surface Display via csgA
+**3.1 Surface Display via csgA**
 CsgA, or major curlin subunit, is a component of biofilm. The design was a modified version of the PATCH system from Neel Joshi lab. It is composed of a temperature-controlled promoter, Csg synthetic operon, and the VHH targeting Type III secretion system. The design is predicted to be beneficial in a therapeutic context because biofilm formation effectively inhibits the invasion of shigella into epithelial cells.
 
-## 3.2 Surface Display via intimin
+**3.2 Surface Display via intimin**
 
-## 3.3 Detecting E._coli_ surface display
+**3.3 Detecting E._coli_ surface display**
 
-1. **Congo red binding assay**\
+**Congo red binding assay**\
    We use a quantitative congo-red binding assay to detect the expression of curli fibers. Congo red is a dye that binds to the hydroxyl group of polypeptide chains in amyloid through hydrogen bonds. A control group with no curli expression and a group with curli expression are cultured under the same condition. The 490nm absorbance of both groups are measured to quantify the amount of congo red not in binding with curli fiber [(1)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6898321/)[(2)](https://pubs.acs.org/doi/full/10.1021/acsbiomaterials.6b00437).
-2. **Whole cell filtration ELISA**\
+**Whole cell filtration ELISA**\
    To detect the expression of curli fibers on the cell surface, we perform whole-cell ELISA. Whole-cell ELISA requires the cells to be seeded to the bottoms of the wells, providing conditions to detect proteins in whole cells [(3)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6898321/)[(4)](https://www.lsbio.com/products/elisakits/cellbased).
 
-## 3.4 Detecting the Binding Affinity Between E.*coli* Expressing VHHs and the antigen
+**3.4 Detecting the Binding Affinity Between E.*coli* Expressing VHHs and the antigen**
 
-1. **Aggregation Assay using OD600 measurements [(5)](https://doi.org/10.1016/j.cell.2018.06.041)**\
+   **Aggregation Assay using OD600 measurements [(5)](https://doi.org/10.1016/j.cell.2018.06.041)**\
    Ag (antigen)-only E.*coli*, Nb (nanobody, i.e., VHHs)-only E.*coli* and the mixture of the two are cultured separately in LB liquid medium for 24 hours. OD600 of their supernatant are measured immediately/after 24 hours to see whether there is significant difference between the Ag-only group, Nb-only group, and mixture group. A significant low OD600 in the mixture group indicates that the E.*coli* expressing VHHs and antigens bind to each other, form assembly, and sink. 
 
-2. **Observing the Morphologies using Confocal Microscopy [(5)](https://doi.org/10.1016/j.cell.2018.06.041)**\
+   **Observing the Morphologies using Confocal Microscopy [(5)](https://doi.org/10.1016/j.cell.2018.06.041)**\
    GFP and m*Cherry* genes were expressed respectively in Ag-only E.*coli* and Nb-only E.*coli*. When observing the morphology via a confocal microscope, we should see that most neighbors of a certain bacterium should have opposite colors. 
 
 
