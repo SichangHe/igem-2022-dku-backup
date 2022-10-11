@@ -11,6 +11,8 @@ This page will give a detailed explanation about the engineering cycle. To make 
 
 ### Yeast
 
+![y-engineering-cycle-high-resolution](https://static.igem.wiki/teams/4161/wiki/y-engineering-cycle-high-resolution.png)
+
 #### Cycle 1
 
 ##### Design
