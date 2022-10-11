@@ -1,10 +1,6 @@
 ## Description and Prediction of drug efficacy
 
 ### Overview
-<<<<<<< HEAD
-=======
-
->>>>>>> ea874dede03ecf4225ba82f4b950c00ba43952c7
 Wet lab results showed that we have successfully expressed 20ipaD on the surface
 of Yeast. Our goal is to describe
 efficiency of expression and predict the scenario after the drug is released in the
