@@ -77,6 +77,8 @@ Induced yeasts (display the nanobody on the surface)
 
 #### Experiment Overview
 
+[Group E Workflow](https://static.igem.wiki/teams/4161/wiki/group-e-workflow.pdf)
+
 # Group E.*coli* Experimental Procedures
 
 # 1. Cloning
