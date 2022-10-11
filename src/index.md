@@ -60,6 +60,6 @@ It exploits the natural pathogen inhibition effects of the probiotics.
 
 It also explores possibilities of antibody therapy mass production.
 
-Click on the left menu to learn more about the details.
+Click on the left menu to learn more.
 </div>
 </article>
