@@ -1,12 +1,17 @@
 ## Description and Prediction of drug efficacy
 
 ### Overview
+<<<<<<< HEAD
+=======
+
+>>>>>>> ea874dede03ecf4225ba82f4b950c00ba43952c7
 Wet lab results showed that we have successfully expressed 20ipaD on the surface
 of Yeast. Our goal is to describe
 efficiency of expression and predict the scenario after the drug is released in the
 patient's jejunal.
 
 #### Part 1: Protein expression efficiency
+
 To describe how efficient is Yeast concerning the expression of 20ipaD, we manually
 calculated the efficiency by counting the number of Yeast cells that expressed
 20ipaD and the total number of Yeast cells (**Figure 1**).Through separated assessments conducted by two individuals, we found that our model has a 31.25% expression rate with a STD of ± 0.75. 
@@ -17,6 +22,7 @@ calculated the efficiency by counting the number of Yeast cells that expressed
 Dark cells for no or very little expression
 
 #### Part 2: Prediction of post-medication scenario
+
 In this section, we want to predict post-medication scenario by using math modeling.
 In detail, we want to see how will the number of floating Shigella change
 after the drug release,
@@ -26,10 +32,11 @@ and the survival rate of Yeast cells.
 
 Yeast cells are sealed in micro-capsules made of shellac before
 being delivered into bodies.
-The pH-dependent solubility that prefers a mild basic environment makes shellac 
+The pH-dependent solubility that prefers a mild basic environment makes shellac
 perfect for releasing probiotics in jejunal.
 
 There are several important assumptions for this model:
+
 - Each floating Yeast cell carries one 20ipaD;
 - Each floating Shigella cell carries one IpaD;
 - Growth of Shigella cultured in BHI (Brian Heart Infusion) medium is similar with
@@ -40,11 +47,10 @@ the growth of Shigella in human's jejunal;
 allow overgrowth of the yeast, and the growth of the yeast is very slow in neutral;
 or even slightly alkaline conditions[^Yeast_growth].
 
-
 Based on these assumptions, the following two equations describe the change in
 number of shigella and Yeast:
 $$
-\frac{dL'(t)}{dt} = \frac{dL(t)}{dt} - \beta L(t)D(t) 
+\frac{dL'(t)}{dt} = \frac{dL(t)}{dt} - \beta L(t)D(t)
 $$
 $$
 \frac{D(t)}{dt} = \gamma L(t)D(t)
@@ -68,7 +74,7 @@ $B$: the relative growth rate at $M$
 
 Parameters $A$, $C$, $M$,and $B$ depend on the environmental conditions: temperature $T$, $pH$, and sodium chloride concentration $c$. \
 In our case,
-$T$ is defaulted to 37 degrees; 
+$T$ is defaulted to 37 degrees;
 the $pH$ is about 6.9 in jejunal and about 7.2 in ileal[^pH];
 $c$ in jejunal is about 112$mM$[^NaCl].
 
@@ -148,6 +154,7 @@ $$
 Density_{max} (log_{10}cfu/ml) = A + C
 $$
 
+<<<<<<< HEAD
 So the uppper limit of the max density at $t$=5h will be about 5 billion Shigella, and
 the lower limit will be about 1 billion Shigella.
 
@@ -173,6 +180,8 @@ so that a more precise medication guidance is available.
 
 
 
+=======
+>>>>>>> ea874dede03ecf4225ba82f4b950c00ba43952c7
 [^Yeast_growth]: Investigation of the Best Saccharomyces cerevisiae Growth Condition. Electron Physician. DOI: 10.19082/3592 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5308499/>
 
 [^Shigella_natural]:Effect of Sodium Chloride, pH and Temperature on Growth of Shigella flexneri. Journal of Food Protection. DOI:10.4315/0362-028x-52.5.356 <https://pubmed.ncbi.nlm.nih.gov/31003269/>
