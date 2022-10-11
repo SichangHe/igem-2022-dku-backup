@@ -1,4 +1,4 @@
-# Visualization
+## Visualization
 
 ### Overview:
 We used online softwares to help us visualize the 3D protein structures and

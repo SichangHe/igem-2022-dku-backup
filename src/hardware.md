@@ -1,4 +1,4 @@
-# Hardware
+## Hardware
 
 Probiotics will be sealed in microcapsules made of shellac
 before being delivered into bodies. The pH-dependent solubility that prefers
