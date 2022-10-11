@@ -1,4 +1,4 @@
-# Visualization
+## Visualization
 
 ### Overview:
 We used online softwares to help us visualize the 3D protein structures and
@@ -10,7 +10,7 @@ section
 aims to visually display the protein structure synthesized in this project and
 provide ideas or directions for future experiments or experimental teams
 
-### Part 1: General pattern
+#### Part 1: General pattern
 
 Our team designed DNA sequences for fusion protein-nanobody complex
 ourselves<!-- todo: from what -->
@@ -21,7 +21,7 @@ in our case,
 would be the nanobody's docking on the membrane and its binding to the antigen.
 <!-- todo: review -->
 
-#### Protein structure prediction
+***Protein structure prediction***
 
 Based on the amino acid sequence of the protein, various algorithms can predict
 the
@@ -72,7 +72,7 @@ the model with highest score.
 We view these pdb files in PyMOL[^PyMOL], a powerful tool for 3D structure
 visualization.
 
-#### Protein structure evaluation
+***Protein structure evaluation***
 
 Assessment of these resultant structures from Robetta and Alphafold2 is needed
 for
@@ -120,7 +120,7 @@ found for native proteins of similar size[^ProSA].
 
 All the structures shown later are the highest scoring structures.
 
-#### Protein structure alignment
+***Protein structure alignment***
 
 After the evaluation of models we got from Robetta[^Robetta] and AlphaFold Colab
 notebook[^AlphaFoldPh], we can compare the antibody structure in the model with
@@ -132,7 +132,7 @@ we regard two structures similar, which means the nanobody in our
 fusion-nanobody complex
 will theoretically function well.
 
-### Part 2: Yeast-20ipaD visualization
+#### Part 2: Yeast-20ipaD visualization
 We have successfully expressed the fusion protein-nanobody complex, which is
 Yeast-20ipaD.
 Here is the highest-scoring structure of Yeast-20ipaD (**Figure 1**).
@@ -173,7 +173,7 @@ have good effect theoretically (**Figure 2**). The RMSD value is tested to
 be 0.807, which means the complex have little influence on the
 structure of 20ipaD.
 
-### Part 3: Docking modeling
+#### Part 3: Docking modeling
 
 Interaction imformation (binding sites) of 20ipaD and ipaD
 is found in the paper: ***Single-Domain Antibodies Pinpoint Potential Targets
@@ -226,7 +226,7 @@ width="500"/>
 All the above shows that our Yeast-20ipaD complex could theoretically work well
 when binding with IpaD.
 
-### Part 4: Other combinations of probiotic-nanobody complex
+#### Part 4: Other combinations of probiotic-nanobody complex
 In this section, we would like to show other possible combinations of fusion
 protein-nanobody
 complex that might theoretically function well. To do this, we modeled their 3D
@@ -294,6 +294,13 @@ we encourage future
 researchers to test these models in the lab, with the E. coli Intimin model
 that performed the
 best among the three.
+
+### Summary
+To conclude, we have developed the best 3D model for Yeast-20ipaD
+and the docking structure between Yeast-20ipaD and IpaD. They are well analyzed
+and are decided to have good effect theoretically.
+Moreover, we modeled other 3 possible combinations of fusion protein and nanobody,
+which might serve as a guidance for future experiment design.
 
 
 
