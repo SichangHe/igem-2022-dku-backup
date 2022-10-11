@@ -41,7 +41,7 @@ To describe how efficient is Yeast concerning the expression of 20ipaD, we manua
 calculated the efficiency by counting the number of Yeast cells that expressed
 20ipaD and the total number of Yeast cells (**Figure 1**).Through separated assessments conducted by two individuals, we found that our model has a 31.25% expression rate with a STD of ± 0.75. 
 
-<img src="https://static.igem.wiki/teams/4161/wiki/fig1-efficiency-expression.png" width="800"/>
+<img src="https://static.igem.wiki/teams/4161/wiki/fig1-efficiency-expression.png"/>
 
 **Figure 1** | Fluorescent cells for Yeast cells that obviously expressed 20ipaD.
 Dark cells for no or very little expression
@@ -140,7 +140,7 @@ do fall in a certain range:
 Since our situation is in this range, so we can have an upper limit and lower limit
 for the growth scenario of Shigella (**Figure 2**).
 
-<img src="https://static.igem.wiki/teams/4161/wiki/fig-model-part2-growth-of-shigella.png" width="800"/>
+<img src="https://static.igem.wiki/teams/4161/wiki/fig-model-part2-growth-of-shigella.png"/>
 
 **Figure 2** | Upper limit and lower limit for Shigella's natural growth in jejunal.
 The x axis indicates the time with unit of hour; the y axis indicates the
@@ -148,7 +148,7 @@ log count of number of Shigella.
 
 The survival rate of Yeast cells in jejunal varies with time (**Figure 3**) [^pH].
 
-<img src="https://static.igem.wiki/teams/4161/wiki/fig-model-part-2-yeast-survival-rate.png" width="800"/>
+<img src="https://static.igem.wiki/teams/4161/wiki/fig-model-part-2-yeast-survival-rate.png"/>
 
 **Figure 3** | Survival rate of Yeast cells in jejunal with time of digestion.
 
