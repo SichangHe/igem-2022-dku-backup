@@ -5,11 +5,11 @@
 <img alt="logo" id="home_logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="items-center block w-1/3 py-10 m-auto duration-100" />
 <h1 class="text-center">GutGuard</h1>
 
-<div class="flex justify-center">
+<div id="promotion_video" class="flex justify-center">
 <iframe title="DKU: GutGuard (2022) - Project Promotion [English]" width="560" height="315" src="https://video.igem.org/videos/embed/c28db71c-27b0-4945-863c-3aed20c3bfde" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" class="py-40"></iframe>
 </div>
 
-<article class="grid grid-flow-col grid-cols-2 gap-20 pb-40">
+<article class="grid grid-flow-col grid-cols-2 gap-20 py-40">
 <div>
 
 Shigella, as one of the most antibiotic resistant pathogens,
@@ -26,7 +26,7 @@ and the emergence of more antibiotic resistant strains.
 </div>
 <img alt="logo" src="https://static.igem.wiki/teams/4161/wiki/hmpg1-1.png" class="w-full" />
 </article>
-<article class="grid grid-flow-col grid-cols-2 gap-20 pb-40">
+<article class="grid grid-flow-col grid-cols-2 gap-20 py-40">
 <img alt="logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="w-full" />
 <div>
 
@@ -41,7 +41,7 @@ Antibody therapy is a popular topic in therapeutics.
 It is different from antibiotics and can be more effective when triggering the host immune system.
 </div>
 </article>
-<article class="grid grid-flow-col grid-cols-2 gap-20 pb-40">
+<article class="grid grid-flow-col grid-cols-2 gap-20 py-40">
 <div>
 
 However, conventional antibodies have a high cost because of the complicated synthesis procedure.
@@ -50,7 +50,7 @@ It can also be vulnerable to proteosomes in the GI tract.
 </div>
 <img alt="logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="w-full" />
 </article>
-<article class="grid grid-flow-col grid-cols-2 gap-20 pb-40">
+<article class="grid grid-flow-col grid-cols-2 gap-20 py-40">
 <img alt="logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="w-full" />
 <div>
 
