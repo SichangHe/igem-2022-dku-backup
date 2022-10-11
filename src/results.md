@@ -55,27 +55,27 @@ Using following primers (**Table 1**), the JPS-G3-3xHA and ipaD-3xHA sequences w
 
 **Table 1** | PCR Primers Used
 
-| Name | Sequence (5' -> 3') | Endonuclease Site |
-| --- | --- | --- |
-| ipaD_FW | CGCGGATCCATGAATATTACAACTC | *Bam*HI |
-| ipaD_RV | GGCCTCGAGTCAAGCGTAG | *Xho*I |
-| JPS-G3_FW | CGCGGATCCGGAAGTACACAAGTACAGCTAG | *Bam*HI |
-| JPS-G3_RV | CGCGGATCCGGAAGTACACAAGTACAGCTAG | *Xho*I |
+| Name      | Sequence (5' -> 3')             | Endonuclease Site |
+| --------- | ------------------------------- | ----------------- |
+| ipaD_FW   | CGCGGATCCATGAATATTACAACTC       | *Bam*HI           |
+| ipaD_RV   | GGCCTCGAGTCAAGCGTAG             | *Xho*I            |
+| JPS-G3_FW | CGCGGATCCGGAAGTACACAAGTACAGCTAG | *Bam*HI           |
+| JPS-G3_RV | CGCGGATCCGGAAGTACACAAGTACAGCTAG | *Xho*I            |
 
-<img src="https://static.igem.wiki/teams/4161/wiki/e-labnote-8-31-1.png" width="500"/>
+<img src="https://static.igem.wiki/teams/4161/wiki/e-labnote-8-31-1.png"/>
 
 **Figure 1** | Gel Electrophoresis Result for Target Sequence Amplification
 
 #### Molecular Cloning for Cytoplasmic Protein Expression
 In order to construct the recombinant plasmids pET30a-ipaD-3xHA and pET30a-JPS-G3-3xFLAG, the PCR products obtained from the last step were digested by endonucleases *Bam*HI and *Xho*I to create sticky ends. Meanwhile, the pET30a plasmids were transformed into E.*coli* DH5a competent cells for propagation. After transformation and overnight culture, the extracted plasmids were also digested with endonucleases *Bam*HI and *Xho*I to create sticky ends. Afterwards, the digested plasmids and target sequences were ligated and transformed into E.*coli* DH5a competent cells (**Figure 2**).
 
-<img src="https://static.igem.wiki/teams/4161/wiki/e-labnote-9-13-2.jpg" width="500"/>
+<img src="https://static.igem.wiki/teams/4161/wiki/e-labnote-9-13-2.jpg"/>
 
 **Figure 2** | Plates for pET30a-ipaD-3xHA (i-1 & i-2) and pET30a-JPS-G3-3xFLAG (J-1 & J-2).
 
 Single colonies were picked from the plates and the inserted sequence were verified by colony PCR (**Figure 3**) and Sanger sequencing.
 
-<img src="https://static.igem.wiki/teams/4161/wiki/e-labnote-9-14-1.png" width="500"/>
+<img src="https://static.igem.wiki/teams/4161/wiki/e-labnote-9-14-1.png"/>
 
 **Figure 3** | Gel Electrophoresis Result for Colony PCR
 
@@ -84,15 +84,15 @@ In order to construct the recombinant DNA sequences csgA-JPS-G3-3xFLAG and csgA-
 
 **Table 2** | Overlap Extension PCR Primers
 
-|Name|Sequence (5' -> 3')|Endonuclease Site|
-|---|---|---|
-|OvF_csgA-shMT|CCGCGTGGATCCATGAAACTTTTAAAAGTAG|*Bam*HI |
-|OvR1_csgA-shMT|TAGCTGTACTTGTGTACTTCCCCGCTGCCGCCGTACTGATGA|/|
-|OvR2_csgA-shMT|TAGTCAGAGTTGTAATATTCATCCGCTGCCGCCGTACTGATGA|/|
-|OvF_JPS-G3|CATCAGTACGGCGGCAGCGGGGAAGTACACAAGTACAGCTAGC|/|
-|OvR_JPS-G3|GAATCTCGAGTTATTTGTCGTCGTCATCC|*Xho*I|
-|OvF_ipaD|CATCAGTACGGCGGCAGCGGATGAATATTACAACTCTGACTAAT|/|
-|OvR_ipaD|GGCCTCGAGTCAAGCGTAGTCAGGTAC|*Xho*I|
+| Name           | Sequence (5' -> 3')                          | Endonuclease Site |
+| -------------- | -------------------------------------------- | ----------------- |
+| OvF_csgA-shMT  | CCGCGTGGATCCATGAAACTTTTAAAAGTAG              | *Bam*HI           |
+| OvR1_csgA-shMT | TAGCTGTACTTGTGTACTTCCCCGCTGCCGCCGTACTGATGA   | /                 |
+| OvR2_csgA-shMT | TAGTCAGAGTTGTAATATTCATCCGCTGCCGCCGTACTGATGA  | /                 |
+| OvF_JPS-G3     | CATCAGTACGGCGGCAGCGGGGAAGTACACAAGTACAGCTAGC  | /                 |
+| OvR_JPS-G3     | GAATCTCGAGTTATTTGTCGTCGTCATCC                | *Xho*I            |
+| OvF_ipaD       | CATCAGTACGGCGGCAGCGGATGAATATTACAACTCTGACTAAT | /                 |
+| OvR_ipaD       | GGCCTCGAGTCAAGCGTAGTCAGGTAC                  | *Xho*I            |
 
 However, due to time limitation, this part has not been successfully implemented.
 

@@ -53,9 +53,18 @@ cooperations.
 
 ![photo](https://static.igem.wiki/teams/4161/wiki/education5.jpg)
 
-### On campus educaiton
-#### Wang-cai speach
-from Sihan
+### On campus education
+#### Wang-Cai Biology Seminar Series
+
+![Wang-Cai Talk](https://static.igem.wiki/teams/4161/wiki/wang-cai-talk.jpeg)
+
+In this Wang-Cai biology seminar series, the DKU iGEM team was honored to co-host the speech delivered by Prof. Dong Hyun Jo from Seoul National University College of Medicine. The talk was titled “Therapeutic Revolution: Application of Novel Technologies”, where Dr Jo introduced the brief history and therapeutic development for one specific type of cancer, retinoblastoma. 
+
+Dr Jo is the assistant professor of Seoul National University College of Medicine in Republic of Korea. He had his medical degree at Seoul National University in 2007. In 2012, Dr Jo received residency at the Department of Ophthalmology, Seoul National University Hospital, and in 2016, he received his PhD at Seoul National University. Dr Jo’s research interest focuses on 3 aspects. The first is the development of novel therapeutic approaches against retinal diseases. The second is the molecular mechanisms of physiological and pathological angiogenesis in the retina and associated organs, the third is translational research on retinoblastoma. 
+
+At the end of the talk. Dr. Jo shared his career pathway as both a physician and a researcher. The devotion he made to the clinical therapy of retinoblastoma and the improvement of the health of his patients made him feel that biomedical sciences are not limited to theoretical knowledge, but rather quite practical and can benefit the whole population. The experience and thoughts expressed by Dr. Jo greatly inspired us, which allow us to have more understanding of graduate choices and future career plans. 
+
+
 
 ####  Journal club
 In order to have better educational effect and promote our project , we
@@ -76,41 +85,6 @@ width="500"/>
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-1st-journal-club.jpg"
 width="500"/>
 
-### Off campus education
-Although iGEM competition has a solid audience base in **universities**,
-students in high schools have little knowledge of iGEM competition or give up
-because of their limitation of conducting wetlabs. There is an increasing trend
-of taking probiotic products. However, there is lack of common sense of
-probiotics.
-
-![photo](https://static.igem.wiki/teams/4161/wiki/education2.jpg)
-
-To narrow the gap between public and science, we contacted with Dipont Huayao
-Collegiate School Kunshan, a local high school. We introduced iGEM competition
-and popularize the knowledge of GI tract and probiotics by giving a
-presentation. **In the introduction of iGEM**, we introduced biology team,
-modelling team, wiki team and human practice team, including their
-responsibility and collaborations between different subgroups.
-
-![photo](https://static.igem.wiki/teams/4161/wiki/education3.jpg)
-
-**For GI tract**, we introduced the process of digesting. Functions of each
-human organ and different intestinal floras were explained in detail. Along
-with knowledge, we provided two fun facts——“Mom passes gut microbiota to
-baby” and “Having stomachache and diarrhea before exams”. Besides GI
-tract, we also mentioned the harm that using antibiotics can do to
-gastrointestinal tract.
-
-![photo](https://static.igem.wiki/teams/4161/wiki/education4.jpg)
-
-**For probiotics**, we popularized basic knowledge of probiotics, pointed out
-issues that taking probiotics improperly will lead to and give our advice.
-After the speech, 330 high school students and teachers had a better
-understanding of choosing probiotic products. Students and teachers interested
-in participating in iGEM competition consulted with us about the future iGEM
-cooperations.
-
-![photo](https://static.igem.wiki/teams/4161/wiki/education5.jpg)
 
 ### Summary
 

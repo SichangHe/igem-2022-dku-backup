@@ -1,10 +1,15 @@
 # Introduction
 
+The probiotics market in China is expected to reach a size of USD 13,527.100 million by 2025, growing at a CAGR of 8.81 percent. In 2019, the market was valued at US$8,149.466 million [^1]. Previous research findings has emphasized on the significance of gut microbiome on human health, and this has opened up the marketing of probiotics. Taking advantage of the booming market and the maturation of bioengineering technology, our project aims to guard our guts through bacteria-bacteria interaction, a method that is an alternative to antibiotics. Some probiotic product utilizing bacteria-bacteria cell interaction has already gone through clinical trials and entered the market, such as Lactobacillus reuteri DSM17648 that treats H.pylori infection [^2]. Therefore, it is possible for our product to secure a place in the probiotic market.
+
+
 The terminal of our designed product is a drug used in people. We understand that animal model testings as well as clinical trials are often involved in the process of drug development. What we have reached so far is only a prototype tested in vitro. After the completion of the in vitro testing we will proceed to in vivo models. To improve our plan we interviewed Jisheng Lin from Sinovac Biotech company, to collected feedbacks and suggestions about how to turn our products into commercial ones as well as cautions on putting our products in a real world situation. Here we provide considerations from various aspects of accessing our products into market and our solutions so far.
 
 ## Safety
 
 "Safety is always the first concern," as suggested by Mr. Lin, "even it doesn't work well, at least does no harm." Based on Mr. Lin's suggestions as well as our previous thoughts, several sources of safety concerns are listed as follows: First, the plasmid we used for selection contains a bacterial ampicillin resistance gene. though not expressed in yeast due to different promoter and codon structures, potential horizontal gene transfers still leave risks of spread antibiotic resistent genes to other prokaryotes in the intestine. Second, though our vectors cell linage yeast strain EBY100 has been well studied, the genomic background of our engineered yeast is unknown. Our engineering process may alter the growth and metabolic characteristics. Efforts should be given to test if engineered yeast could harm human bodies. Besides, human intestine is a complicated microenvironment comprises of a microbiota yet not fully understood. It is also important to clarify how long does our engineered yeast can survive in human body, whether it gains competitive advantages over native gut microorganisms, and how it alter the structure of gut microbiome. Third, similar to antibody therapies, allergy may be a question to some people. Therefore, an approach should be developed to pre-test patients' irritability. Fourth, as a commercial product, a standard of quality control during each step of the engineering or the drug production is also needed.
+
+![Entre_image](https://static.igem.wiki/teams/4161/wiki/entre-image.jpg)
 
 ## Effectiveness
 
@@ -28,3 +33,7 @@ To remove the influence of cell lines on the result of invasion test, we plan to
 # Conclusion
 
 We realized that what we have built is only a prototype of a *Shigella* infection precaution drug. There is still a long way to go for optimizing the drug in vitro as well as testing the drug in vivo. However, via a series of design processes, we have developed plans to turn it into real world application.
+
+[^1]:China Probiotics Market Size, Share, Opportunities, COVID-19 Impact, And Trends By Ingredient (Bacteria, Yeast), By Form (Liquid, Dry), By Application (Functional Food And Beverages, Dietary Supplements, Animal Feed), And By End-User (Human, Animal) - Forecasts From 2020 To 2025. (2020). <https://www.knowledge-sourcing.com/report/china-probiotics-market#:~:text=China%20probiotics%20market%20is%20estimated,intestinal%20tracts%2C%20and%20bowel%20function>
+
+[^2]:Significant Reduction in Helicobacter pylori Load in Humans with Non-viable Lactobacillus reuteri DSM17648: A Pilot Study. (2015). <https://pubmed.ncbi.nlm.nih.gov/25481036/>
