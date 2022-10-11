@@ -48,7 +48,7 @@ However, conventional antibodies have a high cost because of the complicated syn
 
 It can also be vulnerable to proteosomes in the GI tract.
 </div>
-<img alt="logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="w-full" />
+<img alt="blank" src="https://static.igem.wiki/teams/4161/wiki/hmpg-3.png" class="w-full" />
 </article>
 <article class="grid grid-flow-col grid-cols-2 gap-20 pb-40">
 <img alt="logo" src="https://static.igem.wiki/teams/4161/wiki/logo-transparent.png" class="w-full" />
