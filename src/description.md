@@ -1,4 +1,8 @@
-## Project Description
+<div class="h1-bg">
+    <h1 class>Project Description</h1>
+    <img src="https://static.igem.wiki/teams/4161/wiki/wetlab9-for-bg.png" />
+</div>
+
 The Shigella species is listed as one of the eight dangerous drug resistant bacteria[^CDC,2019], with associated mortalities projected to rise to 10 million globally by 2050. The use of conventional antibiotics aggravates the multidrug resistance of most Shigella strains. Besides aiding in the selection of resistant pathogens, antibiotics reduce intestinal species diversity and population, and disrupt the defensive, metabolic, and trophic functions of interdependent microbes [^Francino,2016]. Engineered probiotics with cell surface display systems are promising in tackling this problem due to a weaker selective pressure and specific binding proteins that are less likely to disrupt the host gut microbiome. Through literature review, E.*coli* Nissle 1917, yeast and L.*lactis* are chosen for expression because their probiotic nature present no known harm to the GI tract and the convenience in lab culturing.
 
 [^CDC,2019]: Centers for Disease Control and Prevention. (2019). 2019 AR

@@ -1,5 +1,8 @@
 # Introduction
 
+The probiotics market in China is expected to reach a size of US$13,527.100 million by 2025, growing at a CAGR of 8.81 percent. In 2019, the market was valued at US$8,149.466 million [^1]. Previous research findings has emphasized on the significance of gut microbiome on human health, and this has opened up the marketing of probiotics. Taking advantage of the booming market and the maturation of bioengineering technology, our project aims to guard our guts through bacteria-bacteria interaction, a method that is an alternative to antibiotics. Some probiotic product utilizing bacteria-bacteria cell interaction has already gone through clinical trials and entered the market, such as Lactobacillus reuteri DSM17648 that treats H.pylori infection [^2]. Therefore, it is possible for our product to secure a place in the probiotic market.
+
+
 The terminal of our designed product is a drug used in people. We understand that animal model testings as well as clinical trials are often involved in the process of drug development. What we have reached so far is only a prototype tested in vitro. After the completion of the in vitro testing we will proceed to in vivo models. To improve our plan we interviewed Jisheng Lin from Sinovac Biotech company, to collected feedbacks and suggestions about how to turn our products into commercial ones as well as cautions on putting our products in a real world situation. Here we provide considerations from various aspects of accessing our products into market and our solutions so far.
 
 ## Safety
@@ -28,3 +31,7 @@ To remove the influence of cell lines on the result of invasion test, we plan to
 # Conclusion
 
 We realized that what we have built is only a prototype of a *Shigella* infection precaution drug. There is still a long way to go for optimizing the drug in vitro as well as testing the drug in vivo. However, via a series of design processes, we have developed plans to turn it into real world application.
+
+[^1]:China Probiotics Market Size, Share, Opportunities, COVID-19 Impact, And Trends By Ingredient (Bacteria, Yeast), By Form (Liquid, Dry), By Application (Functional Food And Beverages, Dietary Supplements, Animal Feed), And By End-User (Human, Animal) - Forecasts From 2020 To 2025. (2020). <https://www.knowledge-sourcing.com/report/china-probiotics-market#:~:text=China%20probiotics%20market%20is%20estimated,intestinal%20tracts%2C%20and%20bowel%20function>
+
+[^2]:Significant Reduction in Helicobacter pylori Load in Humans with Non-viable Lactobacillus reuteri DSM17648: A Pilot Study. (2015). <https://pubmed.ncbi.nlm.nih.gov/25481036/>

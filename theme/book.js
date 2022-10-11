@@ -108,6 +108,44 @@ const create_ambient = async () => {
     update_ambient();
 };
 
+const snap_home_articles = () => {
+    let current_scroll = window.scrollY;
+    let scroll_up = true;
+    const articles = document.querySelectorAll("main > article");
+    const first_article = articles[0];
+    const last_article = articles[articles.length - 1];
+    const window_middle = () => window.innerHeight / 2 + window.scrollY;
+    const article_middle = (article) =>
+        article.offsetHeight / 2 + article.offsetTop;
+    const scroll_to = (article) =>
+        window.scrollTo(0, article_middle(article) - window.innerHeight / 2);
+    const snap = () => {
+        scroll_up = window.scrollY < current_scroll;
+        current_scroll = window.scrollY;
+        if (
+            window_middle() <= article_middle(first_article) ||
+            (!scroll_up && window_middle() >= article_middle(last_article))
+        ) {
+            return;
+        }
+        let index = 0;
+        let article = last_article;
+        for (; index < articles.length; index++) {
+            const relative_y =
+                article_middle(articles[index]) - window_middle();
+            if (relative_y >= 0) {
+                article =
+                    scroll_up && relative_y >= window.innerHeight / 8
+                        ? articles[index - 1]
+                        : articles[index];
+                break;
+            }
+        }
+        scroll_to(article);
+    };
+    return snap;
+};
+
 const rotate_home_logo = () => {
     const logo = document.getElementById("home_logo");
     if (logo === null) {
@@ -116,8 +154,10 @@ const rotate_home_logo = () => {
     let timer = null;
     let old_offset = window.scrollY;
     const rotate = (offset) => (logo.style.transform = `rotate(${offset}deg)`);
+    const snap = snap_home_articles();
     const reset_rotation = () => {
         rotate(0);
+        snap();
         old_offset = window.scrollY;
     };
     const apply_rotation = async () => {

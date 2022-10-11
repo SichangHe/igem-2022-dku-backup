@@ -1,18 +1,14 @@
-<<<<<<< HEAD
-
-<div class="flex justify-center items-center">
-    <h1 class="absolute" style="z-index: 100;"><span style="color:white">Parts</span></h1>
+<div class="h1-bg">
+    <h1 class>Parts</h1>
     <img src="https://static.igem.wiki/teams/4161/wiki/wetlab6-for-bg.png" />
 </div>
 
-=======
-# Yeast (Group Y) Parts
->>>>>>> 4f34a014dbc9ac84e195d3b694d1e9292119be9d
+## Yeast (Group Y) Parts
 
 All genetic parts of group Y can be divided into 3 categories, including single
 element, key composite segment, and vector.
 
-## Group Y single elements
+### Group Y single elements
 
 The single elements refer to every functional unit of our key genetic parts,
 like promoter, linker, important polypeptide, etc. A total of seven single
@@ -28,7 +24,7 @@ elements were documented.
 | BBa_K4161506 | ipaD          | <http://parts.igem.org/Part:BBa_K4161506> |
 | BBa_K4161507 | HA            | <http://parts.igem.org/Part:BBa_K4161507> |
 
-## Group Y key composite segments
+### Group Y key composite segments
 
 The key composite segments are clusters of multiple single elements, they make
 up the key expression modules or functional units of the genetic model. Two key
@@ -39,7 +35,7 @@ composite segments were documented.
 | BBa_K4161301 | Single Domain Antibody 20ipaD Conjugated Aga2 Express Module | <http://parts.igem.org/Part:BBa_K4161301> |
 | BBa_K4161508 | 488aa recombinant protein, Aga2 + ipaD| <http://parts.igem.org/Part:BBa_K4161508> |
 
-## Group Y vector
+### Group Y vector
 
 Most of our genetic designs were based on the yeast surface display vector
 pYD1, which is also documented.
@@ -48,13 +44,13 @@ pYD1, which is also documented.
 |--------------|--------------------------------------------------------------|------------------------------------------|
 | BBa_K4161302 | pYD1 plasmid                                                 | <http://parts.igem.org/Part:BBa_K4161302>|
 
-# E.coli Nissle 1917 (Group E) Parts
+## E.coli Nissle 1917 (Group E) Parts
 
-## Group E single elements
+### Group E single elements
 
-Single elements of Group E include nanobodies, 
-curli protein (csg) operon fragments, 
-linkers, tags, signal peptides, 
+Single elements of Group E include nanobodies,
+curli protein (csg) operon fragments,
+linkers, tags, signal peptides,
 promoters and terminators. A total of 15 parts were documented.
 
 | Part code | Part name| Link |
@@ -75,21 +71,55 @@ BBa_K4161020 | JPS-G3 | <http://parts.igem.org/Part:BBa_K4161020>
 BBa_K4161021 | 3xFlag | <http://parts.igem.org/Part:BBa_K4161021>
 BBa_K4161022 | thr terminator | <http://parts.igem.org/Part:BBa_K4161022>
 
+### Group E composite segments
 
-## Group E composite segments
-
-Group E's composite parts are designed to express surface protein-nanobody fusion proteins. A total of 3 composite parts are documented. 
+Group E's composite parts are designed to express surface protein-nanobody fusion proteins. A total of 4 composite parts are documented.
 
 | Part code | Part name| Link |
 | ------ | ------ | ------ |
-BBa_K4161003  | csg-JMK-H2, Csg surface display system on E. coli Nissle 1917 | <http://parts.igem.org/Part:BBa_K4161003>
+BBa_K4161003 | csg-JMK-H2, Csg surface display system on E. coli Nissle 1917 | <http://parts.igem.org/Part:BBa_K4161003>
 BBa_K4161004 | intimin-20IpaD, Nanobody surface display system based on intimin| <http://parts.igem.org/Part:BBa_K4161004>
-BBa_K4161100  | Csg surface display system on E. coli Nissle 1917 |<http://parts.igem.org/Part:BBa_K4161100>
+BBa_K4161023 | csgA-JPS-G3-3xFLAG, Csg surface display system on E. coli Nissle 1917 | <http://parts.igem.org/Part:BBa_K4161023>
+BBa_K4161100 | Csg surface display system on E. coli Nissle 1917 |<http://parts.igem.org/Part:BBa_K4161100>
 
-## Group E vectors
+### Group E vectors
 
-This vector has pUC19 as the backbone and is codon optimized for csg expression in E. *coli*.
+Vectors pET30a and pUC19 are used for recombinant plasmid construction and protein expression.
 
 | Part code | Part name| Link |
 | ------ | ------ | ------ |
+BBa_K4161024 | pET30a, empty vector | <http://parts.igem.org/Part:BBa_K4161024>
+BBa_K4161025 | pUC19, empty vector | <http://parts.igem.org/Part:BBa_K4161025>
 
+## L.lactis NZ9000 parts
+
+### Group L single elements
+
+Single parts in Group L includes the following elements:
+Group L parts
+
+| Part code | Part name| Link |
+| ------ | ------ | ------ |
+BBa_K4161600 | Usp45 nisin promoter | <http://parts.igem.org/Part:BBa_K4161600>
+BBa_K4161603 | AcmA3b | <http://parts.igem.org/Part:BBa_K4161603>
+BBa_K4161602 | 20ipaD | <http://parts.igem.org/Part:BBa_K4161602>
+BBa_K4161604 | signalling peptide in L.lactis | <http://parts.igem.org/Part:BBa_K4161604>
+BBa_K4161605 | Flag-tag | <http://parts.igem.org/Part:BBa_K4161605>
+
+### Composite elemnent
+
+The composite element of Group L includes Usp45-signaling peptide in L.lactis-Flagtag-20ipaD-AcmA3b.
+
+| Part code | Part name| Link |
+| ------ | ------ | ------ |
+BBa_K4161600 | Usp45-signaling peptide in L.lactis-20ipaD-AcmA3b | <http://parts.igem.org/Part:BBa_K4161997>
+
+### Group L vector
+
+### Composite elemnent
+
+The plasmid backbone of Group L is pNZ8148, a plasmid suitable for L.lactis.
+
+| Part code | Part name| Link |
+| ------ | ------ | ------ |
+BBa_K4161601 | pNZ8148 | <http://parts.igem.org/Part:BBa_K4161601>
