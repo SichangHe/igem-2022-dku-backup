@@ -70,7 +70,11 @@ including the lab notes and protocols.
 
 
 [^1]: Beyotime One-step Method Competent Cell Preparation Kit. <https://www.beyotime.com/product/D0301.htm>
+
 [^2]: Beyotime DNA Agarose Gel Recycle Kit. <https://www.beyotime.com/product/D0056.htm>
+
 [^3]:Zymo Frozen-EZ_Yeast_Transformation_II_Kit. <https://files.zymoresearch.com/protocols/_t2001_frozen-ez_yeast_transformation_ii.pdf>
+
 [^4]: Beyotime FLAG Tag Immuno-precipitation Kit (Immunomagnetic Beads Method). <https://m.beyotime.com/Manual/P2181%20Flag%E6%A0%87%E7%AD%BE%E8%9B%8B%E7%99%BD%E5%85%8D%E7%96%AB%E6%B2%89%E6%B7%80%E8%AF%95%E5%89%82%E7%9B%92(%E7%A3%81%E7%8F%A0%E6%B3%95).pdf>
+
 [^5]:TIANprep Mini Plasmid kit. <https://en.tiangen.com/download/manual.html?one=34&two=1085&three=1086&id=4307>
