@@ -1,6 +1,6 @@
 <div class="h1-bg">
     <h1 class>Collaborations</h1>
-    <img src="https://static.igem.wiki/teams/4161/wiki/colla-bg.jpeg" />
+    <img src="https://static.igem.wiki/teams/4161/wiki/collab-title.jpg" />
 </div>
 
 ## Collaboration with Duke iGEM
