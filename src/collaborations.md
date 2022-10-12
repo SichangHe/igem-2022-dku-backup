@@ -11,6 +11,9 @@ Duke Kunshan University (DKU) is Duke University's sister school in Kunshan, Chi
 ### Our Partnership
 Since DKU iGEM only started in 2021, we continued to look to Duke iGEM for support and guidance. This year, we met on Duke campus and gave each other suggestions. We shared the trouble shooting processes of our wet labs and reached mutual agreement to construct a PCR trouble shooting guide for future iGEM teams to use. 
 
+[See our trouble shooting guide here.](https://static.igem.wiki/teams/4161/wiki/pcr-troubleshooting-guide.pdf)
+
+
 ![dku-duke-group0](https://static.igem.wiki/teams/4161/wiki/dku-duke-group0.jpeg)
 
 
