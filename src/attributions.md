@@ -10,14 +10,9 @@
 Biology Team leader.
 In charge of wet lab organization, human practice organizations and wiki construction.
 Designed the overall topic and approach of the problem to tackle
-<<<<<<< HEAD
 with synthetic biology design. Designer of E.coli csgA surface display
 and lab experiments of the *E.coli* group. 
 In charge of outreach, secured funding for the project.
-=======
-with synthetic biology design. Designer of *E.coli* csgA surface display
-and lab experiments of the *E.coli* group.
->>>>>>> f68c6dfa9b6bc443db91d1503afd469fc5965647
 
 ### Yuxin Wang
 
