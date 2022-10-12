@@ -30,6 +30,7 @@ Research has shown that the microcapsules with the addition of shellac
 and whey protein isolate (WPI) addition had a synergistic effect."[^Shellac]
 
 
+## Reference
 
 [^Microencapsulation]:Choudhury, N., Meghwal, M., & Das, K. (2021). Microencapsulation: An overview on concepts, methods, properties and applications in foods. Food Frontiers, 2, 426– 442. <https://doi.org/10.1002/fft2.94>
 
