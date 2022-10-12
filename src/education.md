@@ -3,17 +3,17 @@
     <img src="https://static.igem.wiki/teams/4161/wiki/education1.jpg" />
 </div>
 
-**Overview:**
+## Overview
 
 Education along with science communication is important for us.
 There are many reasons for that –- unprofessional formal school education,
 emerging fake news, and increasing conflicts and misunderstanding between science and the public.
-Therefore, we devoted ourselves to narrowing the gap between the science and the public and encouraging communications about synthetic biology.
+Therefore, we devoted ourselves to narrowing the gap between science and the public and encouraging communications about synthetic biology.
 Our consultations are presented in detail on Communication.
 This year, we conduct popular science education both on and off campus.
 
 - On campus, we have established a journal club, where different members of the
-team introduce cutting-edge knowledge about synthetic biology every two weeks,
+team introduced cutting-edge knowledge about synthetic biology every two weeks,
 and we are happy to see many freshmen participating. We also cohosted a Biology Seminar Series,
 inviting Prof. Dong Hyun Jo, from Seoul National University College of Medicine
 to give a talk on therapeutic revolution for the DKU community.
@@ -22,7 +22,7 @@ to give a talk on therapeutic revolution for the DKU community.
 to more than 330 middle and high school students and teachers about our project
 and synthetic biology.
 
-### On campus education
+### On-campus education
 #### Wang-Cai Biology Seminar Series
 
 ![Wang-Cai Talk](https://static.igem.wiki/teams/4161/wiki/wang-cai-talk.jpeg)
@@ -31,14 +31,14 @@ In this Wang-Cai biology seminar series, the DKU iGEM team was honored to co-hos
 the speech delivered by Prof. Dong Hyun Jo from Seoul National University College
 of Medicine.
 The talk was titled “Therapeutic Revolution: Application of Novel Technologies”,
-where Dr Jo introduced the brief history and therapeutic development
+where Dr. Jo introduced the brief history and therapeutic development
 for one specific type of cancer, retinoblastoma.
 
-Dr Jo is the assistant professor of Seoul National University College of Medicine
-in Republic of Korea. He had his medical degree at
-Seoul National University in 2007. In 2012, Dr Jo received residency at the
+Dr. Jo is an assistant professor at Seoul National University College of Medicine
+in the Republic of Korea. He had his medical degree at
+Seoul National University in 2007. In 2012, Dr. Jo received a residency at the
 Department of Ophthalmology, Seoul National University Hospital, and in 2016,
-he received his PhD at Seoul National University. Dr Jo’s research interest
+he received his Ph.D. at Seoul National University. Dr. Jo’s research interest
 focuses on 3 aspects. The first is the development of novel therapeutic
 approaches against retinal diseases. The second is the molecular mechanisms of
 physiological and pathological angiogenesis in the retina and associated organs,
@@ -55,54 +55,38 @@ choices and future career plans.
 
 
 ####  Journal club
-In order to have better educational effect and promote our project , we
+To have a better educational effect and further promote our project, we
 organized the Journal Club activity in the Duke Kunshan community.
 
-<img src="https://static.igem.wiki/teams/4161/wiki/club-expo1.jpg"
-/>
+[See Journal Club](Journal_Club.md). 
 
-The first Journal Club was held on April 30th, 2022. At the very beginning of
-the meeting, Yuyang, the leader of last year's iGEM team, gave a speech for us
-and introduced in detail what systems biology is and the basic methods of
-studying systems biology. This journal club event mainly focused on COVID-19
-and then developed into three sub-topics including the antigen test for
-SARS-CoV-2 introduced by Kathy, human ACE2 receptor & TM air freshening spray
-presented by Irene, and COVID-19 Vaccines explained by Bruce. Apart from the
-iGEM team, around 10 freshman students with various backgrounds participated in
-the sharing and raised many inspiring questions.
-
-<img src="https://static.igem.wiki/teams/4161/wiki/fig-journal-club-poster.jpg"
-/>
-<img src="https://static.igem.wiki/teams/4161/wiki/fig-1st-journal-club.jpg"
-/>
-
-### Off campus education
-This year, expending iGEM participants and audience was included into goals of our human practice.
+### Off-campus education
+This year, expanding iGEM participants and audience was included in the goals of our human practice.
 Although iGEM competition has a solid audience base in universities,
 students in high schools have little knowledge of iGEM competition or give up
-because of their limitation of conducting wetlabs.\
+because of their limitation of conducting wet labs.\
 After having an overview of high schools in Kunshan,
-we decided to contact with Dipont Huayao Collegiate School Kunshan to give a speech.\
-In the first part of our presentation, we introduced biology team, modelling team,
-wiki team and human practice team,
+we decided to contact Dipont Huayao Collegiate School Kunshan to give a speech.\
+In the first part of our presentation, we introduced the biology team, the modeling team,
+the wiki team and the human practice team,
 including their work and collaborations between different subgroups.
 This part gave high school students an overview of what is iGEM and what they can do.
 
 ![photo](https://static.igem.wiki/teams/4161/wiki/education2.jpg)
 
 
-In China, people often use stomachache or feel uncomfortable at stomach
-to summarize almost every disease of digestive tract. This could lead to medical issues.
+In China, people often use stomachache or feel uncomfortable at the stomach
+to summarize almost every disease of the digestive tract. This could lead to medical issues.
 For example, people may choose to take OTC stomach medicines instead of going
 to a doctor.
 Symptoms may get remission.
-However, this can lay an underlying problem in the future, such as changing the gut-microbiota.\
+However, this can lay an underlying problem in the future, such as changing the gut microbiota.\
 To help the public have a better understanding of digesting,
-we popularized GI Microbiome and GI tract. Functions of each human organ
+we popularized GI Microbiome and GI tract. The functions of each human organ
 and different intestinal floras were explained in detail.
 Along with knowledge, we provided two fun facts --“Mom passes gut microbiota to baby”
-and “Having stomachache and diarrhea before exams”. Besides GI tract,
-we also mentioned the harm that using antibiotics can do to gastrointestinal tract.
+and “Having stomachache and diarrhea before exams”. 
+We also mentioned the harm that using antibiotics can do to the gastrointestinal tract.
 Along with distributing brochures, our audience understood the basic knowledge of GI
 parts. Here is our brochure. <https://static.igem.wiki/teams/4161/wiki/aqua-and-purple-medical-trifold-brochure.pdf>
 
@@ -112,11 +96,11 @@ In China, there is an increasing trend of taking probiotic products.
 Along with the trend, multiple probiotic products flooded into the health product
 market. With fancy advertisements and product patents or logos of importing,
 it is hard for consumers to choose the right products.
-So, we decided to give popularization of science which is corresponded
+So, we decided to give the popularization of science which is corresponded
 to this problem.
 
 In this part, we introduced three kinds of probiotics that products mainly contain:
-Bifidobacterium, Lactobacillus and Enterococcus.
+*Bifidobacterium*, *Lactobacillus*, and *Enterococcus*.
 We mentioned their functions and some potential negative effects
 that these probiotic strains may lead to.
 We provided our advice for consuming probiotics and how to choose relevant
@@ -124,19 +108,19 @@ products at last.
 
 ![photo](https://static.igem.wiki/teams/4161/wiki/education4.jpg)
 
-To conclude, we aim to teach people about GI tract and probiotics in a more interesting
+To conclude, we aim to teach people about the GI tract and probiotics in a more interesting
 and effective way.
-We first contact with Dipont Huayao Collegiate School Kunshan to
+We first contact Dipont Huayao Collegiate School Kunshan to
 confirm our target audience, high school students and teachers.
 So, we decided on the educational level of our presentation to make sure students
 and teachers can have a better understanding of basic knowledge.
 For key concepts and academic terms, we annotated them in Chinese as well.
 To promote our audience to be more engaged in our presentation,
-we shared fun facts of GI tract and decorated our PowerPoint with fancy pictures.
-We also dove deeper into the concept of healthy gut and understand
-how they will articulate the problem of GI tract through our Q&A session.
+we shared fun facts about the GI tract and decorated our slides with fancy pictures.
+We also dove deeper into the concept of a healthy gut and understand
+how they will articulate the problem of the GI tract through our Q&A session.
 Through this presentation, more than 330 middle and high school students and
-teachers had basic knowledge of GI and probiotics and knew iGEM competitions further.
+teachers had a basic knowledge of GI and probiotics and knew iGEM competitions further.
 We will build further collaborations with Dipont Huayao Collegiate School Kunshan.
 We are looking forward to helping them build their iGEM team and having more communications
 about synthetic biology.
@@ -147,7 +131,7 @@ about synthetic biology.
 
 
 ### Summary
-In conclusion, we invited different audiences to engage in communications about
+In conclusion, we invited different audiences to engage in communication about
 synthetic biology this year.
 In our activities, we aimed to not only teach other people but also learn new things
 by ourselves.
@@ -157,10 +141,9 @@ understand problems from multiple perspectives.
 We gained lots of insights from external sources, such as professors, companies,
 literature etc.\
 On-campus education allows us to better transfer knowledge about synthetic
-biology and shigella treatment to our students, as well as gather fresh
+biology and shigella treatment to our students, as well as gathering fresh
 blood for the next year's team.
-The science popularization and education in local school also gives
-us the opportunity to communicate with middle and high school students,
+Science popularization and education in local schools also gave us the opportunity to communicate with middle and high school students,
 understand their ideas and answer their doubts.
 We have accumulated several key conclusions for everyone aiming to have
 any influence through education in iGEM:
@@ -171,6 +154,5 @@ you can understand problems or think from different perspectives.
 build lasting cooperations that other teams did not have.
 - Think outside the box but also think within the box - experience from those who
 have worked on your topic before is important.
-- Know you audience – when organizing an event or giving a presentation,
+- Know your audience – when organizing an event or giving a presentation,
 consider the types of your target audience.
-
