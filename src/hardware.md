@@ -31,8 +31,8 @@ and whey protein isolate (WPI) addition had a synergistic effect."[^Shellac]
 
 
 
-[^Microencapsulation]:Microencapsulation: An overview on concepts, methods, properties and applications in foods. Food Frontiers. <https://doi.org/10.1002/fft2.94>
+[^Microencapsulation]:Choudhury, N., Meghwal, M., & Das, K. (2021). Microencapsulation: An overview on concepts, methods, properties and applications in foods. Food Frontiers, 2, 426– 442. <https://doi.org/10.1002/fft2.94>
 
-[^Shellac]: Microencapsulation of probiotic lactobacilli with shellac as moisture barrier and to allow controlled release. Journal of the Science of Food and Agriculture. <https://doi.org/10.1002/jsfa.10685>
+[^Shellac]: Huang, X., Gänzle, M., Zhang, H., Zhao, M., Fang, Y. and Nishinari, K. (2021), Microencapsulation of probiotic lactobacilli with shellac as moisture barrier and to allow controlled release. J Sci Food Agric, 101: 726-734. <https://doi.org/10.1002/jsfa.10685>
 
-[^pH_shellac]:Comparison of spray drying, freeze drying and convective hot air drying for the production of a probiotic orange powder. J Funct Foods <https://doi.org/10.1016/j.jff.2015.06.001>
+[^pH_shellac]:J. Barbosa, S. Borges, M. Amorim, M.J. Pereira, A. Oliveira, M.E. Pintado, P. Teixeira.(2015). Comparison of spray drying, freeze drying and convective hot air drying for the production of a probiotic orange powder. J Funct Foods. <https://doi.org/10.1016/j.jff.2015.06.001>
