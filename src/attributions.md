@@ -14,11 +14,13 @@ with synthetic biology design. Designer of E.coli csgA surface display
 and lab experiments of the E.*coli* group.
 
 ### Yuxin Wang
+
 Co-established the project topic. In charge of lab design and wet lab for the
 yeast group.
 Also assisted in Wiki writing and expert interview.
 
 ### Yunyi Ru
+
 In charge of background research, E. *coli* group lab design, wet labs & wiki
 writing.
 Hosted journal clubs and science lectures for human practice.
@@ -47,6 +49,7 @@ Designed the safety and education wiki and organized local high school
 activities education.
 
 ### Sihan Wang
+
 Helped with background research, designed lab detection protocols for the
 lactococcus group,
 conducted wetlab experiments,
@@ -54,17 +57,20 @@ helped with human practice organization including journal club organization and
 wiki writing.
 
 ### Yixuan Liu
+
 Organized and chaired the iGEM2022 Journal Club Seminar ever since 2021.
 Actively participate in human practice part including designing and
 popularizing events in local collegiate school.
 Help conduct wet labs.
 
 ### Renwei Gao
+
 Fund manager of the team, in charge of labware purchasing,
 helped with background research and survey distribution as a part of human
 practice.
 
 ### Jingyun Jin
+
 Helped design survey as a part of human practice, helped with E.*coli* wet lab
 experiments.
 
@@ -79,12 +85,25 @@ Wiki writing.
 
 ### Sichang He (Steven)
 
-Main Wiki developer and technical support.
-Built the Wiki infrastructure.
-Set up and maintains the GitLab repository
+The Wiki Engineer.
+Built the Wiki infrastructure with [mdBook](https://github.com/rust-lang/mdBook)
+and authored all code for Wiki theming
+with designs and help from other team members,
+including all Handlebars for Wiki layout,
+all CSS (with Tailwindcss) for styling and animations,
+and all JavaScript for table of contents and animations.
+
+The technical support.
+Set up, owns, and maintains
+[the GitLab repository](https://gitlab.oit.duke.edu/sh623/igem-2022-dku)
 for team communication and Wiki editing.
 Introduced Git and GitLab to the team and
 helped the team adopt to the workflow on GitLab.
+Taught the team
+[how to use Visual Studio Code to write Markdown](https://www.youtube.com/watch?v=C-sAGuWM2JM)
+for the Wiki.
+
+Protein modeling member.
 Helped with protein modeling using RoseTTAFold, Robetta, and PyMOL.
 
 ### Jasmine Santos
@@ -132,3 +151,4 @@ Beckford and Dr. Huansheng Cao at Duke Kunshan University,
 Dr. Neel Joshi from Northwestern University,
 and Dr. Jisheng Lin at Sinovac Biotech CO.,LTD. for providing effective advice on
 our project design and development.
+
