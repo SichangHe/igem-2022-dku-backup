@@ -5,7 +5,7 @@
 Dr. Neel Joshi is an expert in bioengineering
 with tracks in human disease and new therapies.
 In his 2019 and 2021 literature,
-he and his team described genetically engineering E. coli Nissle 1917
+he and his team described genetically engineering *E. coli* Nissle 1917
 to treat some gastrointestinal diseases like bowel inflammation,
 which provide essential references for our project.
 To further understand the logics and advantages of this bioengineered model,
@@ -66,7 +66,7 @@ pBbB8k is a rather arbitrary choice,
 we simply chose it
 because it was used due to antibiotics incompatibility in the previous experiment.
 When doing in vivo studies,
-we engineered plasmids from the original E. coli Nissle genome,
+we engineered plasmids from the original *E. coli* Nissle genome,
 the pMUT plasmids.
 These plasmids are more stable than the pBbB8K.
 For pUC19,
@@ -86,13 +86,13 @@ The first is safety concerns of curli fibers.
 It has been known that curli fibers induce various types of diseases,
 including neurological diseases,
 etc.
-The other is inherit disadvantages for E. coli to produce curli fibers in vivo.
+The other is inherit disadvantages for *E. coli* to produce curli fibers in vivo.
 However,
 we have been able to shown effective production of curli fiber in vivo
 by measuring the amount of curli fibers coming from the fecal samples.
 
 **Q:**
-What if the E. coli went out of control and grow infinitely in the gut,
+What if the *E. coli* went out of control and grow infinitely in the gut,
 disrupting the original gastrointestinal microorganism environment?
 
 **A:**
@@ -102,7 +102,7 @@ we could use some of the auxotrophic strains to limit the growth of the bacteria
 And I think there are many “switches”
 that can turn on the suicide program of those bacteria.
 But in this case,
-I think E. coli Nissle 1917 is a very safe bacteria,
+I think *E. coli* Nissle 1917 is a very safe bacteria,
 it has already been identified as a harmless bacterium,
 so there should be less safety issues of this strain.
 

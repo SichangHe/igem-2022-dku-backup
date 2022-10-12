@@ -25,7 +25,7 @@ Hosted journal clubs and science lectures for human practice.
 
 ### Zhujun Yao
 
-Designed lactococcus lab procedures and in charge of lactococcus and yeast lab experiments.
+Designed *Lactococcus* lab procedures and in charge of *Lactococcus* and yeast lab experiments.
 Conducted expert interviews for human practice.
 
 ### Chang Shen

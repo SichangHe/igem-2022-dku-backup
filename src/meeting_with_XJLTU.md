@@ -4,10 +4,10 @@
 
 They plan to develop a biofilter core
 to replace current industry filter cores for heavy metal wastewater.
-Specifically, they plan to engineer E. coli to express csgA protein at high levels
+Specifically, they plan to engineer *E. coli* to express csgA protein at high levels
 and immobilize the bacteria into a filter.
 In that way, the heavy metal ions in the wastewater can be captured by csgA protein
-that is expressed by E. coli located in the filter.
+that is expressed by *E. coli* located in the filter.
 
 ### Questions & Advice From XJLTU
 
@@ -23,7 +23,7 @@ that is expressed by E. coli located in the filter.
     A: We applied three microorganisms
     and the whole team was divided into three groups,
     each responsible for E. coli,
-    Yeast cell and Lactococcus lactis.
+    Yeast cell and *Lactococcus* lactis.
     All groups applied a strategy
     which conjugates the targeted nanobody with a surface protein that is to be expressed,
     transported and located to the extracellular space.
@@ -33,9 +33,9 @@ that is expressed by E. coli located in the filter.
 
 ### Questions & Advice From DKU
 
-1. Will the biofilter be blocked due to E. coli proliferation?\
+1. Will the biofilter be blocked due to *E. coli* proliferation?\
     A: The microorganisms are immobilized in filters,
-    and the filtration condition may not allow E. coli to grow at such a speed.
+    and the filtration condition may not allow *E. coli* to grow at such a speed.
 
 1. The csgA protein's ability to absorb heavy metal ions under different conditions
     (like pH) can be tested through experiments.
@@ -60,7 +60,7 @@ that is expressed by E. coli located in the filter.
 - Detection and measurement of displayed csg protein.\
     The XJLTU team controlled the expression level by adjusting inducer concentration
     and estimated the expression by calculating theoretically.
-- The condition of csg and heavy metal ions after the death of E. coli cells\
+- The condition of csg and heavy metal ions after the death of *E. coli* cells\
     We consider that the heavy metal ions will remain captured,
     as protein itself has a great affinity to the heavy metal ions.
     But, it remains to be seen
