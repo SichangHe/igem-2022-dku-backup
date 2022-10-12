@@ -130,7 +130,7 @@ do fall in a certain range:
     $$
     L(t) = 4.53 + 4.47e^{-e^{-0.493(t-3.68)}}
     \\[12pt]
-    \frac{L(t)}{\mathrm dt} = 2.20e^{-e^{-0.493(x-3.68)}-0.493(x-3.68)}
+    \frac{L(t)}{\mathrm dt} = 2.20e^{-e^{-0.493(t-3.68)}-0.493(t-3.68)}
     $$
 
 - Higher limit:\
@@ -140,7 +140,7 @@ do fall in a certain range:
     $$
     L(t) = 4.26 + 5.41e^{-e^{-0.435(t-4.54)}}
     \\[12pt]
-    \frac{L(t)}{\mathrm dt} = 2.35e^{-e^{-0.435(x-4.54)}-0.435(x-4.54)}
+    \frac{L(t)}{\mathrm dt} = 2.35e^{-e^{-0.435(t-4.54)}-0.435(t-4.54)}
     $$
 
 Since our situation is in this range, so we can have an upper limit and lower limit
