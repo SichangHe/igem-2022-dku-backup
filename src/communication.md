@@ -307,7 +307,7 @@ better promote the topic of synthetic biology to the DKU community and attract
 more fresh blood to participate in innovation. We made posters and participated
 in project exhibitions, and were regularly inspected by the jury on campus.
 
-<img src="https://static.igem.wiki/teams/4161/wiki/fig-on-campus-communication.png"
+<img src="https://static.igem.wiki/teams/4161/wiki/fig-on-campus-communication-new.png"
 />
 
 ## Summary
