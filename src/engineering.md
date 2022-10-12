@@ -51,6 +51,10 @@ In this cycle, we aims to improve the expression level of the recombinant protei
 In this cycle, we aims to improve the binding affinity of the recombinant protein with the antigen epitope. We would perform error prone PCRs to introduce mutations into 20ipaD sequences. Concentrations of the nucleotide analogs would be controlled so that only point mutants would be produced. All mutants would be screened to identify binding affinity improvements. To reduce the workload of screening, we would perform a modeling prescreen. In the prescreen, we would predict how single amino acid change influence the binding affinity between 20ipaD and ipaD.
 
 ### *Lactococcus lactis*
+
+<img src="https://static.igem.wiki/teams/4161/wiki/lac-engeer-cycle.png"
+/>
+
 #### Cycle 1
 ##### Design
 
