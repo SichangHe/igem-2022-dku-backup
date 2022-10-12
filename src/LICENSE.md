@@ -1,5 +1,5 @@
-Attribution 4.0 International (CC BY 4.0) 
-https://creativecommons.org/licenses/by/4.0/
+Attribution 4.0 International (CC BY 4.0)
+<https://creativecommons.org/licenses/by/4.0/>
 
 =======================================================================
 
@@ -66,7 +66,6 @@ these terms and conditions, and the Licensor grants You such rights in
 consideration of benefits the Licensor receives from making the
 Licensed Material available under these terms and conditions.
 
-
 Section 1 -- Definitions.
 
   a. Adapted Material means material subject to Copyright and Similar
@@ -129,7 +128,6 @@ Section 1 -- Definitions.
 
   k. You means the individual or entity exercising the Licensed Rights
      under this Public License. Your has a corresponding meaning.
-
 
 Section 2 -- Scope.
 
@@ -207,7 +205,6 @@ Section 2 -- Scope.
           licensing scheme. In all other cases the Licensor expressly
           reserves any right to collect such royalties.
 
-
 Section 3 -- License Conditions.
 
 Your exercise of the Licensed Rights is expressly made subject to the
@@ -259,7 +256,6 @@ following conditions.
           License You apply must not prevent recipients of the Adapted
           Material from complying with this Public License.
 
-
 Section 4 -- Sui Generis Database Rights.
 
 Where the Licensed Rights include Sui Generis Database Rights that
@@ -280,7 +276,6 @@ apply to Your use of the Licensed Material:
 For the avoidance of doubt, this Section 4 supplements and does not
 replace Your obligations under this Public License where the Licensed
 Rights include other Copyright and Similar Rights.
-
 
 Section 5 -- Disclaimer of Warranties and Limitation of Liability.
 
@@ -310,7 +305,6 @@ Section 5 -- Disclaimer of Warranties and Limitation of Liability.
      possible, most closely approximates an absolute disclaimer and
      waiver of all liability.
 
-
 Section 6 -- Term and Termination.
 
   a. This Public License applies for the term of the Copyright and
@@ -339,7 +333,6 @@ Section 6 -- Term and Termination.
   d. Sections 1, 5, 6, 7, and 8 survive termination of this Public
      License.
 
-
 Section 7 -- Other Terms and Conditions.
 
   a. The Licensor shall not be bound by any additional or different
@@ -348,7 +341,6 @@ Section 7 -- Other Terms and Conditions.
   b. Any arrangements, understandings, or agreements regarding the
      Licensed Material not stated herein are separate from and
      independent of the terms and conditions of this Public License.
-
 
 Section 8 -- Interpretation.
 
@@ -373,13 +365,12 @@ Section 8 -- Interpretation.
      that apply to the Licensor or You, including from the legal
      processes of any jurisdiction or authority.
 
-
 =======================================================================
 
 Creative Commons is not a party to its public licenses.
 Notwithstanding, Creative Commons may elect to apply one of its public
 licenses to material it publishes and in those instances will be
-considered the “Licensor.” The text of the Creative Commons public
+considered the "Licensor." The text of the Creative Commons public
 licenses is dedicated to the public domain under the CC0 Public Domain
 Dedication. Except for the limited purpose of indicating that material
 is shared under a Creative Commons public license or as otherwise

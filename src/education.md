@@ -30,7 +30,7 @@ and synthetic biology.
 In this Wang-Cai biology seminar series, the DKU iGEM team was honored to co-host
 the speech delivered by Prof. Dong Hyun Jo from Seoul National University College
 of Medicine.
-The talk was titled “Therapeutic Revolution: Application of Novel Technologies”,
+The talk was titled "Therapeutic Revolution: Application of Novel Technologies",
 where Dr. Jo introduced the brief history and therapeutic development
 for one specific type of cancer, retinoblastoma.
 
@@ -38,7 +38,7 @@ Dr. Jo is an assistant professor at Seoul National University College of Medicin
 in the Republic of Korea. He had his medical degree at
 Seoul National University in 2007. In 2012, Dr. Jo received a residency at the
 Department of Ophthalmology, Seoul National University Hospital, and in 2016,
-he received his Ph.D. at Seoul National University. Dr. Jo’s research interest
+he received his Ph.D. at Seoul National University. Dr. Jo's research interest
 focuses on 3 aspects. The first is the development of novel therapeutic
 approaches against retinal diseases. The second is the molecular mechanisms of
 physiological and pathological angiogenesis in the retina and associated organs,
@@ -51,7 +51,6 @@ sciences are not limited to theoretical knowledge, but rather quite practical
 and can benefit the whole population. The experience and thoughts expressed by
 Dr. Jo greatly inspired us, which allow us to have more understanding of graduate
 choices and future career plans.
-
 
 ## Journal Club
 In order to have better educational effect and promote our project , we
@@ -70,38 +69,35 @@ the sharing and raised many inspiring questions.
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-1st-journal-club.jpg"
 />
 
-The following journal club series continued from July, 2022 to October, 2022. 
+The following journal club series continued from July, 2022 to October, 2022.
 Details of the presenters and their topics are listed in the table below.
 
-| Date | Presenter | Topic | Reference Paper | 
+| Date | Presenter | Topic | Reference Paper |
 | --- | --- | --- | --- |
 | Jul 22nd | Lisa | Single-domain Nanobodies Surface Display on *E.coli* Nissle 1917 | [Gelfat et. al., 2021](https://www.proquest.com/docview/2563494610/abstract/615221E21BBF406CPQ/1) |
-| Aug 5th | Yuxin | Cytochrome P450 Enzymes for *de novo* Production of Steviol Glucosides in Baker’s Yeast | [Gold et. al., 2018](https://pubs.acs.org/doi/10.1021/acssynbio.8b00470?cookieSet=1) | 
-| Aug 19th | Yunyi | CRIPSR-Cas6 and Dynamic Metabolons | [Mitkas et. a., 2022](https://doi.org/10.1038/s41589-022-01005-7.)| 
+| Aug 5th | Yuxin | Cytochrome P450 Enzymes for *de novo* Production of Steviol Glucosides in Baker's Yeast | [Gold et. al., 2018](https://pubs.acs.org/doi/10.1021/acssynbio.8b00470?cookieSet=1) |
+| Aug 19th | Yunyi | CRIPSR-Cas6 and Dynamic Metabolons | [Mitkas et. a., 2022](https://doi.org/10.1038/s41589-022-01005-7.)|
 | Sep 2nd | Kathy | Development of Vaccine Against Hemorrhagic Disease via Yeast Surface Display | [Luo et. al., 2015](http://dx.doi.org/10.4014/jmb.1505.05041) |
 | Sep 18th | Letian | Catalytic RNA, ribozyme, and its applications in synthetic biology | [Park et. al., 2019](https://doi.org/10.1016/j.biotechadv.2019.107452)|
 | Oct 2nd | Xinyue | The coming of age of *de novo* protein design | [Huang et. al., 2016](https://www.nature.com/articles/nature19946) |
 | Oct 16th | Chutian | SHERLOCK: nucleic acid detection with CRISPR nucleases | [Kellner et. al., 2019](https://doi.org/10.1038/s41596-019-0210-2) |
 
-
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-journal-club-poster.jpg"
 />
 
-
 ### Off-campus education
-This year, expanding iGEM participants and audience was included in the goals of our human practice.
-Although iGEM competition has a solid audience base in universities,
+
+This year, expanding iGEM participants and audience was included in the goals of our human practice. Although iGEM competition has a solid audience base in universities,
 students in high schools have little knowledge of iGEM competition or give up
-because of their limitation of conducting wet labs.\
-After having an overview of high schools in Kunshan,
-we decided to contact Dipont Huayao Collegiate School Kunshan to give a speech.\
+because of their limitation of conducting wet labs. After having an overview of high schools in Kunshan,
+we decided to contact Dipont Huayao Collegiate School Kunshan to give a speech.
+
 In the first part of our presentation, we introduced the biology team, the modeling team,
 the wiki team and the human practice team,
 including their work and collaborations between different subgroups.
 This part gave high school students an overview of what is iGEM and what they can do.
 
 ![photo](https://static.igem.wiki/teams/4161/wiki/education2.jpg)
-
 
 In China, people often use stomachache or feel uncomfortable at the stomach
 to summarize almost every disease of the digestive tract. This could lead to medical issues.
@@ -112,8 +108,8 @@ However, this can lay an underlying problem in the future, such as changing the 
 To help the public have a better understanding of digesting,
 we popularized GI Microbiome and GI tract. The functions of each human organ
 and different intestinal floras were explained in detail.
-Along with knowledge, we provided two fun facts --“Mom passes gut microbiota to baby”
-and “Having stomachache and diarrhea before exams”. 
+Along with knowledge, we provided two fun facts --"Mom passes gut microbiota to baby"
+and "Having stomachache and diarrhea before exams".
 We also mentioned the harm that using antibiotics can do to the gastrointestinal tract.
 Along with distributing brochures, our audience understood the basic knowledge of GI
 parts. Here is our brochure. <https://static.igem.wiki/teams/4161/wiki/aqua-and-purple-medical-trifold-brochure.pdf>
@@ -155,9 +151,6 @@ about synthetic biology.
 
 ![photo](https://static.igem.wiki/teams/4161/wiki/education5.jpg)
 
-
-
-
 ### Summary
 In conclusion, we invited different audiences to engage in communication about
 synthetic biology this year.
@@ -169,13 +162,14 @@ understand problems from multiple perspectives.
 We gained lots of insights from external sources, such as professors, companies,
 literature etc.\
 On-campus education allows us to better transfer knowledge about synthetic
-biology and shigella treatment to our students, as well as gathering fresh
+biology and *Shigella* treatment to our students, as well as gathering fresh
 blood for the next year's team.
 Science popularization and education in local schools also gave us the opportunity to communicate with middle and high school students,
 understand their ideas and answer their doubts.
 We have accumulated several key conclusions for everyone aiming to have
 any influence through education in iGEM:
-- Connect to 
+
+- Connect to
 people from different institutions and organizations as much as possible --- thus
 you can understand problems or think from different perspectives.
 - Keep in touch with collaborators whoever you have cooperated with --- you may

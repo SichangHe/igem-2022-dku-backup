@@ -25,14 +25,14 @@ side effects including the degradation of GI tract microbiome diversity while
 having stronger pathogen inhibition compared to traditional probiotic treatment
 (Langdon et al., 2016).
 
-#### Project “GutGuard” is mainly based on Goals 3, 9, 17
+#### Project "GutGuard" is mainly based on Goals 3, 9, 17
 
 ## Goal 3| Good health and well-being
 
 _**Ensure healthy lives and promoting well-being for all persons with
 disabilities**_
 
-We prospect our team’s project can make our local community and even the
+We prospect our team's project can make our local community and even the
 world conscious of the prominence of life and health, especially the gut
 problem. The gut problem may cause a person to struggle to absorb nutrients and
 regulate blood sugar. Additionally, weight loss or gain may be caused by
@@ -44,8 +44,8 @@ reasons can change bacteria so much that antibiotics do not work against them
 (Cronan, 2019). Moreover, long-term use of antibiotics in late adulthood may be
 a risk factor for all-cause and cardiovascular mortality (Heianza, 2020).
 
-As the current therapies of antibiotics promote Shigella to develop antibiotic
-resistance, we are inspired by this problem and focus on shigella’s drug.
+As the current therapies of antibiotics promote *Shigella* to develop antibiotic
+resistance, we are inspired by this problem and focus on *Shigella*'s drug.
 Reducing antibiotic resistance and minimizing the side effects including the
 degradation of GI tract microbiome diversity can be achieved compared to the
 traditional probiotic treatment (Langdon et al., 2016). We mainly worked toward

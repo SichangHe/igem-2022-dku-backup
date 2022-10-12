@@ -1,6 +1,7 @@
 ## Meeting with XJTLU-CHINA
 
 ### Getting acquainted
+
 This year, we found that another iGEM team XJTLU is also working on
 expressing fusion protein.
 Specifically, they plan to engineer *E. coli* to express csgA protein at high levels
@@ -11,14 +12,14 @@ biofilter core to replace current industry filter cores for heavy metal wastewat
 Therefore, we decided to arrange a meeting to share each other's idea of this topic
 and discuss the way we might work together.
 
-
 ### Disscussion
-After the introduction of 2 projects, we exchanged our thoughts about each other's project.
+
+After we both introduced our projects, we exchanged our thoughts about each other's project.
 
 **Questions & Advice From XJTLU-CHINA**
 
+1. They would like to know how we will interact with and educate the public.
 
-1. They would like to know how we will interact with and educate the public.\
     A: We have made questionnaires to evaluate their knowledge related to antibiotics,
     probiotics, and microorganisms.
     We are also planning to make some handouts
@@ -26,7 +27,8 @@ After the introduction of 2 projects, we exchanged our thoughts about each other
 
 1. They were interested in the specific design of our plasmids.
     Specifically,
-    it's about how and why we choose each part of the plasmid for surface display.\
+    it's about how and why we choose each part of the plasmid for surface display.
+
     A: We applied three microorganisms
     and the whole team was divided into three groups,
     each responsible for E. coli,
@@ -50,14 +52,14 @@ After the introduction of 2 projects, we exchanged our thoughts about each other
     then adjust the pH and check the remaining concentration of metal ions in time,
     so we can acquire a proper pH for the protein to capture heavy metal ions.
 
-
 ### Cooperation plan
+
 After the Q&A session, we discussed several
 key topics that might be helpful to the project design.
 
 - **Model for bacteria growth**\
     XJTLU-CHINA has developed a model for predicting bacteria growth,
-    and it might also be applied to our situation by adjusting some of the parameters. 
+    and it might also be applied to our situation by adjusting some of the parameters.
 - **Quantified expression of csg through controlling IPTG concentration**\
     XJTLU-CHINA intended
     to control the expression of csg protein by adjusting the amount of IPTG inducer,

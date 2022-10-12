@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This page will give a detailed explanation about the engineering cycle. To make yeast capable of displaying the target nanobody 20ipaD on the cell surface, 20ipaD gene was inserted behind the yeast membrane-sealed protein *Aga*2; therefore, *Aga*2 would bring the nanobody to the cell surface. The recombinant plasmid pYD1-20ipaD was successfully built, which was supported by PCR amplification data and sequencing data. Apart from yeast, *Lactococcus lactis* and *Escherichia coli* were  also chosen as probiotics for surface displace of nanobodies at the beginning, where 20ipaD/JPS-G3 and control 3xFLAG tags were inserted into pNZ8148 (L. lactis) and pET30a (E. coli) for expression respectively. However, due to failure in transformation and plasmid construction, only yeast was selected as the final product.
+This page will give a detailed explanation about the engineering cycle. To make yeast capable of displaying the target nanobody 20ipaD on the cell surface, 20ipaD gene was inserted behind the yeast membrane-sealed protein *Aga*2; therefore, *Aga*2 would bring the nanobody to the cell surface. The recombinant plasmid pYD1-20ipaD was successfully built, which was supported by PCR amplification data and sequencing data. Apart from yeast, *Lactococcus lactis* and *Escherichia coli* were  also chosen as probiotics for surface displace of nanobodies at the beginning, where 20ipaD/JPS-G3 and control 3xFLAG tags were inserted into pNZ8148 (*L. lactis*) and pET30a (*E. coli*) for expression respectively. However, due to failure in transformation and plasmid construction, only yeast was selected as the final product.
 
 ## Engineering Cycle
 
@@ -17,7 +17,7 @@ This page will give a detailed explanation about the engineering cycle. To make 
 
 ##### Design
 
-We located a single-domain antibody (VHH) named 20ipaD from the database, whose binding ability with the needle tip protein ipaD of *Shigella* type III secretion system has be testified [^Barta,2017] [^Sierocki,2021]. Peptide sequences of 20ipaD from Barta et al (2017). Codon optimization was performed to get DNA sequences. Two flank sequences containing XhoI and ApaI cutting sites as well as C-terminal Flag-tag were added to the ipaD DNA sequence.
+We located a single-domain antibody (VHH) named 20ipaD from the database, whose binding ability with the needle tip protein ipaD of *Shigella* type III secretion system has be testified[^Barta,2017] [^Sierocki,2021]. Peptide sequences of 20ipaD from Barta et al (2017). Codon optimization was performed to get DNA sequences. Two flank sequences containing XhoI and ApaI cutting sites as well as C-terminal Flag-tag were added to the ipaD DNA sequence.
 
 ##### Build
 
@@ -51,14 +51,14 @@ In this cycle, we aims to improve the expression level of the recombinant protei
 In this cycle, we aims to improve the binding affinity of the recombinant protein with the antigen epitope. We would perform error prone PCRs to introduce mutations into 20ipaD sequences. Concentrations of the nucleotide analogs would be controlled so that only point mutants would be produced. All mutants would be screened to identify binding affinity improvements. To reduce the workload of screening, we would perform a modeling prescreen. In the prescreen, we would predict how single amino acid change influence the binding affinity between 20ipaD and ipaD.
 
 ### *Lactococcus lactis*
+
+<img src="https://static.igem.wiki/teams/4161/wiki/lac-engeer-cycle.png"
+/>
+
 #### Cycle 1
 ##### Design
 
-Though planned to ligation synthesized sequence directly into pNZ8148 plasmid, the right plasmid failed to deliver on time. Therefore, we want to try inserting the 20ipaD into the control plasmid after restriction enzyme digestion. The 20ipaD is one of the single-VH domain antibodies (VHHs) capable of recognizing distinct epitopes within the antigen IpaD of pathogen Shigella. In this way, we hoped that by fusing 20ipaD and control flag-tag into the *Lactococcus lactis* expression vector pNZ8148, we would achieve the surface display and expression of 20ipaD on *Lactococcus lactis*.
-
-
-
-##### Build
+Though planned to ligation synthesized sequence directly into pNZ8148 plasmid, the right plasmid failed to deliver on time. Therefore, we want to try inserting the 20ipaD into the control plasmid after restriction enzyme digestion. The 20ipaD is one of the single-VH domain antibodies (VHHs) capable of recognizing distinct epitopes within the antigen IpaD of pathogen *Shigella*. In this way, we hoped that by fusing 20ipaD and control flag-tag into the *Lactococcus lactis* expression vector pNZ8148, we would achieve the surface display and expression of 20ipaD on *Lactococcus lactis*.
 
 To obtain the sequence of 20ipaD, we constructed the plasmid with the 20ipaD sequence surrounded by two different restriction sites of enzymes BamHI and SacI. In this way, through the restrictive digestion of *Bam*HI and *Sac*I, ideally the sequence of 20ipaD would be obtained. The similar construction was also applied with the sequence of control flag-tag, where the enzymes used for restrictive digestion were changed to be NcoI and HindIII.
 
@@ -77,13 +77,13 @@ Since pUC19 vector also contained a restriction site for BamHI itself, which wou
 
 ##### Build
 
-In this try, we would do the PCR amplification of 20ipaD sequence using high-fidelity Q5 polymerase. After PCR amplification, the DNA was purified and then inserted it directly into the pNZ8148 vector first. This would circumvent the enzymatic digestion of pUC19 vector by BamHI that had the insertion of 20ipaD. Before performing ligation between synthesized sequence and pNZ8148, pNZ8148 should be amplified inside L.lactis, which is the only available host of this plasmid in our lab.
+In this try, we would do the PCR amplification of 20ipaD sequence using high-fidelity Q5 polymerase. After PCR amplification, the DNA was purified and then inserted it directly into the pNZ8148 vector first. This would circumvent the enzymatic digestion of pUC19 vector by BamHI that had the insertion of 20ipaD. Before performing ligation between synthesized sequence and pNZ8148, pNZ8148 should be amplified inside *L.lactis*, which is the only available host of this plasmid in our lab.
 
 ##### Learn
 
-From this process we learnt that when the synthesized plasmid went wrong from our expectations, apart from directly asking the company to redo the synthesis, we could also alter the steps of ligation via PCR reaction to solve the problem. 
+From this process we learnt that when the synthesized plasmid went wrong from our expectations, apart from directly asking the company to redo the synthesis, we could also alter the steps of ligation via PCR reaction to solve the problem.
 
-#### Cycle 3
+From this process we learnt that when the synthesized plasmid went wrong from our expectations, apart from directly asking the company to redo the synthesis, we could also alter the steps of ligation via PCR reaction to solve the problem.
 
 ##### Design
 
@@ -108,11 +108,9 @@ To further increase efficiency, after doing more literature reviews we added the
 
 ##### Build
 
-According to the newly found protocol, the *Lactococcus lactis* was firstly suspended at room temperature for 30 min in 8ml of 100mM LiAc, 10mM DTT, 0.6M sucrose, and 10mM Tris-HCl (pH=7.5). Following the treatment, *Lactococcus lactis* was pelleted and was resuspended in 1.5ml microcentrifuge tube, and was then washed as previously described. Afterwards, electroporation was conducted as previously described. 
+According to the newly found protocol, the *Lactococcus lactis* was firstly suspended at room temperature for 30 min in 8ml of 100mM LiAc, 10mM DTT, 0.6M sucrose, and 10mM Tris-HCl (pH=7.5). Following the treatment, *Lactococcus lactis* was pelleted and was resuspended in 1.5ml microcentrifuge tube, and was then washed as previously described. Afterwards, electroporation was conducted as previously described.
 
-
-##### Test
-
+According to the newly found protocol, the *Lactococcus lactis* was firstly suspended at room temperature for 30 min in 8ml of 100mM LiAc, 10mM DTT, 0.6M sucrose, and 10mM Tris-HCl (pH=7.5). Following the treatment, *Lactococcus lactis* was pelleted and was resuspended in 1.5ml microcentrifuge tube, and was then washed as previously described. Afterwards, electroporation was conducted as previously described.
 The process of electroporation was not successful because no colony was grown on M17 medium containing 10ug/ul chloramphenicol. Given the concerns about the function of the electroporator from us and the lab instructor in DKU, the machine was sent to maintainance.
 
 ##### Learn
@@ -121,13 +119,13 @@ We have learnt multiple issues can happen during one procedure. It is better to 
 
 ### *Escherichia coli*
 
-![E.*coli* Engineering Cycle](https://static.igem.wiki/teams/4161/wiki/e-eng-cyc.png)
+![*E.coli* Engineering Cycle](https://static.igem.wiki/teams/4161/wiki/e-eng-cyc.png)
 
 #### Cycle 1
 
 ##### Design
 
-Initially, we planned to try three different nanobodies (20ipaD, JPS-G3, and JMK-H2) agianst the *Shigella* antigen ipaD from a research paper [^Barta,2017]. We also wanted to try two different surface display systems, beta domain of the E.*coli* outer membrane protein intimin [^Salema,2013] and the E.*coli* curli fiber protein, *csg*B [^Gelfat,2021]. Our target probiotic is E. *coli* Nissle 1917 [^Gelfat,2021]. By inserting the target nanobody sequence behind intimin or *csg*B, reconstructing the plasmid pET30a and transforming the plasmid into E.*coli* Nissle 1917, we expect the protein to be displayed on the surface of E.*coli*, so that it can capture the pathogen via antigen-antibody binding.
+Initially, we planned to try three different nanobodies (20ipaD, JPS-G3, and JMK-H2) agianst the *Shigella* antigen ipaD from a research paper[^Barta,2017]. We also wanted to try two different surface display systems, beta domain of the *E.coli* outer membrane protein intimin[^Salema,2013] and the *E.coli* curli fiber protein, *csg*B[^Gelfat,2021]. Our target probiotic is E. *coli* Nissle 1917[^Gelfat,2021]. By inserting the target nanobody sequence behind intimin or *csg*B, reconstructing the plasmid pET30a and transforming the plasmid into *E.coli* Nissle 1917, we expect the protein to be displayed on the surface of *E.coli*, so that it can capture the pathogen via antigen-antibody binding.
 
 ##### Build & Test
 
@@ -151,7 +149,7 @@ Complex sequences including potential harmful genes may impact synthesis efficie
 
 ##### Design
 
-Alternatively, we chose the curli fiber *csg*A [^Gelfat et. al., 2021] sequence for surface display.
+Alternatively, we chose the curli fiber *csg*A[^Gelfat et. al., 2021] sequence for surface display.
 
 ##### Build & Test
 
@@ -159,9 +157,9 @@ We designed the following sequences:
 
 - csgA-JPS-G3-3xFLAG
 
-- csgA-ipaD-3xHA (displaying the antigen on the surface of E.*coli* BL21 to mimic *Shigella flexneri*, so that the effectiveness can be evaluated)
+- csgA-ipaD-3xHA (displaying the antigen on the surface of *E.coli* BL21 to mimic *Shigella flexneri*, so that the effectiveness can be evaluated)
 
-*csg*A gene is obtained from the E.*coli* strains (pGEX-4T-1-csgA-shMT) provided by the XJLTU iGEM team via PCR. To connect different parts, we plan to use overlapping PCR.
+*csg*A gene is obtained from the *E.coli* strains (pGEX-4T-1-csgA-shMT) provided by the XJLTU iGEM team via PCR. To connect different parts, we plan to use overlapping PCR.
 
 ## Reference
 
@@ -169,6 +167,6 @@ We designed the following sequences:
 
 [^Gelfat,2021]: Gelfat, I., Aqeel, Y., Tremblay, J. M., Jaskiewicz, J. J., Shrestha, A., Lee, J. N., Hu, S., Qian, X., Magoun, L., Sheoran, A., Bedenice, D., Giem, C., Manjula-Basavanna, A., Osburne, M. S., Tzipori, S., Shoemaker, C. B., Leong, J. M., & Joshi, N. S. (2021). Single domain antibodies against enteric pathogen virulence factors are active as curli fiber fusions on probiotic *E. coli* Nissle 1917 (p. 2021.06.18.448998). *bioRxiv*. <https://doi.org/10.1101/2021.06.18.448998>
 
-[^Barta,2017]:Barta, M. L., Shearer, J. P., Arizmendi, O., Tremblay, J. M., Mehzabeen, N., Zheng, Q., Battaile, K. P., Lovell, S., Tzipori, S., Picking, W. D., Shoemaker, C. B., & Picking, W. L. (2017). Single-domain antibodies pinpoint potential targets within Shigella invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. J Biol Chem, 292(40), 16677-16687. <https://doi.org/10.1074/jbc.M117.802231>
+[^Barta,2017]:Barta, M. L., Shearer, J. P., Arizmendi, O., Tremblay, J. M., Mehzabeen, N., Zheng, Q., Battaile, K. P., Lovell, S., Tzipori, S., Picking, W. D., Shoemaker, C. B., & Picking, W. L. (2017). Single-domain antibodies pinpoint potential targets within *Shigella* invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. J Biol Chem, 292(40), 16677-16687. <https://doi.org/10.1074/jbc.M117.802231>
 
-[^Sierocki,2021]: Sierocki, R., Jneid, B., Orsini Delgado, M. L., Plaisance, M., Maillere, B., Nozach, H., & Simon, S. (2021). An antibody targeting type III secretion system induces broad protection against Salmonella and Shigella infections. PLoS Negl Trop Dis, 15(3), e0009231. <https://doi.org/10.1371/journal.pntd.0009231>
+[^Sierocki,2021]: Sierocki, R., Jneid, B., Orsini Delgado, M. L., Plaisance, M., Maillere, B., Nozach, H., & Simon, S. (2021). An antibody targeting type III secretion system induces broad protection against Salmonella and *Shigella* infections. PLoS Negl Trop Dis, 15(3), e0009231. <https://doi.org/10.1371/journal.pntd.0009231>

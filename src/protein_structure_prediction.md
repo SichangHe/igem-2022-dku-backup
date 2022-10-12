@@ -54,7 +54,7 @@ bioinformatics
 and physical approaches. We run models on AlphaFold (Phenix version)
 [^AlphaFoldPh] Colab
 notebook and it will automatically give the highest-scoring model.
-This Colab notebook is derived from ColabFold [^ColabFold] and the DeepMind
+This Colab notebook is derived from ColabFold[^ColabFold] and the DeepMind
 AlphaFold2
  Colab[^AlphaFold2Colab]
 
@@ -102,13 +102,13 @@ regions.[^SAVES]
 2. Atomic Z-score RMS:\
 Z-score root mean square deviation (Z-score RMS) measures the "average
 magnitude of the
-volume irregularities in the structure." [^Z-scoreRMS] Z-score RMS for a good
+volume irregularities in the structure."[^Z-scoreRMS] Z-score RMS for a good
 model should
 be around 1.0.
 3. Percentage of the amino acids having scored >= 0.2 in the 3D/1D profile:\
 Indicate whether the atomic model is compatible with its amino acid sequence.
 It should
-be higher than 80% for a good model. [^SAVES]
+be higher than 80% for a good model.[^SAVES]
 4. Overall quality factor:\
 An overall score for the model provided by SAVES server[^SAVES], ranging from 0
 to 100.
@@ -179,7 +179,7 @@ Interaction imformation (binding sites) of 20ipaD and ipaD
 is found in the paper: ***Single-Domain Antibodies Pinpoint Potential Targets
 within Shigella
 Invasion Plasmid Antigen D
-of the Needle Tip Complex for Inhibition of Type III Secretion*** [^Binding].
+of the Needle Tip Complex for Inhibition of Type III Secretion***[^Binding].
 Since the alignment shows that the 20ipaD
 in complex is almost the same with it's
 original structure, we can default the binding sites unchanged. Below is the
@@ -190,7 +190,7 @@ binding sites between 20ipaD and ipaD (**Figure 3**).
 
 **Figure 3** | Binding sites between 20ipaD and Ipad
 
-We provided the interaction information for online server HADDOCK [^HADDOCK] to
+We provided the interaction information for online server HADDOCK[^HADDOCK] to
 simulate the docking between the complex and ipaD.
 Below is the docking structure
 (**Figure 4**).
@@ -257,7 +257,7 @@ that
 it has greater average magnitude of the volume irregularities in the structure.
 
 The *E. coli* CsgA protein complex is a good model that
-fulfills 4 out of 5 quantitative parameters. Like Intimin, CsgA’s Ramachandran plot
+fulfills 4 out of 5 quantitative parameters. Like Intimin, CsgA's Ramachandran plot
 displays a good distribution in favored regions: 83.5% of
 residues are in the core regions, 12.7% are in the allowed regions, 2.0% are in
 the general regions and 1.8%
@@ -267,10 +267,10 @@ standard 80% but not nearly as high as Intimin. Its overall quality factor is
 91,exceeding the 80 score
 cut-off. The Z-score is within the range of scores found for native proteins of
 similar size, and like Intimin,
-the CsgA model’s Z-score is not around one.
+the CsgA model's Z-score is not around one.
 
 The Lacto tag 1 protein complex is a good model that fulfills 4 out of 5
-quantitative parameters. CsgA’s
+quantitative parameters. CsgA's
 Ramachandran plot displays a well enough distribution in favored regions: 83.1%
 of residues are in the core regions,
 15.2% are in the allowed regions, 1.5% are in the general regions and 0.2% in
@@ -281,7 +281,7 @@ comparatively low against Intimin and CsgA. Its overall quality factor is 92, su
 the 80 score cut-off.
 The Z-score is within the range of scores found for native proteins of similar
 size, and similar to Intimin and CsGA,
-the CsgA model’s Z-score is not around one.
+the CsgA model's Z-score is not around one.
 
 Overall, all three protein docking jobs show satisfactory results and
 could be helpful for
@@ -326,8 +326,8 @@ d2.ipynb>
 
 [^HADDOCK]: HADDOCK online server <https://wenmr.science.uu.nl/haddock2.4/>
 
-[^Binding]: Barta, M. L., Shearer, J. P., Arizmendi, O., Tremblay, J. M., Mehzabeen, N., Zheng, Q., Battaile, K. P., Lovell, S., Tzipori, S., Picking, W. D., Shoemaker, C. B., & Picking, W. L. (2017). Single-domain antibodies pinpoint potential targets within Shigella invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. The Journal of biological chemistry, 292(40), 16677–16687.
+[^Binding]: Barta, M. L., Shearer, J. P., Arizmendi, O., Tremblay, J. M., Mehzabeen, N., Zheng, Q., Battaile, K. P., Lovell, S., Tzipori, S., Picking, W. D., Shoemaker, C. B., & Picking, W. L. (2017). Single-domain antibodies pinpoint potential targets within *Shigella* invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. The Journal of biological chemistry, 292(40), 16677–16687.
 <https://doi.org/10.1074/jbc.M117.802231>
 
-[^Standard]:Messaoudi A, Belguith H, Ben Hamida J.(2013). Homology modeling and virtual screening approaches to identify potent inhibitors of VEB-1 β-lactamase. Theor Biol Med Model. 
+[^Standard]:Messaoudi A, Belguith H, Ben Hamida J.(2013). Homology modeling and virtual screening approaches to identify potent inhibitors of VEB-1 β-lactamase. Theor Biol Med Model.
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668210/>

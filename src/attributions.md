@@ -10,9 +10,14 @@
 Biology Team leader.
 In charge of wet lab organization, human practice organizations and wiki construction.
 Designed the overall topic and approach of the problem to tackle
+<<<<<<< HEAD
 with synthetic biology design. Designer of E.coli csgA surface display
 and lab experiments of the *E.coli* group. 
 In charge of outreach, secured funding for the project.
+=======
+with synthetic biology design. Designer of *E.coli* csgA surface display
+and lab experiments of the *E.coli* group.
+>>>>>>> f68c6dfa9b6bc443db91d1503afd469fc5965647
 
 ### Yuxin Wang
 
@@ -34,7 +39,7 @@ Conducted expert interviews for human practice.
 ### Chang Shen
 
 Proposed the project topic, participated in plasmid design and workflow design
-of E.coli group,
+of *E.coli* group,
 participated in wet labs and background research.
 Helped conduct collaboration with XJLTU as a part of human practice.
 
@@ -72,7 +77,7 @@ practice.
 
 ### Jingyun Jin
 
-Helped design survey as a part of human practice, helped with E.*coli* wet lab
+Helped design survey as a part of human practice, helped with *E.coli* wet lab
 experiments.
 
 ## Modeling team
@@ -150,7 +155,6 @@ Thanks to free licenses provided by SnapGene.
 
 Thanks to Dr. Jin Miao, Dr. Yingxue Li for advising our wet lab experiments. Thanks to our PI, Prof Linfeng Huang, for providing valuable advice and supervision throughout the project.
 
-
 ## Communications support
 
 Thanks to Dr. Floyd
@@ -160,3 +164,4 @@ and Dr. Jisheng Lin at Sinovac Biotech CO.,LTD. for providing effective advice o
 our project design and development.
 Thanks to Prof. Dong Hyun Jo of Seoul National University College
 of Medicine for contributing to the education efforts of our project.
+

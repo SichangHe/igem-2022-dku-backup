@@ -10,7 +10,7 @@ It is responsible for the digestion of food and absorption of nutrients.
 
 ![Figure_1](https://static.igem.wiki/teams/4161/wiki/the-gi-tract.jpg) 
 
-**Figure 1** | The GI tract. [^Peate]
+**Figure 1** | The GI tract.[^Peate]
 
 ### GI Microbiome
 
@@ -35,7 +35,7 @@ personalized drug therapies and probiotics.
 ![Figure_2](https://static.igem.wiki/teams/4161/wiki/oversight-microbial-populations.png)
 
 **Figure 2** | Oversight of major microbial populations
-in the body sites sampled by human microbiome projects. [^Brock]
+in the body sites sampled by human microbiome projects.[^Brock]
 
 The GI microbiota contains 10^13 to 10^14 microbial cells.
 Microbes in gut affect early development,
@@ -64,7 +64,7 @@ are also discovered in the gastric mucosa.
 
 ![Figure_3](https://static.igem.wiki/teams/4161/wiki/microenvironments-large-intestine.png)
 
-**Figure 3** | Different microenvironments in the large intestine. [^Brock]
+**Figure 3** | Different microenvironments in the large intestine.[^Brock]
 
 The microbiome in the large intestine generally serves as
 an in vivo fermentation vessel,
