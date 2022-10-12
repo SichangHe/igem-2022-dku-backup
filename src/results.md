@@ -20,6 +20,8 @@ The DNA sequences of nanobody 20ipaD and antigen ipaD were obtained from Sangon 
 #### Recombinant plasmids were constructed
 The purified ipaD and 20ipaD DNA segments mentioned in the previous section, along with the pYD1 vector digested by XhoI & ApaI, were ligated, and transformed into DH5α cells that were selected by ampicillin. Colony direct PCR was applied to inspect the plasmid condition of the colonies formed. pYD1-forward and pyd1-reverse primers were used to show the size of Aga2-Protein, thus verifying the sequence between the primer pairs (**Table 1**). The size of pYD1-ipaD plasmid primer box should be about 1500bp, while the size of pYD1-20ipaD should be about 1000bp. As shown in **Fig2 a**, samples “2-3”, “2-5” meet the requirement for pYD1-ipaD, so the bacteria in those colonies contain the recombinant plasmid pYD1-ipaD. Additionally, all samples in lanes 1~10 met the requirement for pYD1-ipaD, which indicates the bacteria in those colonies contain pYD1-20ipad recombinant plasmids (**Fig2 b**). Those colonies were amplified, and the plasmids were extracted. Sequencing data further supported the successful construction of the recombinant plasmids (**Fig3**).
 
+![Table1](https://static.igem.wiki/teams/4161/wiki/y-table1.jpeg)
+
 #### Recombinant plasmids were transformed into yeast EBY100
 We performed yeast transformation using constructed pYD1-ipaD and pYD1-20ipaD plasmids. Yeast competent cells were prepared by Frozen-EZ Yeast transformation II kit (Zymo Research, T2001). The yeasts were successfully transformed by the chemical method using carrier DNA and PEG/LiAc. The plasmids and competent cells were thawed on ice. 10μL of Carrier DNA and 2μg of plasmid was added into 100μL of competent cells. Then 500μL of PEF/LiAc solution was added. The tube was inverted 6-8 times and incubated at 30°C with an inversion at 10-minute interval. Then, 20μL of DMSO was added to increase the transformation efficiency. Then, the tube was incubated under 42°C with an inversion of 5-minute interval. The cells were centrifuged at 12000rpm for 5 seconds and incubated with YPD medium for 1 hour at 30°C. After incubation, the cells were pelleted and resuspended by 100μL of 0.9% NaCl, 50μL of which was spread onto SDCAA medium, and another 50μL of cells onto YPD medium. The plates were incubated at 30°C for 2 days.
 
@@ -34,7 +36,7 @@ The induced cells were harvested and washed with PBS. The yeasts containing pYD1
 
 ![y-fig-2](https://static.igem.wiki/teams/4161/wiki/y-fig-2.png)
 
-![y-fig3](https://static.igem.wiki/teams/4161/wiki/y-fig3.png)
+![y-fig3](https://static.igem.wiki/teams/4161/wiki/y-result.jpeg)
 
 ![y-fig4](https://static.igem.wiki/teams/4161/wiki/y-fig4.png)
 
@@ -114,35 +116,18 @@ However, due to time limitation, this part has not been successfully implemented
 
 ## Project Achievements & Analysis Summary
 
-(只是举例，请随意更改)
-
 ### Successes
+1. Constructed the recombinant pyd1-ipad and pyd1-20ipad plasmids and transformed them into Ecoli. DH5 alpha and Yeast EBY100
+2. Expressed Ipad antigen and 20ipad antibody on the surface of yeast cells
+   
+### Future plans
+1. Simulate the human gut environment to determine the growth curve and induction efficiency of yeast.
+2. To figure out the effect of yeast on the original intestinal flora, we are going to construct the microenvironment in the GI tract using its common flora, aerobic environment, intestinal PH, and temperature. 
+3. Because our original plasmid was differentiated by Ampicillin resistant on the plate, when implemented onto the gut environment, it could cause potential harm to the original GI tract flora. Our future experiments plans to integrate the whole “promoter-Aga2-20ipad” cassette into the yeast genome using PCR-fustion and CRIPSR-Cas9 
+4. To test the killing effectiveness on Shigella Flexneri, we are going to conduct hemolysis experiments.
+5. To test therapeutic effects of our product, we are going to conduct in vivo experiments in rodent GI system.
 
-- Constructed the recombinant xxx plasmid, and transformed it into xxx strain.
 
-- Expressed xxx protein.
-
-- Effectiveness tested by xxx.
-
-### Failures
-
-- Failed to construct and transform the recombinant plasmids in E.*coli* and L.*lactis*.
-
-### Inspirations
-
--
-
-## Future Plans
-
-(只是举例，请随意更改)
-
-- Express proteins in well-studied probiotic strains.
-
-- Insert nanobody sequences after other promoters that can ensure proper expression *in vivo*.
-
-- Conduct hemolysis experiments to see the effectiveness of killing *Shigella flexneri*.
-
-- Conduct *in vivo* experiments to test the therapeutic effects in rodent GI system.
 
 ## Reference
 
