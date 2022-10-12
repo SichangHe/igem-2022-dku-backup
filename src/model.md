@@ -30,6 +30,7 @@ There are 3 modeling sections in our project:
 ## Description and Prediction of drug efficacy
 
 ### Overview
+
 Wet lab results showed that we have successfully expressed 20ipaD on the surface
 of Yeast. Our goal is to describe
 efficiency of expression and predict the scenario after the drug is released in the
@@ -74,12 +75,13 @@ or even slightly alkaline conditions[^Yeast_growth].
 
 Based on these assumptions, the following two equations describe the change in
 number of shigella and Yeast:
+
 $$
-\frac{dL'(t)}{dt} = \frac{dL(t)}{dt} - \beta L(t)D(t)
+\frac{\mathrm dL'(t)}{\mathrm dt} = \frac{\mathrm dL(t)}{\mathrm dt} - \beta L(t)D(t)
+\\[12pt]
+\frac{D(t)}{\mathrm dt} = \gamma L(t)D(t)
 $$
-$$
-\frac{D(t)}{dt} = \gamma L(t)D(t)
-$$
+
 $L'(t)$: the log count of the number of shigella in jejunal at time $t$ after drug release;\
 $L(t)$: the log count of the number of shigella in jejunal at time $t$ before drug release;\
 $\beta$: the binding efficiency between 20ipaD and IpaD;\
@@ -88,29 +90,32 @@ $\gamma$:survival rate of Yeast in jejunal
 
 **Detail:**\
 The natural growth of shigella in jejunal can be described in the form of Gompertz equation[^Shigella_natural]:
+
 $$
-L(t) = A + C exp [-exp(-B(t-M)) ]
+L(t) = A + Ce^{-e^{-B(t-M)}}
 $$
+
 $L(t)$: the log count of the number of shigella in jejunal at time t before drug release;\
 $A$: the asymptotic log count as $t$ decreases indefinitely;\
 $C$: the asymptotic amount of growth (log number) that occurs as $t$ increases indefinitely;\
 $M$: the time at which the absolute growth rate is maximum;\
-$B$: the relative growth rate at $M$
+$B$: the relative growth rate at $M$.
 
 Parameters $A$, $C$, $M$,and $B$ depend on the environmental conditions: temperature $T$, $pH$, and sodium chloride concentration $c$. \
 In our case,
-$T$ is defaulted to 37 degrees;
-the $pH$ is about 6.9 in jejunal and about 7.2 in ileal[^pH];
-$c$ in jejunal is about 112$mM$[^NaCl].
+$T$ is defaulted to $37$ degrees;
+the $pH$ is about $6.9$ in jejunal and about $7.2$ in ileal[^pH];
+$c$ in jejunal is about $112\text{mM}$[^NaCl].
 
-Translate the concentration into the form of percentage:\
+Translate the concentration into the form of percentage:
+
 $$
-\frac{x g}{100ml}\frac{1mol}{58.44g}\frac{1000ml}{1L}=0.012M
-$$
-$$
+\frac{x g}{100\text{ml}}\frac{1\text{mol}}{58.44g}\frac{1000\text{ml}}{1\text{L}}=0.012\text{M}
+\\[12pt]
 x = 0.65
 $$
-So, the concentration of sodium chloride is about 0.65% in jejunal.
+
+So, the concentration of sodium chloride is about $0.65\%$ in jejunal.
 
 Gompertz equation parameters and calculated growth curve values for Shigella can
 be found in the paper: ***Effect of Sodium Chloride, pH and Temperature on Growth
@@ -119,24 +124,24 @@ Parameters in our situation do not perfectly fit the calculated ones, but they
 do fall in a certain range:
 
 - Lower limit:\
-  $T$=37 degrees, $pH$=6.5, $c$=0.5%\
-  $A$=4.53, $B$=0.493, $C$=4.47, $M$=3.68
- $$
- L(t) = 4.53 + 4.47 exp [-exp(-0.493(t-3.68)) ]
- $$
- $$
- \frac{L(t)}{dt} = 2.20exp[-exp(-0.493(x-3.68))-0.493(x-3.68)]
- $$
+    $T=37°$, $pH=6.5$, $c=0.5\%$,\
+    $A=4.53$, $B=0.493$, $C=4.47$, $M=3.68$
+
+    $$
+    L(t) = 4.53 + 4.47e^{-e^{-0.493(t-3.68)}}
+    \\[12pt]
+    \frac{L(t)}{\mathrm dt} = 2.20e^{-e^{-0.493(x-3.68)}-0.493(x-3.68)}
+    $$
 
 - Higher limit:\
-  $T$=37 degrees, $pH$=7.5, $c$=0.5%\
-  $A$=4.26, $B$=0.435, $C$=5.41, $M$=4.54
- $$
- L(t) = 4.26 + 5.41 exp [-exp(-0.435(t-4.54)) ]
- $$
- $$
- \frac{L(t)}{dt} = 2.35exp[-exp(-0.435(x-4.54))-0.435(x-4.54)]
- $$
+    $T=37°$, $pH=7.5$, $c=0.5\%$,\
+    $A=4.26$, $B=0.435$, $C=5.41$, $M=4.54$
+
+    $$
+    L(t) = 4.26 + 5.41e^{-e^{-0.435(t-4.54)}}
+    \\[12pt]
+    \frac{L(t)}{\mathrm dt} = 2.35e^{-e^{-0.435(x-4.54)}-0.435(x-4.54)}
+    $$
 
 Since our situation is in this range, so we can have an upper limit and lower limit
 for the growth scenario of Shigella (**Figure 2**).
@@ -144,7 +149,7 @@ for the growth scenario of Shigella (**Figure 2**).
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-model-part2-growth-of-shigella.png"/>
 
 **Figure 2** | Upper limit and lower limit for Shigella's natural growth in jejunal.
-The x axis indicates the time with unit of hour; the y axis indicates the
+The x-axis indicates the time with unit of hour; the y-axis indicates the
 log count of number of Shigella.
 
 The survival rate of Yeast cells in jejunal varies with time (**Figure 3**) [^pH].
@@ -153,11 +158,12 @@ The survival rate of Yeast cells in jejunal varies with time (**Figure 3**) [^pH
 
 **Figure 3** | Survival rate of Yeast cells in jejunal with time of digestion.
 
-The survival rate is highest at t=2h, when 30.8%
-of intake Yeast cells are viable. Then, the viability decreases with time, finally 13%
-of intake Yeast cells are viable at 5h.
+The survival rate is highest at $t=2\text{h}$, when $30.8\%$
+of intake Yeast cells are viable. Then, the viability decreases with time, finally $13\%$
+of intake Yeast cells are viable at $5\text{h}$.
 
 #### Part 3: Medication guidance
+
 Our drug is designed to 'kill' the Shigella before it invades
 the surface of jejunal, or more realistically, to decrease the concentration of
 floating Shigella so that a mass invasion could be avoided or stopped as soon as possible.
@@ -177,10 +183,10 @@ of the intake)
 For Shigella, since the upper limit and lower limit of natural growth are found,
 we can calculate the maximum population density in the following form:
 $$
-Density_{max} (log_{10}cfu/ml) = A + C
+\text{Density}_{max} (\log_{10}\text{cfu/ml}) = A + C
 $$
 
-So the uppper limit of the max density at $t$=5h will be about 5 billion Shigella, and
+So the uppper limit of the max density at $t=5\text{h}$ will be about 5 billion Shigella, and
 the lower limit will be about 1 billion Shigella.
 
 Therefore, it is proper to take 5-6 capsules every 5 hours after the patient start to have symptoms,
@@ -188,6 +194,7 @@ and distribute 1-5 capsules every 5 hours to the people who might develop sympto
 living togethor or common life styles.
 
 ### Summary & Future plan
+
 To conclude, we have described the 20ipaD expression efficiency of Yeast cell through wet-lab results
 and predicted the post-medication scenario through math modeling.
 The expression efficiency is found to be about 31.25%± 0.75,
@@ -213,3 +220,4 @@ so that a more precise medication guidance is available.
 [^CFU]: Choosing the Best Probiotic: How Many CFUs is Enough?. (2022). Deerland. <https://deerland.com/chew/choosing-best-probiotic-many-cfus-enough/>
 
 {{#include hardware.md}}
+
