@@ -14,7 +14,7 @@ There are 3 modeling sections in our project:
   This section mainly shows the structure of proteins and their docking results,
   and also tries to provide guides for future experiment design.
 
-- **Description and Prediction of durg efficacy**\
+- **Description and Prediction of drug efficacy**\
   This section mainly describes the efficiency of protein expression, and tries to
   predict the scenario after a patient
   takes the drug.
