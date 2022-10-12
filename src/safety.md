@@ -45,7 +45,7 @@ potential risks of the leak of antibiotics resistance genes during wetlab
 process. Discarded liquids and plates that contain antibiotics were placed in
 specific vessels and then autoclaved.
 ## Harmful reagents and procedures
-Part of planned experiments had to be done by using harmful reagents or
+Part of the planned experiments had to be done by using harmful reagents or
 procedures. All team members follow the rules under the guideline provided by
 our lab manager and assistants during experiment safety training.
 
@@ -55,7 +55,7 @@ UV light. Gel imaging system was used for visualizing agarose gel, combined
 with standard laboratory procedures with blue light transilluminator.
 
 **Antibiotics** were used to select transformants. They can be harmful to
-sensitive groups. Situations of allergy of team members were collected.
+sensitive groups. Situations of allergies of team members were collected.
 Antibiotics were well stored and
 Handled with proper safety measures according to disposal protocols.
 
@@ -64,11 +64,11 @@ and relevant procedures were conducted in chemical ventilation cabinets. Liquid
 waste was handled with appropriate safety measures.
 ## Covid-19 associated safety measures
 Team members followed all the government and university guidelines based on the
-pandemic situation of Covid-19 in China. For April and May, team`s meetings
+pandemic situation of Covid-19 in China. For April and May, team meetings
 were online because of school closure and in-person activities were allowed
 after deblocking. Covid-19 tests were performed regularly and all team members
 got vaccinated.
 
-When wetlabs began, team members` attendance was recorded. The usage of lab
+When wet labs began, team members` attendance was recorded. The usage of lab
 equipment was registered. All working surfaces were cleaned with disinfectant
-fluid before and after conducting wetlabs.
+fluid before and after conducting wet labs.
