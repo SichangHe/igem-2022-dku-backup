@@ -22,8 +22,8 @@ to give a talk on therapeutic revolution for the DKU community.
 to more than 330 middle and high school students and teachers about our project
 and synthetic biology.
 
-### On-campus education
-#### Wang-Cai Biology Seminar Series
+## On-campus education
+### Wang-Cai Biology Seminar Series
 
 ![Wang-Cai Talk](https://static.igem.wiki/teams/4161/wiki/wang-cai-talk.jpeg)
 
@@ -52,7 +52,7 @@ and can benefit the whole population. The experience and thoughts expressed by
 Dr. Jo greatly inspired us, which allow us to have more understanding of graduate
 choices and future career plans.
 
-## Journal Club
+### Journal Club
 In order to have better educational effect and promote our project , we
 organized the Journal Club activity in the Duke Kunshan community.
 
@@ -85,7 +85,7 @@ Details of the presenters and their topics are listed in the table below.
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-journal-club-poster.jpg"
 />
 
-### Off-campus education
+## Off-campus education
 
 This year, expanding iGEM participants and audience was included in the goals of our human practice. Although iGEM competition has a solid audience base in universities,
 students in high schools have little knowledge of iGEM competition or give up
@@ -151,7 +151,7 @@ about synthetic biology.
 
 ![photo](https://static.igem.wiki/teams/4161/wiki/education5.jpg)
 
-### Summary
+## Summary
 In conclusion, we invited different audiences to engage in communication about
 synthetic biology this year.
 In our activities, we aimed to not only teach other people but also learn new things
