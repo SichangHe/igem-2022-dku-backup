@@ -12,6 +12,9 @@ involving the usage of PyMol, RobeTTA, and Alphafold2. Through literature
 review, we were able to determine multiple parameters that measure the accuracy
 of the protein model and evaluated our protein design. We also contributed
 to previous parts by designing our parts with improvements based on past iGEM teams.
+Another contribution is the PCR trouble shooting guide we made during the 
+collaboration with Duke. It contains actual wet lab gel pictures and trouble shooting advice
+for future iGEM teams to reference.
 
 ## Cell surface display platforms
 
