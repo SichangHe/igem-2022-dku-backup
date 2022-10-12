@@ -144,6 +144,11 @@ DKU Innovation and Entrepreneurship Initiative,
 and Marcia B. France, DKU Dean of Undergraduate Studies.
 Thanks to free licenses provided by SnapGene.
 
+## Wet Lab support
+
+Thanks to Dr. Jin Miao, Dr. Yingxue Li for advising our wet lab experiments. Thanks to our PI, Prof Linfeng Huang, for providing valuable advice and supervision throughout the project.
+
+
 ## Communications support
 
 Thanks to Dr. Floyd
