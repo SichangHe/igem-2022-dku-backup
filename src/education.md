@@ -89,12 +89,15 @@ Details of the presenters and their topics are listed in the table below.
 
 
 ### Off-campus education
-This year, expanding iGEM participants and audience was included in the goals of our human practice.
-Although iGEM competition has a solid audience base in universities,
+
+
+This year, expanding iGEM participants and audience was included in the goals of our human practice. Although iGEM competition has a solid audience base in universities,
 students in high schools have little knowledge of iGEM competition or give up
-because of their limitation of conducting wet labs.\
-After having an overview of high schools in Kunshan,
-we decided to contact Dipont Huayao Collegiate School Kunshan to give a speech.\
+because of their limitation of conducting wet labs. After having an overview of high schools in Kunshan,
+we decided to contact Dipont Huayao Collegiate School Kunshan to give a speech.
+
+
+
 In the first part of our presentation, we introduced the biology team, the modeling team,
 the wiki team and the human practice team,
 including their work and collaborations between different subgroups.
