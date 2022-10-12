@@ -202,14 +202,14 @@ and how much CFU is needed and realistic can a single capsule contain. These wor
 better understand the change of number of Shigella after medication,
 so that a more precise medication guidance is available.
 
-[^Yeast_growth]: Investigation of the Best Saccharomyces cerevisiae Growth Condition. Electron Physician. DOI: 10.19082/3592 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5308499/>
+[^Yeast_growth]: Salari R, Salari R.(2017).Investigation of the Best Saccharomyces cerevisiae Growth Condition. Electron Physician.  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5308499/>
 
-[^Shigella_natural]:Effect of Sodium Chloride, pH and Temperature on Growth of Shigella flexneri. Journal of Food Protection. DOI:10.4315/0362-028x-52.5.356 <https://pubmed.ncbi.nlm.nih.gov/31003269/>
+[^Shigella_natural]:Zaika, L. L., Engel, L. S., Kim, A. H., & Palumbo, S. A. (1989). Effect of Sodium Chloride, pH and Temperature on Growth of Shigella flexneri. Journal of food protection, 52(5), 356–359.<https://pubmed.ncbi.nlm.nih.gov/31003269/>
 
-[^pH]: Effect of a New Probiotic Saccharomyces cerevisiae Strain on Survival of *Escherichia Coli* O157:H7 in a Dynamic Gastrointestinal Model. Applied and Environmental Microbiology. DOI:10.1128/AEM.02130-10 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028742/>
+[^pH]: Etienne-Mesmin L, Livrelli V, Privat M, Denis S, Cardot JM, Alric M, Blanquet-Diot S.(2011). Effect of a New Probiotic Saccharomyces cerevisiae Strain on Survival of *Escherichia Coli* O157:H7 in a Dynamic Gastrointestinal Model. Applied and Environmental Microbiology. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028742/>
 
-[^NaCl]: The mechanisms of sodium absorption in the human small intestine. The Journal of Clinical Investigation. DOI:10.1172/JCI105781 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC297237/>
+[^NaCl]: Fordtran JS, Rector FC Jr, Carter NW.(1968) The mechanisms of sodium absorption in the human small intestine. J Clin Invest. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC297237/>
 
-[^CFU]: Choosing the Best Probiotic: How Many CFUs is Enough?<https://deerland.com/chew/choosing-best-probiotic-many-cfus-enough/>
+[^CFU]: Choosing the Best Probiotic: How Many CFUs is Enough?. (2022). Deerland. <https://deerland.com/chew/choosing-best-probiotic-many-cfus-enough/>
 
 {{#include hardware.md}}
