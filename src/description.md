@@ -117,14 +117,14 @@ The sequence of control flag-tag*3 is shown in blue. Two restriction sites for t
 
 ![E_design](https://static.igem.wiki/teams/4161/wiki/e-design.png)
 
-*E. coli* Nissle 1917, as a probiotic first isolated from the GI tract of healthy soldiers in WWI, has been proven to impose positive impacts on the human GI tract by supression and inhibition of GI tract pathogens.
+*E. coli* Nissle 1917 [^Gelfat2021][^Gelfat2021,2], as a probiotic first isolated from the GI tract of healthy soldiers in WWI, has been proven to impose positive impacts on the human GI tract by supression and inhibition of GI tract pathogens.
 The current trend in developing Nissle for therapeutics is based on the fact that *E. coli* is one of the most developed model organisms for scientific research.
 It has a small genome, stability of expression, and is easy to culture.
 
 The detailed design of the *E. coli* surface display system is as follows. Through literature review, We have targeted two different display systems.
-One is based on *E. coli* curli operon.
+One is based on *E. coli* curli operon [^Gelfat2021].
 The curli fiber is a component of biofilm.
-The PATCH system developed form previous studies have been effective in displaying protiens of interest.
+The PATCH system [^Gupta2010] developed form previous studies have been effective in displaying protiens of interest.
 Furthermore, the large capacity of the curli fiber presents multivalency, making it possible to display multiple proteins at arbitrarily close distance to bind simultaneously for the drug effective to take place.
 The plasmid design referenced the pM1s3ATScsg-Etag plasmid on Addgene (Plasmid #137946) from Neel Joshi Lab with the optimized synthetic curli operon.
 The other option is based on intimin.
@@ -135,6 +135,12 @@ It is also important to mention that the target antigen IpaD is highly conservat
 Also, previous studies have constructed a library of anti-IpaD VHH including VHH 20ipaD, JMKH2, and JPSG3 are found specifically bind to the epitopes in IpaD protein[^Barta2017] [^Sierocki2017]. The affinity of this antigen-VHH pair is considerable when using 20ipaD and JMKH2[^Sierocki2017].
 
 ## References
+
+[^Gelfat2021,2]: Gelfat, I. (2021). Engineering E. coli Nissle 1917 to Advance and Facilitate Its Use in Biomedical Applications [Ph.D., Harvard University]. https://www.proquest.com/docview/2563494610/abstract/615221E21BBF406CPQ/1
+
+[^Gelfat2021]: Gelfat, I., Aqeel, Y., Tremblay, J. M., Jaskiewicz, J. J., Shrestha, A., Lee, J. N., Hu, S., Qian, X., Magoun, L., Sheoran, A., Bedenice, D., Giem, C., Manjula-Basavanna, A., Osburne, M. S., Tzipori, S., Shoemaker, C. B., Leong, J. M., & Joshi, N. S. (2021). Single domain antibodies against enteric pathogen virulence factors are active as curli fiber fusions on probiotic E. coli Nissle 1917 (p. 2021.06.18.448998). bioRxiv. https://doi.org/10.1101/2021.06.18.448998
+
+[^Gupta2010]: Gupta, A., Joshi, N., Lawrence Zitnick, C., Cohen, M., & Curless, B. (2010, September). Single image deblurring using motion density functions. In European conference on computer vision (pp. 171-184). Springer, Berlin, Heidelberg. Retrieved Oct 12, 2022, from <https://link-springer-com.proxy.lib.duke.edu/chapter/10.1007/978-3-642-15549-9_13>
 
 [^Carayol2013]: Carayol, N. and Guy Nhieu. (2013). The Inside Story of Shigella Invasion of Intestinal Epithelial Cells. Cold Spring Harbor Perspectives in Medicine. Retrieved March 28, 2022, from <http://perspectivesinmedicine.cshlp.org/content/3/10/a016717.full>
 
