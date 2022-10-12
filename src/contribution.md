@@ -35,3 +35,9 @@ These parameters determine whether a certain structure is stable. For more detai
 ## Improvement of parts
 
 [See Improvement](improve.md).
+
+### PCR troubleshooting guide for future iGEM teams
+
+In our collaboration with Duke iGEM, we put together a PCR trouble shooting guide, summarizing all the different problems we encountered during PCR in wet lab. 
+
+[See our trouble shooting guide here.](https://static.igem.wiki/teams/4161/wiki/pcr-troubleshooting-guide.pdf)
