@@ -39,7 +39,7 @@ patient's jejunal.
 
 To describe how efficient is Yeast concerning the expression of 20ipaD, we manually
 calculated the efficiency by counting the number of Yeast cells that expressed
-20ipaD and the total number of Yeast cells (**Figure 1**).Through separated assessments conducted by two individuals, we found that our model has a 31.25% expression rate with a STD of ± 0.75. 
+20ipaD and the total number of Yeast cells (**Figure 1**).Through separated assessments conducted by two individuals, we found that our model has a 31.25% expression rate with a STD of ± 0.75.
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig1-efficiency-expression.png"/>
 
@@ -117,6 +117,7 @@ be found in the paper: ***Effect of Sodium Chloride, pH and Temperature on Growt
 of Shigella flexneri***[^Shigella_natural].
 Parameters in our situation do not perfectly fit the calculated ones, but they
 do fall in a certain range:
+
 - Lower limit:\
   $T$=37 degrees, $pH$=6.5, $c$=0.5%\
   $A$=4.53, $B$=0.493, $C$=4.47, $M$=3.68
@@ -127,7 +128,7 @@ do fall in a certain range:
  \frac{L(t)}{dt} = 2.20exp[-exp(-0.493(x-3.68))-0.493(x-3.68)]
  $$
 
- - Higher limit:\
+- Higher limit:\
   $T$=37 degrees, $pH$=7.5, $c$=0.5%\
   $A$=4.26, $B$=0.435, $C$=5.41, $M$=4.54
  $$
@@ -153,7 +154,7 @@ The survival rate of Yeast cells in jejunal varies with time (**Figure 3**) [^pH
 **Figure 3** | Survival rate of Yeast cells in jejunal with time of digestion.
 
 The survival rate is highest at t=2h, when 30.8%
-of intake Yeast cells are viable. Then, the viability decreases with time, finally 13% 
+of intake Yeast cells are viable. Then, the viability decreases with time, finally 13%
 of intake Yeast cells are viable at 5h.
 
 #### Part 3: Medication guidance
@@ -165,7 +166,7 @@ a possible conclusion or a medication guidance for the patients and the managers
 of the healthcare system, so that our vision could be realized.
 
 For a single micro-capsule, assume it contains at least 10 billion CFU (colony-forming unit) [^CFU],
-then it contains at least 10 billion live Yeast cells. Since the expression rate is about 31.25%, 
+then it contains at least 10 billion live Yeast cells. Since the expression rate is about 31.25%,
 there would be at least 3 billion live Yeast cells that expressed at least one
 20ipaD on each of their surfaces. After the capsule reaches jejunal, it will dissolve and start to release
 Yeast cells. After 2 hours, there will be about 0.9 billion
@@ -179,7 +180,6 @@ $$
 Density_{max} (log_{10}cfu/ml) = A + C
 $$
 
-
 So the uppper limit of the max density at $t$=5h will be about 5 billion Shigella, and
 the lower limit will be about 1 billion Shigella.
 
@@ -188,29 +188,28 @@ and distribute 1-5 capsules every 5 hours to the people who might develop sympto
 living togethor or common life styles.
 
 ### Summary & Future plan
-To conclude, we have described the 20ipaD expression efficiency of Yeast cell through wet-lab results 
+To conclude, we have described the 20ipaD expression efficiency of Yeast cell through wet-lab results
 and predicted the post-medication scenario through math modeling.
 The expression efficiency is found to be about 31.25%± 0.75,
 and the upper limit and lower limit of natural growth of Shigella
-could help us to define a range for Shigella to grow naturally in jejunal. 
+could help us to define a range for Shigella to grow naturally in jejunal.
 By assuming each capsule contains 10 billion CFU,
 we are able to give a medication guidance for symptomatic patient to take 5-6 capsules per 5 hours
 and for potential patients to take 1-5 capsules per 5 hours.
 
-In the future, more work can be devoted to deciding the binding efficiency $\beta$ between Yeast-20ipaD and IpaD, 
+In the future, more work can be devoted to deciding the binding efficiency $\beta$ between Yeast-20ipaD and IpaD,
 and how much CFU is needed and realistic can a single capsule contain. These work can help us
 better understand the change of number of Shigella after medication,
 so that a more precise medication guidance is available.
-
 
 [^Yeast_growth]: Investigation of the Best Saccharomyces cerevisiae Growth Condition. Electron Physician. DOI: 10.19082/3592 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5308499/>
 
 [^Shigella_natural]:Effect of Sodium Chloride, pH and Temperature on Growth of Shigella flexneri. Journal of Food Protection. DOI:10.4315/0362-028x-52.5.356 <https://pubmed.ncbi.nlm.nih.gov/31003269/>
 
-[^pH]: Effect of a New Probiotic Saccharomyces cerevisiae Strain on Survival of Escherichia coli O157:H7 in a Dynamic Gastrointestinal Model. Applied and Environmental Microbiology. DOI:10.1128/AEM.02130-10 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028742/>
+[^pH]: Effect of a New Probiotic Saccharomyces cerevisiae Strain on Survival of *Escherichia Coli* O157:H7 in a Dynamic Gastrointestinal Model. Applied and Environmental Microbiology. DOI:10.1128/AEM.02130-10 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028742/>
 
 [^NaCl]: The mechanisms of sodium absorption in the human small intestine. The Journal of Clinical Investigation. DOI:10.1172/JCI105781 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC297237/>
 
-[^CFU]: Choosing the Best Probiotic: How Many CFUs is Enough?https://deerland.com/chew/choosing-best-probiotic-many-cfus-enough/
+[^CFU]: Choosing the Best Probiotic: How Many CFUs is Enough?<https://deerland.com/chew/choosing-best-probiotic-many-cfus-enough/>
 
 {{#include hardware.md}}

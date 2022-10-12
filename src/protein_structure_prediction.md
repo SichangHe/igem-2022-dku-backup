@@ -235,13 +235,12 @@ and their docking scenarios, and analyzed them. This could be helpful for
 future experiment
 and future teams.
 
-
 <img src="https://static.igem.wiki/teams/4161/wiki/table-1-for-part-4-of-model.png"
 />
 
 **Table 1** | Evaluation of other combinations of probiotic-nanobody complex
 
-The E. coli Intimin protein complex has good results in 4 out of 5 quantitative parameters,
+The *E. coli* Intimin protein complex has good results in 4 out of 5 quantitative parameters,
 making it a great model.
 First, its Ramachandran plot reveals a good distribution in favored regions.
 83% of its residues are in the core regions, 14.7% are in the allowed regions, 1.3%
@@ -257,8 +256,7 @@ of similar size. The main downside to this model is that Z-score is not around o
 that
 it has greater average magnitude of the volume irregularities in the structure.
 
-
-The E. coli CsgA protein complex is a good model that
+The *E. coli* CsgA protein complex is a good model that
 fulfills 4 out of 5 quantitative parameters. Like Intimin, CsgA’s Ramachandran plot
 displays a good distribution in favored regions: 83.5% of
 residues are in the core regions, 12.7% are in the allowed regions, 2.0% are in
@@ -270,7 +268,6 @@ standard 80% but not nearly as high as Intimin. Its overall quality factor is
 cut-off. The Z-score is within the range of scores found for native proteins of
 similar size, and like Intimin,
 the CsgA model’s Z-score is not around one.
-
 
 The Lacto tag 1 protein complex is a good model that fulfills 4 out of 5
 quantitative parameters. CsgA’s
@@ -286,12 +283,11 @@ The Z-score is within the range of scores found for native proteins of similar
 size, and similar to Intimin and CsGA,
 the CsgA model’s Z-score is not around one.
 
-
 Overall, all three protein docking jobs show satisfactory results and
 could be helpful for
 future experiments and future teams. In light of these promising findings,
 we encourage future
-researchers to test these models in the lab, with the E. coli Intimin model
+researchers to test these models in the lab, with the *E. coli* Intimin model
 that performed the
 best among the three.
 
@@ -301,8 +297,6 @@ and the docking structure between Yeast-20ipaD and IpaD. They are well analyzed
 and are decided to have good effect theoretically.
 Moreover, we modeled other 3 possible combinations of fusion protein and nanobody,
 which might serve as a guidance for future experiment design.
-
-
 
 [^Robetta]: Robetta <https://robetta.bakerlab.org>
 
@@ -342,4 +336,3 @@ DOI: 10.1074/jbc.M117.802231
 [^Standard]:Homology modeling and virtual screening approaches to identify potent inhibitors of VEB-1 β-lactamase.
 DOI: 10.1186/1742-4682-10-22
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668210/>
-

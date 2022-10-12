@@ -106,7 +106,7 @@ To further increase efficiency, after doing more literature reviews we added the
 
 ##### Build
 
-According to the newly found protocol, the Lactococcus lactis was firstly suspended at room temperature for 30 min in 8ml of 100mM LiAc, 10mM DTT, 0.6M sucrose, and 10mM Tris-HCl (pH=7.5). Following the treatment, *Lactococcus lactis* was pelleted and was resuspended in 1.5ml microcentrifuge tube, and was then washed as previously described. Afterwards, electroporation was conducted as previously described.
+According to the newly found protocol, the *Lactococcus lactis* was firstly suspended at room temperature for 30 min in 8ml of 100mM LiAc, 10mM DTT, 0.6M sucrose, and 10mM Tris-HCl (pH=7.5). Following the treatment, *Lactococcus lactis* was pelleted and was resuspended in 1.5ml microcentrifuge tube, and was then washed as previously described. Afterwards, electroporation was conducted as previously described.
 
 ### *Escherichia coli*
 
@@ -154,9 +154,9 @@ We designed the following sequences:
 
 ## Reference
 
-[^Salema,2013]: Salema, V., Marín, E., Martínez-Arteaga, R., Ruano-Gallego, D., Fraile, S., Margolles, Y., Teira, X., Gutierrez, C., Bodelón, G., & Fernández, L. Á. (2013). Selection of Single Domain Antibodies from Immune Libraries Displayed on the Surface of E. coli Cells with Two β-Domains of Opposite Topologies. *PLoS ONE*, 8(9), e75126. <https://doi.org/10.1371/journal.pone.0075126>
+[^Salema,2013]: Salema, V., Marín, E., Martínez-Arteaga, R., Ruano-Gallego, D., Fraile, S., Margolles, Y., Teira, X., Gutierrez, C., Bodelón, G., & Fernández, L. Á. (2013). Selection of Single Domain Antibodies from Immune Libraries Displayed on the Surface of *E. coli* Cells with Two β-Domains of Opposite Topologies. *PLoS ONE*, 8(9), e75126. <https://doi.org/10.1371/journal.pone.0075126>
 
-[^Gelfat,2021]: Gelfat, I., Aqeel, Y., Tremblay, J. M., Jaskiewicz, J. J., Shrestha, A., Lee, J. N., Hu, S., Qian, X., Magoun, L., Sheoran, A., Bedenice, D., Giem, C., Manjula-Basavanna, A., Osburne, M. S., Tzipori, S., Shoemaker, C. B., Leong, J. M., & Joshi, N. S. (2021). Single domain antibodies against enteric pathogen virulence factors are active as curli fiber fusions on probiotic E. coli Nissle 1917 (p. 2021.06.18.448998). *bioRxiv*. <https://doi.org/10.1101/2021.06.18.448998>
+[^Gelfat,2021]: Gelfat, I., Aqeel, Y., Tremblay, J. M., Jaskiewicz, J. J., Shrestha, A., Lee, J. N., Hu, S., Qian, X., Magoun, L., Sheoran, A., Bedenice, D., Giem, C., Manjula-Basavanna, A., Osburne, M. S., Tzipori, S., Shoemaker, C. B., Leong, J. M., & Joshi, N. S. (2021). Single domain antibodies against enteric pathogen virulence factors are active as curli fiber fusions on probiotic *E. coli* Nissle 1917 (p. 2021.06.18.448998). *bioRxiv*. <https://doi.org/10.1101/2021.06.18.448998>
 
 [^Barta,2017]:Barta, M. L., Shearer, J. P., Arizmendi, O., Tremblay, J. M., Mehzabeen, N., Zheng, Q., Battaile, K. P., Lovell, S., Tzipori, S., Picking, W. D., Shoemaker, C. B., & Picking, W. L. (2017). Single-domain antibodies pinpoint potential targets within Shigella invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. J Biol Chem, 292(40), 16677-16687. <https://doi.org/10.1074/jbc.M117.802231>
 

@@ -77,10 +77,10 @@ Group E's composite parts are designed to express surface protein-nanobody fusio
 
 | Part code | Part name| Link |
 | ------ | ------ | ------ |
-BBa_K4161003 | csg-JMK-H2, Csg surface display system on E. coli Nissle 1917 | <http://parts.igem.org/Part:BBa_K4161003>
+BBa_K4161003 | csg-JMK-H2, Csg surface display system on *E. coli* Nissle 1917 | <http://parts.igem.org/Part:BBa_K4161003>
 BBa_K4161004 | intimin-20IpaD, Nanobody surface display system based on intimin| <http://parts.igem.org/Part:BBa_K4161004>
-BBa_K4161023 | csgA-JPS-G3-3xFLAG, Csg surface display system on E. coli Nissle 1917 | <http://parts.igem.org/Part:BBa_K4161023>
-BBa_K4161100 | Csg surface display system on E. coli Nissle 1917 |<http://parts.igem.org/Part:BBa_K4161100>
+BBa_K4161023 | csgA-JPS-G3-3xFLAG, Csg surface display system on *E. coli* Nissle 1917 | <http://parts.igem.org/Part:BBa_K4161023>
+BBa_K4161100 | Csg surface display system on *E. coli* Nissle 1917 |<http://parts.igem.org/Part:BBa_K4161100>
 
 ### Group E vectors
 
@@ -103,7 +103,7 @@ Group L parts
 BBa_K4161600 | Usp45 nisin promoter | <http://parts.igem.org/Part:BBa_K4161600>
 BBa_K4161603 | AcmA3b | <http://parts.igem.org/Part:BBa_K4161603>
 BBa_K4161602 | 20ipaD | <http://parts.igem.org/Part:BBa_K4161602>
-BBa_K4161604 | signalling peptide in L.lactis | <http://parts.igem.org/Part:BBa_K4161604>
+BBa_K4161604 | signalling peptide in *L.lactis* | <http://parts.igem.org/Part:BBa_K4161604>
 BBa_K4161605 | Flag-tag | <http://parts.igem.org/Part:BBa_K4161605>
 
 ### Composite elemnent
