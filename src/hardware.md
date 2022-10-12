@@ -2,14 +2,14 @@
 
 Probiotics will be sealed in microcapsules(**Figure 1**) made of shellac
 before being delivered into bodies. The pH-dependent solubility that prefers
-a mild basic environment makes shellac perfect for releasing probiotics in intestines.
+a mild basic environment makes shellac perfect for releasing probiotics in the intestines.
 
 <img src="https://static.igem.wiki/teams/4161/wiki/hardware.png" />
 
 **Figure 1** | 3D model of the microcapsule
 
 Microcapsule is a microscope-scale capsulation format.
-The probiotics were wrapped by materials that can ensure the reservation,
+The probiotics were wrapped in materials that can ensure the reservation,
 activation, release, and environmental-resistance of the probiotics.
 It would be presented as powder.
 “Microencapsulation is a technology that serves as a tool to protect the
@@ -18,15 +18,15 @@ a protective wall,
 which allows them to get released at a particular site, at a particular time,
 and under particular conditions." [^Microencapsulation] 
 To summarize, the technology of
-microencapsulation is to ensure the safe delivery of sensitive compound.
+microencapsulation is to ensure the safe delivery of the sensitive compound.
 
 Shellac is a natural polymer that is generally recognized as a safe (GRAS) material.
-It is insoluble in neutral and acidic aqueous solution but dissolves at alkaline condition
+It is insoluble in neutral and acidic aqueous solutions but dissolves at alkaline conditions
 [^pH_shellac].
 So, shellac is proper for the controlled release of Yeast cells in the intestine.
 
 Research has shown that the microcapsules with the addition of shellac
-"contributed to better probiotic survivals after freeze drying, simulated digestion,heating and ambient storage,
+"contributed to better probiotic survivals after freeze drying, simulated digestion, heating and ambient storage,
 and whey protein isolate (WPI) addition had a synergistic effect."[^Shellac]
 
 
