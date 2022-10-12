@@ -4,16 +4,15 @@
     <img src="https://static.igem.wiki/teams/4161/wiki/fig-inte.png" />
 </div>
 
-
-Antibiotic resistance is a problem in its scale and subtlety. 
-*Shigella* infection has significance in antibiotic resistance because of its identity as one of the most antibiotic-resistant bacteria recognized by the CDC. In our integrated human practice, we followed the procedure of research-design-engagement-modification. 
+Antibiotic resistance is a problem in its scale and subtlety.
+*Shigella* infection has significance in antibiotic resistance because of its identity as one of the most antibiotic-resistant bacteria recognized by the CDC. In our integrated human practice, we followed the procedure of research-design-engagement-modification.
 
 ## Recognizing the problem and designing the approach
 
-The subtlety of antibiotic resistance did not come to mind until some of the team members took the microbiology class at DKU: 
-From the amazing lectures given by Dr. Linfeng Huang, we realized that the race against bacterial infection is largely dependent on discoveries of newly synthesized drugs. People modify the drug molecule by perhaps a small sidechain, changing the chemical property but perhaps not changing the chemical property. This can lead to significant advances because it can alter the pathogen's ability to recognize the drug, therefore no longer maintaining its resistance. 
+The subtlety of antibiotic resistance did not come to mind until some of the team members took the microbiology class at DKU:
+From the amazing lectures given by Dr. Linfeng Huang, we realized that the race against bacterial infection is largely dependent on discoveries of newly synthesized drugs. People modify the drug molecule by perhaps a small sidechain, changing the chemical property but perhaps not changing the chemical property. This can lead to significant advances because it can alter the pathogen's ability to recognize the drug, therefore no longer maintaining its resistance.
 
-Antibiotics are thus labeled as the best weapon. It is almost always the solution to infections. It can be bought at ordinary pharmacies and is consumed at a scale larger than ever. From talking with the people around us, we realized that the lack of knowledge of antibiotic resistance exists as possibly a larger threat than the pathogen itself. 
+Antibiotics are thus labeled as the best weapon. It is almost always the solution to infections. It can be bought at ordinary pharmacies and is consumed at a scale larger than ever. From talking with the people around us, we realized that the lack of knowledge of antibiotic resistance exists as possibly a larger threat than the pathogen itself.
 
 We ask ourselves: What if one day, we have exhausted all the combinations of chemicals? What if we lose the race because we have strengthened antibiotic resistance to the point of no return?
 
@@ -27,9 +26,8 @@ We looked into nanobody therapy, because it is easy to perform in our lab, and e
 
  ## Modification
 
- In an aspect of our design, we adopted the PATCH system by Dr. Neel Joshi, for better multivalency performance. We also changed our design logic: our drug is more vaccine orientated than the conventional drug designs. The drug should be ideal for the prevention of the regional spread of *Shigella* infection, acting as a blocking agent for further transmission. The delivery method is in freeze-dried powder, delivered in economic-friendly microcapsules. For the advice from Dr. Lin, we made multiple modifications that would promote the safety and effectiveness of our design. [See entrepreneurship for more details.](entrepreneurship.md) As for the general public response, we found one major problem, which is that a significant amount of people see E.*coli* as the main causative agent for dysentery syndrome. We assessed that this may cause major problems if we reveal our approach as probiotic-nanobody therapy, in specific, yeast and E.*coli* Nissle 1917 can be subject to public opinions including skepticism. Therefore, we attempted educational approaches to give more information on probiotics at both DKU and local high schools.
+ In an aspect of our design, we adopted the PATCH system by Dr. Neel Joshi, for better multivalency performance. We also changed our design logic: our drug is more vaccine orientated than the conventional drug designs. The drug should be ideal for the prevention of the regional spread of *Shigella* infection, acting as a blocking agent for further transmission. The delivery method is in freeze-dried powder, delivered in economic-friendly microcapsules. For the advice from Dr. Lin, we made multiple modifications that would promote the safety and effectiveness of our design. [See entrepreneurship for more details.](entrepreneurship.md) As for the general public response, we found one major problem, which is that a significant amount of people see *E.coli* as the main causative agent for dysentery syndrome. We assessed that this may cause major problems if we reveal our approach as probiotic-nanobody therapy, in specific, yeast and *E.coli* Nissle 1917 can be subject to public opinions including skepticism. Therefore, we attempted educational approaches to give more information on probiotics at both DKU and local high schools.
 
  ## Conclusion
 
  Our integrated human practices influenced our experimental design and the overall logic of our project. We can engage with our stakeholders and the general public, achieving satisfying outcomes. Engagement is the key to creating a project design with actual social impact, and we will carry this spirit on as we progress further into our project and future careers.
-

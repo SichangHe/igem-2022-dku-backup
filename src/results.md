@@ -63,7 +63,7 @@ lights (525/40 BP).
 ### *Escherichia coli*
 
 #### Summary of Experiment Design
-We plan to display the nanobody JPS-G3 agianst the *Shigella* antigen ipaD on the surface of E.*coli* Nissle 1917 via the curli fiber protein *csg*A[^Gelfat,2021]. We expect the engineered E.*coli* Nissle 1917 to be capable of capturing the pathogen *Shigella flexneri* via antigen-antibody specific binding.
+We plan to display the nanobody JPS-G3 agianst the *Shigella* antigen ipaD on the surface of *E.coli* Nissle 1917 via the curli fiber protein *csg*A[^Gelfat,2021]. We expect the engineered *E.coli* Nissle 1917 to be capable of capturing the pathogen *Shigella flexneri* via antigen-antibody specific binding.
 
 #### Plasmid Extraction
 pUC19-JPS-G3-3xHA and pUC19-ipaD-3xHA were extracted using the TIANGEN plasmid extraction kit.
@@ -85,7 +85,7 @@ Using following primers (**Table 1**), the JPS-G3-3xHA and ipaD-3xHA sequences w
 **Figure 1** | Gel Electrophoresis Result for Target Sequence Amplification
 
 #### Molecular Cloning for Cytoplasmic Protein Expression
-In order to construct the recombinant plasmids pET30a-ipaD-3xHA and pET30a-JPS-G3-3xFLAG, the PCR products obtained from the last step were digested by endonucleases *Bam*HI and *Xho*I to create sticky ends. Meanwhile, the pET30a plasmids were transformed into E.*coli* DH5a competent cells for propagation. After transformation and overnight culture, the extracted plasmids were also digested with endonucleases *Bam*HI and *Xho*I to create sticky ends. Afterwards, the digested plasmids and target sequences were ligated and transformed into E.*coli* DH5a competent cells (**Figure 2**).
+In order to construct the recombinant plasmids pET30a-ipaD-3xHA and pET30a-JPS-G3-3xFLAG, the PCR products obtained from the last step were digested by endonucleases *Bam*HI and *Xho*I to create sticky ends. Meanwhile, the pET30a plasmids were transformed into *E.coli* DH5a competent cells for propagation. After transformation and overnight culture, the extracted plasmids were also digested with endonucleases *Bam*HI and *Xho*I to create sticky ends. Afterwards, the digested plasmids and target sequences were ligated and transformed into *E.coli* DH5a competent cells (**Figure 2**).
 
 <img src="https://static.igem.wiki/teams/4161/wiki/e-labnote-9-13-2.jpg"/>
 
@@ -114,24 +114,24 @@ In order to construct the recombinant DNA sequences csgA-JPS-G3-3xFLAG and csgA-
 
 However, due to time limitation, this part has not been successfully implemented.
 
-
 ## Project Achievements & Analysis Summary
 
 ### Successes
-- Designed nano-antibody targeting the IpaD, a Shigella-exclusive antigen. Calculated the binding kinetics of the nano-antibody with the Shigella antigen in silico to verify the antibody design. 
-- Developed engineered bacterium (DH5α) and yeast (EBY100) that express the pathogenic antigen IpaD and targeted antibody on the cell surface, respectively. 
+
+- Designed nano-antibody targeting the IpaD, a Shigella-exclusive antigen. Calculated the binding kinetics of the nano-antibody with the Shigella antigen in silico to verify the antibody design.
+- Developed engineered bacterium (DH5α) and yeast (EBY100) that express the pathogenic antigen IpaD and targeted antibody on the cell surface, respectively.
 
 ### Future plans
+
 - Simulate the microenvironment of human GI system, including proper pH, temperature and oxigen level to determine the growth curve and induction efficiency, and the influence of the engineered yeast.
-- The Ampicillin resistance gene has potential risk of horizontal gene transfer, which could cause potential harm to the original GI tract flora. Our future experiments plans to knock-in the “promoter-Aga2-20ipad” cassette into the yeast genome using CRIPSR-Cas9. 
+- The Ampicillin resistance gene has potential risk of horizontal gene transfer, which could cause potential harm to the original GI tract flora. Our future experiments plans to knock-in the “promoter-Aga2-20ipad” cassette into the yeast genome using CRIPSR-Cas9.
 - To test the antimicrobial effects on Shigella Flexneri, we are going to conduct hemolysis experiments.
 - To test the safety and therapeutic efficacy of our product, we are going to conduct in vivo experiments in rodent model.
 
-
 ### Lessons Learned
+
 - Always use culture media and plates that are freshly prepared for the best results.
 - Monitor the growth of the engineered micro-organisms, note all the changes, and analyze the reason why there is any inconsistency with the expectation.
-
 
 ## Reference
 
