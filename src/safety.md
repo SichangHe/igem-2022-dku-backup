@@ -28,7 +28,7 @@ environment. In addition, they are in whitelist, belonging to BSL-1 organisms.
 ## Experiments
 The engineered probiotics were designed to express 20ipad nanobody on their
 surface by transforming recombinant plasmids with optimized genes. Thus, they
-can combine with the antigen on the surface of Shigella. Since Shigella is one
+can combine with the antigen on the surface of Shigella. Since *Shigella* is one
 of the BSL-2 organisms, we decide to express our targeted antigen in probiotics
 that we used to express the antibody. We optimized the DNA sequences which code
 the antigen by using machine-learning software. Using yeast as an example,

@@ -74,7 +74,7 @@ Lastly, co-IP (immuno-precipitation) followed by Western analysis will be used t
 
 #### 2.1 Surface Display via csgA
 
-CsgA, or major curlin subunit, is a component of biofilm. The design was a modified version of the PATCH system from Neel Joshi lab. It is composed of a temperature-controlled promoter, Csg synthetic operon, and the VHH targeting Type III secretion system. The design is predicted to be beneficial in a therapeutic context because biofilm formation effectively inhibits the invasion of shigella into epithelial cells.
+CsgA, or major curlin subunit, is a component of biofilm. The design was a modified version of the PATCH system from Neel Joshi lab. It is composed of a temperature-controlled promoter, Csg synthetic operon, and the VHH targeting Type III secretion system. The design is predicted to be beneficial in a therapeutic context because biofilm formation effectively inhibits the invasion of *Shigella* into epithelial cells.
 
 #### 2.2 Surface Display via intimin
 
@@ -113,17 +113,17 @@ Because of financial and logistical reasons, wet lab experiments of group L were
 
 ### Protocols
 
-Group L intends to display 20ipaD, a nanobody against Shigella, onto L.lactis. The plasmid construction is performed in *E.coli* and then transformed into L.lactis.
+Group L intends to display 20ipaD, a nanobody against Shigella, onto *L.lactis*. The plasmid construction is performed in *E.coli* and then transformed into *L.lactis*.
 
-[Electroporation Protocol for Lactococcus lactis](https://static.igem.wiki/teams/4161/wiki/electroporation-protocol-for-lactococcus-lactis.pdf).
+[Electroporation Protocol for *Lactococcus lactis*](https://static.igem.wiki/teams/4161/wiki/electroporation-protocol-for-lactococcus-lactis.pdf).
 
 [Gel Extraction Protocol](https://static.igem.wiki/teams/4161/wiki/gel-extraction-protocol.pdf).
 
-[Plasmid Extraction of L.lactis Gram positive bacteria](https://static.igem.wiki/teams/4161/wiki/plasmid-extraction-of-l-lactis-gram-positive-bacteria.pdf).
+[Plasmid Extraction of *L.lactis* Gram positive bacteria](https://static.igem.wiki/teams/4161/wiki/plasmid-extraction-of-l-lactis-gram-positive-bacteria.pdf).
 
 [Protocol for Activating and Preparing Glycerol Stock](https://static.igem.wiki/teams/4161/wiki/protocol-for-activating-and-preparing-glycerol-stock.pdf).
 
-[Protocol for Extracting DNA from Lactococcus Lactis NZ9000](https://static.igem.wiki/teams/4161/wiki/protocol-for-extracting-dna-from-lactococcus-lactis-nz9000.pdf).
+[Protocol for Extracting DNA from *Lactococcus lactis* NZ9000](https://static.igem.wiki/teams/4161/wiki/protocol-for-extracting-dna-from-lactococcus-lactis-nz9000.pdf).
 
 [Protocol for Ligation](https://static.igem.wiki/teams/4161/wiki/protocol-for-ligation.pdf).
 
@@ -133,7 +133,7 @@ Group L intends to display 20ipaD, a nanobody against Shigella, onto L.lactis. T
 
 Plasmid extraction and gel purification are the same as Group Y.
 
-[Solarbio_protocol_of_DNA_extraction.pdf](https://static.igem.wiki/teams/4161/wiki/solarbio-protocol-of-dna-extraction.pdf)
+[Solarbio Protocol of DNA Extraction](https://static.igem.wiki/teams/4161/wiki/solarbio-protocol-of-dna-extraction.pdf).
 
 [^1]: Beyotime One-step Method Competent Cell Preparation Kit. <https://www.beyotime.com/product/D0301.htm>
 

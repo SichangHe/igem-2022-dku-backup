@@ -91,7 +91,7 @@ Vectors pET30a and pUC19 are used for recombinant plasmid construction and prote
 BBa_K4161024 | pET30a, empty vector | <http://parts.igem.org/Part:BBa_K4161024>
 BBa_K4161025 | pUC19, empty vector | <http://parts.igem.org/Part:BBa_K4161025>
 
-## L.lactis NZ9000 parts
+## *L.lactis* NZ9000 parts
 
 ### Group L single elements
 
@@ -118,7 +118,7 @@ BBa_K4161600 | Usp45-signaling peptide in L.lactis-20ipaD-AcmA3b | <http://parts
 
 ### Composite elemnent
 
-The plasmid backbone of Group L is pNZ8148, a plasmid suitable for L.lactis.
+The plasmid backbone of Group L is pNZ8148, a plasmid suitable for *L.lactis*.
 
 | Part code | Part name| Link |
 | ------ | ------ | ------ |

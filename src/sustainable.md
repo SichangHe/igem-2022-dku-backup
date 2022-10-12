@@ -44,7 +44,7 @@ reasons can change bacteria so much that antibiotics do not work against them
 (Cronan, 2019). Moreover, long-term use of antibiotics in late adulthood may be
 a risk factor for all-cause and cardiovascular mortality (Heianza, 2020).
 
-As the current therapies of antibiotics promote Shigella to develop antibiotic
+As the current therapies of antibiotics promote *Shigella* to develop antibiotic
 resistance, we are inspired by this problem and focus on shigella’s drug.
 Reducing antibiotic resistance and minimizing the side effects including the
 degradation of GI tract microbiome diversity can be achieved compared to the

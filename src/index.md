@@ -14,7 +14,7 @@
 Shigella, as one of the most antibiotic resistant pathogens,
 poses a great threat to food safety especially in developing areas.
 
-**10 million** will be subject to mortalities caused by shigella infection by 2050.
+**10 million** will be subject to mortalities caused by *Shigella* infection by 2050.
 
 Distribution of antibiotics is the main treatment as of today.
 

@@ -326,8 +326,8 @@ d2.ipynb>
 
 [^HADDOCK]: HADDOCK online server <https://wenmr.science.uu.nl/haddock2.4/>
 
-[^Binding]: Barta, M. L., Shearer, J. P., Arizmendi, O., Tremblay, J. M., Mehzabeen, N., Zheng, Q., Battaile, K. P., Lovell, S., Tzipori, S., Picking, W. D., Shoemaker, C. B., & Picking, W. L. (2017). Single-domain antibodies pinpoint potential targets within Shigella invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. The Journal of biological chemistry, 292(40), 16677–16687.
+[^Binding]: Barta, M. L., Shearer, J. P., Arizmendi, O., Tremblay, J. M., Mehzabeen, N., Zheng, Q., Battaile, K. P., Lovell, S., Tzipori, S., Picking, W. D., Shoemaker, C. B., & Picking, W. L. (2017). Single-domain antibodies pinpoint potential targets within *Shigella* invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. The Journal of biological chemistry, 292(40), 16677–16687.
 <https://doi.org/10.1074/jbc.M117.802231>
 
-[^Standard]:Messaoudi A, Belguith H, Ben Hamida J.(2013). Homology modeling and virtual screening approaches to identify potent inhibitors of VEB-1 β-lactamase. Theor Biol Med Model. 
+[^Standard]:Messaoudi A, Belguith H, Ben Hamida J.(2013). Homology modeling and virtual screening approaches to identify potent inhibitors of VEB-1 β-lactamase. Theor Biol Med Model.
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668210/>
