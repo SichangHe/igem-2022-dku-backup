@@ -60,10 +60,6 @@ In this cycle, we aims to improve the binding affinity of the recombinant protei
 
 Though planned to ligation synthesized sequence directly into pNZ8148 plasmid, the right plasmid failed to deliver on time. Therefore, we want to try inserting the 20ipaD into the control plasmid after restriction enzyme digestion. The 20ipaD is one of the single-VH domain antibodies (VHHs) capable of recognizing distinct epitopes within the antigen IpaD of pathogen Shigella. In this way, we hoped that by fusing 20ipaD and control flag-tag into the *Lactococcus lactis* expression vector pNZ8148, we would achieve the surface display and expression of 20ipaD on *Lactococcus lactis*.
 
-
-
-##### Build
-
 To obtain the sequence of 20ipaD, we constructed the plasmid with the 20ipaD sequence surrounded by two different restriction sites of enzymes BamHI and SacI. In this way, through the restrictive digestion of *Bam*HI and *Sac*I, ideally the sequence of 20ipaD would be obtained. The similar construction was also applied with the sequence of control flag-tag, where the enzymes used for restrictive digestion were changed to be NcoI and HindIII.
 
 ##### Test
@@ -85,9 +81,9 @@ In this try, we would do the PCR amplification of 20ipaD sequence using high-fid
 
 ##### Learn
 
-From this process we learnt that when the synthesized plasmid went wrong from our expectations, apart from directly asking the company to redo the synthesis, we could also alter the steps of ligation via PCR reaction to solve the problem. 
+From this process we learnt that when the synthesized plasmid went wrong from our expectations, apart from directly asking the company to redo the synthesis, we could also alter the steps of ligation via PCR reaction to solve the problem.
 
-#### Cycle 3
+From this process we learnt that when the synthesized plasmid went wrong from our expectations, apart from directly asking the company to redo the synthesis, we could also alter the steps of ligation via PCR reaction to solve the problem.
 
 ##### Design
 
@@ -112,11 +108,9 @@ To further increase efficiency, after doing more literature reviews we added the
 
 ##### Build
 
-According to the newly found protocol, the *Lactococcus lactis* was firstly suspended at room temperature for 30 min in 8ml of 100mM LiAc, 10mM DTT, 0.6M sucrose, and 10mM Tris-HCl (pH=7.5). Following the treatment, *Lactococcus lactis* was pelleted and was resuspended in 1.5ml microcentrifuge tube, and was then washed as previously described. Afterwards, electroporation was conducted as previously described. 
+According to the newly found protocol, the *Lactococcus lactis* was firstly suspended at room temperature for 30 min in 8ml of 100mM LiAc, 10mM DTT, 0.6M sucrose, and 10mM Tris-HCl (pH=7.5). Following the treatment, *Lactococcus lactis* was pelleted and was resuspended in 1.5ml microcentrifuge tube, and was then washed as previously described. Afterwards, electroporation was conducted as previously described.
 
-
-##### Test
-
+According to the newly found protocol, the *Lactococcus lactis* was firstly suspended at room temperature for 30 min in 8ml of 100mM LiAc, 10mM DTT, 0.6M sucrose, and 10mM Tris-HCl (pH=7.5). Following the treatment, *Lactococcus lactis* was pelleted and was resuspended in 1.5ml microcentrifuge tube, and was then washed as previously described. Afterwards, electroporation was conducted as previously described.
 The process of electroporation was not successful because no colony was grown on M17 medium containing 10ug/ul chloramphenicol. Given the concerns about the function of the electroporator from us and the lab instructor in DKU, the machine was sent to maintainance.
 
 ##### Learn
@@ -125,13 +119,13 @@ We have learnt multiple issues can happen during one procedure. It is better to 
 
 ### *Escherichia coli*
 
-![E.*coli* Engineering Cycle](https://static.igem.wiki/teams/4161/wiki/e-eng-cyc.png)
+![*E.coli* Engineering Cycle](https://static.igem.wiki/teams/4161/wiki/e-eng-cyc.png)
 
 #### Cycle 1
 
 ##### Design
 
-Initially, we planned to try three different nanobodies (20ipaD, JPS-G3, and JMK-H2) agianst the *Shigella* antigen ipaD from a research paper[^Barta,2017]. We also wanted to try two different surface display systems, beta domain of the E.*coli* outer membrane protein intimin[^Salema,2013] and the E.*coli* curli fiber protein, *csg*B[^Gelfat,2021]. Our target probiotic is E. *coli* Nissle 1917[^Gelfat,2021]. By inserting the target nanobody sequence behind intimin or *csg*B, reconstructing the plasmid pET30a and transforming the plasmid into E.*coli* Nissle 1917, we expect the protein to be displayed on the surface of E.*coli*, so that it can capture the pathogen via antigen-antibody binding.
+Initially, we planned to try three different nanobodies (20ipaD, JPS-G3, and JMK-H2) agianst the *Shigella* antigen ipaD from a research paper[^Barta,2017]. We also wanted to try two different surface display systems, beta domain of the *E.coli* outer membrane protein intimin[^Salema,2013] and the *E.coli* curli fiber protein, *csg*B[^Gelfat,2021]. Our target probiotic is E. *coli* Nissle 1917[^Gelfat,2021]. By inserting the target nanobody sequence behind intimin or *csg*B, reconstructing the plasmid pET30a and transforming the plasmid into *E.coli* Nissle 1917, we expect the protein to be displayed on the surface of *E.coli*, so that it can capture the pathogen via antigen-antibody binding.
 
 ##### Build & Test
 
@@ -163,9 +157,9 @@ We designed the following sequences:
 
 - csgA-JPS-G3-3xFLAG
 
-- csgA-ipaD-3xHA (displaying the antigen on the surface of E.*coli* BL21 to mimic *Shigella flexneri*, so that the effectiveness can be evaluated)
+- csgA-ipaD-3xHA (displaying the antigen on the surface of *E.coli* BL21 to mimic *Shigella flexneri*, so that the effectiveness can be evaluated)
 
-*csg*A gene is obtained from the E.*coli* strains (pGEX-4T-1-csgA-shMT) provided by the XJLTU iGEM team via PCR. To connect different parts, we plan to use overlapping PCR.
+*csg*A gene is obtained from the *E.coli* strains (pGEX-4T-1-csgA-shMT) provided by the XJLTU iGEM team via PCR. To connect different parts, we plan to use overlapping PCR.
 
 ## Reference
 
