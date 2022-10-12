@@ -125,7 +125,11 @@ const snap_home_articles = () => {
     const snap = () => {
         scroll_up = window.scrollY < current_scroll;
         current_scroll = window.scrollY;
-        if (snapping) {
+        if (
+            snapping ||
+            window.innerHeight < 600 ||
+            first_article.offsetWidth / window.innerHeight > 1.5
+        ) {
             return;
         }
         snapping = true;
