@@ -95,11 +95,11 @@ In many parts, it acts as an alternative for the gram positive to Bacillus subti
 #### Design of 20ipad plasmid
 
 Due to the wide use of antibiotics, various types of bacteria have developed antibiotic resistance, thus providing great challenge to human health and therapy design.
-Our team’s target pathogen, the Shigella spp., is no exception.
-To overcome the issue of antibiotic resistance, we would like to engineer the probiotics to make it an effective tool for the treatment of shigella infections.
-Through literature review, it is identified that in the process of shigellosis (also named bacillary dysentery), Shigella uses the type III secretion system (T3SS) to invade colonic epithelial cells.
+Our team’s target pathogen, the *Shigella* spp., is no exception.
+To overcome the issue of antibiotic resistance, we would like to engineer the probiotics to make it an effective tool for the treatment of *Shigella* infections.
+Through literature review, it is identified that in the process of shigellosis (also named bacillary dysentery), *Shigella* uses the type III secretion system (T3SS) to invade colonic epithelial cells.
 Importantly, one important feature of T3SS is the existence of an extracellular needle with an associated tip complex responsible for assembly of a pore-forming translocon in the host cell membrane[^Barta2017].
-For Shigella flexneri, the tip complex contains invasion plasmid antigen D (IpaD) that not only regulates secretion but also provides the physical platform for the translocon pore[^Barta2017] [^Muthuramalingam2021].
+For *Shigella* flexneri, the tip complex contains invasion plasmid antigen D (IpaD) that not only regulates secretion but also provides the physical platform for the translocon pore[^Barta2017] [^Muthuramalingam2021].
 To explore the potential therapeutic avenues for managing infections of Shigella, researchers have developed single-VH domain antibodies (VHHs) that are capable of recognizing distinct epitopes within the antigen IpaD[^Barta2017], where one of such VHHs is the 20ipaD applied by our team.
 In order to have our probiotics *L. lactis* express the 20ipaD, we firstly constructed the 20ipaD plasmid.
 For plasmid design, the Usp45 signal peptide was included for secretion to the growth medium, while AcmA3b was included for surface anchoring of the expressed 20ipaD to *L. lactis*[^Plavec2019].
@@ -136,13 +136,13 @@ Also, previous studies have constructed a library of anti-IpaD VHH including VHH
 
 ## References
 
-[^Gelfat2021,2]: Gelfat, I. (2021). Engineering E. coli Nissle 1917 to Advance and Facilitate Its Use in Biomedical Applications [Ph.D., Harvard University]. https://www.proquest.com/docview/2563494610/abstract/615221E21BBF406CPQ/1
+[^Gelfat2021,2]: Gelfat, I. (2021). Engineering E. coli Nissle 1917 to Advance and Facilitate Its Use in Biomedical Applications [Ph.D., Harvard University]. <https://www.proquest.com/docview/2563494610/abstract/615221E21BBF406CPQ/1>
 
-[^Gelfat2021]: Gelfat, I., Aqeel, Y., Tremblay, J. M., Jaskiewicz, J. J., Shrestha, A., Lee, J. N., Hu, S., Qian, X., Magoun, L., Sheoran, A., Bedenice, D., Giem, C., Manjula-Basavanna, A., Osburne, M. S., Tzipori, S., Shoemaker, C. B., Leong, J. M., & Joshi, N. S. (2021). Single domain antibodies against enteric pathogen virulence factors are active as curli fiber fusions on probiotic E. coli Nissle 1917 (p. 2021.06.18.448998). bioRxiv. https://doi.org/10.1101/2021.06.18.448998
+[^Gelfat2021]: Gelfat, I., Aqeel, Y., Tremblay, J. M., Jaskiewicz, J. J., Shrestha, A., Lee, J. N., Hu, S., Qian, X., Magoun, L., Sheoran, A., Bedenice, D., Giem, C., Manjula-Basavanna, A., Osburne, M. S., Tzipori, S., Shoemaker, C. B., Leong, J. M., & Joshi, N. S. (2021). Single domain antibodies against enteric pathogen virulence factors are active as curli fiber fusions on probiotic E. coli Nissle 1917 (p. 2021.06.18.448998). bioRxiv. <https://doi.org/10.1101/2021.06.18.448998>
 
 [^Gupta2010]: Gupta, A., Joshi, N., Lawrence Zitnick, C., Cohen, M., & Curless, B. (2010, September). Single image deblurring using motion density functions. In European conference on computer vision (pp. 171-184). Springer, Berlin, Heidelberg. Retrieved Oct 12, 2022, from <https://link-springer-com.proxy.lib.duke.edu/chapter/10.1007/978-3-642-15549-9_13>
 
-[^Carayol2013]: Carayol, N. and Guy Nhieu. (2013). The Inside Story of Shigella Invasion of Intestinal Epithelial Cells. Cold Spring Harbor Perspectives in Medicine. Retrieved March 28, 2022, from <http://perspectivesinmedicine.cshlp.org/content/3/10/a016717.full>
+[^Carayol2013]: Carayol, N. and Guy Nhieu. (2013). The Inside Story of *Shigella* Invasion of Intestinal Epithelial Cells. Cold Spring Harbor Perspectives in Medicine. Retrieved March 28, 2022, from <http://perspectivesinmedicine.cshlp.org/content/3/10/a016717.full>
 
 [^Garcia2014]: Zaidi, M. B., & Estrada-García, T. (2014, June 1). shigella: A highly virulent and elusive pathogen. Current tropical medicine reports. Retrieved March 28, 2022, from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4126259/>
 
@@ -152,40 +152,30 @@ Also, previous studies have constructed a library of anti-IpaD VHH including VHH
 
 [^CDC2015]: Centers for Disease Control and Prevention. (2015, April 2). Multidrug-resistant shigellosis spreading in the United States.
 
-[^CDC2020]: Centers for Disease Control and Prevention. (2020, October 8). Antibiotic resistance and Shigella infections. Centers for Disease Control and Prevention. Retrieved March 28, 2022, from <https://www.cdc.gov/shigella/treatment/antibiotic-resistance-general.html>
+[^CDC2020]: Centers for Disease Control and Prevention. (2020, October 8). Antibiotic resistance and *Shigella* infections. Centers for Disease Control and Prevention. Retrieved March 28, 2022, from <https://www.cdc.gov/shigella/treatment/antibiotic-resistance-general.html>
 
-[^Hussen2019]: Hussen, S., Mulatu, G., & Yohannes Kassa, Z. (2019). Prevalence of shigella species and its drug resistance pattern in Ethiopia: A systematic review and meta-analysis. Annals of Clinical Microbiology and Antimicrobials, 18(1). <https://doi.org/10.1186/s12941-019-0321-1>
+[^Hussen2019]: Hussen, S., Mulatu, G., & Yohannes Kassa, Z. (2019). Prevalence of *Shigella* species and its drug resistance pattern in Ethiopia: A systematic review and meta-analysis. Annals of Clinical Microbiology and Antimicrobials, 18(1). <https://doi.org/10.1186/s12941-019-0321-1>
 
-[^Gray2015]: Gray, M. D., Lacher, D. W., Leonard, S. R., Abbott, J., Zhao, S., Lampel, K. A., Prothery, E., Gouali, M., Weill, F.-X., & Maurelli, A. T. (2015, May 14). Prevalence of shiga toxin-producing Shigella species isolated from French travellers returning from the Caribbean: An emerging pathogen with international implications. Clinical Microbiology and Infection. Retrieved March 28, 2022, from <https://www.sciencedirect.com/science/article/pii/S1198743X15004437>
+[^Gray2015]: Gray, M. D., Lacher, D. W., Leonard, S. R., Abbott, J., Zhao, S., Lampel, K. A., Prothery, E., Gouali, M., Weill, F.-X., & Maurelli, A. T. (2015, May 14). Prevalence of shiga toxin-producing *Shigella* species isolated from French travellers returning from the Caribbean: An emerging pathogen with international implications. Clinical Microbiology and Infection. Retrieved March 28, 2022, from <https://www.sciencedirect.com/science/article/pii/S1198743X15004437>
 
-[^Huruy2008]: Huruy, K., Kassu, A., Mulu, A., Gebretsadik, S., Andargie, G., Tadesse, T., Birhan, W., Worku, N., Ghebreselassie, D., Belyhun, Y., Yifru, S., Adugna, S., & Tiruneh, M. (2008). High Level of Antimicrobial Resistance in Shigella Species Isolated From Diarrhoeal Patients in University of Gondar Teaching Hospital, Gondar, Ethiopia . Retrieved March 28, 2022, from <https://pharmacologyonline.silae.it/files/archives/2008/vol2/29_Huruy.pdf>
 
-[^Casabonne2016]: Casabonne, C., González, A., Aquili, V., & Balagué, C. (2016, November 22). Prevalence and virulence genes of Shigella spp.. isolated from patients with diarrhea in Rosario, Argentina. Japanese Journal of Infectious Diseases. Retrieved March 28, 2022, from <https://www.jstage.jst.go.jp/article/yoken/69/6/69_JJID.2015.459/_article/-char/ja/>
+[^Casabonne2016]: Casabonne, C., González, A., Aquili, V., & Balagué, C. (2016, November 22). Prevalence and virulence genes of *Shigella* spp.. isolated from patients with diarrhea in Rosario, Argentina. Japanese Journal of Infectious Diseases. Retrieved March 28, 2022, from <https://www.jstage.jst.go.jp/article/yoken/69/6/69_JJID.2015.459/_article/-char/ja/>
 .
 
-[^Carayol2013]: Carayol, N. and Guy Nhieu. (2013). The Inside Story of Shigella Invasion of Intestinal Epithelial Cells. Cold Spring Harbor Perspectives in Medicine. Retrieved March 28, 2022, from <http://perspectivesinmedicine.cshlp.org/content/3/10/a016717.full>
 
-[^ONeill2014]: O' Neill, J. (2014, December). Antimicrobial resistance: Tackling a crisis for the health and wealth of nations . Retrieved March 28, 2022, from <https://amr-review.org/sites/default/files/AMR%20Review%20Paper%20-%20Tackling%20a%20crisis%20for%20the%20health%20and%20wealth%20of%20nations_1.pdf>
 
-[^CDC2015]: Centers for Disease Control and Prevention. (2015, April 2). Multidrug-resistant shigellosis spreading in the United States.
 
-[^CDC2020]: Centers for Disease Control and Prevention. (2020, October 8). Antibiotic resistance and Shigella infections. Centers for Disease Control and Prevention. Retrieved March 28, 2022, from <https://www.cdc.gov/shigella/treatment/antibiotic-resistance-general.html>
 
-[^Hussen2019]: Hussen, S., Mulatu, G., & Yohannes Kassa, Z. (2019). Prevalence of shigella species and its drug resistance pattern in Ethiopia: A systematic review and meta-analysis. Annals of Clinical Microbiology and Antimicrobials, 18(1). <https://doi.org/10.1186/s12941-019-0321-1>
 
-[^Gray2015]: Gray, M. D., Lacher, D. W., Leonard, S. R., Abbott, J., Zhao, S., Lampel, K. A., Prothery, E., Gouali, M., Weill, F.-X., & Maurelli, A. T. (2015, May 14). Prevalence of shiga toxin-producing Shigella species isolated from French travellers returning from the Caribbean: An emerging pathogen with international implications. Clinical Microbiology and Infection. Retrieved March 28, 2022, from <https://www.sciencedirect.com/science/article/pii/S1198743X15004437>
 
-[^Huruy2008]: Huruy, K., Kassu, A., Mulu, A., Gebretsadik, S., Andargie, G., Tadesse, T., Birhan, W., Worku, N., Ghebreselassie, D., Belyhun, Y., Yifru, S., Adugna, S., & Tiruneh, M. (2008). High Level of Antimicrobial Resistance in Shigella Species Isolated From Diarrhoeal Patients in University of Gondar Teaching Hospital, Gondar, Ethiopia . Retrieved March 28, 2022, from <https://pharmacologyonline.silae.it/files/archives/2008/vol2/29_Huruy.pdf>
 
-[^Casabonne2016]: Casabonne, C., González, A., Aquili, V., & Balagué, C. (2016, November 22). Prevalence and virulence genes of Shigella spp.. isolated from patients with diarrhea in Rosario, Argentina. Japanese Journal of Infectious Diseases. Retrieved March 28, 2022, from <https://www.jstage.jst.go.jp/article/yoken/69/6/69_JJID.2015.459/_article/-char/ja/>
 
-[^Shah2021]: Shah, T., Baloch, Z., Shah, Z., Cui, X., & Xia, X. (2021, June 20). The intestinal microbiota: Impacts of antibiotics therapy, colonization resistance, and diseases. International journal of molecular sciences. Retrieved March 28, 2022, from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8235228/>
 
 [^Kim2017]: Kim, S., Covington, A., & Pamer, E. G. (2017, September). The intestinal microbiota: Antibiotics, colonization resistance, and enteric pathogens. Immunological reviews. Retrieved March 28, 2022, from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6026851/>
 
 [^Francino2016]: Francino, M. P. (2016, January 1). Antibiotics and the human gut microbiome: Dysbioses and accumulation of resistances. Frontiers. Retrieved March 28, 2022, from <https://www.frontiersin.org/articles/10.3389/fmicb.2015.01543/full>
 
-[^Roehrich2013]: Roehrich, A. D., Guillossou, E., Blocker, A. J., & Martinez-Argudo, I. (2013, February). Shigella IpaD has a dual role: Signal transduction from the type III secretion system needle tip and intracellular secretion regulation. Molecular microbiology. Retrieved March 28, 2022, from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3575693/>
+[^Roehrich2013]: Roehrich, A. D., Guillossou, E., Blocker, A. J., & Martinez-Argudo, I. (2013, February). *Shigella* IpaD has a dual role: Signal transduction from the type III secretion system needle tip and intracellular secretion regulation. Molecular microbiology. Retrieved March 28, 2022, from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3575693/>
 
 [^Tremblay2013]: Tremblay, J.M., Mukherjee, J., Leysath, C.E., Debatis, M., Ofori, K., Baldwin, K., Boucher, C., Peters, R., Beamer, G., Sheoran, A., Bedenice, D., Tzipori, S., & Shoemaker, C.B. (2013, December). A single VHH-based toxin-neutralizing agent and an effector antibody protect mice against challenge with shiga toxins 1 and 2. Infection and immunity. Retrieved March 28, 2022, from <https://pubmed.ncbi.nlm.nih.gov/24082082/>
 
@@ -207,11 +197,10 @@ Also, previous studies have constructed a library of anti-IpaD VHH including VHH
 
 [^Wagner2020]: Wagner, S.; Galan, J. E. Bacteria Type III Protein Secrete System. Springer Nature Switzerland: 2020.
 
-[^Dickenson2011]: Dickenson, N. E., Zhang, L., Epler, C. R., Adam, P. R., Picking, W. L., Picking, W. D. (2011). Conformational changes in IpaD from Shigella flexneri upon binding bile salts provide insight into the second step of type III secretion. Biochemistry, 50(2), 172–180. <https://doi.org/10.1021/bi101365f>
+[^Dickenson2011]: Dickenson, N. E., Zhang, L., Epler, C. R., Adam, P. R., Picking, W. L., Picking, W. D. (2011). Conformational changes in IpaD from *Shigella* flexneri upon binding bile salts provide insight into the second step of type III secretion. Biochemistry, 50(2), 172–180. <https://doi.org/10.1021/bi101365f>
 
-[^Epler2009]: Epler, C. R., Dickenson, N. E., Olive, A. J., Picking, W. L., & Picking, W. D. (2009). Liposomes recruit IpaC to the Shigella flexneri type III secretion apparatus needle as a final step in secretion induction. Infection and immunity, 77(7), 2754–2761. <https://doi.org/10.1128/IAI.00190-09>
+[^Epler2009]: Epler, C. R., Dickenson, N. E., Olive, A. J., Picking, W. L., & Picking, W. D. (2009). Liposomes recruit IpaC to the *Shigella* flexneri type III secretion apparatus needle as a final step in secretion induction. Infection and immunity, 77(7), 2754–2761. <https://doi.org/10.1128/IAI.00190-09>
 
-[^CDC2020]: Centers for Disease Control and Prevention. (2020). Shigella-Shigellosis. <https://www.cdc.gov/shigella/index.html>
 
 [^Peng2015]: Peng, B., Williams, T. C., Henry, M., Nielsen, L. K., Vickers, C. E. (2015). Controlling heterologous gene expression in yeast cell factories on different carbon substrates and across the diauxic shift: a comparison of yeast promoter activities. Microbial cell factories, 14, 91. <https://doi.org/10.1186/s12934-015-0278-5>
 
@@ -229,17 +218,16 @@ Also, previous studies have constructed a library of anti-IpaD VHH including VHH
 
 [^Moreno2016]: de Moreno de LeBlanc, A., Del Carmen, S., Chatel, J. M., Azevedo, V., Langella, P., Bermudez-Humaran, L., & LeBlanc, J. G. (2016). Evaluation of the biosafety of recombinant lactic acid bacteria designed to prevent and treat colitis. J Med Microbiol, 65(9), 1038-1046. doi:10.1099/jmm.0.000323
 
-[^García2012]: García-Fruitós, E. (2012). Lactic acid bacteria: a promising alternative for recombinant protein production. Microbial Cell Factories, 11(1), 157. doi:10.1186/1475-2859-11-157
 
-[^Muthuramalingam2021]: Muthuramalingam, M., Whittier, S. K., Picking, W. L., & Picking, W. D. (2021). The Shigella Type III Secretion System: An Overview from Top to Bottom. Microorganisms, 9(2). doi:10.3390/microorganisms9020451
+[^Muthuramalingam2021]: Muthuramalingam, M., Whittier, S. K., Picking, W. L., & Picking, W. D. (2021). The *Shigella* Type III Secretion System: An Overview from Top to Bottom. Microorganisms, 9(2). doi:10.3390/microorganisms9020451
 
 [^Plavec2019]: Plavec, T. V., & Berlec, A. (2019). Surface Anchoring on *Lactococcus lactis* by Covalent Isopeptide Bond. Acta Chim Slov, 66(1), 18-27.
 
 [^Song2017]: Song, A. A.-L., In, L. L. A., Lim, S. H. E., & Rahim, R. A. (2017). A review on *Lactococcus* lactis: from food to factory. Microbial Cell Factories, 16(1), 55. doi:10.1186/s12934-017-0669-x
 
-[^Barta2017]: Barta ML, Shearer JP, Arizmendi O, Tremblay JM, Mehzabeen N, Zheng Q, et al. Single-domain antibodies pinpoint potential targets within Shigella invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. J Biol Chem 2017, 292(40), 16677–87.
+[^Barta2017]: Barta ML, Shearer JP, Arizmendi O, Tremblay JM, Mehzabeen N, Zheng Q, et al. Single-domain antibodies pinpoint potential targets within *Shigella* invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. J Biol Chem 2017, 292(40), 16677–87.
 
-[^Sierocki2017]: Sierocki, R.; Jneid, B.; Delgado, M. L. O.; Plaisance, M.; Maillère, B.; Nozach, H.; Simon, S. An antibody targeting type III secretion system induces broad protection against Salmonella and Shigella infections. PLOS Neglected Tropical Diseases 2021, 15(3): e0009231
+[^Sierocki2017]: Sierocki, R.; Jneid, B.; Delgado, M. L. O.; Plaisance, M.; Maillère, B.; Nozach, H.; Simon, S. An antibody targeting type III secretion system induces broad protection against Salmonella and *Shigella* infections. PLOS Neglected Tropical Diseases 2021, 15(3): e0009231
 
 [^Sadana2017]: Sadana, P., Monnich, M., Unverzagt, C. and Scrima, A. Structure of the Y. pseudotuberculosis adhesin InvasinE. Protein Sci
 2017, 26: 1182–1195.

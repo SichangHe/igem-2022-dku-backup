@@ -118,14 +118,14 @@ However, due to time limitation, this part has not been successfully implemented
 
 ### Successes
 
-- Designed nano-antibody targeting the IpaD, a Shigella-exclusive antigen. Calculated the binding kinetics of the nano-antibody with the Shigella antigen in silico to verify the antibody design.
+- Designed nano-antibody targeting the IpaD, a Shigella-exclusive antigen. Calculated the binding kinetics of the nano-antibody with the *Shigella* antigen in silico to verify the antibody design.
 - Developed engineered bacterium (DH5α) and yeast (EBY100) that express the pathogenic antigen IpaD and targeted antibody on the cell surface, respectively.
 
 ### Future plans
 
 - Simulate the microenvironment of human GI system, including proper pH, temperature and oxigen level to determine the growth curve and induction efficiency, and the influence of the engineered yeast.
 - The Ampicillin resistance gene has potential risk of horizontal gene transfer, which could cause potential harm to the original GI tract flora. Our future experiments plans to knock-in the “promoter-Aga2-20ipad” cassette into the yeast genome using CRIPSR-Cas9.
-- To test the antimicrobial effects on Shigella Flexneri, we are going to conduct hemolysis experiments.
+- To test the antimicrobial effects on *Shigella* Flexneri, we are going to conduct hemolysis experiments.
 - To test the safety and therapeutic efficacy of our product, we are going to conduct in vivo experiments in rodent model.
 
 ### Lessons Learned

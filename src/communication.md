@@ -200,7 +200,7 @@ so there should be fewer safety issues of this strain.
 **Q&A Section**
 
 **Q:**
-Is it possible to apply magnetic triggers to shigella infection
+Is it possible to apply magnetic triggers to *Shigella* infection
 and cooperate this into the PATCH system?
 
 **A:**
