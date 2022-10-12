@@ -40,6 +40,22 @@ The induced cells were harvested and washed with PBS. The yeasts containing pYD1
 
 ![y-fig5](https://static.igem.wiki/teams/4161/wiki/y-fig5.png)
 
+#### Summary
+Based on the gel results (Figure 1 and Figure 2),
+we could approximately know the success of constructing recombinant plasmids
+(pyd1-ipad and pyd1-20ipad).
+The lengths of 20ipad gene and ipad gene are around 1000 bps and 1500 bps.
+From Figure 3, we verify the sequence of ipad gene and 20ipad gene that
+we inserted into pyd1 empty plasmids. From Figure 4, we used EBY100, auxotroph
+yeasts to ensure the recombinant plasmids were successfully transformed
+into yeast cells because only cells with recombinant plasmids can survive on the
+Minimal Dextrose plates. Based on Figure 5, both ipad antigens and 20ipad antibodies
+were expressed on the surface of yeast cells because the preliminary antibody with
+FITC conjugated will connect to the tag expressed with ipad antigens or 20ipad
+antibodies on the yeast surface.
+FITC will be excited by the 488-nm light (blue light) and will release green
+lights (525/40 BP).
+
 ### *Lactococcus lactis*
 
 ### *Escherichia coli*
