@@ -77,4 +77,7 @@ key topics that might be helpful to the project design.
     But, it remains to be seen
     whether the released protein will leak out from the filter, and this requires
     more work.
+- **Supplement of experimental materials**\
+  We would like to give special thanks to team XJTLU for providing us the
+  csg sequence for wet-lab.
 
