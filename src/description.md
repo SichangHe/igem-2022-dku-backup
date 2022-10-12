@@ -5,20 +5,20 @@
 
 ## Background
 
-The Shigella species is listed as one of the eight dangerous drug resistant bacteria[^Langdon2016], with associated mortalities projected to rise to 10 million globally by 2050, if not properly addressed[^ONeill2014].
-In the United States alone, over 77,000 antibiotic resistant cases were reported annually and 90% of overall Shigella cases were found to be resistant to the first choice medication ciprofloxacin[^CDC2015].
-Shigella, as a highly infective, enteroinvasive and occasionally toxin-releasing[^Carayol2013] [^Gray2015]
+The *Shigella* species is listed as one of the eight dangerous drug resistant bacteria[^Langdon2016], with associated mortalities projected to rise to 10 million globally by 2050, if not properly addressed[^ONeill2014].
+In the United States alone, over 77,000 antibiotic resistant cases were reported annually and 90% of overall *Shigella* cases were found to be resistant to the first choice medication ciprofloxacin[^CDC2015].
+*Shigella*, as a highly infective, enteroinvasive and occasionally toxin-releasing[^Carayol2013] [^Gray2015]
 bacterial genus, may cause severe infection and bacterial dysentery in the colorectal mucosa even with as low a dose as 10 - 100 organisms[^Garcia2014].
-Shigella-related infections thereby spread rapidly, particularly in low-resource populations[^Hussen2019] and among vulnerable groups including children in care facilities, the homeless, and returned travelers[^CDC2020] [^Huruy2018] [^Casabonne2016] [^Gray2015].
+*Shigella*-related infections thereby spread rapidly, particularly in low-resource populations[^Hussen2019] and among vulnerable groups including children in care facilities, the homeless, and returned travelers[^CDC2020] [^Huruy2018] [^Casabonne2016] [^Gray2015].
 
-The use of conventional antibiotics aggravates the multidrug resistance of most Shigella strains. Besides aiding in the selection of resistant pathogens, antibiotics reduce intestinal species diversity and population, and disrupt the defensive, metabolic, and trophic functions of interdependent microbes [^Francino2016].
+The use of conventional antibiotics aggravates the multidrug resistance of most *Shigella* strains. Besides aiding in the selection of resistant pathogens, antibiotics reduce intestinal species diversity and population, and disrupt the defensive, metabolic, and trophic functions of interdependent microbes [^Francino2016].
 Although antibiotics are able to prevent and treat infections, antibiotic exposure to the intestinal microbiota can lead to loss of colonization resistance, rendering the host more susceptible to future invasion[^Kim2017] [^Shad2021].
 
-Engineered probiotics with cell surface display systems are an especially promising alternative that improve Shigella eradication rates without heavy reliance on antibiotics.
-Single VH domain (VHH) antibodies displayed on the probiotic surface reduce virulent activity of Shigella[^Roehrich2013] through probiotic-pathogen binding while minimizing toxicity to non-targets[^Barta2017] [^Tremblay2013]. Specifically, these antibodies recognize and target epitopes within the tip complex that is conserved across all pathogens that utilize type III secretion system (T3SS) to translocate effector proteins into the host cells[^Barta2017].
-Innovations in VHH-ipaD binding not only offer a solution that preserves the potency of antibiotics and microbial composition of the gut microbiome, but also illuminates targeted approaches to treat related T3SS bacteria like Salmonella and enterohemorrhagic E. coli, and other novel opportunities for passive immunization[^Greve2019].
+Engineered probiotics with cell surface display systems are an especially promising alternative that improve *Shigella* eradication rates without heavy reliance on antibiotics.
+Single VH domain (VHH) antibodies displayed on the probiotic surface reduce virulent activity of *Shigella*[^Roehrich2013] through probiotic-pathogen binding while minimizing toxicity to non-targets[^Barta2017] [^Tremblay2013]. Specifically, these antibodies recognize and target epitopes within the tip complex that is conserved across all pathogens that utilize type III secretion system (T3SS) to translocate effector proteins into the host cells[^Barta2017].
+Innovations in VHH-ipaD binding not only offer a solution that preserves the potency of antibiotics and microbial composition of the gut microbiome, but also illuminates targeted approaches to treat related T3SS bacteria like Salmonella and enterohemorrhagic *E. coli*, and other novel opportunities for passive immunization[^Greve2019].
 
-Engineered probiotics with cell surface display systems are an especially promising alternative that  improve Shigella eradication rates without heavy reliance on antibiotics. Single VH domain (VHH) antibodies displayed on the probiotic surface reduce virulent activity of Shigella[^Roehrich2013] through probiotic-pathogen binding while minimizing toxicity to non-targets[^Barta2017] [^Tremblay2013]. Specifically, these antibodies recognize and target epitopes within the tip complex that is conserved across all pathogens that utilize type III secretion system (T3SS) to translocate effector proteins into the host cells[^Barta2017]. Innovations in VHH-ipaD binding not only offer a solution that preserves the potency of antibiotics and microbial composition of the gut microbiome, but also illuminates targeted approaches to treat related T3SS bacteria like Salmonella and enterohemorrhagic E. coli, and other novel opportunities for passive immunization[^Greve2019].
+Engineered probiotics with cell surface display systems are an especially promising alternative that improve *Shigella* eradication rates without heavy reliance on antibiotics. Single VH domain (VHH) antibodies displayed on the probiotic surface reduce virulent activity of *Shigella*[^Roehrich2013] through probiotic-pathogen binding while minimizing toxicity to non-targets[^Barta2017] [^Tremblay2013]. Specifically, these antibodies recognize and target epitopes within the tip complex that is conserved across all pathogens that utilize type III secretion system (T3SS) to translocate effector proteins into the host cells[^Barta2017]. Innovations in VHH-ipaD binding not only offer a solution that preserves the potency of antibiotics and microbial composition of the gut microbiome, but also illuminates targeted approaches to treat related T3SS bacteria like *Salmonella* and enterohemorrhagic *E. coli*, and other novel opportunities for passive immunization[^Greve2019].
 
 ## Design
 
@@ -28,7 +28,7 @@ Engineered probiotics with cell surface display systems are an especially promis
 
 #### Idea of probiotics
 
-Saccharomyces cerevisiae, or baker’s yeast, is widely used in food industry and scientific research.
+*Saccharomyces cerevisiae*, or baker’s yeast, is widely used in food industry and scientific research.
 Its facultative anaerobic feature enables it to make fluffy bread[^Sicard2011].
 Also, its variable metabolism pathways make it a good agent for alcohol fermentation and wine production[^Holt2019].
 Last but not least, the already-annotated genome makes it an excellent model organism for molecular biology research[^Piskur2004].
@@ -41,24 +41,24 @@ Take all the considerations above, we put yeasts into our plan list.
 
 #### Design of pYD1-20ipaD plasmid for therapeutic yeast engineering
 
-One of the most important proteins in type III secretion system (T3SS) of pathogenic Shigella called ipaD is our attack target[^Wagner2020].
-Because ipaD is the primary trigger to form translocon pores within the host cell membrane, the inhibition of it would probably inhibit the invasion of Shigella and thus treat the infection[^Dickenson2011] [^Epler2009].
+One of the most important proteins in type III secretion system (T3SS) of pathogenic *Shigella* called ipaD is our attack target[^Wagner2020].
+Because ipaD is the primary trigger to form translocon pores within the host cell membrane, the inhibition of it would probably inhibit the invasion of *Shigella* and thus treat the infection[^Dickenson2011] [^Epler2009].
 Several single domain antibodies (nanobodies) have been previously reported to target ipaD, the most efficient of which is 20ipaD.
 Therefore, 20ipaD was chosen for further engineering.
 To have the yeasts displayed 20ipaD on surface, we adopted the strategy of Aga2 yeast surface display system.
-Aga2 is a membrane protein of S. cerevisiae, which would be sealed on membrane by the interaction with Aga16.
+Aga2 is a membrane protein of *S. cerevisiae*, which would be sealed on membrane by the interaction with Aga16.
 By fusing the Aga2 protein with 20ipaD, the nanobody could thus be brought to the membrane, and that was what we designed as shown in the figure.
 Additionally, we introduced 3xFLAG tag behind 20ipaD for expression assays like immunofluorescent microscopic imaging, western blot, and FACS.
 The whole expression module was designed under the control of GAL1 promotor that can be induced by galactose to control the expression of the proteins of interest.
 We used pYD1 vector as the backbone which contains ampicillin resistance marker, *E. coli* replication origin, and tryptophan deficiency marker.
-These features enable us to store the recombinant plasmids in E. coli, and easily select the yeasts after transformation.
+These features enable us to store the recombinant plasmids in *E. coli*, and easily select the yeasts after transformation.
 
 #### Design of pYD1-ipaD plasmid for efficiency detection
 
-Shigella is one of the most infectious pathogens characterized by CDC[^CDC2020].
-Considering the health risks that could be risen during the experiments, we replace the real Shigella by yeasts anchored with the targeted epitope protein ipaD.
+*Shigella* is one of the most infectious pathogens characterized by CDC[^CDC2020].
+Considering the health risks that could be risen during the experiments, we replace the real *Shigella* by yeasts anchored with the targeted epitope protein ipaD.
 The construction strategy of pYD1-ipaD was same as the pYD1-20ipaD discussed above except for the replacement of FLAG tag with HA tag.
-The yeasts containing pYD1-ipaD could display the antigen ipaD on their surfaces to mimic Shigella.
+The yeasts containing pYD1-ipaD could display the antigen ipaD on their surfaces to mimic *Shigella*.
 With this pathogen analog, the binding affinity of the engineered therapeutic yeasts between the fake pathogens could be measured by whole cell ELISA and other binding affinity assays.
 
 #### Design of high production and high binding affinity plasmids for efficiency optimization
@@ -73,7 +73,7 @@ The library would be screened for the optimization of nanobody targeting.
 #### Design of delivery of the engineered therapeutic yeasts by Shellac-based microcapsules
 
 Microbes, especially yeasts, are hard to preserve for a long time under room temperature.
-Besides, the acidic and digestive environment inside the gut prevents most organisms from getting to the intestine where Shigella locates in.
+Besides, the acidic and digestive environment inside the gut prevents most organisms from getting to the intestine where *Shigella* locates in.
 In order to preserve the engineered yeasts and deliver them into the intestine with smallest deficiency, we designed the shellac-cased microcapsules.
 Shellac is a natural material that can be used as encapsulating material for microcapsules that can wrap and package molecular matters like drugs and cells[^Huang2020].
 The properties of shellac include high intensity, which can protect the encapsuled matters; hydrophobicity, making it easier for storage; only disintegrate at basic solution, which means that the microcapsules would not disintegrate in the acidic environment of stomach, but only dissolve in basic environment of small intestine where the target pathogen resides[^Huang2019].
@@ -223,7 +223,7 @@ Also, previous studies have constructed a library of anti-IpaD VHH including VHH
 
 [^Moreno2016]: de Moreno de LeBlanc, A., Del Carmen, S., Chatel, J. M., Azevedo, V., Langella, P., Bermudez-Humaran, L., & LeBlanc, J. G. (2016). Evaluation of the biosafety of recombinant lactic acid bacteria designed to prevent and treat colitis. J Med Microbiol, 65(9), 1038-1046. doi:10.1099/jmm.0.000323
 
-[García2012]: García-Fruitós, E. (2012). Lactic acid bacteria: a promising alternative for recombinant protein production. Microbial Cell Factories, 11(1), 157. doi:10.1186/1475-2859-11-157
+[^García2012]: García-Fruitós, E. (2012). Lactic acid bacteria: a promising alternative for recombinant protein production. Microbial Cell Factories, 11(1), 157. doi:10.1186/1475-2859-11-157
 
 [^Muthuramalingam2021]: Muthuramalingam, M., Whittier, S. K., Picking, W. L., & Picking, W. D. (2021). The Shigella Type III Secretion System: An Overview from Top to Bottom. Microorganisms, 9(2). doi:10.3390/microorganisms9020451
 
