@@ -11,7 +11,8 @@ Biology Team leader.
 In charge of wet lab organization, human practice organizations and wiki construction.
 Designed the overall topic and approach of the problem to tackle
 with synthetic biology design. Designer of E.coli csgA surface display
-and lab experiments of the E.*coli* group.
+and lab experiments of the *E.coli* group. 
+In charge of outreach, secured funding for the project.
 
 ### Yuxin Wang
 
@@ -82,6 +83,7 @@ Organized protein structure and docking modeling.
 Helped conduct human practice.
 Shot and edited the promotion video.
 Wiki writing.
+In charge of outreach, secured funding for the project.
 
 ### Sichang He (Steven)
 
@@ -152,8 +154,9 @@ Thanks to Dr. Jin Miao, Dr. Yingxue Li for advising our wet lab experiments. Tha
 ## Communications support
 
 Thanks to Dr. Floyd
-Beckford and Dr. Huansheng Cao at Duke Kunshan University,
+Beckford and Dr. Huansheng Cao of Duke Kunshan University,
 Dr. Neel Joshi from Northwestern University,
 and Dr. Jisheng Lin at Sinovac Biotech CO.,LTD. for providing effective advice on
 our project design and development.
-
+Thanks to Prof. Dong Hyun Jo of Seoul National University College
+of Medicine for contributing to the education efforts of our project.
