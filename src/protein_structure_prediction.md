@@ -321,18 +321,13 @@ d2.ipynb>
 
 [^ProSA]: Prosa <https://prosa.services.came.sbg.ac.at/prosa.php>
 
-[^Z-scoreRMS]: Deviations from standard atomic volumes as a quality measure for
-protein crystal structures
-<https://pubmed.ncbi.nlm.nih.gov/8950272/>
+[^Z-scoreRMS]: Pontius, J., Richelle, J., & Wodak, S. J. (1996). Deviations from standard atomic volumes as a quality measure for protein crystal structures. Journal of molecular biology, 264(1), 121–136.
+<https://doi.org/10.1006/jmbi.1996.0628Deviations>
 
 [^HADDOCK]: HADDOCK online server <https://wenmr.science.uu.nl/haddock2.4/>
 
-[^Binding]: Single-Domain Antibodies Pinpoint Potential Targets within Shigella
-Invasion Plasmid Antigen D
-of the Needle Tip Complex for Inhibition of Type III Secretion.
-DOI: 10.1074/jbc.M117.802231
-<https://pubmed.ncbi.nlm.nih.gov/28842484/>
+[^Binding]: Barta, M. L., Shearer, J. P., Arizmendi, O., Tremblay, J. M., Mehzabeen, N., Zheng, Q., Battaile, K. P., Lovell, S., Tzipori, S., Picking, W. D., Shoemaker, C. B., & Picking, W. L. (2017). Single-domain antibodies pinpoint potential targets within Shigella invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. The Journal of biological chemistry, 292(40), 16677–16687.
+<https://doi.org/10.1074/jbc.M117.802231>
 
-[^Standard]:Homology modeling and virtual screening approaches to identify potent inhibitors of VEB-1 β-lactamase.
-DOI: 10.1186/1742-4682-10-22
+[^Standard]:Messaoudi A, Belguith H, Ben Hamida J.(2013). Homology modeling and virtual screening approaches to identify potent inhibitors of VEB-1 β-lactamase. Theor Biol Med Model. 
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668210/>
