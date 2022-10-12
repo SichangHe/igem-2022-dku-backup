@@ -25,7 +25,7 @@ people have different levels of concern about antibiotic resistance, which
 means it is necessary for us to focus on antibiotic therapy replacement.
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-wenjuan.png"
-width="500"/>
+/>
 
 ## Interview with Prof. Cao
   
@@ -52,7 +52,7 @@ width="500"/>
   greatly to the first stage of human practice.
 
 <img src="https://static.igem.wiki/teams/4161/wiki/prof-cao-interview1.jpg"
-width="500"/>
+/>
 
 ## Interview with Prof. Beckford
 After we successfully predicted the 3d structure of fusion protein-antibody
@@ -86,7 +86,7 @@ For docking, he suggested us try rigid docking first, and then flexible docking
 if we want to get closer to reality.
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-floyd.jpg"
-width="500"/>
+/>
 
 ## Interview with Dr. Neel Joshi
 
@@ -308,7 +308,7 @@ more fresh blood to participate in innovation. We made posters and participated
 in project exhibitions, and were regularly inspected by the jury on campus.
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-on-campus-communication.png"
-width="500"/>
+/>
 
 ## Summary
 
