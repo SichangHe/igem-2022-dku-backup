@@ -138,7 +138,7 @@ Yeast-20ipaD.
 Here is the highest-scoring structure of Yeast-20ipaD (**Figure 1**).
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig1-yeast-20ipad.png"
-width="500"/>
+/>
 
 **Figure 1** | 3D structure of Yeast-20ipaD complex
 
@@ -162,7 +162,7 @@ above structure
 can be regarded as a good model of Yeast-20ipaD.
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig2-alignment.png"
-width="500"/>
+/>
 
 **Figure 2** | Alignment of 20ipaD between itself in complex and it's original
 structure.
@@ -186,7 +186,7 @@ original structure, we can default the binding sites unchanged. Below is the
 binding sites between 20ipaD and ipaD (**Figure 3**).
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig3-binding-positions.png"
-width="500"/>
+/>
 
 **Figure 3** | Binding sites between 20ipaD and Ipad
 
@@ -196,7 +196,7 @@ Below is the docking structure
 (**Figure 4**).
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-4-docking-result.png"
-width="500"/>
+/>
 
 **Figure 4** | Docking between 20ipaD (in complex)
 and IpaD
@@ -219,7 +219,7 @@ between 20ipaD and IpaD.
 RMSD is 0.36, which is very small and acceptable.
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-5-alignment-of-docking-and-original.png"
-width="500"/>
+/>
 
 **Figure 5** | Alignment between Yeast-20ipaD-IpaD and 20ipaD-IpaD.
 
@@ -237,7 +237,7 @@ and future teams.
 
 
 <img src="https://static.igem.wiki/teams/4161/wiki/table-1-for-part-4-of-model.png"
-width="500"/>
+/>
 
 **Table 1** | Evaluation of other combinations of probiotic-nanobody complex
 
