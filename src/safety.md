@@ -21,7 +21,7 @@ disposal of hazardous substances. Also, experiments were first presented in
 detail by our two supervisors to eliminate biosafety concerns.
 ## Microorganisms review
 Protein expression for diagnostic tests was performed in non-pathogenic
-Escherichia coli strains (E.coli Nissle 1917), *Lactococcus lactis* NZ9000 and
+Escherichia coli strains (*E.coli* Nissle 1917), *Lactococcus lactis* NZ9000 and
 yeast (EBY100). These gene carriers are probiotic or at least harmless. They do
 not possess serious illnesses or lead to other problems to people or the
 environment. In addition, they are in whitelist, belonging to BSL-1 organisms.

@@ -10,7 +10,7 @@
 Biology Team leader.
 In charge of wet lab organization, human practice organizations and wiki construction.
 Designed the overall topic and approach of the problem to tackle
-with synthetic biology design. Designer of E.coli csgA surface display
+with synthetic biology design. Designer of *E.coli* csgA surface display
 and lab experiments of the *E.coli* group.
 
 ### Yuxin Wang
@@ -33,7 +33,7 @@ Conducted expert interviews for human practice.
 ### Chang Shen
 
 Proposed the project topic, participated in plasmid design and workflow design
-of E.coli group,
+of *E.coli* group,
 participated in wet labs and background research.
 Helped conduct collaboration with XJLTU as a part of human practice.
 

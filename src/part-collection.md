@@ -44,7 +44,7 @@ pYD1, which is also documented.
 |--------------|--------------------------------------------------------------|------------------------------------------|
 | BBa_K4161302 | pYD1 plasmid                                                 | <http://parts.igem.org/Part:BBa_K4161302>|
 
-## E.coli Nissle 1917 (Group E) Parts
+## *E.coli* Nissle 1917 (Group E) Parts
 
 ### Group E single elements
 

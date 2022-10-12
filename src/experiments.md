@@ -32,7 +32,7 @@ Induced yeasts (display the nanobody on the surface)
 
 "One-step Method Competent Cell Preparation Kit" from Beyotime was used for this experiment. The protocol follows the manual of the product[^1].
 
-[E.coli Competent Cell Transformation](https://static.igem.wiki/teams/4161/wiki/e-coli-competent-cell-transformation.pdf).
+[*E.coli* Competent Cell Transformation](https://static.igem.wiki/teams/4161/wiki/e-coli-competent-cell-transformation.pdf).
 
 [Plasmid Extraction](https://static.igem.wiki/teams/4161/wiki/plasmid-extraction.pdf).
 
