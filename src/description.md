@@ -136,105 +136,106 @@ Also, previous studies have constructed a library of anti-IpaD VHH including VHH
 
 ## References
 
-[^Carayol2013] Carayol, N. and Guy Nhieu. (2013). The Inside Story of Shigella Invasion of Intestinal Epithelial Cells. Cold Spring Harbor Perspectives in Medicine. Retrieved March 28, 2022, from <http://perspectivesinmedicine.cshlp.org/content/3/10/a016717.full>
+[^Carayol2013]: Carayol, N. and Guy Nhieu. (2013). The Inside Story of Shigella Invasion of Intestinal Epithelial Cells. Cold Spring Harbor Perspectives in Medicine. Retrieved March 28, 2022, from <http://perspectivesinmedicine.cshlp.org/content/3/10/a016717.full>
 
-[^Garcia2014] Zaidi, M. B., & Estrada-García, T. (2014, June 1). shigella: A highly virulent and elusive pathogen. Current tropical medicine reports. Retrieved March 28, 2022, from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4126259/>
+[^Garcia2014]: Zaidi, M. B., & Estrada-García, T. (2014, June 1). shigella: A highly virulent and elusive pathogen. Current tropical medicine reports. Retrieved March 28, 2022, from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4126259/>
 
-[^ONeill2014] O' Neill, J. (2014, December). Antimicrobial resistance: Tackling a crisis for the health and wealth of nations . Retrieved March 28, 2022, from <https://amr-review.org/sites/default/files/AMR%20Review%20Paper%20-%20Tackling%20a%20crisis%20for%20the%20health%20and%20wealth%20of%20nations_1.pdf>
+[^ONeill2014]: O' Neill, J. (2014, December). Antimicrobial resistance: Tackling a crisis for the health and wealth of nations . Retrieved March 28, 2022, from <https://amr-review.org/sites/default/files/AMR%20Review%20Paper%20-%20Tackling%20a%20crisis%20for%20the%20health%20and%20wealth%20of%20nations_1.pdf>
 
-[^Langdon2016] Langdon, A., Crook, N., & Dantas, G. (2016). The effects of antibiotics on the microbiome throughout development and alternative approaches for therapeutic modulation. Genome Medicine, 8(1). <https://doi.org/10.1186/s13073-016-0294-z>
+[^Langdon2016]: Langdon, A., Crook, N., & Dantas, G. (2016). The effects of antibiotics on the microbiome throughout development and alternative approaches for therapeutic modulation. Genome Medicine, 8(1). <https://doi.org/10.1186/s13073-016-0294-z>
 
-[^CDC2015] Centers for Disease Control and Prevention. (2015, April 2). Multidrug-resistant shigellosis spreading in the United States.
+[^CDC2015]: Centers for Disease Control and Prevention. (2015, April 2). Multidrug-resistant shigellosis spreading in the United States.
 
-[^CDC2020] Centers for Disease Control and Prevention. (2020, October 8). Antibiotic resistance and Shigella infections. Centers for Disease Control and Prevention. Retrieved March 28, 2022, from <https://www.cdc.gov/shigella/treatment/antibiotic-resistance-general.html>
+[^CDC2020]: Centers for Disease Control and Prevention. (2020, October 8). Antibiotic resistance and Shigella infections. Centers for Disease Control and Prevention. Retrieved March 28, 2022, from <https://www.cdc.gov/shigella/treatment/antibiotic-resistance-general.html>
 
-[^Hussen2019] Hussen, S., Mulatu, G., & Yohannes Kassa, Z. (2019). Prevalence of shigella species and its drug resistance pattern in Ethiopia: A systematic review and meta-analysis. Annals of Clinical Microbiology and Antimicrobials, 18(1). <https://doi.org/10.1186/s12941-019-0321-1>
+[^Hussen2019]: Hussen, S., Mulatu, G., & Yohannes Kassa, Z. (2019). Prevalence of shigella species and its drug resistance pattern in Ethiopia: A systematic review and meta-analysis. Annals of Clinical Microbiology and Antimicrobials, 18(1). <https://doi.org/10.1186/s12941-019-0321-1>
 
-[^Gray2015] Gray, M. D., Lacher, D. W., Leonard, S. R., Abbott, J., Zhao, S., Lampel, K. A., Prothery, E., Gouali, M., Weill, F.-X., & Maurelli, A. T. (2015, May 14). Prevalence of shiga toxin-producing Shigella species isolated from French travellers returning from the Caribbean: An emerging pathogen with international implications. Clinical Microbiology and Infection. Retrieved March 28, 2022, from <https://www.sciencedirect.com/science/article/pii/S1198743X15004437>
+[^Gray2015]: Gray, M. D., Lacher, D. W., Leonard, S. R., Abbott, J., Zhao, S., Lampel, K. A., Prothery, E., Gouali, M., Weill, F.-X., & Maurelli, A. T. (2015, May 14). Prevalence of shiga toxin-producing Shigella species isolated from French travellers returning from the Caribbean: An emerging pathogen with international implications. Clinical Microbiology and Infection. Retrieved March 28, 2022, from <https://www.sciencedirect.com/science/article/pii/S1198743X15004437>
 
-[^Huruy2008] Huruy, K., Kassu, A., Mulu, A., Gebretsadik, S., Andargie, G., Tadesse, T., Birhan, W., Worku, N., Ghebreselassie, D., Belyhun, Y., Yifru, S., Adugna, S., & Tiruneh, M. (2008). High Level of Antimicrobial Resistance in Shigella Species Isolated From Diarrhoeal Patients in University of Gondar Teaching Hospital, Gondar, Ethiopia . Retrieved March 28, 2022, from <https://pharmacologyonline.silae.it/files/archives/2008/vol2/29_Huruy.pdf>
+[^Huruy2008]: Huruy, K., Kassu, A., Mulu, A., Gebretsadik, S., Andargie, G., Tadesse, T., Birhan, W., Worku, N., Ghebreselassie, D., Belyhun, Y., Yifru, S., Adugna, S., & Tiruneh, M. (2008). High Level of Antimicrobial Resistance in Shigella Species Isolated From Diarrhoeal Patients in University of Gondar Teaching Hospital, Gondar, Ethiopia . Retrieved March 28, 2022, from <https://pharmacologyonline.silae.it/files/archives/2008/vol2/29_Huruy.pdf>
 
-[^Casabonne2016] Casabonne, C., González, A., Aquili, V., & Balagué, C. (2016, November 22). Prevalence and virulence genes of Shigella spp.. isolated from patients with diarrhea in Rosario, Argentina. Japanese Journal of Infectious Diseases. Retrieved March 28, 2022, from <https://www.jstage.jst.go.jp/article/yoken/69/6/69_JJID.2015.459/_article/-char/ja/>
+[^Casabonne2016]: Casabonne, C., González, A., Aquili, V., & Balagué, C. (2016, November 22). Prevalence and virulence genes of Shigella spp.. isolated from patients with diarrhea in Rosario, Argentina. Japanese Journal of Infectious Diseases. Retrieved March 28, 2022, from <https://www.jstage.jst.go.jp/article/yoken/69/6/69_JJID.2015.459/_article/-char/ja/>
 .
 
-[^Carayol2013] Carayol, N. and Guy Nhieu. (2013). The Inside Story of Shigella Invasion of Intestinal Epithelial Cells. Cold Spring Harbor Perspectives in Medicine. Retrieved March 28, 2022, from <http://perspectivesinmedicine.cshlp.org/content/3/10/a016717.full>
+[^Carayol2013]: Carayol, N. and Guy Nhieu. (2013). The Inside Story of Shigella Invasion of Intestinal Epithelial Cells. Cold Spring Harbor Perspectives in Medicine. Retrieved March 28, 2022, from <http://perspectivesinmedicine.cshlp.org/content/3/10/a016717.full>
 
-[^ONeill2014] O' Neill, J. (2014, December). Antimicrobial resistance: Tackling a crisis for the health and wealth of nations . Retrieved March 28, 2022, from <https://amr-review.org/sites/default/files/AMR%20Review%20Paper%20-%20Tackling%20a%20crisis%20for%20the%20health%20and%20wealth%20of%20nations_1.pdf>
+[^ONeill2014]: O' Neill, J. (2014, December). Antimicrobial resistance: Tackling a crisis for the health and wealth of nations . Retrieved March 28, 2022, from <https://amr-review.org/sites/default/files/AMR%20Review%20Paper%20-%20Tackling%20a%20crisis%20for%20the%20health%20and%20wealth%20of%20nations_1.pdf>
 
-[^CDC2015] Centers for Disease Control and Prevention. (2015, April 2). Multidrug-resistant shigellosis spreading in the United States.
+[^CDC2015]: Centers for Disease Control and Prevention. (2015, April 2). Multidrug-resistant shigellosis spreading in the United States.
 
-[^CDC2020] Centers for Disease Control and Prevention. (2020, October 8). Antibiotic resistance and Shigella infections. Centers for Disease Control and Prevention. Retrieved March 28, 2022, from <https://www.cdc.gov/shigella/treatment/antibiotic-resistance-general.html>
+[^CDC2020]: Centers for Disease Control and Prevention. (2020, October 8). Antibiotic resistance and Shigella infections. Centers for Disease Control and Prevention. Retrieved March 28, 2022, from <https://www.cdc.gov/shigella/treatment/antibiotic-resistance-general.html>
 
-[^Hussen2019] Hussen, S., Mulatu, G., & Yohannes Kassa, Z. (2019). Prevalence of shigella species and its drug resistance pattern in Ethiopia: A systematic review and meta-analysis. Annals of Clinical Microbiology and Antimicrobials, 18(1). <https://doi.org/10.1186/s12941-019-0321-1>
+[^Hussen2019]: Hussen, S., Mulatu, G., & Yohannes Kassa, Z. (2019). Prevalence of shigella species and its drug resistance pattern in Ethiopia: A systematic review and meta-analysis. Annals of Clinical Microbiology and Antimicrobials, 18(1). <https://doi.org/10.1186/s12941-019-0321-1>
 
-[^Gray2015] Gray, M. D., Lacher, D. W., Leonard, S. R., Abbott, J., Zhao, S., Lampel, K. A., Prothery, E., Gouali, M., Weill, F.-X., & Maurelli, A. T. (2015, May 14). Prevalence of shiga toxin-producing Shigella species isolated from French travellers returning from the Caribbean: An emerging pathogen with international implications. Clinical Microbiology and Infection. Retrieved March 28, 2022, from <https://www.sciencedirect.com/science/article/pii/S1198743X15004437>
+[^Gray2015]: Gray, M. D., Lacher, D. W., Leonard, S. R., Abbott, J., Zhao, S., Lampel, K. A., Prothery, E., Gouali, M., Weill, F.-X., & Maurelli, A. T. (2015, May 14). Prevalence of shiga toxin-producing Shigella species isolated from French travellers returning from the Caribbean: An emerging pathogen with international implications. Clinical Microbiology and Infection. Retrieved March 28, 2022, from <https://www.sciencedirect.com/science/article/pii/S1198743X15004437>
 
-[^Huruy2008] Huruy, K., Kassu, A., Mulu, A., Gebretsadik, S., Andargie, G., Tadesse, T., Birhan, W., Worku, N., Ghebreselassie, D., Belyhun, Y., Yifru, S., Adugna, S., & Tiruneh, M. (2008). High Level of Antimicrobial Resistance in Shigella Species Isolated From Diarrhoeal Patients in University of Gondar Teaching Hospital, Gondar, Ethiopia . Retrieved March 28, 2022, from <https://pharmacologyonline.silae.it/files/archives/2008/vol2/29_Huruy.pdf>
+[^Huruy2008]: Huruy, K., Kassu, A., Mulu, A., Gebretsadik, S., Andargie, G., Tadesse, T., Birhan, W., Worku, N., Ghebreselassie, D., Belyhun, Y., Yifru, S., Adugna, S., & Tiruneh, M. (2008). High Level of Antimicrobial Resistance in Shigella Species Isolated From Diarrhoeal Patients in University of Gondar Teaching Hospital, Gondar, Ethiopia . Retrieved March 28, 2022, from <https://pharmacologyonline.silae.it/files/archives/2008/vol2/29_Huruy.pdf>
 
-[^Casabonne2016] Casabonne, C., González, A., Aquili, V., & Balagué, C. (2016, November 22). Prevalence and virulence genes of Shigella spp.. isolated from patients with diarrhea in Rosario, Argentina. Japanese Journal of Infectious Diseases. Retrieved March 28, 2022, from <https://www.jstage.jst.go.jp/article/yoken/69/6/69_JJID.2015.459/_article/-char/ja/>
+[^Casabonne2016]: Casabonne, C., González, A., Aquili, V., & Balagué, C. (2016, November 22). Prevalence and virulence genes of Shigella spp.. isolated from patients with diarrhea in Rosario, Argentina. Japanese Journal of Infectious Diseases. Retrieved March 28, 2022, from <https://www.jstage.jst.go.jp/article/yoken/69/6/69_JJID.2015.459/_article/-char/ja/>
 
-[^Shah2021] Shah, T., Baloch, Z., Shah, Z., Cui, X., & Xia, X. (2021, June 20). The intestinal microbiota: Impacts of antibiotics therapy, colonization resistance, and diseases. International journal of molecular sciences. Retrieved March 28, 2022, from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8235228/>
+[^Shah2021]: Shah, T., Baloch, Z., Shah, Z., Cui, X., & Xia, X. (2021, June 20). The intestinal microbiota: Impacts of antibiotics therapy, colonization resistance, and diseases. International journal of molecular sciences. Retrieved March 28, 2022, from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8235228/>
 
-[^Kim2017] Kim, S., Covington, A., & Pamer, E. G. (2017, September). The intestinal microbiota: Antibiotics, colonization resistance, and enteric pathogens. Immunological reviews. Retrieved March 28, 2022, from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6026851/>
+[^Kim2017]: Kim, S., Covington, A., & Pamer, E. G. (2017, September). The intestinal microbiota: Antibiotics, colonization resistance, and enteric pathogens. Immunological reviews. Retrieved March 28, 2022, from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6026851/>
 
-[^Francino2016] Francino, M. P. (2016, January 1). Antibiotics and the human gut microbiome: Dysbioses and accumulation of resistances. Frontiers. Retrieved March 28, 2022, from <https://www.frontiersin.org/articles/10.3389/fmicb.2015.01543/full>
+[^Francino2016]: Francino, M. P. (2016, January 1). Antibiotics and the human gut microbiome: Dysbioses and accumulation of resistances. Frontiers. Retrieved March 28, 2022, from <https://www.frontiersin.org/articles/10.3389/fmicb.2015.01543/full>
 
-[^Roehrich2013] Roehrich, A. D., Guillossou, E., Blocker, A. J., & Martinez-Argudo, I. (2013, February). Shigella IpaD has a dual role: Signal transduction from the type III secretion system needle tip and intracellular secretion regulation. Molecular microbiology. Retrieved March 28, 2022, from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3575693/>
+[^Roehrich2013]: Roehrich, A. D., Guillossou, E., Blocker, A. J., & Martinez-Argudo, I. (2013, February). Shigella IpaD has a dual role: Signal transduction from the type III secretion system needle tip and intracellular secretion regulation. Molecular microbiology. Retrieved March 28, 2022, from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3575693/>
 
-[^Tremblay2013] Tremblay, J.M., Mukherjee, J., Leysath, C.E., Debatis, M., Ofori, K., Baldwin, K., Boucher, C., Peters, R., Beamer, G., Sheoran, A., Bedenice, D., Tzipori, S., & Shoemaker, C.B. (2013, December). A single VHH-based toxin-neutralizing agent and an effector antibody protect mice against challenge with shiga toxins 1 and 2. Infection and immunity. Retrieved March 28, 2022, from <https://pubmed.ncbi.nlm.nih.gov/24082082/>
+[^Tremblay2013]: Tremblay, J.M., Mukherjee, J., Leysath, C.E., Debatis, M., Ofori, K., Baldwin, K., Boucher, C., Peters, R., Beamer, G., Sheoran, A., Bedenice, D., Tzipori, S., & Shoemaker, C.B. (2013, December). A single VHH-based toxin-neutralizing agent and an effector antibody protect mice against challenge with shiga toxins 1 and 2. Infection and immunity. Retrieved March 28, 2022, from <https://pubmed.ncbi.nlm.nih.gov/24082082/>
 
-[^Greve2019] De Greve H., Virdi V., Bakshi S., & Depicker A. (2019, December 9). Simplified monomeric VHH-FC antibodies provide new opportunities for passive immunization. Current opinion in biotechnology. Retrieved March 28, 2022, from <https://pubmed.ncbi.nlm.nih.gov/31810049/>
+[^Greve2019]: De Greve H., Virdi V., Bakshi S., & Depicker A. (2019, December 9). Simplified monomeric VHH-FC antibodies provide new opportunities for passive immunization. Current opinion in biotechnology. Retrieved March 28, 2022, from <https://pubmed.ncbi.nlm.nih.gov/31810049/>
 
-[^Sicard2011] Sicard, D., Jean Luc, J., Legras, L. (2011). Bread, beer and wine: Yeast domestication in the Saccharomyces sensu stricto complex. Comptes Rendus Biologies, Elsevier, 2011, 229 - 236. ⟨10.1016/j.crvi.2010.12.016⟩. ⟨hal-02653082⟩
+[^Sicard2011]: Sicard, D., Jean Luc, J., Legras, L. (2011). Bread, beer and wine: Yeast domestication in the Saccharomyces sensu stricto complex. Comptes Rendus Biologies, Elsevier, 2011, 229 - 236. ⟨10.1016/j.crvi.2010.12.016⟩. ⟨hal-02653082⟩
 
-[^Holt2019] Holt, S., Miks, M. H., de Carvalho, B. T., Foulquié-Moreno, M. R., Thevelein, J. M. (2019 May) The molecular biology of fruity and floral aromas in beer and other alcoholic beverages, FEMS Microbiology Reviews, 43(3), 193–222, <https://doi.org/10.1093/femsre/fuy041>
+[^Holt2019]: Holt, S., Miks, M. H., de Carvalho, B. T., Foulquié-Moreno, M. R., Thevelein, J. M. (2019 May) The molecular biology of fruity and floral aromas in beer and other alcoholic beverages, FEMS Microbiology Reviews, 43(3), 193–222, <https://doi.org/10.1093/femsre/fuy041>
 
-[^Piskur2004] Piskur, J., Langkjaer, R. B. (2004). Yeast genome sequencing: the power of comparative genomics. Molecular microbiology, 53(2), 381–389. <https://doi.org/10.1111/j.1365-2958.2004.04182.x>
+[^Piskur2004]: Piskur, J., Langkjaer, R. B. (2004). Yeast genome sequencing: the power of comparative genomics. Molecular microbiology, 53(2), 381–389. <https://doi.org/10.1111/j.1365-2958.2004.04182.x>
 
-[^Gaziano2020] Gaziano, R., Sabbatini, S., Roselletti, E., Perito, S., Monari, C. (2020). Saccharomyces cerevisiae-Based Probiotics as Novel Antimicrobial Agents to Prevent and Treat Vaginal Infections. Frontiers in microbiology, 11, 718. <https://doi.org/10.3389/fmicb.2020.00718>
+[^Gaziano2020]: Gaziano, R., Sabbatini, S., Roselletti, E., Perito, S., Monari, C. (2020). Saccharomyces cerevisiae-Based Probiotics as Novel Antimicrobial Agents to Prevent and Treat Vaginal Infections. Frontiers in microbiology, 11, 718. <https://doi.org/10.3389/fmicb.2020.00718>
 
-[^Palma2015] Palma, M. L., Zamith-Miranda, D., Martins, F. S., Bozza, F. A., Nimrichter, L., Montero-Lomeli, M., Marques, E. T., Jr, Douradinha, B. (2015). Probiotic Saccharomyces cerevisiae strains as biotherapeutic tools: is there room for improvement?. Applied microbiology and biotechnology, 99(16), 6563–6570. <https://doi.org/10.1007/s00253-015-6776-x>
+[^Palma2015]: Palma, M. L., Zamith-Miranda, D., Martins, F. S., Bozza, F. A., Nimrichter, L., Montero-Lomeli, M., Marques, E. T., Jr, Douradinha, B. (2015). Probiotic Saccharomyces cerevisiae strains as biotherapeutic tools: is there room for improvement?. Applied microbiology and biotechnology, 99(16), 6563–6570. <https://doi.org/10.1007/s00253-015-6776-x>
 
-[^Boder1997] Boder, E. T., Wittrup, K. D. (1997). Yeast surface display for screening combinatorial polypeptide libraries. Nature biotechnology, 15(6), 553–557. <https://doi.org/10.1038/nbt0697-553>
+[^Boder1997]: Boder, E. T., Wittrup, K. D. (1997). Yeast surface display for screening combinatorial polypeptide libraries. Nature biotechnology, 15(6), 553–557. <https://doi.org/10.1038/nbt0697-553>
 
-[^Chao2006] Chao, G., Lau, W. L., Hackel, B., Sazinsky, S, L., Lippow, S. M., Wittrup, k. D. (2006). Isolating and engineering human antibodies using yeast surface display. Nature Protocol 1, 755–768, 755-770. <https://doi.org/10.1038/nprot.2006.94>
+[^Chao2006]: Chao, G., Lau, W. L., Hackel, B., Sazinsky, S, L., Lippow, S. M., Wittrup, k. D. (2006). Isolating and engineering human antibodies using yeast surface display. Nature Protocol 1, 755–768, 755-770. <https://doi.org/10.1038/nprot.2006.94>
 
-[^Wagner2020] Wagner, S.; Galan, J. E. Bacteria Type III Protein Secrete System. Springer Nature Switzerland: 2020.
+[^Wagner2020]: Wagner, S.; Galan, J. E. Bacteria Type III Protein Secrete System. Springer Nature Switzerland: 2020.
 
-[^Dickenson2011] Dickenson, N. E., Zhang, L., Epler, C. R., Adam, P. R., Picking, W. L., Picking, W. D. (2011). Conformational changes in IpaD from Shigella flexneri upon binding bile salts provide insight into the second step of type III secretion. Biochemistry, 50(2), 172–180. <https://doi.org/10.1021/bi101365f>
+[^Dickenson2011]: Dickenson, N. E., Zhang, L., Epler, C. R., Adam, P. R., Picking, W. L., Picking, W. D. (2011). Conformational changes in IpaD from Shigella flexneri upon binding bile salts provide insight into the second step of type III secretion. Biochemistry, 50(2), 172–180. <https://doi.org/10.1021/bi101365f>
 
-[^Epler2009] Epler, C. R., Dickenson, N. E., Olive, A. J., Picking, W. L., & Picking, W. D. (2009). Liposomes recruit IpaC to the Shigella flexneri type III secretion apparatus needle as a final step in secretion induction. Infection and immunity, 77(7), 2754–2761. <https://doi.org/10.1128/IAI.00190-09>
+[^Epler2009]: Epler, C. R., Dickenson, N. E., Olive, A. J., Picking, W. L., & Picking, W. D. (2009). Liposomes recruit IpaC to the Shigella flexneri type III secretion apparatus needle as a final step in secretion induction. Infection and immunity, 77(7), 2754–2761. <https://doi.org/10.1128/IAI.00190-09>
 
-[^CDC2020] Centers for Disease Control and Prevention. (2020). Shigella-Shigellosis. <https://www.cdc.gov/shigella/index.html>
+[^CDC2020]: Centers for Disease Control and Prevention. (2020). Shigella-Shigellosis. <https://www.cdc.gov/shigella/index.html>
 
-[^Peng2015] Peng, B., Williams, T. C., Henry, M., Nielsen, L. K., Vickers, C. E. (2015). Controlling heterologous gene expression in yeast cell factories on different carbon substrates and across the diauxic shift: a comparison of yeast promoter activities. Microbial cell factories, 14, 91. <https://doi.org/10.1186/s12934-015-0278-5>
+[^Peng2015]: Peng, B., Williams, T. C., Henry, M., Nielsen, L. K., Vickers, C. E. (2015). Controlling heterologous gene expression in yeast cell factories on different carbon substrates and across the diauxic shift: a comparison of yeast promoter activities. Microbial cell factories, 14, 91. <https://doi.org/10.1186/s12934-015-0278-5>
 
-[^Huang2020] Huang, X., Gänzle, M., Zhang, H., Zhao, M., Fang, Y., Nishinari, K. (2020). Microencapsulation of probiotic lactobacilli with shellac as moisture barrier and to allow controlled release. Journal of the Science of Food and Agriculture. 101. 10.1002/jsfa.10685.
+[^Huang2020]: Huang, X., Gänzle, M., Zhang, H., Zhao, M., Fang, Y., Nishinari, K. (2020). Microencapsulation of probiotic lactobacilli with shellac as moisture barrier and to allow controlled release. Journal of the Science of Food and Agriculture. 101. 10.1002/jsfa.10685.
 
-[^Huang2019] Huang. X., Zhang, H., Peng, S., Zhao, M., Fang, Y. (2019). Tianrankeshixing Bicaichongjiao zai Gongnengzufenweinanghua zhongde Yingyonngyanjiujinzhan [Recent Progress in the Application Shellac as a Natural Edible Wall Material in the Microencapsulation of Functional Ingredients]. Shipinkexue [Food Science], 40(7), 317-324.
+[^Huang2019]: Huang. X., Zhang, H., Peng, S., Zhao, M., Fang, Y. (2019). Tianrankeshixing Bicaichongjiao zai Gongnengzufenweinanghua zhongde Yingyonngyanjiujinzhan [Recent Progress in the Application Shellac as a Natural Edible Wall Material in the Microencapsulation of Functional Ingredients]. Shipinkexue [Food Science], 40(7), 317-324.
 
-[^Mei2018] Mei, S., Han, P., Wu, H., Shi, J., Tang, L., Jiang, Z. (2018). One-pot fabrication of chitin-shellac composite microspheres for efficient enzyme immobilization. Journal of biotechnology, 266, 1–8. <https://doi.org/10.1016/j.jbiotec.2017.11.015>
+[^Mei2018]: Mei, S., Han, P., Wu, H., Shi, J., Tang, L., Jiang, Z. (2018). One-pot fabrication of chitin-shellac composite microspheres for efficient enzyme immobilization. Journal of biotechnology, 266, 1–8. <https://doi.org/10.1016/j.jbiotec.2017.11.015>
 
-[^Gately2017] Gately, N. M., Kennedy, J. E. (2017). The Development of a Melt-Extruded Shellac Carrier for the Targeted Delivery of Probiotics to the Colon. Pharmaceutics, 9(4), 38. <https://doi.org/10.3390/pharmaceutics9040038>
+[^Gately2017]: Gately, N. M., Kennedy, J. E. (2017). The Development of a Melt-Extruded Shellac Carrier for the Targeted Delivery of Probiotics to the Colon. Pharmaceutics, 9(4), 38. <https://doi.org/10.3390/pharmaceutics9040038>
 
-[^Hamad2013] Hamad, S. A., Stoyanov, S. D., Paunov, V. N. (2013). Triggered release kinetics of living cells from composite microcapsules. Physical chemistry chemical physics: PCCP, 15(7), 2337–2344. <https://doi.org/10.1039/c2cp42100c>
+[^Hamad2013]: Hamad, S. A., Stoyanov, S. D., Paunov, V. N. (2013). Triggered release kinetics of living cells from composite microcapsules. Physical chemistry chemical physics: PCCP, 15(7), 2337–2344. <https://doi.org/10.1039/c2cp42100c>
 
-[^Braat2006] Braat, H., Rottiers, P., Hommes, D. W., Huyghebaert, N., Remaut, E., Remon, J. P., . . . Steidler, L. (2006). A phase I trial with transgenic bacteria expressing interleukin-10 in Crohn's disease. Clin Gastroenterol Hepatol, 4(6), 754-759. doi:10.1016/j.cgh.2006.03.028
+[^Braat2006]: Braat, H., Rottiers, P., Hommes, D. W., Huyghebaert, N., Remaut, E., Remon, J. P., . . . Steidler, L. (2006). A phase I trial with transgenic bacteria expressing interleukin-10 in Crohn's disease. Clin Gastroenterol Hepatol, 4(6), 754-759. doi:10.1016/j.cgh.2006.03.028
 
-[^Moreno2016] de Moreno de LeBlanc, A., Del Carmen, S., Chatel, J. M., Azevedo, V., Langella, P., Bermudez-Humaran, L., & LeBlanc, J. G. (2016). Evaluation of the biosafety of recombinant lactic acid bacteria designed to prevent and treat colitis. J Med Microbiol, 65(9), 1038-1046. doi:10.1099/jmm.0.000323
+[^Moreno2016]: de Moreno de LeBlanc, A., Del Carmen, S., Chatel, J. M., Azevedo, V., Langella, P., Bermudez-Humaran, L., & LeBlanc, J. G. (2016). Evaluation of the biosafety of recombinant lactic acid bacteria designed to prevent and treat colitis. J Med Microbiol, 65(9), 1038-1046. doi:10.1099/jmm.0.000323
 
-[García2012] García-Fruitós, E. (2012). Lactic acid bacteria: a promising alternative for recombinant protein production. Microbial Cell Factories, 11(1), 157. doi:10.1186/1475-2859-11-157
+[García2012]: García-Fruitós, E. (2012). Lactic acid bacteria: a promising alternative for recombinant protein production. Microbial Cell Factories, 11(1), 157. doi:10.1186/1475-2859-11-157
 
-[^Muthuramalingam2021] Muthuramalingam, M., Whittier, S. K., Picking, W. L., & Picking, W. D. (2021). The Shigella Type III Secretion System: An Overview from Top to Bottom. Microorganisms, 9(2). doi:10.3390/microorganisms9020451
+[^Muthuramalingam2021]: Muthuramalingam, M., Whittier, S. K., Picking, W. L., & Picking, W. D. (2021). The Shigella Type III Secretion System: An Overview from Top to Bottom. Microorganisms, 9(2). doi:10.3390/microorganisms9020451
 
-[^Plavec2019] Plavec, T. V., & Berlec, A. (2019). Surface Anchoring on *Lactococcus lactis* by Covalent Isopeptide Bond. Acta Chim Slov, 66(1), 18-27.
+[^Plavec2019]: Plavec, T. V., & Berlec, A. (2019). Surface Anchoring on *Lactococcus lactis* by Covalent Isopeptide Bond. Acta Chim Slov, 66(1), 18-27.
 
-[^Song2017] Song, A. A.-L., In, L. L. A., Lim, S. H. E., & Rahim, R. A. (2017). A review on *Lactococcus* lactis: from food to factory. Microbial Cell Factories, 16(1), 55. doi:10.1186/s12934-017-0669-x
+[^Song2017]: Song, A. A.-L., In, L. L. A., Lim, S. H. E., & Rahim, R. A. (2017). A review on *Lactococcus* lactis: from food to factory. Microbial Cell Factories, 16(1), 55. doi:10.1186/s12934-017-0669-x
 
-[^Barta2017] Barta ML, Shearer JP, Arizmendi O, Tremblay JM, Mehzabeen N, Zheng Q, et al. Single-domain antibodies pinpoint potential targets within Shigella invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. J Biol Chem 2017, 292(40), 16677–87.
+[^Barta2017]: Barta ML, Shearer JP, Arizmendi O, Tremblay JM, Mehzabeen N, Zheng Q, et al. Single-domain antibodies pinpoint potential targets within Shigella invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. J Biol Chem 2017, 292(40), 16677–87.
 
-[^Sierocki2017] Sierocki, R.; Jneid, B.; Delgado, M. L. O.; Plaisance, M.; Maillère, B.; Nozach, H.; Simon, S. An antibody targeting type III secretion system induces broad protection against Salmonella and Shigella infections. PLOS Neglected Tropical Diseases 2021, 15(3): e0009231
-[^Sadana2017] (14)  Sadana, P., Monnich, M., Unverzagt, C. and Scrima, A. Structure of the Y. pseudotuberculosis adhesin InvasinE. Protein Sci
+[^Sierocki2017]: Sierocki, R.; Jneid, B.; Delgado, M. L. O.; Plaisance, M.; Maillère, B.; Nozach, H.; Simon, S. An antibody targeting type III secretion system induces broad protection against Salmonella and Shigella infections. PLOS Neglected Tropical Diseases 2021, 15(3): e0009231
+
+[^Sadana2017]: Sadana, P., Monnich, M., Unverzagt, C. and Scrima, A. Structure of the Y. pseudotuberculosis adhesin InvasinE. Protein Sci
 2017, 26: 1182–1195.
 
-[^Salema2013] Salema, V., Marın, E., Martınez-Arteaga, R., Ruano-Gallego, D., Fraile, S., Margolles, Y., et al. Selection of single domain antibodies from immune libraries displayed on the surface of *E. coli* cells with two b-domains of opposite topologies. PLoS One 2013, 8: e75126.
+[^Salema2013]: Salema, V., Marın, E., Martınez-Arteaga, R., Ruano-Gallego, D., Fraile, S., Margolles, Y., et al. Selection of single domain antibodies from immune libraries displayed on the surface of *E. coli* cells with two b-domains of opposite topologies. PLoS One 2013, 8: e75126.

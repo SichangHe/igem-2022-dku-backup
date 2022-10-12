@@ -69,6 +69,6 @@ were online because of school closure and in-person activities were allowed
 after deblocking. Covid-19 tests were performed regularly and all team members
 got vaccinated.
 
-When wet labs began, team members` attendance was recorded. The usage of lab
+When wet labs began, team members' attendance was recorded. The usage of lab
 equipment was registered. All working surfaces were cleaned with disinfectant
 fluid before and after conducting wet labs.

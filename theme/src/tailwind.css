@@ -820,7 +820,7 @@ ul#searchresults span.teaser em {
 }
 .h1-bg > h1 {
     text-shadow: 5px 5px 5px var(--bg);
-    @apply absolute text-8xl;
+    @apply absolute text-center text-8xl;
 }
 .h1-bg > img {
     z-index: -1;
