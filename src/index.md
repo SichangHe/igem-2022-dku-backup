@@ -26,7 +26,7 @@ Side effects include degration of GI tract microbiome,
 and the emergence of more antibiotic resistant strains.
 </div>
 <img alt="Figure 1" src="https://static.igem.wiki/teams/4161/wiki/hmpg1-1-main.png" class="w-full" />
-<img alt="Figure 1 legend", src="https://static.igem.wiki/teams/4161/wiki/hmpg1-1-legend.png", width = "500", height = "460"/>
+<img alt="Figure 1 legend", src="https://static.igem.wiki/teams/4161/wiki/hmpg1-1-legend.png", width = "50", height = "46"/>
 </article>
 <article class="grid grid-flow-col grid-cols-2 gap-20 py-40">
 <img alt="Figure 2" src="https://static.igem.wiki/teams/4161/wiki/hmpg-2.png" class="w-full" />
