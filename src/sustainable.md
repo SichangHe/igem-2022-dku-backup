@@ -1,4 +1,8 @@
 # Sustainable Development Goals (SDGs)
+<div class="h1-bg">
+    <h1 class>Sustainable Development Goals (SDGs)</h1>
+    <img src="https://static.igem.wiki/teams/4161/wiki/fig-sus.png" />
+</div>
 
 ## Introduction
 

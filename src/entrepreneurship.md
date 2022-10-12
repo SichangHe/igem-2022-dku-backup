@@ -1,4 +1,9 @@
-# Introduction
+<div class="h1-bg">
+    <h1 class>Entrepreneurship</h1>
+    <img src="https://static.igem.wiki/teams/4161/wiki/fig-entre.png" />
+</div>
+
+## Introduction
 
 The probiotics market in China is expected to reach a size of USD 13,527.100 million by 2025, growing at a CAGR of 8.81 percent. In 2019, the market was valued at US$8,149.466 million [^1]. Previous research findings has emphasized on the significance of gut microbiome on human health, and this has opened up the marketing of probiotics. Taking advantage of the booming market and the maturation of bioengineering technology, our project aims to guard our guts through bacteria-bacteria interaction, a method that is an alternative to antibiotics. Some probiotic product utilizing bacteria-bacteria cell interaction has already gone through clinical trials and entered the market, such as Lactobacillus reuteri DSM17648 that treats H.pylori infection [^2]. Therefore, it is possible for our product to secure a place in the probiotic market.
 

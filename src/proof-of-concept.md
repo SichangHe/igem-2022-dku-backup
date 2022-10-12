@@ -1,3 +1,8 @@
+<div class="h1-bg">
+    <h1 class>Proof of Concept</h1>
+    <img src="https://static.igem.wiki/teams/4161/wiki/fig-proof.png" />
+</div>
+
 ## Overview
 The novel drug we proposed was to anchor nanobodies on the surface of probiotics, including yeast, Lactococcus, and E. coli, which were then delivered to the gut through a shellac-membraned capsule to combat against pathogens like Shigella. Multiple objectives have been achieved to prove our product.
 

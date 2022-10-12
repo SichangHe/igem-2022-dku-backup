@@ -1,4 +1,8 @@
-# Integrated Human Practice
+<div class="h1-bg">
+    <h1 class>Integrated Human Practice</h1>
+    <img src="https://static.igem.wiki/teams/4161/wiki/fig-inte.png" />
+</div>
+
 
 Antibiotic resistance is a problem in its scale and subtlety. 
 Shigella infection has its significance in antibiotic resistance because of its identity as one of the most antibiotic resistant bacterias recognized by CDC. In our integrated human practice, we followed the procedure of research-design-engagement-modification. 
