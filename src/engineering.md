@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This page will give a detailed explanation about the engineering cycle. To make yeast capable of displaying the target nanobody 20ipaD on the cell surface, 20ipaD gene was inserted behind the yeast membrane-sealed protein *Aga*2; therefore, *Aga*2 would bring the nanobody to the cell surface. The recombinant plasmid pYD1-20ipaD was successfully built, which was supported by PCR amplification data and sequencing data. Apart from yeast, *Lactococcus lactis* and *Escherichia coli* were  also chosen as probiotics for surface displace of nanobodies at the beginning, where 20ipaD/JPS-G3 and control 3xFLAG tags were inserted into pNZ8148 (L. lactis) and pET30a (E. coli) for expression respectively. However, due to failure in transformation and plasmid construction, only yeast was selected as the final product.
+This page will give a detailed explanation about the engineering cycle. To make yeast capable of displaying the target nanobody 20ipaD on the cell surface, 20ipaD gene was inserted behind the yeast membrane-sealed protein *Aga*2; therefore, *Aga*2 would bring the nanobody to the cell surface. The recombinant plasmid pYD1-20ipaD was successfully built, which was supported by PCR amplification data and sequencing data. Apart from yeast, *Lactococcus lactis* and *Escherichia coli* were  also chosen as probiotics for surface displace of nanobodies at the beginning, where 20ipaD/JPS-G3 and control 3xFLAG tags were inserted into pNZ8148 (*L. lactis*) and pET30a (*E. coli*) for expression respectively. However, due to failure in transformation and plasmid construction, only yeast was selected as the final product.
 
 ## Engineering Cycle
 
@@ -17,7 +17,7 @@ This page will give a detailed explanation about the engineering cycle. To make 
 
 ##### Design
 
-We located a single-domain antibody (VHH) named 20ipaD from the database, whose binding ability with the needle tip protein ipaD of *Shigella* type III secretion system has be testified [^Barta,2017] [^Sierocki,2021]. Peptide sequences of 20ipaD from Barta et al (2017). Codon optimization was performed to get DNA sequences. Two flank sequences containing XhoI and ApaI cutting sites as well as C-terminal Flag-tag were added to the ipaD DNA sequence.
+We located a single-domain antibody (VHH) named 20ipaD from the database, whose binding ability with the needle tip protein ipaD of *Shigella* type III secretion system has be testified[^Barta,2017] [^Sierocki,2021]. Peptide sequences of 20ipaD from Barta et al (2017). Codon optimization was performed to get DNA sequences. Two flank sequences containing XhoI and ApaI cutting sites as well as C-terminal Flag-tag were added to the ipaD DNA sequence.
 
 ##### Build
 
@@ -127,7 +127,7 @@ We have learnt multiple issues can happen during one procedure. It is better to 
 
 ##### Design
 
-Initially, we planned to try three different nanobodies (20ipaD, JPS-G3, and JMK-H2) agianst the *Shigella* antigen ipaD from a research paper [^Barta,2017]. We also wanted to try two different surface display systems, beta domain of the E.*coli* outer membrane protein intimin [^Salema,2013] and the E.*coli* curli fiber protein, *csg*B [^Gelfat,2021]. Our target probiotic is E. *coli* Nissle 1917 [^Gelfat,2021]. By inserting the target nanobody sequence behind intimin or *csg*B, reconstructing the plasmid pET30a and transforming the plasmid into E.*coli* Nissle 1917, we expect the protein to be displayed on the surface of E.*coli*, so that it can capture the pathogen via antigen-antibody binding.
+Initially, we planned to try three different nanobodies (20ipaD, JPS-G3, and JMK-H2) agianst the *Shigella* antigen ipaD from a research paper[^Barta,2017]. We also wanted to try two different surface display systems, beta domain of the E.*coli* outer membrane protein intimin[^Salema,2013] and the E.*coli* curli fiber protein, *csg*B[^Gelfat,2021]. Our target probiotic is E. *coli* Nissle 1917[^Gelfat,2021]. By inserting the target nanobody sequence behind intimin or *csg*B, reconstructing the plasmid pET30a and transforming the plasmid into E.*coli* Nissle 1917, we expect the protein to be displayed on the surface of E.*coli*, so that it can capture the pathogen via antigen-antibody binding.
 
 ##### Build & Test
 
@@ -151,7 +151,7 @@ Complex sequences including potential harmful genes may impact synthesis efficie
 
 ##### Design
 
-Alternatively, we chose the curli fiber *csg*A [^Gelfat et. al., 2021] sequence for surface display.
+Alternatively, we chose the curli fiber *csg*A[^Gelfat et. al., 2021] sequence for surface display.
 
 ##### Build & Test
 

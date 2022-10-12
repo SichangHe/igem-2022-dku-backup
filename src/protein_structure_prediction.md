@@ -54,7 +54,7 @@ bioinformatics
 and physical approaches. We run models on AlphaFold (Phenix version)
 [^AlphaFoldPh] Colab
 notebook and it will automatically give the highest-scoring model.
-This Colab notebook is derived from ColabFold [^ColabFold] and the DeepMind
+This Colab notebook is derived from ColabFold[^ColabFold] and the DeepMind
 AlphaFold2
  Colab[^AlphaFold2Colab]
 
@@ -102,13 +102,13 @@ regions.[^SAVES]
 2. Atomic Z-score RMS:\
 Z-score root mean square deviation (Z-score RMS) measures the "average
 magnitude of the
-volume irregularities in the structure." [^Z-scoreRMS] Z-score RMS for a good
+volume irregularities in the structure."[^Z-scoreRMS] Z-score RMS for a good
 model should
 be around 1.0.
 3. Percentage of the amino acids having scored >= 0.2 in the 3D/1D profile:\
 Indicate whether the atomic model is compatible with its amino acid sequence.
 It should
-be higher than 80% for a good model. [^SAVES]
+be higher than 80% for a good model.[^SAVES]
 4. Overall quality factor:\
 An overall score for the model provided by SAVES server[^SAVES], ranging from 0
 to 100.
@@ -179,7 +179,7 @@ Interaction imformation (binding sites) of 20ipaD and ipaD
 is found in the paper: ***Single-Domain Antibodies Pinpoint Potential Targets
 within Shigella
 Invasion Plasmid Antigen D
-of the Needle Tip Complex for Inhibition of Type III Secretion*** [^Binding].
+of the Needle Tip Complex for Inhibition of Type III Secretion***[^Binding].
 Since the alignment shows that the 20ipaD
 in complex is almost the same with it's
 original structure, we can default the binding sites unchanged. Below is the
@@ -190,7 +190,7 @@ binding sites between 20ipaD and ipaD (**Figure 3**).
 
 **Figure 3** | Binding sites between 20ipaD and Ipad
 
-We provided the interaction information for online server HADDOCK [^HADDOCK] to
+We provided the interaction information for online server HADDOCK[^HADDOCK] to
 simulate the docking between the complex and ipaD.
 Below is the docking structure
 (**Figure 4**).

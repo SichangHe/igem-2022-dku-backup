@@ -63,7 +63,7 @@ lights (525/40 BP).
 ### *Escherichia coli*
 
 #### Summary of Experiment Design
-We plan to display the nanobody JPS-G3 agianst the *Shigella* antigen ipaD on the surface of E.*coli* Nissle 1917 via the curli fiber protein *csg*A [^Gelfat,2021]. We expect the engineered E.*coli* Nissle 1917 to be capable of capturing the pathogen *Shigella flexneri* via antigen-antibody specific binding.
+We plan to display the nanobody JPS-G3 agianst the *Shigella* antigen ipaD on the surface of E.*coli* Nissle 1917 via the curli fiber protein *csg*A[^Gelfat,2021]. We expect the engineered E.*coli* Nissle 1917 to be capable of capturing the pathogen *Shigella flexneri* via antigen-antibody specific binding.
 
 #### Plasmid Extraction
 pUC19-JPS-G3-3xHA and pUC19-ipaD-3xHA were extracted using the TIANGEN plasmid extraction kit.

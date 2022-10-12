@@ -28,16 +28,17 @@ means we must focus on antibiotic therapy replacement.
 />
 
 ## Interview with Dr. Cao
+
 We interviewed Dr. Huansheng Cao,
 Assistant Professor of Environmental Science at Duke Kunshan University
 for suggestions on our initial lab plans.
 
 In the interview, team members Yuxin Wang and Chang Shen presented
-the main design - bacterial surface display - to consult Prof Cao on its feasibility.
+the main design—bacterial surface display—to consult Dr. Cao on its feasibility.
 After confirming the rich research foundations of our plan, he encouraged us to add computational elements
 to our lab design.
 
-As a scientist working in computational biology and bioinformatics, he
+As a scientist working in computational biology and bioinformatics, Dr. Cao
 pointed us to Alphafold2 to enhance the binding affinity of our nanobody
 and the antigen unit. As a well-trained
 biologist, he also suggested fitting our design to more than one model
@@ -54,6 +55,7 @@ greatly to the first stage of human practice.
 />
 
 ## Interview with Dr. Beckford
+
 After we successfully predicted the 3d structure of fusion protein-antibody
 complex by using Robetta and Alphafold2, the focus shift to how the fusion
 protein will influence the binding (docking) between antibody and antigen. We
@@ -68,8 +70,8 @@ our project. Modeling team leader Zhenyu Xu introduced the progress of protein
 structure prediction and the need for protein docking simulation.
 
 As a scientist working in modern medicine, Prof. Floyd pointed us to some
-useful docking software--Autodock, ADFR suite, GOLD, and Maestro. These
-softwares are powerful at predicting the docking scenario and are used by many
+useful docking software: Autodock, ADFR suite, GOLD, and Maestro. These pieces of
+software are powerful at predicting the docking scenario and are used by many
 researchers, with many online teaching resources accessible.
 
 To improve the speed of computer modeling, Prof. Floyd emphasized the
@@ -316,5 +318,5 @@ groups. The social questionnaire allowed us to identify the need for the
 program; the school publicity has attracted a batch of fresh blood to join the
 research and innovation of synthetic biology; the expert interviews enabled us to
 reflect on the feasibility and future directions of our lab design.
-These science communications helped us be more clear about the direction of the experiment
+These science communications helped us become more clear about the direction of the experiment
 and the significance of this project.

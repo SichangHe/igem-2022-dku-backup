@@ -16,7 +16,7 @@ It would be presented as powder.
 sensitive and expensive nutrients (Meyers et al., 1998), by providing them with
 a protective wall,
 which allows them to get released at a particular site, at a particular time,
-and under particular conditions." [^Microencapsulation]
+and under particular conditions."[^Microencapsulation]
 To summarize, the technology of
 microencapsulation is to ensure the safe delivery of the sensitive compound.
 

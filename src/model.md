@@ -152,7 +152,7 @@ for the growth scenario of Shigella (**Figure 2**).
 The x-axis indicates the time with unit of hour; the y-axis indicates the
 log count of number of Shigella.
 
-The survival rate of Yeast cells in jejunal varies with time (**Figure 3**) [^pH].
+The survival rate of Yeast cells in jejunal varies with time (**Figure 3**)[^pH].
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-model-part-2-yeast-survival-rate.png"/>
 
@@ -171,7 +171,7 @@ Based on the information from wet-lab and math modeling, we would like to give
 a possible conclusion or a medication guidance for the patients and the managers
 of the healthcare system, so that our vision could be realized.
 
-For a single micro-capsule, assume it contains at least 10 billion CFU (colony-forming unit) [^CFU],
+For a single micro-capsule, assume it contains at least 10 billion CFU (colony-forming unit)[^CFU],
 then it contains at least 10 billion live Yeast cells. Since the expression rate is about 31.25%,
 there would be at least 3 billion live Yeast cells that expressed at least one
 20ipaD on each of their surfaces. After the capsule reaches jejunal, it will dissolve and start to release

@@ -51,7 +51,7 @@ Induced yeasts (display the nanobody on the surface)
 
 [Protein_Purification.pdf](https://static.igem.wiki/teams/4161/wiki/protein-purification.pdf)
 
-“TIANprep Mini Plasmid kit” was used for this experiment. The protocol follows the manual of the product [^5].
+“TIANprep Mini Plasmid kit” was used for this experiment. The protocol follows the manual of the product[^5].
 
 [Plasmid_Extraction.pdf](https://static.igem.wiki/teams/4161/wiki/plasmid-extraction.pdf)
 
