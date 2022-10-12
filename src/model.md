@@ -52,7 +52,7 @@ Dark cells for no or very little expression
 In this section, we want to predict post-medication scenario by using math modeling.
 In detail, we want to see how will the number of floating *Shigella* change
 after the drug release,
-this will be depending on natural growth of Shigella, the binding efficiency of
+this will be depending on natural growth of *Shigella*, the binding efficiency of
 20ipaD and IpaD, the concentration of Yeast cells,
 and the survival rate of Yeast cells.
 
@@ -150,7 +150,7 @@ for the growth scenario of *Shigella* (**Figure 2**).
 
 **Figure 2** | Upper limit and lower limit for Shigella's natural growth in jejunal.
 The x-axis indicates the time with unit of hour; the y-axis indicates the
-log count of number of Shigella.
+log count of number of *Shigella*.
 
 The survival rate of Yeast cells in jejunal varies with time (**Figure 3**)[^pH].
 
@@ -180,14 +180,14 @@ Yeast cells (30.8%
 of the intake)
  that are viable to display 20ipaD and bind with IpaD.
 
-For Shigella, since the upper limit and lower limit of natural growth are found,
+For *Shigella*, since the upper limit and lower limit of natural growth are found,
 we can calculate the maximum population density in the following form:
 $$
 \text{Density}_{max} (\log_{10}\text{cfu/ml}) = A + C
 $$
 
-So the uppper limit of the max density at $t=5\text{h}$ will be about 5 billion Shigella, and
-the lower limit will be about 1 billion Shigella.
+So the uppper limit of the max density at $t=5\text{h}$ will be about 5 billion *Shigella*, and
+the lower limit will be about 1 billion *Shigella*.
 
 Therefore, it is proper to take 5-6 capsules every 5 hours after the patient start to have symptoms,
 and distribute 1-5 capsules every 5 hours to the people who might develop symptoms due to

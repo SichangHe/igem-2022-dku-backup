@@ -28,7 +28,7 @@ Engineered probiotics with cell surface display systems are an especially promis
 
 #### Idea of probiotics
 
-*Saccharomyces cerevisiae*, or baker’s yeast, is widely used in food industry and scientific research.
+*Saccharomyces cerevisiae*, or baker's yeast, is widely used in food industry and scientific research.
 Its facultative anaerobic feature enables it to make fluffy bread[^Sicard2011].
 Also, its variable metabolism pathways make it a good agent for alcohol fermentation and wine production[^Holt2019].
 Last but not least, the already-annotated genome makes it an excellent model organism for molecular biology research[^Piskur2004].
@@ -95,12 +95,12 @@ In many parts, it acts as an alternative for the gram positive to Bacillus subti
 #### Design of 20ipad plasmid
 
 Due to the wide use of antibiotics, various types of bacteria have developed antibiotic resistance, thus providing great challenge to human health and therapy design.
-Our team’s target pathogen, the *Shigella* spp., is no exception.
+Our team's target pathogen, the *Shigella* spp., is no exception.
 To overcome the issue of antibiotic resistance, we would like to engineer the probiotics to make it an effective tool for the treatment of *Shigella* infections.
 Through literature review, it is identified that in the process of shigellosis (also named bacillary dysentery), *Shigella* uses the type III secretion system (T3SS) to invade colonic epithelial cells.
 Importantly, one important feature of T3SS is the existence of an extracellular needle with an associated tip complex responsible for assembly of a pore-forming translocon in the host cell membrane[^Barta2017].
 For *Shigella* flexneri, the tip complex contains invasion plasmid antigen D (IpaD) that not only regulates secretion but also provides the physical platform for the translocon pore[^Barta2017] [^Muthuramalingam2021].
-To explore the potential therapeutic avenues for managing infections of Shigella, researchers have developed single-VH domain antibodies (VHHs) that are capable of recognizing distinct epitopes within the antigen IpaD[^Barta2017], where one of such VHHs is the 20ipaD applied by our team.
+To explore the potential therapeutic avenues for managing infections of *Shigella*, researchers have developed single-VH domain antibodies (VHHs) that are capable of recognizing distinct epitopes within the antigen IpaD[^Barta2017], where one of such VHHs is the 20ipaD applied by our team.
 In order to have our probiotics *L. lactis* express the 20ipaD, we firstly constructed the 20ipaD plasmid.
 For plasmid design, the Usp45 signal peptide was included for secretion to the growth medium, while AcmA3b was included for surface anchoring of the expressed 20ipaD to *L. lactis*[^Plavec2019].
 Flag-tag was added for the convenience of purification.
@@ -131,7 +131,7 @@ The other option is based on intimin.
 Intimin in *E. coli* has a trans-outer membrane region and a C-terminal repeat of Ig-like and lectin domains that can be used as a potential fusion site for protein display[^Sadana2017].
 In some earlier studies, the researchers successfully inserted a fragment of EHEC intimin into a known plasmid vector with a VHH fusing to it and had it successfully express and display the VHH on the bacteria surface[^Salema2013].
 To fully exploit the multivalency advantage of the baterial surface display system, we plan to display more than on kind of nanobodies, so the probiotic can bind to a larger range of pathogens, or it can bind different antigens of the pathogen.
-It is also important to mention that the target antigen IpaD is highly conservative and exists in all strains of shigella.
+It is also important to mention that the target antigen IpaD is highly conservative and exists in all strains of *Shigella*.
 Also, previous studies have constructed a library of anti-IpaD VHH including VHH 20ipaD, JMKH2, and JPSG3 are found specifically bind to the epitopes in IpaD protein[^Barta2017] [^Sierocki2017]. The affinity of this antigen-VHH pair is considerable when using 20ipaD and JMKH2[^Sierocki2017].
 
 ## References
@@ -158,18 +158,8 @@ Also, previous studies have constructed a library of anti-IpaD VHH including VHH
 
 [^Gray2015]: Gray, M. D., Lacher, D. W., Leonard, S. R., Abbott, J., Zhao, S., Lampel, K. A., Prothery, E., Gouali, M., Weill, F.-X., & Maurelli, A. T. (2015, May 14). Prevalence of shiga toxin-producing *Shigella* species isolated from French travellers returning from the Caribbean: An emerging pathogen with international implications. Clinical Microbiology and Infection. Retrieved March 28, 2022, from <https://www.sciencedirect.com/science/article/pii/S1198743X15004437>
 
-
 [^Casabonne2016]: Casabonne, C., González, A., Aquili, V., & Balagué, C. (2016, November 22). Prevalence and virulence genes of *Shigella* spp.. isolated from patients with diarrhea in Rosario, Argentina. Japanese Journal of Infectious Diseases. Retrieved March 28, 2022, from <https://www.jstage.jst.go.jp/article/yoken/69/6/69_JJID.2015.459/_article/-char/ja/>
 .
-
-
-
-
-
-
-
-
-
 
 [^Kim2017]: Kim, S., Covington, A., & Pamer, E. G. (2017, September). The intestinal microbiota: Antibiotics, colonization resistance, and enteric pathogens. Immunological reviews. Retrieved March 28, 2022, from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6026851/>
 
@@ -201,7 +191,6 @@ Also, previous studies have constructed a library of anti-IpaD VHH including VHH
 
 [^Epler2009]: Epler, C. R., Dickenson, N. E., Olive, A. J., Picking, W. L., & Picking, W. D. (2009). Liposomes recruit IpaC to the *Shigella* flexneri type III secretion apparatus needle as a final step in secretion induction. Infection and immunity, 77(7), 2754–2761. <https://doi.org/10.1128/IAI.00190-09>
 
-
 [^Peng2015]: Peng, B., Williams, T. C., Henry, M., Nielsen, L. K., Vickers, C. E. (2015). Controlling heterologous gene expression in yeast cell factories on different carbon substrates and across the diauxic shift: a comparison of yeast promoter activities. Microbial cell factories, 14, 91. <https://doi.org/10.1186/s12934-015-0278-5>
 
 [^Huang2020]: Huang, X., Gänzle, M., Zhang, H., Zhao, M., Fang, Y., Nishinari, K. (2020). Microencapsulation of probiotic lactobacilli with shellac as moisture barrier and to allow controlled release. Journal of the Science of Food and Agriculture. 101. 10.1002/jsfa.10685.
@@ -217,7 +206,6 @@ Also, previous studies have constructed a library of anti-IpaD VHH including VHH
 [^Braat2006]: Braat, H., Rottiers, P., Hommes, D. W., Huyghebaert, N., Remaut, E., Remon, J. P., . . . Steidler, L. (2006). A phase I trial with transgenic bacteria expressing interleukin-10 in Crohn's disease. Clin Gastroenterol Hepatol, 4(6), 754-759. doi:10.1016/j.cgh.2006.03.028
 
 [^Moreno2016]: de Moreno de LeBlanc, A., Del Carmen, S., Chatel, J. M., Azevedo, V., Langella, P., Bermudez-Humaran, L., & LeBlanc, J. G. (2016). Evaluation of the biosafety of recombinant lactic acid bacteria designed to prevent and treat colitis. J Med Microbiol, 65(9), 1038-1046. doi:10.1099/jmm.0.000323
-
 
 [^Muthuramalingam2021]: Muthuramalingam, M., Whittier, S. K., Picking, W. L., & Picking, W. D. (2021). The *Shigella* Type III Secretion System: An Overview from Top to Bottom. Microorganisms, 9(2). doi:10.3390/microorganisms9020451
 

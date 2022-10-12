@@ -58,7 +58,7 @@ In this cycle, we aims to improve the binding affinity of the recombinant protei
 #### Cycle 1
 ##### Design
 
-Though planned to ligation synthesized sequence directly into pNZ8148 plasmid, the right plasmid failed to deliver on time. Therefore, we want to try inserting the 20ipaD into the control plasmid after restriction enzyme digestion. The 20ipaD is one of the single-VH domain antibodies (VHHs) capable of recognizing distinct epitopes within the antigen IpaD of pathogen Shigella. In this way, we hoped that by fusing 20ipaD and control flag-tag into the *Lactococcus lactis* expression vector pNZ8148, we would achieve the surface display and expression of 20ipaD on *Lactococcus lactis*.
+Though planned to ligation synthesized sequence directly into pNZ8148 plasmid, the right plasmid failed to deliver on time. Therefore, we want to try inserting the 20ipaD into the control plasmid after restriction enzyme digestion. The 20ipaD is one of the single-VH domain antibodies (VHHs) capable of recognizing distinct epitopes within the antigen IpaD of pathogen *Shigella*. In this way, we hoped that by fusing 20ipaD and control flag-tag into the *Lactococcus lactis* expression vector pNZ8148, we would achieve the surface display and expression of 20ipaD on *Lactococcus lactis*.
 
 To obtain the sequence of 20ipaD, we constructed the plasmid with the 20ipaD sequence surrounded by two different restriction sites of enzymes BamHI and SacI. In this way, through the restrictive digestion of *Bam*HI and *Sac*I, ideally the sequence of 20ipaD would be obtained. The similar construction was also applied with the sequence of control flag-tag, where the enzymes used for restrictive digestion were changed to be NcoI and HindIII.
 

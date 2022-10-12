@@ -113,7 +113,7 @@ Because of financial and logistical reasons, wet lab experiments of group L were
 
 ### Protocols
 
-Group L intends to display 20ipaD, a nanobody against Shigella, onto *L.lactis*. The plasmid construction is performed in *E.coli* and then transformed into *L.lactis*.
+Group L intends to display 20ipaD, a nanobody against *Shigella*, onto *L.lactis*. The plasmid construction is performed in *E.coli* and then transformed into *L.lactis*.
 
 [Electroporation Protocol for *Lactococcus lactis*](https://static.igem.wiki/teams/4161/wiki/electroporation-protocol-for-lactococcus-lactis.pdf).
 

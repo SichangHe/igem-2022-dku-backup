@@ -30,7 +30,7 @@ and synthetic biology.
 In this Wang-Cai biology seminar series, the DKU iGEM team was honored to co-host
 the speech delivered by Prof. Dong Hyun Jo from Seoul National University College
 of Medicine.
-The talk was titled “Therapeutic Revolution: Application of Novel Technologies”,
+The talk was titled "Therapeutic Revolution: Application of Novel Technologies",
 where Dr. Jo introduced the brief history and therapeutic development
 for one specific type of cancer, retinoblastoma.
 
@@ -38,7 +38,7 @@ Dr. Jo is an assistant professor at Seoul National University College of Medicin
 in the Republic of Korea. He had his medical degree at
 Seoul National University in 2007. In 2012, Dr. Jo received a residency at the
 Department of Ophthalmology, Seoul National University Hospital, and in 2016,
-he received his Ph.D. at Seoul National University. Dr. Jo’s research interest
+he received his Ph.D. at Seoul National University. Dr. Jo's research interest
 focuses on 3 aspects. The first is the development of novel therapeutic
 approaches against retinal diseases. The second is the molecular mechanisms of
 physiological and pathological angiogenesis in the retina and associated organs,
@@ -75,7 +75,7 @@ Details of the presenters and their topics are listed in the table below.
 | Date | Presenter | Topic | Reference Paper |
 | --- | --- | --- | --- |
 | Jul 22nd | Lisa | Single-domain Nanobodies Surface Display on *E.coli* Nissle 1917 | [Gelfat et. al., 2021](https://www.proquest.com/docview/2563494610/abstract/615221E21BBF406CPQ/1) |
-| Aug 5th | Yuxin | Cytochrome P450 Enzymes for *de novo* Production of Steviol Glucosides in Baker’s Yeast | [Gold et. al., 2018](https://pubs.acs.org/doi/10.1021/acssynbio.8b00470?cookieSet=1) |
+| Aug 5th | Yuxin | Cytochrome P450 Enzymes for *de novo* Production of Steviol Glucosides in Baker's Yeast | [Gold et. al., 2018](https://pubs.acs.org/doi/10.1021/acssynbio.8b00470?cookieSet=1) |
 | Aug 19th | Yunyi | CRIPSR-Cas6 and Dynamic Metabolons | [Mitkas et. a., 2022](https://doi.org/10.1038/s41589-022-01005-7.)|
 | Sep 2nd | Kathy | Development of Vaccine Against Hemorrhagic Disease via Yeast Surface Display | [Luo et. al., 2015](http://dx.doi.org/10.4014/jmb.1505.05041) |
 | Sep 18th | Letian | Catalytic RNA, ribozyme, and its applications in synthetic biology | [Park et. al., 2019](https://doi.org/10.1016/j.biotechadv.2019.107452)|
@@ -87,13 +87,10 @@ Details of the presenters and their topics are listed in the table below.
 
 ### Off-campus education
 
-
 This year, expanding iGEM participants and audience was included in the goals of our human practice. Although iGEM competition has a solid audience base in universities,
 students in high schools have little knowledge of iGEM competition or give up
 because of their limitation of conducting wet labs. After having an overview of high schools in Kunshan,
 we decided to contact Dipont Huayao Collegiate School Kunshan to give a speech.
-
-
 
 In the first part of our presentation, we introduced the biology team, the modeling team,
 the wiki team and the human practice team,
@@ -111,8 +108,8 @@ However, this can lay an underlying problem in the future, such as changing the 
 To help the public have a better understanding of digesting,
 we popularized GI Microbiome and GI tract. The functions of each human organ
 and different intestinal floras were explained in detail.
-Along with knowledge, we provided two fun facts --“Mom passes gut microbiota to baby”
-and “Having stomachache and diarrhea before exams”.
+Along with knowledge, we provided two fun facts --"Mom passes gut microbiota to baby"
+and "Having stomachache and diarrhea before exams".
 We also mentioned the harm that using antibiotics can do to the gastrointestinal tract.
 Along with distributing brochures, our audience understood the basic knowledge of GI
 parts. Here is our brochure. <https://static.igem.wiki/teams/4161/wiki/aqua-and-purple-medical-trifold-brochure.pdf>

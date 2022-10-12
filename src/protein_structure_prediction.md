@@ -257,7 +257,7 @@ that
 it has greater average magnitude of the volume irregularities in the structure.
 
 The *E. coli* CsgA protein complex is a good model that
-fulfills 4 out of 5 quantitative parameters. Like Intimin, CsgA’s Ramachandran plot
+fulfills 4 out of 5 quantitative parameters. Like Intimin, CsgA's Ramachandran plot
 displays a good distribution in favored regions: 83.5% of
 residues are in the core regions, 12.7% are in the allowed regions, 2.0% are in
 the general regions and 1.8%
@@ -267,10 +267,10 @@ standard 80% but not nearly as high as Intimin. Its overall quality factor is
 91,exceeding the 80 score
 cut-off. The Z-score is within the range of scores found for native proteins of
 similar size, and like Intimin,
-the CsgA model’s Z-score is not around one.
+the CsgA model's Z-score is not around one.
 
 The Lacto tag 1 protein complex is a good model that fulfills 4 out of 5
-quantitative parameters. CsgA’s
+quantitative parameters. CsgA's
 Ramachandran plot displays a well enough distribution in favored regions: 83.1%
 of residues are in the core regions,
 15.2% are in the allowed regions, 1.5% are in the general regions and 0.2% in
@@ -281,7 +281,7 @@ comparatively low against Intimin and CsgA. Its overall quality factor is 92, su
 the 80 score cut-off.
 The Z-score is within the range of scores found for native proteins of similar
 size, and similar to Intimin and CsGA,
-the CsgA model’s Z-score is not around one.
+the CsgA model's Z-score is not around one.
 
 Overall, all three protein docking jobs show satisfactory results and
 could be helpful for
