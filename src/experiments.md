@@ -63,39 +63,33 @@ Induced yeasts (display the nanobody on the surface)
 
 **Group E.*coli* Experimental Procedures**
 
-**1. Cloning**
+**1. Recombinant Protein Expression**
 
-**2. Recombinant Protein Expression**
+**1.1 Express the Protein in E.*coli* DE3 Cytoplasm**
 
-**2.1 Express the Protein in E.*coli* DE3 Cytoplasm**
+3 different VHHs (JPS-G3, JMK-H2, 20ipaD) and 1 antigen (ipaD) are expressed separately in E.*coli* DE3 for protein purification. The DNA sequences of the proteins are bind to different detection tags (VHHs - FLAG-tag, antigen - HA-tag) and inserted into pET41a plasmids for bacterial transformation and protein purification. The pET41a plasmid contains a T7 promoter and a T7 terminator for high-level protein expression in E. *coli* DE3, and a GST tag with a Tb (thrombin) site for protein purification. After transformation, the exogenous proteins will be expressed by the bacteria.
 
-3 different VHHs (JPS-G3, JMK-H2, 20ipaD) and 1 antigen (ipaD) are expressed separately in E.*coli* DE3 for protein purification. As is shown in the diagram below (**Figure 1**), the DNA sequences of the proteins are bind to different detection tags (VHHs - FLAG-tag, antigen - HA-tag) and inserted into pET41a plasmids for bacterial transformation and protein purification. The pET41a plasmid contains a T7 promoter and a T7 terminator for high-level protein expression in E. *coli* DE3, and a GST tag with a Tb (thrombin) site for protein purification. After transformation, the exogenous proteins will be expressed by the bacteria.
-
-**Fig.1 | Schematic Representation of the Protein Expression & Purification Process**
-
-**2.2 Protein Purification and Affinity Test**
+**1.2 Protein Purification and Affinity Test**
 
 Next, we use the GST tag to purify the recombinant protein. The target proteins will be extracted via GSH-GST interaction, and the remaining GST tag will be cut by thrombin. Then, we can get the purified recombinant proteins (target protein + detection tag).
 
-Lastly, co-IP (immuno-precipitation) followed by Western analysis will be used to test the affinity between VHHs and the antigen. As is shown in the figure below (**Figure 2**), by adding anti-FLAG antibodies and anti-HA antibodies to the samples, we can pull down the recombinant proteins with corresponding tags. If adding either anti-FLAG antibodies or anti-HA antibodies leads to a positive result in 'FLAG-VHH + HA-ipaD', we can say that there is high affinity between the expressed VHHs and the antigen.
+Lastly, co-IP (immuno-precipitation) followed by Western analysis will be used to test the affinity between VHHs and the antigen. By adding anti-FLAG antibodies and anti-HA antibodies to the samples, we can pull down the recombinant proteins with corresponding tags. If adding either anti-FLAG antibodies or anti-HA antibodies leads to a positive result in 'FLAG-VHH + HA-ipaD', we can say that there is high affinity between the expressed VHHs and the antigen.
 
-**Fig.2 | Expected Western Blot Results of the co-IP Experiment**
+**2. Surface Display**
 
-**3. Surface Display**
-
-**3.1 Surface Display via csgA**
+**2.1 Surface Display via csgA**
 CsgA, or major curlin subunit, is a component of biofilm. The design was a modified version of the PATCH system from Neel Joshi lab. It is composed of a temperature-controlled promoter, Csg synthetic operon, and the VHH targeting Type III secretion system. The design is predicted to be beneficial in a therapeutic context because biofilm formation effectively inhibits the invasion of shigella into epithelial cells.
 
-**3.2 Surface Display via intimin**
+**2.2 Surface Display via intimin**
 
-**3.3 Detecting E.*coli* surface display**
+**2.3 Detecting E.*coli* surface display**
 
 **Congo red binding assay**\
    We use a quantitative congo-red binding assay to detect the expression of curli fibers. Congo red is a dye that binds to the hydroxyl group of polypeptide chains in amyloid through hydrogen bonds. A control group with no curli expression and a group with curli expression are cultured under the same condition. The 490nm absorbance of both groups are measured to quantify the amount of congo red not in binding with curli fiber [(1)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6898321/)[(2)](https://pubs.acs.org/doi/full/10.1021/acsbiomaterials.6b00437).
 **Whole cell filtration ELISA**\
    To detect the expression of curli fibers on the cell surface, we perform whole-cell ELISA. Whole-cell ELISA requires the cells to be seeded to the bottoms of the wells, providing conditions to detect proteins in whole cells [(3)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6898321/)[(4)](https://www.lsbio.com/products/elisakits/cellbased).
 
-**3.4 Detecting the Binding Affinity Between E.*coli* Expressing VHHs and the antigen**
+**2.4 Detecting the Binding Affinity Between E.*coli* Expressing VHHs and the antigen**
 
    **Aggregation Assay using OD600 measurements [(5)](https://doi.org/10.1016/j.cell.2018.06.041)**\
    Ag (antigen)-only E.*coli*, Nb (nanobody, i.e., VHHs)-only E.*coli* and the mixture of the two are cultured separately in LB liquid medium for 24 hours. OD600 of their supernatant are measured immediately/after 24 hours to see whether there is significant difference between the Ag-only group, Nb-only group, and mixture group. A significant low OD600 in the mixture group indicates that the E.*coli* expressing VHHs and antigens bind to each other, form assembly, and sink.
