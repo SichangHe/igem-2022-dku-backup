@@ -54,7 +54,9 @@ In this cycle, we aims to improve the binding affinity of the recombinant protei
 #### Cycle 1
 ##### Design
 
-At first, we wanted to obtain the sequence of both 20ipaD and control flag-tag so that we could amplify them via PCR reaction. The 20ipaD is one of the single-VH domain antibodies (VHHs) capable of recognizing distinct epitopes within the antigen IpaD of pathogen Shigella. In this way, we hoped that by fusing 20ipaD and control flag-tag into the *Lactococcus lactis* expression vector pNZ8148, we would achieve the surface display and expression of 20ipaD on *Lactococcus lactis*.
+Though planned to ligation synthesized sequence directly into pNZ8148 plasmid, the right plasmid failed to deliver on time. Therefore, we want to try inserting the 20ipaD into the control plasmid after restriction enzyme digestion. The 20ipaD is one of the single-VH domain antibodies (VHHs) capable of recognizing distinct epitopes within the antigen IpaD of pathogen Shigella. In this way, we hoped that by fusing 20ipaD and control flag-tag into the *Lactococcus lactis* expression vector pNZ8148, we would achieve the surface display and expression of 20ipaD on *Lactococcus lactis*.
+
+
 
 ##### Build
 
@@ -75,11 +77,11 @@ Since pUC19 vector also contained a restriction site for BamHI itself, which wou
 
 ##### Build
 
-In this try, we would do the PCR amplification of 20ipaD sequence to insert it directly into the pNZ8148 vector first. This would circumvent the enzymatic digestion of pUC19 vector by BamHI that had the insertion of 20ipaD.
+In this try, we would do the PCR amplification of 20ipaD sequence using high-fidelity Q5 polymerase. After PCR amplification, the DNA was purified and then inserted it directly into the pNZ8148 vector first. This would circumvent the enzymatic digestion of pUC19 vector by BamHI that had the insertion of 20ipaD. Before performing ligation between synthesized sequence and pNZ8148, pNZ8148 should be amplified inside L.lactis, which is the only available host of this plasmid in our lab.
 
 ##### Learn
 
-From this process we learnt that when the synthesized plasmid went wrong from our expectations, apart from directly asking the company to redo the synthesis, we could also alter the steps of ligation via PCR reaction to solve the problem.
+From this process we learnt that when the synthesized plasmid went wrong from our expectations, apart from directly asking the company to redo the synthesis, we could also alter the steps of ligation via PCR reaction to solve the problem. 
 
 #### Cycle 3
 
@@ -93,11 +95,11 @@ When the OD600 of *Lactococcus lactis* reached 0.3, the bacteria would be subjec
 
 ##### Test
 
-The process of electroporation was not successful because we failed to insert the vector into *Lactococcus lactis*.
+The process of electroporation was not successful because no colony was grown on M17 medium containing 10ug/ul chloramphenicol.
 
 ##### Learn
 
-We suspect that the making of electrocompetent cells might be the source of failure. After checking with the team advisor, we found that the type of glycerol used was intended for protein purification, which could cause problems for the electrocompetent cell.
+We suspect that the making of electrocompetent cells might be the source of failure. After checking with the team advisor, we found that the type of glycerol used was intended for protein purification that might have many impurities, which could cause problems for the electrocompetent cell.
 
 #### Cycle 4
 ##### Design
@@ -106,7 +108,16 @@ To further increase efficiency, after doing more literature reviews we added the
 
 ##### Build
 
-According to the newly found protocol, the *Lactococcus lactis* was firstly suspended at room temperature for 30 min in 8ml of 100mM LiAc, 10mM DTT, 0.6M sucrose, and 10mM Tris-HCl (pH=7.5). Following the treatment, *Lactococcus lactis* was pelleted and was resuspended in 1.5ml microcentrifuge tube, and was then washed as previously described. Afterwards, electroporation was conducted as previously described.
+According to the newly found protocol, the *Lactococcus lactis* was firstly suspended at room temperature for 30 min in 8ml of 100mM LiAc, 10mM DTT, 0.6M sucrose, and 10mM Tris-HCl (pH=7.5). Following the treatment, *Lactococcus lactis* was pelleted and was resuspended in 1.5ml microcentrifuge tube, and was then washed as previously described. Afterwards, electroporation was conducted as previously described. 
+
+
+##### Test
+
+The process of electroporation was not successful because no colony was grown on M17 medium containing 10ug/ul chloramphenicol. Given the concerns about the function of the electroporator from us and the lab instructor in DKU, the machine was sent to maintainance.
+
+##### Learn
+
+We have learnt multiple issues can happen during one procedure. It is better to start the project earlier to make more time for delivery, debugging, and maintainance issues.
 
 ### *Escherichia coli*
 
