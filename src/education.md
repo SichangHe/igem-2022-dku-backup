@@ -5,7 +5,12 @@
 
 **Overview:**
 
-We conduct popular science education both on and off campus.
+Education along with science communication is important for us.
+There are many reasons for that –- unprofessional formal school education,
+emerging fake news, and increasing conflicts and misunderstanding between science and the public.
+Therefore, we devoted ourselves to narrowing the gap between the science and the public and encouraging communications about synthetic biology.
+Our consultations are presented in detail on Communication.
+This year, we conduct popular science education both on and off campus.
 
 - On campus, we have established a journal club, where different members of the
 team introduce cutting-edge knowledge about synthetic biology every two weeks,
@@ -17,58 +22,44 @@ to give a talk on therapeutic revolution for the DKU community.
 to more than 330 middle and high school students and teachers about our project
 and synthetic biology.
 
-### Off campus education
-Although iGEM competition has a solid audience base in **universities**,
-students in high schools have little knowledge of iGEM competition or give up
-because of their limitation of conducting wetlabs. There is an increasing trend
-of taking probiotic products. However, there is lack of common sense of
-probiotics.
-
-![photo](https://static.igem.wiki/teams/4161/wiki/education2.jpg)
-
-To narrow the gap between public and science, we contacted with Dipont Huayao
-Collegiate School Kunshan, a local high school. We introduced iGEM competition
-and popularize the knowledge of GI tract and probiotics by giving a
-presentation. **In the introduction of iGEM**, we introduced biology team,
-modelling team, wiki team and human practice team, including their
-responsibility and collaborations between different subgroups.
-
-![photo](https://static.igem.wiki/teams/4161/wiki/education3.jpg)
-
-**For GI tract**, we introduced the process of digesting. Functions of each
-human organ and different intestinal floras were explained in detail. Along
-with knowledge, we provided two fun facts——“Mom passes gut microbiota to
-baby” and “Having stomachache and diarrhea before exams”. Besides GI
-tract, we also mentioned the harm that using antibiotics can do to
-gastrointestinal tract.
-
-![photo](https://static.igem.wiki/teams/4161/wiki/education4.jpg)
-
-**For probiotics**, we popularized basic knowledge of probiotics, pointed out
-issues that taking probiotics improperly will lead to and give our advice.
-After the speech, 330 high school students and teachers had a better
-understanding of choosing probiotic products. Students and teachers interested
-in participating in iGEM competition consulted with us about the future iGEM
-cooperations.
-
-![photo](https://static.igem.wiki/teams/4161/wiki/education5.jpg)
-
 ### On campus education
 #### Wang-Cai Biology Seminar Series
 
 ![Wang-Cai Talk](https://static.igem.wiki/teams/4161/wiki/wang-cai-talk.jpeg)
 
-In this Wang-Cai biology seminar series, the DKU iGEM team was honored to co-host the speech delivered by Prof. Dong Hyun Jo from Seoul National University College of Medicine. The talk was titled “Therapeutic Revolution: Application of Novel Technologies”, where Dr Jo introduced the brief history and therapeutic development for one specific type of cancer, retinoblastoma. 
+In this Wang-Cai biology seminar series, the DKU iGEM team was honored to co-host
+the speech delivered by Prof. Dong Hyun Jo from Seoul National University College
+of Medicine.
+The talk was titled “Therapeutic Revolution: Application of Novel Technologies”,
+where Dr Jo introduced the brief history and therapeutic development
+for one specific type of cancer, retinoblastoma.
 
-Dr Jo is the assistant professor of Seoul National University College of Medicine in Republic of Korea. He had his medical degree at Seoul National University in 2007. In 2012, Dr Jo received residency at the Department of Ophthalmology, Seoul National University Hospital, and in 2016, he received his PhD at Seoul National University. Dr Jo’s research interest focuses on 3 aspects. The first is the development of novel therapeutic approaches against retinal diseases. The second is the molecular mechanisms of physiological and pathological angiogenesis in the retina and associated organs, the third is translational research on retinoblastoma. 
+Dr Jo is the assistant professor of Seoul National University College of Medicine
+in Republic of Korea. He had his medical degree at
+Seoul National University in 2007. In 2012, Dr Jo received residency at the
+Department of Ophthalmology, Seoul National University Hospital, and in 2016,
+he received his PhD at Seoul National University. Dr Jo’s research interest
+focuses on 3 aspects. The first is the development of novel therapeutic
+approaches against retinal diseases. The second is the molecular mechanisms of
+physiological and pathological angiogenesis in the retina and associated organs,
+the third is translational research on retinoblastoma.
 
-At the end of the talk. Dr. Jo shared his career pathway as both a physician and a researcher. The devotion he made to the clinical therapy of retinoblastoma and the improvement of the health of his patients made him feel that biomedical sciences are not limited to theoretical knowledge, but rather quite practical and can benefit the whole population. The experience and thoughts expressed by Dr. Jo greatly inspired us, which allow us to have more understanding of graduate choices and future career plans. 
+At the end of the talk, Dr. Jo shared his career pathway as both a physician and
+a researcher. The devotion he made to the clinical therapy of retinoblastoma and
+the improvement of the health of his patients made him feel that biomedical
+sciences are not limited to theoretical knowledge, but rather quite practical
+and can benefit the whole population. The experience and thoughts expressed by
+Dr. Jo greatly inspired us, which allow us to have more understanding of graduate
+choices and future career plans.
 
 
 
 ####  Journal club
 In order to have better educational effect and promote our project , we
 organized the Journal Club activity in the Duke Kunshan community.
+
+<img src="https://static.igem.wiki/teams/4161/wiki/club-expo1.jpg"
+/>
 
 The first Journal Club was held on April 30th, 2022. At the very beginning of
 the meeting, Yuyang, the leader of last year's iGEM team, gave a speech for us
@@ -85,13 +76,101 @@ the sharing and raised many inspiring questions.
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-1st-journal-club.jpg"
 />
 
+### Off campus education
+This year, expending iGEM participants and audience was included into goals of our human practice.
+Although iGEM competition has a solid audience base in universities,
+students in high schools have little knowledge of iGEM competition or give up
+because of their limitation of conducting wetlabs.\
+After having an overview of high schools in Kunshan,
+we decided to contact with Dipont Huayao Collegiate School Kunshan to give a speech.\
+In the first part of our presentation, we introduced biology team, modelling team,
+wiki team and human practice team,
+including their work and collaborations between different subgroups.
+This part gave high school students an overview of what is iGEM and what they can do.
+
+![photo](https://static.igem.wiki/teams/4161/wiki/education2.jpg)
+
+
+In China, people often use stomachache or feel uncomfortable at stomach
+to summarize almost every disease of digestive tract. This could lead to medical issues.
+For example, people may choose to take OTC stomach medicines instead of going
+to a doctor.
+Symptoms may get remission.
+However, this can lay an underlying problem in the future, such as changing the gut-microbiota.\
+To help the public have a better understanding of digesting,
+we popularized GI Microbiome and GI tract. Functions of each human organ
+and different intestinal floras were explained in detail.
+Along with knowledge, we provided two fun facts --“Mom passes gut microbiota to baby”
+and “Having stomachache and diarrhea before exams”. Besides GI tract,
+we also mentioned the harm that using antibiotics can do to gastrointestinal tract.
+Along with distributing brochures, our audience understood the basic knowledge of GI
+parts. Here is our brochure. <https://static.igem.wiki/teams/4161/wiki/aqua-and-purple-medical-trifold-brochure.pdf>
+
+![photo](https://static.igem.wiki/teams/4161/wiki/education3.jpg)
+
+In China, there is an increasing trend of taking probiotic products.
+Along with the trend, multiple probiotic products flooded into the health product
+market. With fancy advertisements and product patents or logos of importing,
+it is hard for consumers to choose the right products.
+So, we decided to give popularization of science which is corresponded
+to this problem.
+
+In this part, we introduced three kinds of probiotics that products mainly contain:
+Bifidobacterium, Lactobacillus and Enterococcus.
+We mentioned their functions and some potential negative effects
+that these probiotic strains may lead to.
+We provided our advice for consuming probiotics and how to choose relevant
+products at last.
+
+![photo](https://static.igem.wiki/teams/4161/wiki/education4.jpg)
+
+To conclude, we aim to teach people about GI tract and probiotics in a more interesting
+and effective way.
+We first contact with Dipont Huayao Collegiate School Kunshan to
+confirm our target audience, high school students and teachers.
+So, we decided on the educational level of our presentation to make sure students
+and teachers can have a better understanding of basic knowledge.
+For key concepts and academic terms, we annotated them in Chinese as well.
+To promote our audience to be more engaged in our presentation,
+we shared fun facts of GI tract and decorated our PowerPoint with fancy pictures.
+We also dove deeper into the concept of healthy gut and understand
+how they will articulate the problem of GI tract through our Q&A session.
+Through this presentation, more than 330 middle and high school students and
+teachers had basic knowledge of GI and probiotics and knew iGEM competitions further.
+We will build further collaborations with Dipont Huayao Collegiate School Kunshan.
+We are looking forward to helping them build their iGEM team and having more communications
+about synthetic biology.
+
+![photo](https://static.igem.wiki/teams/4161/wiki/education5.jpg)
+
+
+
 
 ### Summary
-
-We have devoted in several education activities.
+In conclusion, we invited different audiences to engage in communications about
+synthetic biology this year.
+In our activities, we aimed to not only teach other people but also learn new things
+by ourselves.
+Education is seldom one way of teaching and learning. During the process of
+conducting education activities, we dove deeper into different contexts and
+understand problems from multiple perspectives.
+We gained lots of insights from external sources, such as professors, companies,
+literature etc.\
 On-campus education allows us to better transfer knowledge about synthetic
 biology and shigella treatment to our students, as well as gather fresh
 blood for the next year's team.
 The science popularization and education in local school also gives
 us the opportunity to communicate with middle and high school students,
 understand their ideas and answer their doubts.
+We have accumulated several key conclusions for everyone aiming to have
+any influence through education in iGEM:
+- Connect to 
+people from different institutions and organizations as much as possible --- thus
+you can understand problems or think from different perspectives.
+- Keep in touch with collaborators whoever you have cooperated with --- you may
+build lasting cooperations that other teams did not have.
+- Think outside the box but also think within the box - experience from those who
+have worked on your topic before is important.
+- Know you audience – when organizing an event or giving a presentation,
+consider the types of your target audience.
+
