@@ -20,7 +20,7 @@ Distribution of antibiotics is the main treatment as of today.
 
 It is costly and time consuming.
 
-Side effects include degration of GI tract microbiome,
+Side effects include degradation of GI tract microbiome,
 and the emergence of more antibiotic resistant strains.
 <div class="grid grid-flow-col">
 <img alt="Figure 1" src="https://static.igem.wiki/teams/4161/wiki/hmpg1-1-main.png" />

@@ -9,7 +9,7 @@
 Scientific research has always had far-reaching significance in our study and
 daily routine, and even in the development of the whole society. Scientific
 research can comprehend us a better understanding of the nature and properties
-of matter. Analyzing the research objects elaboratively can accelerate the
+of matter. Analyzing the research objects elaborately can accelerate the
 development of human knowledge accumulation.
 
 Our project follows a shared blueprint for peace and prosperity for people and

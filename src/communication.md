@@ -56,8 +56,8 @@ greatly to the first stage of human practice.
 
 ## Interview with Dr. Beckford
 
-After we successfully predicted the 3d structure of fusion protein-antibody
-complex by using Robetta and Alphafold2, the focus shift to how the fusion
+After we successfully predicted the 3d structure of the fusion protein-antibody
+complex by using Robetta and Alphafold2, the focus shifted to how the fusion
 protein will influence the binding (docking) between antibody and antigen. We
 plan to get some insights about this from computer modeling before the wet lab
 begins.
@@ -76,8 +76,9 @@ researchers, with many online teaching resources accessible.
 
 To improve the speed of computer modeling, Prof. Floyd emphasized the
 preprocessing of protein structures. Namely, the antigen structure. He
-suggested that we should delete the floating molecules outside the binding sites and keep
-the inside ones, since we only care about the binding scenario. He also pointed
+suggested that since we only care about the binding scenario,
+we should delete the floating molecules outside the binding sites and keep
+the inside ones. He also pointed
 out that virtual screening could help if we want to do more mutations to the
 binding sites. Concerning the fusion protein-antibody complex models, since
 they are the optimal prediction given by Robetta and Alphafold2, we assume

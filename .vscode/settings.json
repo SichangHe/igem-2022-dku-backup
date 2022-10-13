@@ -21,6 +21,7 @@
         "igem",
         "inclusivity",
         "inspirable",
+        "intimin",
         "IPTG",
         "isotype",
         "Jiani",
@@ -115,5 +116,11 @@
         }
     },
     "editor.formatOnSave": true,
-    "files.autoSaveDelay": 300
+    "files.autoSaveDelay": 300,
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "file"
+        }
+    ]
 }
