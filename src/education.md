@@ -129,11 +129,8 @@ and so on.
 ![Club expo figure 2](https://static.igem.wiki/teams/4161/wiki/club-expo2.jpg)
 
 
-### Off-campus education
 
-=======
 ## Off-campus education
->>>>>>> 063fd387d28a214337b7bc816c36e51914403fe5
 
 This year, expanding iGEM participants and audience was included in the goals of our human practice. Although iGEM competition has a solid audience base in universities,
 students in high schools have little knowledge of iGEM competition or give up
