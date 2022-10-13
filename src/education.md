@@ -14,7 +14,7 @@ This year, we conduct popular science education both on and off campus.
 
 - On campus, we have established a journal club, where different members of the
 team introduced cutting-edge knowledge about synthetic biology every two weeks,
-and we are happy to see many freshmen participating. We also cohosted a Biology Seminar Series,
+and we are happy to see many freshmen participating. For general audience on campus, we participated in the club expo, and designed activites to promote the scientific mindset. We also cohosted a Biology Seminar Series,
 inviting Prof. Dong Hyun Jo, from Seoul National University College of Medicine
 to give a talk on therapeutic revolution for the DKU community.
 
@@ -23,6 +23,48 @@ to more than 330 middle and high school students and teachers about our project
 and synthetic biology.
 
 ## On-campus education
+
+### Club Expo
+
+![Club expo figure 1](https://static.igem.wiki/teams/4161/wiki/club-expo1.jpg)
+
+We participated in 2022 DKU club expo both online and on-site. In the online expo, we
+introduced IGEM club to international students.
+Our club aims to share frontier knowledge and technologies of synthetic biology.
+In addition, we also seek for potential team members of the DKU iGEM team next year.
+Club activities are conducted by student presentations
+and speeches given by guest speakers.
+The iGEM teamwork is divided into 4 parts,
+biological experiments,
+modeling,
+wiki design and human practice.
+New club members are welcomed to select the parts which they are interested in to participate in the competition.
+
+For the on-site club expo,
+we also made a small presentation to spread common knowledge about probiotics
+and provided our advice for consuming commercial probiotic products.
+Our central idea is that the aim of commercial probiotic products
+should be limited to minor gut discomforts or to improve general health,
+and long-term consumption is not suggested by the doctors we consulted.
+Also, we introduced some potential harms of consuming probiotics,
+trying to give the audience
+a full image of the commonly advertised probiotic products.
+We also brought some lab consumables,
+such as microcentrifuge tubes and agar plates,
+to introduce some basic lab skills.
+Students who attended the club expo can have a chance to learn basic experimental skills, for example, 
+how to streak in an agar plate
+and how to use micropipette and centrifuge machines.
+Besides providing basic knowledge and doing the on-site presentation,
+we prepared some interesting questions related to Biology and gut microbiomes
+for college students from all majors to answer in order to enlarge the students' knowledge about gut microbiomes
+and biology.
+The questions include "how H. pylori were proved to be capable of causing ulcers,"
+"pick out the probiotics from several names of microorganisms,"
+"estimate the number of microorganisms in their stomach", etc.
+
+![Club expo figure 2](https://static.igem.wiki/teams/4161/wiki/club-expo2.jpg)
+
 ### Wang-Cai Biology Seminar Series
 
 ![Wang-Cai Talk](https://static.igem.wiki/teams/4161/wiki/wang-cai-talk.jpeg)
@@ -53,7 +95,7 @@ Dr. Jo greatly inspired us, which allow us to have more understanding of graduat
 choices and future career plans.
 
 ### Journal Club
-In order to have better educational effect and promote our project , we
+To enhance education efforts and promote our project, we
 organized the Journal Club activity in the Duke Kunshan community.
 
 The first Journal Club was held on April 30th, 2022. At the very beginning of
@@ -69,7 +111,7 @@ the sharing and raised many inspiring questions.
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-1st-journal-club.jpg"
 />
 
-The following journal club series continued from July, 2022 to October, 2022.
+The following journal club series continued from July to October 2022.
 Details of the presenters and their topics are listed in the table below.
 
 | Date | Presenter | Topic | Reference Paper |
@@ -98,7 +140,7 @@ Club activities are conducted by student presentations
 and speeches given by guest speakers.
 The iGEM teamwork is divided into 4 parts,
 biological experiments,
-modelling,
+modeling,
 wiki design and human practice.
 New club members are welcomed to select the parts which they are interested in to participate in the competition.
 
@@ -127,8 +169,6 @@ The questions include "how H. pylori were proved to be able to cause ulcers,"
 and so on.
 
 ![Club expo figure 2](https://static.igem.wiki/teams/4161/wiki/club-expo2.jpg)
-
-
 
 ## Off-campus education
 
@@ -202,7 +242,7 @@ synthetic biology this year.
 In our activities, we aimed to not only teach other people but also learn new things
 by ourselves.
 Education is seldom one way of teaching and learning. During the process of
-conducting education activities, we dove deeper into different contexts and
+conducting educational activities, we dove deeper into different contexts and
 understand problems from multiple perspectives.
 We gained lots of insights from external sources, such as professors, companies,
 literature etc.\

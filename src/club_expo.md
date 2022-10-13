@@ -10,7 +10,7 @@ Club activities are conducted by student presentations
 and speeches given by guest speakers.
 The iGEM teamwork is divided into 4 parts,
 biological experiments,
-modelling,
+modeling,
 wiki design and human practice.
 New club members are welcomed to select the parts which they are interested in to participate in the competition.
 
@@ -35,7 +35,6 @@ for college students from all majors to answer in order to enlarge the students'
 and biology.
 The questions include "how H. pylori were proved to be able to cause ulcers,"
 "pick out the probiotics from several names of microorganisms,"
-"estimate the number of microorganisms in their stomach,"
-and so on.
+"estimate the number of microorganisms in their stomach", etc.
 
 ![Club expo figure 2](https://static.igem.wiki/teams/4161/wiki/club-expo2.jpg)
