@@ -118,13 +118,11 @@ brainstorming and provided proof of concept through the review of related
 literature.
 Wrote the project abstract and refined the general methodology framework. Built
 protein models for candidate microbes via Alphafold and Haddock and evaluated
-<<<<<<< HEAD
 fidelity of each model via quantitative metrics.
 Helped with mathematics modeling for the part of efficiency description.
-=======
 the fidelity of each model via quantitative metrics.
 Modeled the growth of chosen microbe model computationally.
->>>>>>> 8934e80f99f5c0d6e054ce4ae560a1088e80982e
+
 
 ### Yuxiang He
 
