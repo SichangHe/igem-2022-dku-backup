@@ -127,8 +127,8 @@ const snap_home_articles = () => {
         current_scroll = window.scrollY;
         if (
             snapping ||
-            window.innerHeight < 600 ||
-            first_article.offsetWidth / window.innerHeight > 1.5
+            window.innerWidth < 640 ||
+            window.innerHeight + 200 < last_article.offsetHeight
         ) {
             return;
         }
