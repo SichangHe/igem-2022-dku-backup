@@ -35,7 +35,6 @@ for college students from all majors to answer in order to enlarge the students'
 and biology.
 The questions include "how H. pylori were proved to be able to cause ulcers,"
 "pick out the probiotics from several names of microorganisms,"
-"estimate the number of microorganisms in their stomach,"
-and so on.
+"estimate the number of microorganisms in their stomach", etc.
 
 ![Club expo figure 2](https://static.igem.wiki/teams/4161/wiki/club-expo2.jpg)
