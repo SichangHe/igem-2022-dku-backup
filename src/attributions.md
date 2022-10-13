@@ -79,8 +79,10 @@ experiments.
 
 ### Zhenyu Xu
 
-Organized protein structure and docking modeling.
-Helped conduct human practice.
+Modeling team leader.
+Organized protein structure and docking modeling. Organized mathematics modeling.
+Helped conduct human practice of expert interview, designed CCiC poster, edited 
+the project presentation video.
 Shot and edited the promotion video.
 Wiki writing.
 In charge of outreach, secured funding for the project.
@@ -116,7 +118,7 @@ literature.
 Wrote the project abstract and refined general methodology framework. Built
 protein models for candidate microbes via Alphafold and Haddock and evaluated
 fidelity of each model via quantitative metrics.
-Modelled growth of chosen microbe model computationally.
+Helped with mathematics modeling for the part of efficiency description.
 
 ### Yuxiang He
 
