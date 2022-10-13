@@ -9,7 +9,7 @@
 Scientific research has always had far-reaching significance in our study and
 daily routine, and even in the development of the whole society. Scientific
 research can comprehend us a better understanding of the nature and properties
-of matter. Analyzing the research objects elaboratively can accelerate the
+of matter. Analyzing the research objects elaborately can accelerate the
 development of human knowledge accumulation.
 
 Our project follows a shared blueprint for peace and prosperity for people and
@@ -25,14 +25,14 @@ side effects including the degradation of GI tract microbiome diversity while
 having stronger pathogen inhibition compared to traditional probiotic treatment
 (Langdon et al., 2016).
 
-#### Project “GutGuard” is mainly based on Goals 3, 9, 17
+#### Project "GutGuard" is mainly based on Goals 3, 9, 17
 
 ## Goal 3| Good health and well-being
 
 _**Ensure healthy lives and promoting well-being for all persons with
 disabilities**_
 
-We prospect our team’s project can make our local community and even the
+We prospect our team's project can make our local community and even the
 world conscious of the prominence of life and health, especially the gut
 problem. The gut problem may cause a person to struggle to absorb nutrients and
 regulate blood sugar. Additionally, weight loss or gain may be caused by
@@ -45,7 +45,7 @@ reasons can change bacteria so much that antibiotics do not work against them
 a risk factor for all-cause and cardiovascular mortality (Heianza, 2020).
 
 As the current therapies of antibiotics promote *Shigella* to develop antibiotic
-resistance, we are inspired by this problem and focus on shigella’s drug.
+resistance, we are inspired by this problem and focus on *Shigella*'s drug.
 Reducing antibiotic resistance and minimizing the side effects including the
 degradation of GI tract microbiome diversity can be achieved compared to the
 traditional probiotic treatment (Langdon et al., 2016). We mainly worked toward
@@ -71,7 +71,7 @@ We proposed a novel scientific solution to an existing global problem. We
 mainly focused on a novel method for battling antibiotic-resistant pathogens by
 **displaying nanobodies on the surface of the probiotics**. While meeting the
 goal, our laboratory team did various ways (using three different cells for
-trial: E. coli, Yeast and *Lactococcus lactis*) to achieve and increase the
+trial: *E. coli*, Yeast and *Lactococcus lactis*) to achieve and increase the
 possibility of success. Additionally, our team collaborates with other iGEM
 teams from developing countries to contribute to scientific advancement there.
 

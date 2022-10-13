@@ -7,7 +7,7 @@
 
 We had science communications during different stages of our project.
 Firstly, we designed a socially-oriented questionnaire to find out how much the
- public knows about shigella.
+ public knows about *Shigella*.
 Then, through expert interviews, we managed to gain insights into our project feasibility
 and possible future directions. Finally,
 we participated in on-campus communication to let more people know about shigella
@@ -161,7 +161,7 @@ we engineered plasmids from the original *E. coli* Nissle genome,
 the pMUT plasmids.
 These plasmids are more stable than the pBbB8K.
 For pUC19,
-I don’t see problems with the expression of the pUC19 plasmid.
+I don't see problems with the expression of the pUC19 plasmid.
 However,
 you do need to consider if your antibiotic-resistant marker
 in the plasmid is compatible with the *Shigella* testing.
@@ -190,7 +190,7 @@ disrupting the original gastrointestinal microorganism environment?
 This is a very popular question when it comes to distributing microbes to the gut.
 Actually,
 we could use some of the auxotrophic strains to limit the growth of the bacteria.
-And I think there are many “switches”
+And I think there are many "switches"
 that can turn on the suicide program of those bacteria.
 But in this case,
 I think *E. coli* Nissle 1917 is a very safe bacteria,
@@ -207,7 +207,7 @@ and cooperate this into the PATCH system?
 Magnetic triggers are mostly applied in cancer treatment.
 This is because, in cancer,
 you know the spot of the disease.
-In bacterial infection, it’s hard to locate.
+In bacterial infection, it's hard to locate.
 
 **Q:**
 In Barta et al.,
@@ -220,7 +220,7 @@ It really depends on how you generate the nanobodies.
 When different parts of the pathogen are used in Alpaca immunizations,
 the nanobodies will vary.
 When displaying the nanobodies,
-some work and others don’t.
+some work and others don't.
 We assume this is because of folding problems,
 but we did not figure out the exact reason.  
 
@@ -307,6 +307,40 @@ for college students on innovation and entrepreneurship. In this way, we can
 better promote the topic of synthetic biology to the DKU community and attract
 more fresh blood to participate in innovation. We made posters and participated
 in project exhibitions, and were regularly inspected by the jury on campus.
+
+During the final pitch,
+Lisa Wu and Lingrui Lai made the presentation about our project of *Shigella* treatment
+via synthetic biology methods.
+Lingrui went through the basic concept of *Shigella* and synthetic biology,
+then,
+the current challenges of *Shigella* treatment
+and our suggestions.  
+Lisa introduced the methodology involved and techniques used in our project.
+In the end, they stressed the significance of our project.
+
+Judgers include Kai Huang (Division Chair of Natural and Applied Sciences of DKU),
+Joohyun Lee (Assistant professor of biology of DKU),
+Anastasia Tsigkou (Associate Professor of Biology of DKU),
+Ming-Chun Huang (Associate professor of data and computational science of DKU),
+Liqi Ren (Associate Director for Innovation and Entrepreneurship).
+
+After the presentation,
+Prof. Lee and Dr. Tsigkou presented valuable questions and suggestions.
+
+Prof. Lee recognized the difficulty of antibody therapy and
+informed us of the clear restrictions of FDI approval.
+We assured him that the nanobodies used in our project are thoroughly researched,
+and that we would continue to modify the project to enhance biosafety.
+Dr. Tsigkou asked us about the binding affinity test and false positive.
+This was a question that did not come to us then, so we answered that
+the detection might be conducted through fluorescence microscopy.
+
+After discussing with our PI, Prof. Linfeng Huang,
+we decided that we would use the pull-down method
+in the detection of binding affinity.
+We would conduct the experiment by pulling down on
+both sides of the nanobody-antigen complex.
+For false positives, DKU iGEM member Lingrui Lai suggested isotype testing.
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-on-campus-communication-new.png"
 />

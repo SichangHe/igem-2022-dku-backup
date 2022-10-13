@@ -4,7 +4,7 @@
 </div>
 
 ## Overview
-The novel drug we proposed was to anchor nanobodies on the surface of probiotics, including yeast, Lactococcus, and E. coli, which were then delivered to the gut through a shellac-membraned capsule to combat against pathogens like Shigella. Multiple objectives have been achieved to prove our product.
+The novel drug we proposed was to anchor nanobodies on the surface of probiotics, including yeast, Lactococcus, and E. coli, which were then delivered to the gut through a shellac-membraned capsule to combat against pathogens like *Shigella*. Multiple objectives have been achieved to prove our product.
 
 ## Construction of recombinant plasmids for yeast surface display
 

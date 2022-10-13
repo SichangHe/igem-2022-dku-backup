@@ -3,15 +3,17 @@
     <img src="https://static.igem.wiki/teams/4161/wiki/contri-bg.jpg" />
 </div>
 
-We designed cell surface display platforms for probiotics including yeast,
-*E.coli* Nissle 1917, and *L.lactis*. To be specific, the yeast Aga2 surface
-display platform for nanobodies was developed. We also designed a novel way
-to detect protein surface expression by using flow cytometry. Another
+We designed cell surface display platforms to display nanobodies on probiotics including yeast,
+*E.coli* Nissle 1917, and *L.lactis*. We were able to verify the possibility of expressing nanobodies using the Aga2 surface display system. We also designed a novel way
+to detect protein surface expression by using fluorescence activated cell sorting (FACS). Another
 contribution is the protein modeling protocol. We designed an integrated protocol
 involving the usage of PyMol, RobeTTA, and Alphafold2. Through literature
 review, we were able to determine multiple parameters that measure the accuracy
 of the protein model and evaluated our protein design. We also contributed
 to previous parts by designing our parts with improvements based on past iGEM teams.
+Another contribution is the PCR trouble shooting guide we made during the 
+collaboration with Duke. It contains actual wet lab gel pictures and trouble shooting advice
+for future iGEM teams to reference.
 
 ## Cell surface display platforms
 

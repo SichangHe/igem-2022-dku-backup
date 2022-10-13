@@ -32,7 +32,7 @@ Induced yeasts (display the nanobody on the surface)
 
 "One-step Method Competent Cell Preparation Kit" from Beyotime was used for this experiment. The protocol follows the manual of the product[^1].
 
-[E.coli Competent Cell Transformation](https://static.igem.wiki/teams/4161/wiki/e-coli-competent-cell-transformation.pdf).
+[*E.coli* Competent Cell Transformation](https://static.igem.wiki/teams/4161/wiki/e-coli-competent-cell-transformation.pdf).
 
 [Plasmid Extraction](https://static.igem.wiki/teams/4161/wiki/plasmid-extraction.pdf).
 
@@ -113,7 +113,7 @@ Because of financial and logistical reasons, wet lab experiments of group L were
 
 ### Protocols
 
-Group L intends to display 20ipaD, a nanobody against Shigella, onto *L.lactis*. The plasmid construction is performed in *E.coli* and then transformed into *L.lactis*.
+Group L intends to display 20ipaD, a nanobody against *Shigella*, onto *L.lactis*. The plasmid construction is performed in *E.coli* and then transformed into *L.lactis*.
 
 [Electroporation Protocol for *Lactococcus lactis*](https://static.igem.wiki/teams/4161/wiki/electroporation-protocol-for-lactococcus-lactis.pdf).
 

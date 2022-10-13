@@ -14,8 +14,9 @@ The single elements refer to every functional unit of our key genetic parts,
 like promoter, linker, important polypeptide, etc. A total of seven single
 elements were documented.
 
-| Part Code    | Part name     | Link                                |
-|--------------|---------------|-----------------------------------------|
+| Part Code    | Part name     | Link                                      |
+| ------------ | ------------- | ----------------------------------------- |
+| BBa_K4161500 | 20ipaD for S. cereviae Expression   | <http://parts.igem.org/Part:BBa_K4161500> |
 | BBa_K4161501 | T7 Promoter   | <http://parts.igem.org/Part:BBa_K4161501> |
 | BBa_K4161502 | GAL1 Promoter | <http://parts.igem.org/Part:BBa_K4161502> |
 | BBa_K4161503 | Aga2          | <http://parts.igem.org/Part:BBa_K4161503> |
@@ -30,21 +31,21 @@ The key composite segments are clusters of multiple single elements, they make
 up the key expression modules or functional units of the genetic model. Two key
 composite segments were documented.
 
-| Part Code    | Part name                                                    |Link                                    |
-|--------------|--------------------------------------------------------------|-----------------------------------------  |
-| BBa_K4161301 | Single Domain Antibody 20ipaD Conjugated Aga2 Express Module | <http://parts.igem.org/Part:BBa_K4161301> |
-| BBa_K4161508 | 488aa recombinant protein, Aga2 + ipaD| <http://parts.igem.org/Part:BBa_K4161508> |
+| Part Code    | Part name                                                    | Link                                      |
+| ------------ | ------------------------------------------------------------ | ----------------------------------------- |
+| BBa_K4161900 | Single Domain Antibody 20ipaD Conjugated Aga2 Express Module | <http://parts.igem.org/Part:BBa_K4161900> |
+| BBa_K4161508 | 488aa recombinant protein, Aga2 + ipaD                       | <http://parts.igem.org/Part:BBa_K4161508> |
 
 ### Group Y vector
 
 Most of our genetic designs were based on the yeast surface display vector
 pYD1, which is also documented.
 
-| Part Code    | Part name                                                    |Link                                   |
-|--------------|--------------------------------------------------------------|------------------------------------------|
-| BBa_K4161302 | pYD1 plasmid                                                 | <http://parts.igem.org/Part:BBa_K4161302>|
+| Part Code    | Part name    | Link                                      |
+| ------------ | ------------ | ----------------------------------------- |
+| BBa_K4161302 | pYD1 plasmid | <http://parts.igem.org/Part:BBa_K4161302> |
 
-## E.coli Nissle 1917 (Group E) Parts
+## *E.coli* Nissle 1917 (Group E) Parts
 
 ### Group E single elements
 
@@ -53,43 +54,43 @@ curli protein (csg) operon fragments,
 linkers, tags, signal peptides,
 promoters and terminators. A total of 15 parts were documented.
 
-| Part code | Part name| Link |
-| ------ | ------ | ------ |
-BBa_K4161001  | 20IpaD | <http://parts.igem.org/Part:BBa_K4161001>
-BBa_K4161002  | JMK-H2 | <http://parts.igem.org/Part:BBa_K4161002>
-BBa_K4161010  | csgA | <http://parts.igem.org/Part:BBa_K4161010>
-BBa_K4161011  | csgB | <http://parts.igem.org/Part:BBa_K4161011>
-BBa_K4161012  | csgC | <http://parts.igem.org/Part:BBa_K4161012>
-BBa_K4161013  | csgE | <http://parts.igem.org/Part:BBa_K4161013>
-BBa_K4161014  | csgF | <http://parts.igem.org/Part:BBa_K4161014>
-BBa_K4161015  | csgG | <http://parts.igem.org/Part:BBa_K4161015>
-BBa_K4161016  | riboJ | <http://parts.igem.org/Part:BBa_K4161016>
-BBa_K4161017 | Neae: the intimin fragment for surface display | <http://parts.igem.org/Part:BBa_K4161017>
-BBa_K4161018 | pTlpA promotor C7 variant | <http://parts.igem.org/Part:BBa_K4161018>
-BBa_K4161019 | FE-36 linker | <http://parts.igem.org/Part:BBa_K4161019>
-BBa_K4161020 | JPS-G3 | <http://parts.igem.org/Part:BBa_K4161020>
-BBa_K4161021 | 3xFlag | <http://parts.igem.org/Part:BBa_K4161021>
-BBa_K4161022 | thr terminator | <http://parts.igem.org/Part:BBa_K4161022>
+| Part code    | Part name                                      | Link                                      |
+| ------------ | ---------------------------------------------- | ----------------------------------------- |
+| BBa_K4161001 | 20IpaD                                         | <http://parts.igem.org/Part:BBa_K4161001> |
+| BBa_K4161002 | JMK-H2                                         | <http://parts.igem.org/Part:BBa_K4161002> |
+| BBa_K4161010 | csgA                                           | <http://parts.igem.org/Part:BBa_K4161010> |
+| BBa_K4161011 | csgB                                           | <http://parts.igem.org/Part:BBa_K4161011> |
+| BBa_K4161012 | csgC                                           | <http://parts.igem.org/Part:BBa_K4161012> |
+| BBa_K4161013 | csgE                                           | <http://parts.igem.org/Part:BBa_K4161013> |
+| BBa_K4161014 | csgF                                           | <http://parts.igem.org/Part:BBa_K4161014> |
+| BBa_K4161015 | csgG                                           | <http://parts.igem.org/Part:BBa_K4161015> |
+| BBa_K4161016 | riboJ                                          | <http://parts.igem.org/Part:BBa_K4161016> |
+| BBa_K4161017 | Neae: the intimin fragment for surface display | <http://parts.igem.org/Part:BBa_K4161017> |
+| BBa_K4161018 | pTlpA promotor C7 variant                      | <http://parts.igem.org/Part:BBa_K4161018> |
+| BBa_K4161019 | FE-36 linker                                   | <http://parts.igem.org/Part:BBa_K4161019> |
+| BBa_K4161020 | JPS-G3                                         | <http://parts.igem.org/Part:BBa_K4161020> |
+| BBa_K4161021 | 3xFlag                                         | <http://parts.igem.org/Part:BBa_K4161021> |
+| BBa_K4161022 | thr terminator                                 | <http://parts.igem.org/Part:BBa_K4161022> |
 
 ### Group E composite segments
 
 Group E's composite parts are designed to express surface protein-nanobody fusion proteins. A total of 4 composite parts are documented.
 
-| Part code | Part name| Link |
-| ------ | ------ | ------ |
-BBa_K4161003 | csg-JMK-H2, Csg surface display system on *E. coli* Nissle 1917 | <http://parts.igem.org/Part:BBa_K4161003>
-BBa_K4161004 | intimin-20IpaD, Nanobody surface display system based on intimin| <http://parts.igem.org/Part:BBa_K4161004>
-BBa_K4161023 | csgA-JPS-G3-3xFLAG, Csg surface display system on *E. coli* Nissle 1917 | <http://parts.igem.org/Part:BBa_K4161023>
-BBa_K4161100 | Csg surface display system on *E. coli* Nissle 1917 |<http://parts.igem.org/Part:BBa_K4161100>
+| Part code    | Part name                                                               | Link                                      |
+| ------------ | ----------------------------------------------------------------------- | ----------------------------------------- |
+| BBa_K4161003 | csg-JMK-H2, Csg surface display system on *E. coli* Nissle 1917         | <http://parts.igem.org/Part:BBa_K4161003> |
+| BBa_K4161004 | intimin-20IpaD, Nanobody surface display system based on intimin        | <http://parts.igem.org/Part:BBa_K4161004> |
+| BBa_K4161023 | csgA-JPS-G3-3xFLAG, Csg surface display system on *E. coli* Nissle 1917 | <http://parts.igem.org/Part:BBa_K4161023> |
+| BBa_K4161100 | Csg surface display system on *E. coli* Nissle 1917                     | <http://parts.igem.org/Part:BBa_K4161100> |
 
 ### Group E vectors
 
 Vectors pET30a and pUC19 are used for recombinant plasmid construction and protein expression.
 
-| Part code | Part name| Link |
-| ------ | ------ | ------ |
-BBa_K4161024 | pET30a, empty vector | <http://parts.igem.org/Part:BBa_K4161024>
-BBa_K4161025 | pUC19, empty vector | <http://parts.igem.org/Part:BBa_K4161025>
+| Part code    | Part name            | Link                                      |
+| ------------ | -------------------- | ----------------------------------------- |
+| BBa_K4161024 | pET30a, empty vector | <http://parts.igem.org/Part:BBa_K4161024> |
+| BBa_K4161025 | pUC19, empty vector  | <http://parts.igem.org/Part:BBa_K4161025> |
 
 ## *L.lactis* NZ9000 parts
 
@@ -98,28 +99,28 @@ BBa_K4161025 | pUC19, empty vector | <http://parts.igem.org/Part:BBa_K4161025>
 Single parts in Group L includes the following elements:
 Group L parts
 
-| Part code | Part name| Link |
-| ------ | ------ | ------ |
-BBa_K4161600 | Usp45 nisin promoter | <http://parts.igem.org/Part:BBa_K4161600>
-BBa_K4161603 | AcmA3b | <http://parts.igem.org/Part:BBa_K4161603>
-BBa_K4161602 | 20ipaD | <http://parts.igem.org/Part:BBa_K4161602>
-BBa_K4161604 | signalling peptide in *L.lactis* | <http://parts.igem.org/Part:BBa_K4161604>
-BBa_K4161605 | Flag-tag | <http://parts.igem.org/Part:BBa_K4161605>
+| Part code    | Part name                        | Link                                      |
+| ------------ | -------------------------------- | ----------------------------------------- |
+| BBa_K4161600 | Usp45 nisin promoter             | <http://parts.igem.org/Part:BBa_K4161600> |
+| BBa_K4161603 | AcmA3b                           | <http://parts.igem.org/Part:BBa_K4161603> |
+| BBa_K4161602 | 20ipaD                           | <http://parts.igem.org/Part:BBa_K4161602> |
+| BBa_K4161604 | signalling peptide in *L.lactis* | <http://parts.igem.org/Part:BBa_K4161604> |
+| BBa_K4161605 | Flag-tag                         | <http://parts.igem.org/Part:BBa_K4161605> |
 
-### Composite elemnent
+### Composite element
 
 The composite element of Group L includes Usp45-signaling peptide in L.lactis-Flagtag-20ipaD-AcmA3b.
 
-| Part code | Part name| Link |
-| ------ | ------ | ------ |
-BBa_K4161600 | Usp45-signaling peptide in L.lactis-20ipaD-AcmA3b | <http://parts.igem.org/Part:BBa_K4161997>
+| Part code    | Part name                                         | Link                                      |
+| ------------ | ------------------------------------------------- | ----------------------------------------- |
+| BBa_K4161600 | Usp45-signaling peptide in L.lactis-20ipaD-AcmA3b | <http://parts.igem.org/Part:BBa_K4161997> |
 
 ### Group L vector
 
-### Composite elemnent
+### Composite element
 
 The plasmid backbone of Group L is pNZ8148, a plasmid suitable for *L.lactis*.
 
-| Part code | Part name| Link |
-| ------ | ------ | ------ |
-BBa_K4161601 | pNZ8148 | <http://parts.igem.org/Part:BBa_K4161601>
+| Part code    | Part name | Link                                      |
+| ------------ | --------- | ----------------------------------------- |
+| BBa_K4161601 | pNZ8148   | <http://parts.igem.org/Part:BBa_K4161601> |

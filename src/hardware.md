@@ -12,7 +12,7 @@ Microcapsule is a microscope-scale capsulation format.
 The probiotics were wrapped in materials that can ensure the reservation,
 activation, release, and environmental-resistance of the probiotics.
 It would be presented as powder.
-“Microencapsulation is a technology that serves as a tool to protect the
+"Microencapsulation is a technology that serves as a tool to protect the
 sensitive and expensive nutrients (Meyers et al., 1998), by providing them with
 a protective wall,
 which allows them to get released at a particular site, at a particular time,
@@ -34,4 +34,3 @@ and whey protein isolate (WPI) addition had a synergistic effect."[^Shellac]
 [^Shellac]: Huang, X., Gänzle, M., Zhang, H., Zhao, M., Fang, Y. and Nishinari, K. (2021), Microencapsulation of probiotic lactobacilli with shellac as moisture barrier and to allow controlled release. J Sci Food Agric, 101: 726-734. <https://doi.org/10.1002/jsfa.10685>
 
 [^pH_shellac]:J. Barbosa, S. Borges, M. Amorim, M.J. Pereira, A. Oliveira, M.E. Pintado, P. Teixeira.(2015). Comparison of spray drying, freeze drying and convective hot air drying for the production of a probiotic orange powder. J Funct Foods. <https://doi.org/10.1016/j.jff.2015.06.001>
-

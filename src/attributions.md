@@ -11,7 +11,8 @@ Biology Team leader.
 In charge of wet lab organization, human practice organizations and wiki construction.
 Designed the overall topic and approach of the problem to tackle
 with synthetic biology design. Designer of E.coli csgA surface display
-and lab experiments of the *E.coli* group.
+and lab experiments of the *E.coli* group. 
+In charge of outreach, secured funding for the project.
 
 ### Yuxin Wang
 
@@ -21,7 +22,7 @@ Also assisted in Wiki writing and expert interview.
 
 ### Yunyi Ru
 
-In charge of background research, E. *coli* group lab design, wet labs & wiki
+In charge of background research, *E. coli* group lab design, wet labs & wiki
 writing.
 Hosted journal clubs and science lectures for human practice.
 
@@ -33,7 +34,7 @@ Conducted expert interviews for human practice.
 ### Chang Shen
 
 Proposed the project topic, participated in plasmid design and workflow design
-of E.coli group,
+of *E.coli* group,
 participated in wet labs and background research.
 Helped conduct collaboration with XJLTU as a part of human practice.
 
@@ -82,6 +83,7 @@ Organized protein structure and docking modeling.
 Helped conduct human practice.
 Shot and edited the promotion video.
 Wiki writing.
+In charge of outreach, secured funding for the project.
 
 ### Sichang He (Steven)
 
@@ -113,12 +115,12 @@ brainstorming and provided proof of concept through review of related
 literature.
 Wrote the project abstract and refined general methodology framework. Built
 protein models for candidate microbes via Alphafold and Haddock and evaluated
-fidelity of each model via quantiative metrics.
+fidelity of each model via quantitative metrics.
 Modelled growth of chosen microbe model computationally.
 
 ### Yuxiang He
 
-Built a 3D model for the drug delivery system.
+Responsible for building a 3D model of the microcapsule. Created standard pages and provided technical support for the wiki. Provided technical support in using the Gitlab repository. Helped with protein modeling using PyMOL.
 
 ## Advising support
 
@@ -150,8 +152,11 @@ Thanks to Dr. Jin Miao, Dr. Yingxue Li for advising our wet lab experiments. Tha
 
 ## Communications support
 
-Thanks to Dr. Floyd
-Beckford and Dr. Huansheng Cao at Duke Kunshan University,
+Thanks to Prof. Floyd
+Beckford and Dr. Huansheng Cao of Duke Kunshan University,
 Dr. Neel Joshi from Northwestern University,
 and Dr. Jisheng Lin at Sinovac Biotech CO.,LTD. for providing effective advice on
 our project design and development.
+Thanks to Prof. Dong Hyun Jo of Seoul National University College
+of Medicine for contributing to the education efforts of our project.
+
