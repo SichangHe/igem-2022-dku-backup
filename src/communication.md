@@ -10,7 +10,7 @@ Firstly, we designed a socially-oriented questionnaire to find out how much the
  public knows about *Shigella*.
 Then, through expert interviews, we managed to gain insights into our project feasibility
 and possible future directions. Finally,
-we participated in on-campus communication to let more people know about shigella
+we participated in on-campus communication to let more people know about *Shigella*
 and surface display technology.
 
 ## Socially-Oriented Questionnaire

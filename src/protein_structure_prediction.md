@@ -177,7 +177,7 @@ structure of 20ipaD.
 
 Interaction imformation (binding sites) of 20ipaD and ipaD
 is found in the paper: ***Single-Domain Antibodies Pinpoint Potential Targets
-within Shigella
+within *Shigella*
 Invasion Plasmid Antigen D
 of the Needle Tip Complex for Inhibition of Type III Secretion***[^Binding].
 Since the alignment shows that the 20ipaD

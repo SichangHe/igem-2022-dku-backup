@@ -118,7 +118,7 @@ However, due to time limitation, this part has not been successfully implemented
 
 ### Successes
 
-- Designed nano-antibody targeting the IpaD, a Shigella-exclusive antigen. Calculated the binding kinetics of the nano-antibody with the *Shigella* antigen in silico to verify the antibody design.
+- Designed nano-antibody targeting the IpaD, a *Shigella*-exclusive antigen. Calculated the binding kinetics of the nano-antibody with the *Shigella* antigen in silico to verify the antibody design.
 - Developed engineered bacterium (DH5α) and yeast (EBY100) that express the pathogenic antigen IpaD and targeted antibody on the cell surface, respectively.
 
 ### Future plans
