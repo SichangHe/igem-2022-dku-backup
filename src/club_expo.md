@@ -10,7 +10,7 @@ Club activities are conducted by student presentations
 and speeches given by guest speakers.
 The iGEM teamwork is divided into 4 parts,
 biological experiments,
-modelling,
+modeling,
 wiki design and human practice.
 New club members are welcomed to select the parts which they are interested in to participate in the competition.
 

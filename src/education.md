@@ -36,7 +36,7 @@ Club activities are conducted by student presentations
 and speeches given by guest speakers.
 The iGEM teamwork is divided into 4 parts,
 biological experiments,
-modelling,
+modeling,
 wiki design and human practice.
 New club members are welcomed to select the parts which they are interested in to participate in the competition.
 
@@ -140,7 +140,7 @@ Club activities are conducted by student presentations
 and speeches given by guest speakers.
 The iGEM teamwork is divided into 4 parts,
 biological experiments,
-modelling,
+modeling,
 wiki design and human practice.
 New club members are welcomed to select the parts which they are interested in to participate in the competition.
 
@@ -169,8 +169,6 @@ The questions include "how H. pylori were proved to be able to cause ulcers,"
 and so on.
 
 ![Club expo figure 2](https://static.igem.wiki/teams/4161/wiki/club-expo2.jpg)
-
-
 
 ## Off-campus education
 
