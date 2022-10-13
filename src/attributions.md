@@ -152,7 +152,7 @@ Thanks to Dr. Jin Miao, Dr. Yingxue Li for advising our wet lab experiments. Tha
 
 ## Communications support
 
-Thanks to Dr. Floyd
+Thanks to Prof. Floyd
 Beckford and Dr. Huansheng Cao of Duke Kunshan University,
 Dr. Neel Joshi from Northwestern University,
 and Dr. Jisheng Lin at Sinovac Biotech CO.,LTD. for providing effective advice on
