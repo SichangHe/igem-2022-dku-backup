@@ -107,7 +107,7 @@ Group L parts
 | BBa_K4161604 | signalling peptide in *L.lactis* | <http://parts.igem.org/Part:BBa_K4161604> |
 | BBa_K4161605 | Flag-tag                         | <http://parts.igem.org/Part:BBa_K4161605> |
 
-### Composite elemnent
+### Composite element
 
 The composite element of Group L includes Usp45-signaling peptide in L.lactis-Flagtag-20ipaD-AcmA3b.
 
@@ -117,7 +117,7 @@ The composite element of Group L includes Usp45-signaling peptide in L.lactis-Fl
 
 ### Group L vector
 
-### Composite elemnent
+### Composite element
 
 The plasmid backbone of Group L is pNZ8148, a plasmid suitable for *L.lactis*.
 

@@ -12,7 +12,7 @@ biofilter core to replace current industry filter cores for heavy metal wastewat
 Therefore, we decided to arrange a meeting to share each other's idea of this topic
 and discuss the way we might work together.
 
-### Disscussion
+### Discussion
 
 After we both introduced our projects, we exchanged our thoughts about each other's project.
 
@@ -82,4 +82,3 @@ key topics that might be helpful to the project design.
 - **Supplement of experimental materials**\
   We would like to give special thanks to team XJTLU for providing us the
   csg sequence for wet-lab.
-

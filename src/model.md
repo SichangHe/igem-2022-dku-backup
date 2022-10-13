@@ -186,12 +186,12 @@ $$
 \text{Density}_{max} (\log_{10}\text{cfu/ml}) = A + C
 $$
 
-So the uppper limit of the max density at $t=5\text{h}$ will be about 5 billion *Shigella*, and
+So the upper limit of the max density at $t=5\text{h}$ will be about 5 billion *Shigella*, and
 the lower limit will be about 1 billion *Shigella*.
 
 Therefore, it is proper to take 5-6 capsules every 5 hours after the patient start to have symptoms,
 and distribute 1-5 capsules every 5 hours to the people who might develop symptoms due to
-living togethor or common life styles.
+living together or common life styles.
 
 ### Summary & Future plan
 
