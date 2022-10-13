@@ -22,7 +22,7 @@ Also assisted in Wiki writing and expert interview.
 
 ### Yunyi Ru
 
-In charge of background research, E. *coli* group lab design, wet labs & wiki
+In charge of background research, *E. coli* group lab design, wet labs & wiki
 writing.
 Hosted journal clubs and science lectures for human practice.
 

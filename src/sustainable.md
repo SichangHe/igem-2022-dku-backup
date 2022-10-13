@@ -71,7 +71,7 @@ We proposed a novel scientific solution to an existing global problem. We
 mainly focused on a novel method for battling antibiotic-resistant pathogens by
 **displaying nanobodies on the surface of the probiotics**. While meeting the
 goal, our laboratory team did various ways (using three different cells for
-trial: E. coli, Yeast and *Lactococcus lactis*) to achieve and increase the
+trial: *E. coli*, Yeast and *Lactococcus lactis*) to achieve and increase the
 possibility of success. Additionally, our team collaborates with other iGEM
 teams from developing countries to contribute to scientific advancement there.
 
