@@ -3,7 +3,7 @@
     <img src="https://static.igem.wiki/teams/4161/wiki/contri-bg.jpg" />
 </div>
 
-We designed cell surface display platforms for probiotics including yeast,
+We designed cell surface display platforms to display nanobodies on probiotics including yeast,
 *E.coli* Nissle 1917, and *L.lactis*. To be specific, the yeast Aga2 surface
 display platform for nanobodies was developed. We also designed a novel way
 to detect protein surface expression by using flow cytometry. Another
