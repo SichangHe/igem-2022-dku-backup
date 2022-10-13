@@ -4,9 +4,8 @@
 </div>
 
 We designed cell surface display platforms to display nanobodies on probiotics including yeast,
-*E.coli* Nissle 1917, and *L.lactis*. To be specific, the yeast Aga2 surface
-display platform for nanobodies was developed. We also designed a novel way
-to detect protein surface expression by using flow cytometry. Another
+*E.coli* Nissle 1917, and *L.lactis*. We were able to verify the possibility of expressing nanobodies using the Aga2 surface display system. We also designed a novel way
+to detect protein surface expression by using fluorescence activated cell sorting (FACS). Another
 contribution is the protein modeling protocol. We designed an integrated protocol
 involving the usage of PyMol, RobeTTA, and Alphafold2. Through literature
 review, we were able to determine multiple parameters that measure the accuracy
