@@ -120,7 +120,7 @@ Modelled growth of chosen microbe model computationally.
 
 ### Yuxiang He
 
-Built a 3D model for the drug delivery system.
+Responsible for building a 3D model of the microcapsule. Created standard pages and provided technical support for the wiki. Provided technical support in using the Gitlab repository. Helped with protein modeling using PyMOL.
 
 ## Advising support
 
