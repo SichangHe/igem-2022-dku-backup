@@ -25,7 +25,7 @@ and synthetic biology.
 
 ### Journal Club
 To enhance education efforts and promote synthetic biology knowledge among those with relatively 
-better biology background, we
+better biology backgrounds, we
 organized the Journal Club activity in the Duke Kunshan community. The journal club has continuously 
 gained popularity throughout the sessions and received good feedback from participants. It also helped 
 to promote the atmosphere of teamwork and discussion among biology students in DKU and laid the foundation for the discussion of practical knowledge as a part of the DKU community culture. 
