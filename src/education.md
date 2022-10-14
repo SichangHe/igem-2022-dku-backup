@@ -7,9 +7,10 @@
 
 Education along with science communication is important for us.
 There are many reasons for that—unprofessional formal school education,
-emerging fake news, and increasing conflicts and misunderstanding between science and the public.
+emerging fake news, and increasing conflicts and misunderstanding between science and the public
+call for actions from us.
 Therefore, we devoted ourselves to narrowing the gap between science and the public and encouraging communications about synthetic biology.
-This year, we conduct popular science education both on and off campus, with content for all levels of knowledge in biology.
+This year, we conducted popular science education both on and off campus, with content for all levels of knowledge in biology.
 
 - On campus, we established a journal club, where different members of the
 team introduced cutting-edge knowledge about synthetic biology every two weeks. We also cohosted a Biology Seminar Series,
@@ -17,7 +18,7 @@ inviting Prof. Dong Hyun Jo, from Seoul National University College of Medicine
 to give a talk on therapeutic revolution for the DKU community.
 For the general audience on campus, we participated in the Club Expo, and designed activities to promote the scientific mindset.
 
-- Off-campus, we contacted a local international high school and successfully delivered science lectures
+- Off campus, we contacted a local international high school and successfully delivered science lectures
 to more than 330 middle and high school students and teachers about our project
 and synthetic biology.
 
@@ -27,11 +28,11 @@ and synthetic biology.
 
 To enhance education efforts and promote synthetic biology knowledge among those with relatively
 better biology backgrounds, we
-organized the Journal Club activity in the Duke Kunshan community. The journal club has continuously
+organized the journal club activity in the Duke Kunshan community. The journal club has continuously
 gained popularity throughout the sessions and received good feedback from participants. It also helped
 to promote the atmosphere of teamwork and discussion among biology students at DKU and laid the foundation for the discussion of practical knowledge as a part of the DKU community culture.
 
-The first Journal Club was held on April 30th, 2022. At the very beginning of
+The first journal club event was held on April 30th, 2022. At the very beginning of
 the meeting, Yuyang, the leader of last year's iGEM team, gave a speech for us
 and introduced in detail what systems biology is and the basic methods of
 studying systems biology. This journal club event mainly focused on COVID-19
