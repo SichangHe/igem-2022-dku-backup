@@ -28,7 +28,7 @@ To enhance education efforts and promote synthetic biology knowledge among those
 better biology backgrounds, we
 organized the Journal Club activity in the Duke Kunshan community. The journal club has continuously 
 gained popularity throughout the sessions and received good feedback from participants. It also helped 
-to promote the atmosphere of teamwork and discussion among biology students in DKU and laid the foundation for the discussion of practical knowledge as a part of the DKU community culture. 
+to promote the atmosphere of teamwork and discussion among biology students at DKU and laid the foundation for the discussion of practical knowledge as a part of the DKU community culture. 
 
 The first Journal Club was held on April 30th, 2022. At the very beginning of
 the meeting, Yuyang, the leader of last year's iGEM team, gave a speech for us
