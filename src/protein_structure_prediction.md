@@ -98,7 +98,8 @@ greater than
    20%,
    a good quality model would be expected to have over 90% in the most favored
 regions.[^SAVES]
-2. Atomic Z-score RMS:\Z-score root means square deviation (Z-score RMS) measures the "average
+2. Atomic Z-score RMS:\
+Z-score root means square deviation (Z-score RMS) measures the "average
 magnitude of the
 volume irregularities in the structure."[^Z-scoreRMS] Z-score RMS for a good
 model should
@@ -170,21 +171,21 @@ structure of 20ipaD.
 
 #### Part 3: Docking modeling
 
-Interaction information (binding sites) of 20ipaD and ipaD
+Interaction information (binding sites) of 20ipaD and IpaD
 is found in the paper: ***Single-Domain Antibodies Pinpoint Potential Targets
 within *Shigella*
 Invasion Plasmid Antigen D
 of the Needle Tip Complex for Inhibition of Type III Secretion***[^Binding].
 Since the alignment shows that the 20ipaD in the complex is almost the same as its original structure, we can default the binding sites unchanged. The following figure contains the
-binding sites between 20ipaD and ipaD (**Figure 3**).
+binding sites between 20ipaD and IpaD (**Figure 3**).
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig3-binding-positions.png"
 />
 
-**Figure 3** | Binding sites between 20ipaD and Ipad
+**Figure 3** | Binding sites between 20ipaD and IpaD
 
 We provided the interaction information for the online server HADDOCK^HADDOCK] to
-simulate the docking between the complex and ipaD.
+simulate the docking between the complex and IpaD.
 Below is the docking structure
 (**Figure 4**).
 
@@ -310,8 +311,6 @@ d2.ipynb>
 
 [^Z-scoreRMS]: Pontius, J., Richelle, J., & Wodak, S. J. (1996). Deviations from standard atomic volumes as a quality measure for protein crystal structures. Journal of molecular biology, 264(1), 121–136.
 <https://doi.org/10.1006/jmbi.1996.0628Deviations>
-
-[^HADDOCK]: HADDOCK online server <https://wenmr.science.uu.nl/haddock2.4/>
 
 [^Binding]: Barta, M. L., Shearer, J. P., Arizmendi, O., Tremblay, J. M., Mehzabeen, N., Zheng, Q., Battaile, K. P., Lovell, S., Tzipori, S., Picking, W. D., Shoemaker, C. B., & Picking, W. L. (2017). Single-domain antibodies pinpoint potential targets within *Shigella* invasion plasmid antigen D of the needle tip complex for inhibition of type III secretion. The Journal of biological chemistry, 292(40), 16677–16687.
 <https://doi.org/10.1074/jbc.M117.802231>

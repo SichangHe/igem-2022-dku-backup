@@ -7,7 +7,6 @@
 
 The probiotics market in China is expected to reach a size of USD 13,527.100 million by 2025, growing at a CAGR of 8.81 percent. In 2019, the market was valued at US$8,149.466 million[^1]. Previous research findings have emphasized the significance of gut microbiome on human health, and this has opened up the marketing of probiotics. Taking advantage of the booming market and the maturation of bioengineering technology, our project aims to guard our guts through bacteria-bacteria interaction, a method that is an alternative to antibiotics. Some probiotic product utilizing bacteria-bacteria cell interaction has already gone through clinical trials and entered the market, such as *Lactobacillus reuteri* DSM17648 which treats H.pylori infection[^2]. Therefore, it is possible for our product to secure a place in the probiotic market.
 
-
 The terminal of our designed product is a drug used by people. We understand that animal model testing as well as clinical trials are often involved in the process of drug development. What we have reached so far is only a prototype tested in vitro. After the completion of the *in vitro* testing, we will proceed to in vivo models. To improve our plan we interviewed Jisheng Lin from Sinovac Biotech company to collect feedback and suggestions about how to turn our products into commercial ones as well as caution on putting our products in a real-world situation. Here we provide considerations from various aspects of accessing our products into the market and our solutions so far.
 
 ## Safety
@@ -19,7 +18,6 @@ The terminal of our designed product is a drug used by people. We understand tha
 ## Effectiveness
 
 Effectiveness demonstrates the values of our products. We have shown qualitatively the expression of the antibodies and the binding between the antigen and the antibodies. For a real-world application, we need to establish a standard to access and quantify these values. Moreover, the success in the simplified in vitro assay does not guarantee the effectiveness of the drug to work in a real scenario. Considering the real-world applications that our products function in human GI tracts, it requires the engineered yeast to be able to settle down, proliferate, and bind to *Shigella* spike proteins. Hence, the growth curve of the engineered yeast in human intestines should also be tested. More importantly, the performance of the drug should also be assessed. Potential questions include whether there is a dosage-dependent protection effect, how to assess these effects if they exist, and whether this product focuses on therapy or is precaution oriented.
-
 
 ## Economics
 

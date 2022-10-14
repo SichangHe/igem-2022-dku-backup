@@ -16,9 +16,9 @@ Although antibiotics are able to prevent and treat infections, antibiotic exposu
 
 Engineered probiotics with cell surface display systems are an especially promising alternative that improves *Shigella* eradication rates without heavy reliance on antibiotics.
 Single VH domain (VHH) antibodies displayed on the probiotic surface reduce the virulent activity of *Shigella*[^Roehrich2013] through probiotic-pathogen binding while minimizing toxicity to non-targets[^Barta2017] [^Tremblay2013]. Specifically, these antibodies recognize and target epitopes within the tip complex that is conserved across all pathogens that utilize type III secretion system (T3SS) to translocate effector proteins into the host cells[^Barta2017].
-Innovations in VHH-ipaD binding not only offer a solution that preserves the potency of antibiotics and microbial composition of the gut microbiome, but also illuminates targeted approaches to treat related T3SS bacteria like Salmonella and enterohemorrhagic *E. coli*, and other novel opportunities for passive immunization[^Greve2019].
+Innovations in VHH-IpaD binding not only offer a solution that preserves the potency of antibiotics and microbial composition of the gut microbiome, but also illuminates targeted approaches to treat related T3SS bacteria like Salmonella and enterohemorrhagic *E. coli*, and other novel opportunities for passive immunization[^Greve2019].
 
-Engineered probiotics with cell surface display systems are an especially promising alternative that improves *Shigella* eradication rates without heavy reliance on antibiotics. Single VH domain (VHH) antibodies displayed on the probiotic surface reduce the virulent activity of *Shigella*[^Roehrich2013] through probiotic-pathogen binding while minimizing toxicity to non-targets[^Barta2017] [^Tremblay2013]. Specifically, these antibodies recognize and target epitopes within the tip complex that is conserved across all pathogens that utilize type III secretion system (T3SS) to translocate effector proteins into the host cells[^Barta2017]. Innovations in VHH-ipaD binding not only offer a solution that preserves the potency of antibiotics and microbial composition of the gut microbiome, but also illuminates targeted approaches to treat related T3SS bacteria like *Salmonella* and enterohemorrhagic *E. coli*, and other novel opportunities for passive immunization[^Greve2019].
+Engineered probiotics with cell surface display systems are an especially promising alternative that improves *Shigella* eradication rates without heavy reliance on antibiotics. Single VH domain (VHH) antibodies displayed on the probiotic surface reduce the virulent activity of *Shigella*[^Roehrich2013] through probiotic-pathogen binding while minimizing toxicity to non-targets[^Barta2017] [^Tremblay2013]. Specifically, these antibodies recognize and target epitopes within the tip complex that is conserved across all pathogens that utilize type III secretion system (T3SS) to translocate effector proteins into the host cells[^Barta2017]. Innovations in VHH-IpaD binding not only offer a solution that preserves the potency of antibiotics and microbial composition of the gut microbiome, but also illuminates targeted approaches to treat related T3SS bacteria like *Salmonella* and enterohemorrhagic *E. coli*, and other novel opportunities for passive immunization[^Greve2019].
 
 ## Design
 
@@ -41,9 +41,9 @@ Take all the considerations above, we put yeasts into our plan list.
 
 #### Design of pYD1-20ipaD plasmid for therapeutic yeast engineering
 
-One of the most important proteins in type III secretion system (T3SS) of pathogenic *Shigella* called ipaD is our attack target[^Wagner2020].
-Because ipaD is the primary trigger to form translocon pores within the host cell membrane, the inhibition of it would probably inhibit the invasion of *Shigella* and thus treat the infection[^Dickenson2011] [^Epler2009].
-Several single-domain antibodies (nanobodies) have been previously reported to target ipaD, the most efficient of which is 20ipaD.
+One of the most important proteins in the type III secretion system (T3SS) of pathogenic *Shigella* called IpaD is our attack target[^Wagner2020].
+Because IpaD is the primary trigger to form translocon pores within the host cell membrane, the inhibition of it would probably inhibit the invasion of *Shigella* and thus treat the infection[^Dickenson2011] [^Epler2009].
+Several single-domain antibodies (nanobodies) have been previously reported to target IpaD, the most efficient of which is 20ipaD.
 Therefore, 20ipaD was chosen for further engineering.
 To have the yeasts displayed 20ipaD on the surface, we adopted the strategy of Aga2 yeast surface display system.
 Aga2 is a membrane protein of *S. cerevisiae*, which would be sealed on the membrane by the interaction with Aga16.
@@ -53,12 +53,12 @@ The whole expression module was designed under the control of GAL1 promotor that
 We used pYD1 vector as the backbone which contains an ampicillin resistance marker, *E. coli* replication origin, and tryptophan deficiency marker.
 These features enable us to store the recombinant plasmids in *E. coli*, and easily select the yeasts after transformation.
 
-#### Design of pYD1-ipaD plasmid for efficiency detection
+#### Design of pYD1-IpaD plasmid for efficiency detection
 
 *Shigella* is one of the most infectious pathogens characterized by CDC[^CDC2020].
-Considering the health risks that could be risen during the experiments, we replace the real *Shigella* by yeasts anchored with the targeted epitope protein ipaD.
-The construction strategy of pYD1-ipaD was the same as the pYD1-20ipaD discussed above except for the replacement of FLAG tag with HA tag.
-The yeasts containing pYD1-ipaD could display the antigen ipaD on their surfaces to mimic *Shigella*.
+Considering the health risks that could be risen during the experiments, we replace the real *Shigella* by yeasts anchored with the targeted epitope protein IpaD.
+The construction strategy of pYD1-IpaD was the same as the pYD1-20ipaD discussed above except for the replacement of FLAG tag with HA tag.
+The yeasts containing pYD1-IpaD could display the antigen IpaD on their surfaces to mimic *Shigella*.
 With this pathogen analog, the binding affinity of the engineered therapeutic yeasts between the fake pathogens could be measured by whole-cell ELISA and other binding affinity assays.
 
 #### Design of high production and high binding affinity plasmids for efficiency optimization
@@ -92,7 +92,7 @@ Therefore, it is generally considered safe (GRAS) status by the Food and Drug Ad
 Apart from its important function in making food, *L. lactis* is often applied as a genetically modified organism for disease treatment of animals and humans[^Braat2006] [^Moreno2016].
 In many parts, it acts as an alternative for the gram-positive to *Bacillus subtilis* and *Lactobacillus plantarum*, while it can also substitute the gram-negative counterpart, *Escherichia coli*[García2012]. The small genome size (2.3 Mbp) that has been fully sequenced, plus the development of successfully compatible tools including cloning and expression systems with customizable options, have turned _L. lactis_into a desirable model for genetic engineering[^Song2017].
 
-#### Design of 20ipad plasmid
+#### Design of 20ipaD plasmid
 
 Due to the wide use of antibiotics, various types of bacteria have developed antibiotic resistance, thus providing great challenges to human health and therapy design.
 Our team's target pathogen, the *Shigella* spp., is no exception.
@@ -130,7 +130,7 @@ The plasmid design referenced the pM1s3ATScsg-Etag plasmid on Addgene (Plasmid #
 The other option is based on intimin.
 Intimin in *E. coli* has a trans-outer membrane region and a C-terminal repeat of Ig-like and lectin domains that can be used as a potential fusion site for protein display[^Sadana2017].
 In some earlier studies, the researchers successfully inserted a fragment of EHEC intimin into a known plasmid vector with a VHH fusing to it and had it successfully express and display the VHH on the bacteria surface[^Salema2013].
-To fully exploit the multivalency advantage of the bacterial surface display system, we plan to display more than one kind of nanobodies, so the probiotic can bind to a larger range of pathogens, or it can bind todifferent antigens of the pathogen.
+To fully exploit the multivalency advantage of the bacterial surface display system, we plan to display more than one kind of nanobodies, so the probiotic can bind to a larger range of pathogens, or it can bind to different antigens of the pathogen.
 It is also important to mention that the target antigen IpaD is highly conservative and exists in all strains of *Shigella*.
 Also, previous studies have constructed a library of anti-IpaD VHH including VHH 20ipaD, JMKH2, and JPSG3 are found specifically bind to the epitopes in IpaD protein[^Barta2017] [^Sierocki2017]. The affinity of this antigen-VHH pair is considerable when using 20ipaD and JMKH2[^Sierocki2017].
 

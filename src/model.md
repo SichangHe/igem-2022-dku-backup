@@ -67,7 +67,7 @@ There are several important assumptions for this model:
 - Each floating *Shigella* cell carries one IpaD;
 - Growth of *Shigella* cultured in BHI (Brian Heart Infusion) medium is similar to
 the growth of *Shigella* in human's jejunal;
-- Each 20ipad binds with one IpaD once;
+- Each 20ipaD binds with one IpaD once;
 - Died yeast cell cannot display 20ipaD and cannot bind with IpaD;
 - yeast growth is not considered here since a healthy immune system does not
 allow overgrowth of the yeast, and the growth of the yeast is very slow in neutral;

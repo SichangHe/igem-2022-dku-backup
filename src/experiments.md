@@ -64,13 +64,13 @@ Induced yeasts (display the nanobody on the surface)
 
 #### 1.1 Express the Protein in *E.coli* BL21 Cytoplasm
 
-3 different VHHs (JPS-G3, JMK-H2, 20ipaD) and 1 antigen (ipaD) are expressed separately in *E.coli* DE3 for protein purification. The DNA sequences of the proteins are bind to different detection tags (VHHs - FLAG-tag, antigen - HA-tag) and inserted into pET41a plasmids for bacterial transformation and protein purification. The pET41a plasmid contains a T7 promoter and a T7 terminator for high-level protein expression in E. *coli* DE3, and a GST tag with a Tb (thrombin) site for protein purification. After transformation, the exogenous proteins will be expressed by the bacteria.
+3 different VHHs (JPS-G3, JMK-H2, 20ipaD) and 1 antigen (IpaD) are expressed separately in *E.coli* DE3 for protein purification. The DNA sequences of the proteins are bind to different detection tags (VHHs - FLAG-tag, antigen - HA-tag) and inserted into pET41a plasmids for bacterial transformation and protein purification. The pET41a plasmid contains a T7 promoter and a T7 terminator for high-level protein expression in E. *coli* DE3, and a GST tag with a Tb (thrombin) site for protein purification. After transformation, the exogenous proteins will be expressed by the bacteria.
 
 #### 1.2 Protein Purification and Affinity Test
 
 Next, we use the GST tag to purify the recombinant protein. The target proteins will be extracted via GSH-GST interaction, and the remaining GST tag will be cut by thrombin. Then, we can get the purified recombinant proteins (target protein + detection tag).
 
-Lastly, co-IP (immuno-precipitation) followed by Western analysis will be used to test the affinity between VHHs and the antigen. By adding anti-FLAG antibodies and anti-HA antibodies to the samples, we can pull down the recombinant proteins with corresponding tags. If adding either anti-FLAG antibodies or anti-HA antibodies leads to a positive result in 'FLAG-VHH + HA-ipaD', we can say that there is high affinity between the expressed VHHs and the antigen.
+Lastly, co-IP (immuno-precipitation) followed by Western analysis will be used to test the affinity between VHHs and the antigen. By adding anti-FLAG antibodies and anti-HA antibodies to the samples, we can pull down the recombinant proteins with corresponding tags. If adding either anti-FLAG antibodies or anti-HA antibodies leads to a positive result in 'FLAG-VHH + HA-IpaD', we can say that there is high affinity between the expressed VHHs and the antigen.
 
 #### 2.1 Surface Display via csgA
 
