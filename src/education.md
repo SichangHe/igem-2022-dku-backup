@@ -9,94 +9,26 @@ Education along with science communication is important for us.
 There are many reasons for that –- unprofessional formal school education,
 emerging fake news, and increasing conflicts and misunderstanding between science and the public.
 Therefore, we devoted ourselves to narrowing the gap between science and the public and encouraging communications about synthetic biology.
-Our consultations are presented in detail on Communication.
-This year, we conduct popular science education both on and off campus.
+This year, we conduct popular science education both on and off campus, with content for all levels of knowledge in biology. 
 
-- On campus, we have established a journal club, where different members of the
-team introduced cutting-edge knowledge about synthetic biology every two weeks,
-and we are happy to see many freshmen participating. For general audience on campus, we participated in the club expo, and designed activities to promote the scientific mindset. We also cohosted a Biology Seminar Series,
+- On campus, we established a journal club, where different members of the
+team introduced cutting-edge knowledge about synthetic biology every two weeks. We also cohosted a Biology Seminar Series,
 inviting Prof. Dong Hyun Jo, from Seoul National University College of Medicine
 to give a talk on therapeutic revolution for the DKU community.
+For the general audience on campus, we participated in the club expo, and designed activities to promote the scientific mindset.
 
-- Off campus, we contacted a local international high school and successfully delivered popular science lectures
+- Off-campus, we contacted a local international high school and successfully delivered science lectures
 to more than 330 middle and high school students and teachers about our project
 and synthetic biology.
 
 ## On-campus education
 
-### Club Expo
-
-![Club expo figure 1](https://static.igem.wiki/teams/4161/wiki/club-expo1.jpg)
-
-We participated in 2022 DKU club expo both online and on-site. In the online expo, we
-introduced IGEM club to international students.
-Our club aims to share frontier knowledge and technologies of synthetic biology.
-In addition, we also seek for potential team members of the DKU iGEM team next year.
-Club activities are conducted by student presentations
-and speeches given by guest speakers.
-The iGEM teamwork is divided into 4 parts,
-biological experiments,
-modeling,
-wiki design and human practice.
-New club members are welcomed to select the parts which they are interested in to participate in the competition.
-
-For the on-site club expo,
-we also made a small presentation to spread common knowledge about probiotics
-and provided our advice for consuming commercial probiotic products.
-Our central idea is that the aim of commercial probiotic products
-should be limited to minor gut discomforts or to improve general health,
-and long-term consumption is not suggested by the doctors we consulted.
-Also, we introduced some potential harms of consuming probiotics,
-trying to give the audience
-a full image of the commonly advertised probiotic products.
-We also brought some lab consumables,
-such as microcentrifuge tubes and agar plates,
-to introduce some basic lab skills.
-Students who attended the club expo can have a chance to learn basic experimental skills, for example, 
-how to streak in an agar plate
-and how to use micropipette and centrifuge machines.
-Besides providing basic knowledge and doing the on-site presentation,
-we prepared some interesting questions related to Biology and gut microbiomes
-for college students from all majors to answer in order to enlarge the students' knowledge about gut microbiomes
-and biology.
-The questions include "how H. pylori were proved to be capable of causing ulcers,"
-"pick out the probiotics from several names of microorganisms,"
-"estimate the number of microorganisms in their stomach", etc.
-
-![Club expo figure 2](https://static.igem.wiki/teams/4161/wiki/club-expo2.jpg)
-
-### Wang-Cai Biology Seminar Series
-
-![Wang-Cai Talk](https://static.igem.wiki/teams/4161/wiki/wang-cai-talk.jpeg)
-
-In this Wang-Cai biology seminar series, the DKU iGEM team was honored to co-host
-the speech delivered by Prof. Dong Hyun Jo from Seoul National University College
-of Medicine.
-The talk was titled "Therapeutic Revolution: Application of Novel Technologies",
-where Dr. Jo introduced the brief history and therapeutic development
-for one specific type of cancer, retinoblastoma.
-
-Dr. Jo is an assistant professor at Seoul National University College of Medicine
-in the Republic of Korea. He had his medical degree at
-Seoul National University in 2007. In 2012, Dr. Jo received a residency at the
-Department of Ophthalmology, Seoul National University Hospital, and in 2016,
-he received his Ph.D. at Seoul National University. Dr. Jo's research interest
-focuses on 3 aspects. The first is the development of novel therapeutic
-approaches against retinal diseases. The second is the molecular mechanisms of
-physiological and pathological angiogenesis in the retina and associated organs,
-the third is translational research on retinoblastoma.
-
-At the end of the talk, Dr. Jo shared his career pathway as both a physician and
-a researcher. The devotion he made to the clinical therapy of retinoblastoma and
-the improvement of the health of his patients made him feel that biomedical
-sciences are not limited to theoretical knowledge, but rather quite practical
-and can benefit the whole population. The experience and thoughts expressed by
-Dr. Jo greatly inspired us, which allow us to have more understanding of graduate
-choices and future career plans.
-
 ### Journal Club
-To enhance education efforts and promote our project, we
-organized the Journal Club activity in the Duke Kunshan community.
+To enhance education efforts and promote synthetic biology knowledge among those with relatively 
+better biology background, we
+organized the Journal Club activity in the Duke Kunshan community. The journal club has continuously 
+gained popularity throughout the sessions and received good feedback from participants. It also helped 
+to promote the atmosphere of teamwork and discussion among biology students in DKU and laid the foundation for the discussion of practical knowledge as a part of the DKU community culture. 
 
 The first Journal Club was held on April 30th, 2022. At the very beginning of
 the meeting, Yuyang, the leader of last year's iGEM team, gave a speech for us
@@ -126,6 +58,84 @@ Details of the presenters and their topics are listed in the table below.
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-journal-club-poster.jpg"
 />
+
+### Wang-Cai Biology Seminar Series
+
+We occasionally invite experts to discuss various topics in pharmaceutical science and synthetic biology 
+to bring new inspirations. This talk is targeted at those with a relatively professional biology background.
+
+![Wang-Cai Talk](https://static.igem.wiki/teams/4161/wiki/wang-cai-talk.jpeg)
+
+In this Wang-Cai biology seminar series, the DKU iGEM team was honored to co-host
+the speech delivered by Prof. Dong Hyun Jo from Seoul National University College
+of Medicine.
+The talk was titled "Therapeutic Revolution: Application of Novel Technologies",
+where Dr. Jo introduced the brief history and therapeutic development
+for one specific type of cancer, retinoblastoma.
+
+Dr. Jo is an assistant professor at Seoul National University College of Medicine
+in the Republic of Korea. He had his medical degree at
+Seoul National University in 2007. In 2012, Dr. Jo received a residency at the
+Department of Ophthalmology, Seoul National University Hospital, and in 2016,
+he received his Ph.D. at Seoul National University. Dr. Jo's research interest
+focuses on 3 aspects. The first is the development of novel therapeutic
+approaches against retinal diseases. The second is the molecular mechanisms of
+physiological and pathological angiogenesis in the retina and associated organs,
+the third is translational research on retinoblastoma.
+
+At the end of the talk, Dr. Jo shared his career pathway as both a physician and
+a researcher. The devotion he made to the clinical therapy of retinoblastoma and
+the improvement of the health of his patients made him feel that biomedical
+sciences are not limited to theoretical knowledge, but rather quite practical
+and can benefit the whole population. The experience and thoughts expressed by
+Dr. Jo greatly inspired us, which allow us to have more understanding of graduate
+choices and future career plans.
+
+
+
+### Club Expo
+
+This event presented the DKU iGEM club to the DKU community, regardless of their biology background.
+Thus, we designed activities that are easily engaging, but professional enough to provide practical knowledge
+for undergrads.
+
+![Club expo figure 1](https://static.igem.wiki/teams/4161/wiki/club-expo1.jpg)
+
+We participated in the 2022 DKU club expo both online and on-site. In the online expo, we
+introduced IGEM club to international students.
+Our club aims to share frontier knowledge and technologies of synthetic biology.
+Club activities are conducted through student presentations
+and speeches given by guest speakers.
+The iGEM teamwork is divided into 4 parts,
+biological experiments,
+modeling,
+wiki design and human practice.
+Students showed great interest in joining the club, and many showed interest to participate in future iGEM competitions.
+
+For the on-site club expo,
+we also made a small presentation to spread common knowledge about probiotics
+and provided our advice for consuming commercial probiotic products.
+Our central idea is that the aim of commercial probiotic products
+should be limited to minor gut discomforts or to improve general health,
+and long-term consumption is not suggested by the doctors we consulted.
+Also, we introduced some potential harms of consuming probiotics,
+trying to give the audience
+a full image of the commonly advertised probiotic products.
+We also brought some lab consumables,
+such as microcentrifuge tubes and agar plates,
+to introduce some basic lab skills.
+Students who attended the club expo can have a chance to learn basic experimental skills, for example, 
+how to streak in an agar plate
+and how to use micropipette and centrifuge machines.
+Besides providing basic knowledge and doing the on-site presentation,
+we prepared some interesting questions related to Biology and gut microbiomes
+for college students from all majors to answer in order to enlarge the students' knowledge about gut microbiomes
+and biology.
+The questions include "how have _H. pylori_ been proven to be capable of causing ulcers,"
+"pick out the probiotics from several names of microorganisms,"
+"estimate the number of microorganisms in their stomach", etc.
+
+![Club expo figure 2](https://static.igem.wiki/teams/4161/wiki/club-expo2.jpg)
 
 ## Off-campus education
 
@@ -216,7 +226,7 @@ people from different institutions and organizations as much as possible --- thu
 you can understand problems or think from different perspectives.
 - Keep in touch with collaborators whoever you have cooperated with --- you may
 build lasting cooperations that other teams did not have.
-- Think outside the box but also think within the box - experience from those who
+- Think outside the box but also think within the box --- experience from those who
 have worked on your topic before is important.
-- Know your audience – when organizing an event or giving a presentation,
+- Know your audience --- when organizing an event or giving a presentation,
 consider the types of your target audience.
