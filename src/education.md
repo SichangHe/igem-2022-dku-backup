@@ -24,6 +24,7 @@ and synthetic biology.
 ## On-campus education
 
 ### Journal Club
+
 To enhance education efforts and promote synthetic biology knowledge among those with relatively
 better biology backgrounds, we
 organized the Journal Club activity in the Duke Kunshan community. The journal club has continuously
@@ -204,29 +205,3 @@ about synthetic biology.
 ![photo](https://static.igem.wiki/teams/4161/wiki/education5.jpg)
 
 ## Summary
-In conclusion, we invited different audiences to engage in communication about
-synthetic biology this year.
-In our activities, we aimed to not only teach other people but also learn new things
-by ourselves.
-Education is seldom one way of teaching and learning. During the process of
-conducting educational activities, we dove deeper into different contexts and
-understand problems from multiple perspectives.
-We gained lots of insights from external sources, such as professors, companies,
-literature etc.\
-On-campus education allows us to better transfer knowledge about synthetic
-biology and *Shigella* treatment to our students, as well as gather fresh
-blood for the next year's team.
-Science popularization and education in local schools also gave us the opportunity to communicate with middle and high school students,
-understand their ideas and answer their doubts.
-We have accumulated several key conclusions for everyone aiming to have
-any influence through education in iGEM:
-
-- Connect to
-people from different institutions and organizations as much as possible --- thus
-you can understand problems or think from different perspectives.
-- Keep in touch with collaborators whoever you have cooperated with --- you may
-build lasting cooperations that other teams did not have.
-- Think outside the box but also think within the box --- experience from those who
-have worked on your topic before is important.
-- Know your audience --- when organizing an event or giving a presentation,
-consider the types of your target audience.
