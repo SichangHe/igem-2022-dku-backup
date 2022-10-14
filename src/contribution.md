@@ -15,7 +15,8 @@ Another contribution is the PCR troubleshooting guide we made during the
 collaboration with Duke. It contains actual wet lab gel pictures and troubleshooting advice
 for future iGEM teams to reference.
 Last but not least,
-we created a model for our iGEM team members to collaborate using GitLab.
+we created a model for our iGEM team members to collaborate using
+GitLab as an open source platform.
 
 ## Cell surface display platforms
 
@@ -53,7 +54,8 @@ we conducted all collaborations within our team using GitLab.
 We created
 [a monolithic repository for all our documentation](https://gitlab.oit.duke.edu/sh623/igem-2022-dku)
 way before iGEM announced that GitLab will be their new Wiki platform.
-And, we use it to track every event and task using GitLab Issues.
+And, we use it to track every event and task using GitLab Issues,
+including our brainstorming, lab design, and Wiki design process.
 
 GitLab is very helpful for our collaboration.
 All issues, responses to issues,
@@ -65,4 +67,6 @@ without manual intervention.
 The power of Git also enables us to track down mistakes made to our Wiki.
 
 We believe that our model collaborating using GitLab is a good reference for
-future iGEM teams to scale their documentation project well.
+future iGEM teams
+so we decided to open source our repository to help them
+scale their documentation project well.
