@@ -6,16 +6,16 @@
 ## Overview
 
 Education along with science communication is important for us.
-There are many reasons for that –- unprofessional formal school education,
+There are many reasons for that—unprofessional formal school education,
 emerging fake news, and increasing conflicts and misunderstanding between science and the public.
 Therefore, we devoted ourselves to narrowing the gap between science and the public and encouraging communications about synthetic biology.
-This year, we conduct popular science education both on and off campus, with content for all levels of knowledge in biology. 
+This year, we conduct popular science education both on and off campus, with content for all levels of knowledge in biology.
 
 - On campus, we established a journal club, where different members of the
 team introduced cutting-edge knowledge about synthetic biology every two weeks. We also cohosted a Biology Seminar Series,
 inviting Prof. Dong Hyun Jo, from Seoul National University College of Medicine
 to give a talk on therapeutic revolution for the DKU community.
-For the general audience on campus, we participated in the club expo, and designed activities to promote the scientific mindset.
+For the general audience on campus, we participated in the Club Expo, and designed activities to promote the scientific mindset.
 
 - Off-campus, we contacted a local international high school and successfully delivered science lectures
 to more than 330 middle and high school students and teachers about our project
@@ -24,11 +24,11 @@ and synthetic biology.
 ## On-campus education
 
 ### Journal Club
-To enhance education efforts and promote synthetic biology knowledge among those with relatively 
+To enhance education efforts and promote synthetic biology knowledge among those with relatively
 better biology backgrounds, we
-organized the Journal Club activity in the Duke Kunshan community. The journal club has continuously 
-gained popularity throughout the sessions and received good feedback from participants. It also helped 
-to promote the atmosphere of teamwork and discussion among biology students at DKU and laid the foundation for the discussion of practical knowledge as a part of the DKU community culture. 
+organized the Journal Club activity in the Duke Kunshan community. The journal club has continuously
+gained popularity throughout the sessions and received good feedback from participants. It also helped
+to promote the atmosphere of teamwork and discussion among biology students at DKU and laid the foundation for the discussion of practical knowledge as a part of the DKU community culture.
 
 The first Journal Club was held on April 30th, 2022. At the very beginning of
 the meeting, Yuyang, the leader of last year's iGEM team, gave a speech for us
@@ -61,7 +61,7 @@ Details of the presenters and their topics are listed in the table below.
 
 ### Wang-Cai Biology Seminar Series
 
-We occasionally invite experts to discuss various topics in pharmaceutical science and synthetic biology 
+We occasionally invite experts to discuss various topics in pharmaceutical science and synthetic biology
 to bring new inspirations. This talk is targeted at those with a relatively professional biology background.
 
 ![Wang-Cai Talk](https://static.igem.wiki/teams/4161/wiki/wang-cai-talk.jpeg)
@@ -91,8 +91,6 @@ and can benefit the whole population. The experience and thoughts expressed by
 Dr. Jo greatly inspired us, which allow us to have more understanding of graduate
 choices and future career plans.
 
-
-
 ### Club Expo
 
 This event presented the DKU iGEM club to the DKU community, regardless of their biology background.
@@ -102,7 +100,7 @@ for undergrads.
 ![Club expo figure 1](https://static.igem.wiki/teams/4161/wiki/club-expo1.jpg)
 
 We participated in the 2022 DKU club expo both online and on-site. In the online expo, we
-introduced IGEM club to international students.
+introduced iGEM club to international students.
 Our club aims to share frontier knowledge and technologies of synthetic biology.
 Club activities are conducted through student presentations
 and speeches given by guest speakers.
@@ -124,14 +122,14 @@ a full image of the commonly advertised probiotic products.
 We also brought some lab consumables,
 such as microcentrifuge tubes and agar plates,
 to introduce some basic lab skills.
-Students who attended the club expo can have a chance to learn basic experimental skills, for example, 
+Students who attended the club expo can have a chance to learn basic experimental skills, for example,
 how to streak in an agar plate
 and how to use micropipette and centrifuge machines.
 Besides providing basic knowledge and doing the on-site presentation,
 we prepared some interesting questions related to Biology and gut microbiomes
 for college students from all majors to answer in order to enlarge the students' knowledge about gut microbiomes
 and biology.
-The questions include "how have _H. pylori_ been proven to be capable of causing ulcers,"
+The questions include "how have *H. pylori* been proven to be capable of causing ulcers,"
 "pick out the probiotics from several names of microorganisms,"
 "estimate the number of microorganisms in their stomach", etc.
 
@@ -151,12 +149,14 @@ This part gave high school students an overview of what is iGEM and what they ca
 
 ![photo](https://static.igem.wiki/teams/4161/wiki/education2.jpg)
 
-In China, people often use stomachache or feel uncomfortable at the stomach
-to summarize almost every disease of the digestive tract. This could lead to medical issues.
+In China, people often summarize almost every disease of the digestive tract
+with stomachache or discomfort in the stomach.
+This could lead to medical issues.
 For example, people may choose to take OTC stomach medicines instead of going
 to a doctor.
 Symptoms may get remission.
-However, this can lay an underlying problem in the future, such as changing the gut microbiota.\
+However, this can lay an underlying problem in the future, such as changing the gut microbiota.
+
 To help the public have a better understanding of digesting,
 we popularized GI Microbiome and GI tract. The functions of each human organ
 and different intestinal floras were explained in detail.
@@ -214,7 +214,7 @@ understand problems from multiple perspectives.
 We gained lots of insights from external sources, such as professors, companies,
 literature etc.\
 On-campus education allows us to better transfer knowledge about synthetic
-biology and *Shigella* treatment to our students, as well as gathering fresh
+biology and *Shigella* treatment to our students, as well as gather fresh
 blood for the next year's team.
 Science popularization and education in local schools also gave us the opportunity to communicate with middle and high school students,
 understand their ideas and answer their doubts.
