@@ -98,7 +98,8 @@ greater than
    20%,
    a good quality model would be expected to have over 90% in the most favored
 regions.[^SAVES]
-2. Atomic Z-score RMS:\Z-score root means square deviation (Z-score RMS) measures the "average
+2. Atomic Z-score RMS:\
+Z-score root means square deviation (Z-score RMS) measures the "average
 magnitude of the
 volume irregularities in the structure."[^Z-scoreRMS] Z-score RMS for a good
 model should
