@@ -17,7 +17,7 @@ This page will give a detailed explanation about the engineering cycle. To make 
 
 ##### Design
 
-We located a single-domain antibody (VHH) named 20ipaD from the database, whose binding ability with the needle tip protein ipaD of *Shigella* type III secretion system has be testified[^Barta,2017] [^Sierocki,2021]. Peptide sequences of 20ipaD from Barta et al (2017). Codon optimization was performed to get DNA sequences. Two flank sequences containing XhoI and ApaI cutting sites as well as C-terminal Flag-tag were added to the ipaD DNA sequence.
+We located a single-domain antibody (VHH) named 20ipaD from the database, whose binding ability with the needle tip protein IpaD of *Shigella* type III secretion system has be testified[^Barta,2017] [^Sierocki,2021]. Peptide sequences of 20ipaD from Barta et al (2017). Codon optimization was performed to get DNA sequences. Two flank sequences containing XhoI and ApaI cutting sites as well as C-terminal Flag-tag were added to the IpaD DNA sequence.
 
 ##### Build
 
@@ -34,11 +34,11 @@ Recombinant proteins were observed to express on the cell surfaces on a portion 
 #### Cycle 2
 ##### Design
 
-In this cycle, we aimed to test binding affinity between the recombinant nanobody and the ipaD epitopes. ipaD were retrieved from NCBI database. Codon optimization was also performed to collect the DNA sequence. Similar to 20ipaD, flank regions were inserted into ipaD except the substitution of Flag-tag to HA-tag.
+In this cycle, we aimed to test binding affinity between the recombinant nanobody and the IpaD epitopes. IpaD were retrieved from NCBI database. Codon optimization was also performed to collect the DNA sequence. Similar to 20ipaD, flank regions were inserted into IpaD except the substitution of Flag-tag to HA-tag.
 
 ##### Build
 
-Synthesized ipaD sequences were got from the same company. Using the same method, we expressed ipaD recombinant protein of the yeast surface.
+Synthesized IpaD sequences were got from the same company. Using the same method, we expressed IpaD recombinant protein of the yeast surface.
 
 #### Cycle 3
 ##### Design
@@ -48,7 +48,7 @@ In this cycle, we aims to improve the expression level of the recombinant protei
 #### Cycle 4
 ##### Design
 
-In this cycle, we aims to improve the binding affinity of the recombinant protein with the antigen epitope. We would perform error prone PCRs to introduce mutations into 20ipaD sequences. Concentrations of the nucleotide analogs would be controlled so that only point mutants would be produced. All mutants would be screened to identify binding affinity improvements. To reduce the workload of screening, we would perform a modeling prescreen. In the prescreen, we would predict how single amino acid change influence the binding affinity between 20ipaD and ipaD.
+In this cycle, we aims to improve the binding affinity of the recombinant protein with the antigen epitope. We would perform error prone PCRs to introduce mutations into 20ipaD sequences. Concentrations of the nucleotide analogs would be controlled so that only point mutants would be produced. All mutants would be screened to identify binding affinity improvements. To reduce the workload of screening, we would perform a modeling prescreen. In the prescreen, we would predict how single amino acid change influence the binding affinity between 20ipaD and IpaD.
 
 ### *Lactococcus lactis*
 
@@ -125,7 +125,7 @@ We have learnt multiple issues can happen during one procedure. It is better to 
 
 ##### Design
 
-Initially, we planned to try three different nanobodies (20ipaD, JPS-G3, and JMK-H2) against the *Shigella* antigen ipaD from a research paper[^Barta,2017]. We also wanted to try two different surface display systems, beta domain of the *E.coli* outer membrane protein intimin[^Salema,2013] and the *E.coli* curli fiber protein, *csg*B[^Gelfat,2021]. Our target probiotic is E. *coli* Nissle 1917[^Gelfat,2021]. By inserting the target nanobody sequence behind intimin or *csg*B, reconstructing the plasmid pET30a and transforming the plasmid into *E.coli* Nissle 1917, we expect the protein to be displayed on the surface of *E.coli*, so that it can capture the pathogen via antigen-antibody binding.
+Initially, we planned to try three different nanobodies (20ipaD, JPS-G3, and JMK-H2) against the *Shigella* antigen IpaD from a research paper[^Barta,2017]. We also wanted to try two different surface display systems, beta domain of the *E.coli* outer membrane protein intimin[^Salema,2013] and the *E.coli* curli fiber protein, *csg*B[^Gelfat,2021]. Our target probiotic is E. *coli* Nissle 1917[^Gelfat,2021]. By inserting the target nanobody sequence behind intimin or *csg*B, reconstructing the plasmid pET30a and transforming the plasmid into *E.coli* Nissle 1917, we expect the protein to be displayed on the surface of *E.coli*, so that it can capture the pathogen via antigen-antibody binding.
 
 ##### Build & Test
 
@@ -137,9 +137,9 @@ We designed the following sequences to make the recombinant protein.
   
 - JPS-G3-3xFLAG
 
-- ipaD-3xHA
+- IpaD-3xHA
 
-However, due to limitations in budget & time for gene synthesis, we only have JPS-G3-3xFLAG and ipaD-3xHA (inserted into pUC19 plasmids). By plasmid extraction, double digestion (*Bam*HI & *Xho*I) and PCR, we successfully obtained the sequences and verified the accuracy by Sanger sequencing, but we don't have csgB or intimin for surface display.
+However, due to limitations in budget & time for gene synthesis, we only have JPS-G3-3xFLAG and IpaD-3xHA (inserted into pUC19 plasmids). By plasmid extraction, double digestion (*Bam*HI & *Xho*I) and PCR, we successfully obtained the sequences and verified the accuracy by Sanger sequencing, but we don't have csgB or intimin for surface display.
 
 ##### Learn
 
@@ -157,7 +157,7 @@ We designed the following sequences:
 
 - csgA-JPS-G3-3xFLAG
 
-- csgA-ipaD-3xHA (displaying the antigen on the surface of *E.coli* BL21 to mimic *Shigella flexneri*, so that the effectiveness can be evaluated)
+- csgA-IpaD-3xHA (displaying the antigen on the surface of *E.coli* BL21 to mimic *Shigella flexneri*, so that the effectiveness can be evaluated)
 
 *csg*A gene is obtained from the *E.coli* strains (pGEX-4T-1-csgA-shMT) provided by the XJLTU iGEM team via PCR. To connect different parts, we plan to use overlapping PCR.
 
