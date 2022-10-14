@@ -11,9 +11,11 @@ involving the usage of PyMol, RobeTTA, and Alphafold2. Through literature
 review, we were able to determine multiple parameters that measure the accuracy
 of the protein model and evaluated our protein design. We also contributed
 to previous parts by designing our parts with improvements based on past iGEM teams.
-Another contribution is the PCR troubleshooting guide we made during the 
+Another contribution is the PCR troubleshooting guide we made during the
 collaboration with Duke. It contains actual wet lab gel pictures and troubleshooting advice
 for future iGEM teams to reference.
+Last but not least,
+we created a model for our iGEM team members to collaborate using GitLab.
 
 ## Cell surface display platforms
 
@@ -40,6 +42,27 @@ These parameters determine whether a certain structure is stable. For more detai
 
 ### PCR troubleshooting guide for future iGEM teams
 
-In our collaboration with Duke iGEM, we put together a PCR troubleshooting guide, summarizing all the different problems we encountered during PCR in wet lab. 
+In our collaboration with Duke iGEM, we put together a PCR troubleshooting guide, summarizing all the different problems we encountered during PCR in wet lab.
 
 [See our trouble shooting guide here.](https://static.igem.wiki/teams/4161/wiki/pcr-troubleshooting-guide.pdf)
+
+## Collaborations using GitLab
+
+To ease the writing of the Wiki and manage resources efficiently,
+we conducted all collaborations within our team using GitLab.
+We created
+[a monolithic repository for all our documentation](https://gitlab.oit.duke.edu/sh623/igem-2022-dku)
+way before iGEM announced that GitLab will be their new Wiki platform.
+And, we use it to track every event and task using GitLab Issues.
+
+GitLab is very helpful for our collaboration.
+All issues, responses to issues,
+and document changes are well recorded on the Activity tab,
+and Due dates and individual assignments are used to
+help us finish our tasks in a timely manner.
+GitLab CI allows us to build our Wiki and preview it after every push
+without manual intervention.
+The power of Git also enables us to track down mistakes made to our Wiki.
+
+We believe that our model collaborating using GitLab is a good reference for
+future iGEM teams to scale their documentation project well.
