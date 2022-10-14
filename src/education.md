@@ -205,3 +205,4 @@ about synthetic biology.
 ![photo](https://static.igem.wiki/teams/4161/wiki/education5.jpg)
 
 ## Summary
+To educate the community about synthetic biology, we approached vast categories of audiences including high school students, undergrads, staff and faculty. We have applied diverse educational methods to appeal to our audiences with age and geographical diversity. Apart from arming the audience with scientific knowledge, we were also able to construct the synthetic biology culture within DKU by promoting open discussion and practical knowledge.
