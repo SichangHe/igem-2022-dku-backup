@@ -14,7 +14,7 @@ This year, we conduct popular science education both on and off campus.
 
 - On campus, we have established a journal club, where different members of the
 team introduced cutting-edge knowledge about synthetic biology every two weeks,
-and we are happy to see many freshmen participating. For general audience on campus, we participated in the club expo, and designed activites to promote the scientific mindset. We also cohosted a Biology Seminar Series,
+and we are happy to see many freshmen participating. For general audience on campus, we participated in the club expo, and designed activities to promote the scientific mindset. We also cohosted a Biology Seminar Series,
 inviting Prof. Dong Hyun Jo, from Seoul National University College of Medicine
 to give a talk on therapeutic revolution for the DKU community.
 
