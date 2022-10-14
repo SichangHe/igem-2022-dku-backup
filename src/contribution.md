@@ -57,16 +57,16 @@ way before iGEM announced that GitLab will be their new Wiki platform.
 And, we use it to track every event and task using GitLab Issues,
 including our brainstorming, lab design, and Wiki design process.
 
-GitLab is very helpful for our collaboration.
+GitLab is very helpful for our collaborations.
 All issues, responses to issues,
 and document changes are well recorded on the Activity tab,
-and Due dates and individual assignments are used to
+and due dates and assignments for individual are used to
 help us finish our tasks in a timely manner.
 GitLab CI allows us to build our Wiki and preview it after every push
 without manual intervention.
 The power of Git also enables us to track down mistakes made to our Wiki.
 
-We believe that our model collaborating using GitLab is a good reference for
+We believe that our model collaborating using GitLab will be a good reference for
 future iGEM teams
 so we decided to open source our repository to help them
 scale their documentation project well.
