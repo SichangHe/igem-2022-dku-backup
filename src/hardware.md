@@ -10,7 +10,7 @@ a mild basic environment makes shellac perfect for releasing probiotics in the i
 
 Microcapsule is a microscope-scale capsulation format.
 The probiotics were wrapped in materials that can ensure the reservation,
-activation, release, and environmental-resistance of the probiotics.
+activation, release, and *in vivo* integrity of the probiotics.
 It would be presented as powder.
 "Microencapsulation is a technology that serves as a tool to protect the
 sensitive and expensive nutrients (Meyers et al., 1998), by providing them with
@@ -23,7 +23,7 @@ microencapsulation is to ensure the safe delivery of the sensitive compound.
 Shellac is a natural polymer that is generally recognized as a safe (GRAS) material.
 It is insoluble in neutral and acidic aqueous solutions but dissolves at alkaline conditions
 [^pH_shellac].
-So, shellac is proper for the controlled release of Yeast cells in the intestine.
+So, shellac is proper for the controlled release of yeast cells in the intestine.
 
 Research has shown that the microcapsules with the addition of shellac
 "contributed to better probiotic survivals after freeze drying, simulated digestion, heating and ambient storage,

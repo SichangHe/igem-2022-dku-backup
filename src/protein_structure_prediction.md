@@ -12,7 +12,7 @@ provide ideas or directions for future experiments or experimental teams
 
 #### Part 1: General pattern
 
-Our team designed DNA sequences for fusion protein-nanobody complex
+Our team designed DNA sequences for the fusion protein-nanobody complex
 ourselves<!-- todo: from what -->
 and these newly designed protein's 3D structures are unknown.
 A protein's 3D structure determines its functionality,
@@ -63,26 +63,25 @@ single-letter
 code
 amino acid sequences
 and generate Protein Database (PDB) files,
-which contains information about the protein's structure. Robetta produces 5
-models of
-different configuration with same score for each sequence. Alphafold
+which contain information about the protein's structure. Robetta produces 5
+models of a different configuration with the same score for each sequence. Alphafold
 automatically produces
-the model with highest score.
+the model with the highest score.
 
-We view these pdb files in PyMOL[^PyMOL], a powerful tool for 3D structure
+We view these PDB files in PyMOL[^PyMOL], a powerful tool for 3D structure
 visualization.
 
 ***Protein structure evaluation***
 
 Assessment of these resultant structures from Robetta and Alphafold2 is needed
 for
-deciding which structure is more credible and can be used in future anlysis.
+deciding which structure is more credible and can be used in future analysis.
 There are
-several parameters to consider: ramachandran plot, overall G-factors, atomic
+several parameters to consider: Ramachandran plot, overall G-factors, atomic
 Z-score RMS,
 percentage of the amino acids having scored >= 0.2 in the 3D/1D profile,
 overall quality factor,
-and Z-score. We use online server SAVES v6.0[^SAVES] and ProSA[^ProSA] for the
+and Z-score. We use the online server SAVES v6.0[^SAVES] and ProSA[^ProSA] for the
 validation.
 
 - Parameters
@@ -97,10 +96,9 @@ of
    118 structures of resolution of at least 2.0 Angstroms and R-factor no
 greater than
    20%,
-   a good quality model would be expected to have over 90% in the most favoured
+   a good quality model would be expected to have over 90% in the most favored
 regions.[^SAVES]
-2. Atomic Z-score RMS:\
-Z-score root mean square deviation (Z-score RMS) measures the "average
+2. Atomic Z-score RMS:\Z-score root means square deviation (Z-score RMS) measures the "average
 magnitude of the
 volume irregularities in the structure."[^Z-scoreRMS] Z-score RMS for a good
 model should
@@ -118,7 +116,7 @@ Indicate whether the z-score of the input structure is within the range of
 scores typically
 found for native proteins of similar size[^ProSA].
 
-All the structures shown later are the highest scoring structures.
+All the structures shown later are the highest-scoring structures.
 
 ***Protein structure alignment***
 
@@ -128,61 +126,56 @@ its original
 structure by using PyMOL[^PyMOL] alignment. If RMSD (root mean square
 deviation) value
 is very low,
-we regard two structures similar, which means the nanobody in our
+we regard the two structures as similar, which means the nanobody in our
 fusion-nanobody complex
 will theoretically function well.
 
 #### Part 2: Yeast-20ipaD visualization
 We have successfully expressed the fusion protein-nanobody complex, which is
-Yeast-20ipaD.
-Here is the highest-scoring structure of Yeast-20ipaD (**Figure 1**).
+yeast-20ipaD.
+Here is the highest-scoring structure of yeast-20ipaD (**Figure 1**).
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig1-yeast-20ipad.png"
 />
 
-**Figure 1** | 3D structure of Yeast-20ipaD complex
+**Figure 1** | 3D structure of yeast-20ipaD complex
 
 Ramachandran plot of the above structure showed that
-85.1% of residues are in the most favorite regions,
-and 11.9% are in the allowed regions; 1.9% of the residues are in the
+85.1% of residues are in the most favorite regions, 11.9% are in the allowed regions; 1.9% of the residues are in the
 generously allowed regions
 and 1.1% in the disallowed regions.
 The Atomic-Z-score RMS is tested to be 1.536, which is a little bit out of
 range. A very good model
-would have a value close to 1. The percentage of the amino acids have scored >=
+would have a value close to 1. The percentage of the amino acids that have scored >=
 0.2 in the 3D/1D profile is 92.39%.
 The overall quality factor is 82.89, which is acceptable.
 ProSA calculated Z-score is -8.7, which falls in the range of scores typically
 found for
-experimentally determined (X-ray, NMR) structure for native proteins of similar
+experimentally determined (X-ray, NMR) structures for native proteins of similar
 size in
-PDB database.
+the PDB database.
 The calculated average energy over 40 residues is always under 0. Overall, the
 above structure
-can be regarded as a good model of Yeast-20ipaD.
+can be regarded as a good model of yeast-20ipaD.
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig2-alignment.png"
 />
 
-**Figure 2** | Alignment of 20ipaD between itself in complex and it's original
-structure.
+**Figure 2** | Alignment of 20ipaD between itself in complex and its original structure.
 
 The alignment between 20ipaD in the complex
-and 20ipaD's original structure shows that our complex can
-have good effect theoretically (**Figure 2**). The RMSD value is tested to
-be 0.807, which means the complex have little influence on the
+and 20ipaD's original structure shows that our complex can have a good effect theoretically (**Figure 2**). The RMSD value is tested to
+be 0.807, which means the complex has little influence on the
 structure of 20ipaD.
 
 #### Part 3: Docking modeling
 
-Interaction imformation (binding sites) of 20ipaD and ipaD
+Interaction information (binding sites) of 20ipaD and ipaD
 is found in the paper: ***Single-Domain Antibodies Pinpoint Potential Targets
 within *Shigella*
 Invasion Plasmid Antigen D
 of the Needle Tip Complex for Inhibition of Type III Secretion***[^Binding].
-Since the alignment shows that the 20ipaD
-in complex is almost the same with it's
-original structure, we can default the binding sites unchanged. Below is the
+Since the alignment shows that the 20ipaD in the complex is almost the same as its original structure, we can default the binding sites unchanged. The following figure contains the
 binding sites between 20ipaD and ipaD (**Figure 3**).
 
 <img src="https://static.igem.wiki/teams/4161/wiki/fig3-binding-positions.png"
@@ -190,7 +183,7 @@ binding sites between 20ipaD and ipaD (**Figure 3**).
 
 **Figure 3** | Binding sites between 20ipaD and Ipad
 
-We provided the interaction information for online server HADDOCK[^HADDOCK] to
+We provided the interaction information for the online server HADDOCK^HADDOCK] to
 simulate the docking between the complex and ipaD.
 Below is the docking structure
 (**Figure 4**).
@@ -198,18 +191,16 @@ Below is the docking structure
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-4-docking-result.png"
 />
 
-**Figure 4** | Docking between 20ipaD (in complex)
-and IpaD
+**Figure 4** | Docking between 20ipaD (in the complex) and IpaD
 
 Ramachandran plot of the above structure showed that
-85.0% of residues are in the most favorite regions,
-and 12.7% are in the allowed regions; 1.2% of the residues are in the generously allowed regions
+85.0% of residues are in the most favorite regions, 12.7% are in the allowed regions; 1.2% of the residues are in the generously allowed regions
 and 1.0% in the disallowed regions.
 The Atomic-Z-score RMS is tested to be 1.441, which is relatively close to 1.
-The percentage of the amino acids have scored >= 0.2 in the 3D/1D profile is 87.61%.
+The percentage of the amino acids that have scored >= 0.2 in the 3D/1D profile is 87.61%.
 The overall quality factor is 85.53, which is acceptable.
 ProSA calculated Z-score is -7.16, which falls in the range of scores typically found for
-experimentally determined (X-ray, NMR) structure for native proteins of similar size in
+experimentally determined (X-ray, NMR) structures for native proteins of similar size in
 PDB database.
 The calculated average energy over 40 residues is always under 0.
 Overall, the above structure indicates that 20ipaD can bind with IpaD well theoretically.
@@ -221,9 +212,9 @@ RMSD is 0.36, which is very small and acceptable.
 <img src="https://static.igem.wiki/teams/4161/wiki/fig-5-alignment-of-docking-and-original.png"
 />
 
-**Figure 5** | Alignment between Yeast-20ipaD-IpaD and 20ipaD-IpaD.
+**Figure 5** | Alignment between yeast-20ipaD-IpaD and 20ipaD-IpaD.
 
-All the above shows that our Yeast-20ipaD complex could theoretically work well
+All the above shows that our yeast-20ipaD complex could theoretically work well
 when binding with IpaD.
 
 #### Part 4: Other combinations of probiotic-nanobody complex
@@ -231,9 +222,7 @@ In this section, we would like to show other possible combinations of fusion
 protein-nanobody
 complex that might theoretically function well. To do this, we modeled their 3D
 structures
-and their docking scenarios, and analyzed them. This could be helpful for
-future experiment
-and future teams.
+and their docking scenarios and analyzed them. This could be helpful for future experiments and future teams.
 
 <img src="https://static.igem.wiki/teams/4161/wiki/table-1-for-part-4-of-model.png"
 />
@@ -248,13 +237,12 @@ are
 in the general regions and 0.9% in the disallowed regions.
 Second, the % amino acids having scored 0.2 in 3D/1D profile is 85.91%,
 higher than the standard 80%. Its atomic model is therefore
-fairly compatible with its amino acid sequence. Third, its overall quality factor,
-that accounts for the error value of individual residue, is at 92,
+fairly compatible with its amino acid sequence. Third, its overall quality factor, which accounts for the error value of individual residue, is at 92,
 surpassing the 80 score cut-off.
 Its Z-score is also within the range of scores found for native proteins
 of similar size. The main downside to this model is that Z-score is not around one,showing
 that
-it has greater average magnitude of the volume irregularities in the structure.
+it has a greater average magnitude of the volume irregularities in the structure.
 
 The *E. coli* CsgA protein complex is a good model that
 fulfills 4 out of 5 quantitative parameters. Like Intimin, CsgA's Ramachandran plot
@@ -263,8 +251,7 @@ residues are in the core regions, 12.7% are in the allowed regions, 2.0% are in
 the general regions and 1.8%
 in the disallowed regions. The % amino acids having scored 0.2 in 3D/1D profile
 is 84.27%, higher than the
-standard 80% but not nearly as high as Intimin. Its overall quality factor is
-91,exceeding the 80 score
+standard 80% but not nearly as high as Intimin. Its overall quality factor is 91, exceeding the 80 score
 cut-off. The Z-score is within the range of scores found for native proteins of
 similar size, and like Intimin,
 the CsgA model's Z-score is not around one.
@@ -280,7 +267,7 @@ to the standard 80% but
 comparatively low against Intimin and CsgA. Its overall quality factor is 92, surpassing
 the 80 score cut-off.
 The Z-score is within the range of scores found for native proteins of similar
-size, and similar to Intimin and CsGA,
+size, and similar to Intimin and CsgA,
 the CsgA model's Z-score is not around one.
 
 Overall, all three protein docking jobs show satisfactory results and
@@ -292,11 +279,11 @@ that performed the
 best among the three.
 
 ### Summary
-To conclude, we have developed the best 3D model for Yeast-20ipaD
-and the docking structure between Yeast-20ipaD and IpaD. They are well analyzed
-and are decided to have good effect theoretically.
-Moreover, we modeled other 3 possible combinations of fusion protein and nanobody,
-which might serve as a guidance for future experiment design.
+To conclude, we have developed the best 3D model for yeast-20ipaD
+and the docking structure between yeast-20ipaD and IpaD. They are well analyzed
+and are decided to have a good effect theoretically.
+Moreover, we modeled other 3 possible combinations of the fusion protein and nanobody,
+which might serve as guidance for future experiment design.
 
 [^Robetta]: Robetta <https://robetta.bakerlab.org>
 

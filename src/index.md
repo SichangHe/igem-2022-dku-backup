@@ -11,17 +11,17 @@
 </div>
 
 <article class="pt-60 sm:pb-20 sm:pt-80">
-Shigella, as one of the most antibiotic resistant pathogens,
+Shigella, as one of the most antibiotic-resistant pathogens,
 poses a great threat to food safety especially in developing areas.
 
 **10 million** will be subject to mortalities caused by *Shigella* infection by 2050.
 
-Distribution of antibiotics is the main treatment as of today.
+The distribution of antibiotics is the main treatment today.
 
-It is costly and time consuming.
+It is costly and time-consuming.
 
 Side effects include degradation of GI tract microbiome,
-and the emergence of more antibiotic resistant strains.
+and the emergence of more antibiotic-resistant strains.
 <div class="grid grid-flow-col">
 <img alt="Figure 1" src="https://static.igem.wiki/teams/4161/wiki/hmpg1-1-main.png" />
 <img alt="Figure 1 legend" src="https://static.igem.wiki/teams/4161/wiki/hmpg1-1-legend.png" />
@@ -30,7 +30,7 @@ and the emergence of more antibiotic resistant strains.
 <article class="pt-60 sm:pb-20 sm:pt-80">
 We are in an endless race against pathogens.
 
-Antibiotics are our weapons. Mutations are their strategies to survival.
+Antibiotics are our weapons. Mutations are their strategies for survival.
 
 Now, DKU iGEM team has proposed an alternative to jump out of this race and possibly, go far beyond.
 

@@ -9,12 +9,12 @@ and immobilize the bacteria into a filter.
 In that way, the heavy metal ions in the wastewater can be captured by csgA protein
 that is expressed by *E. coli* located in the filter. Overall, they plan to develop a
 biofilter core to replace current industry filter cores for heavy metal wastewater.\
-Therefore, we decided to arrange a meeting to share each other's idea of this topic
+Therefore, we decided to arrange a meeting to share each other's ideas on this topic
 and discuss the way we might work together.
 
 ### Discussion
 
-After we both introduced our projects, we exchanged our thoughts about each other's project.
+After we both introduced our projects, we exchanged our thoughts about each other's projects.
 
 **Questions & Advice From XJTLU-CHINA**
 
@@ -32,13 +32,13 @@ After we both introduced our projects, we exchanged our thoughts about each othe
     A: We applied three microorganisms
     and the whole team was divided into three groups,
     each responsible for E. coli,
-    Yeast cell and *Lactococcus* lactis.
+    yeast cells and *Lactococcus lactis*.
     All groups applied a strategy
-    which conjugates the targeted nanobody with a surface protein that is to be expressed,
-    transported and located to the extracellular space.
+    that conjugates the targeted nanobody with a surface protein that is to be expressed,
+    transported and located in the extracellular space.
     The surface protein and the targeted nanobody were connected with a linker sequence,
     and each nanobody is marked with at least one protein tag for their identification.
-    We also provided links to igem parts so they can check it directly.
+    We also provided links to iGEM parts so they can check them directly.
 
 **Questions & Advice From DKU**
 
@@ -81,4 +81,4 @@ key topics that might be helpful to the project design.
     more work.
 - **Supplement of experimental materials**\
   We would like to give special thanks to team XJTLU for providing us the
-  csg sequence for wet-lab.
+  csg sequence for wet lab.
